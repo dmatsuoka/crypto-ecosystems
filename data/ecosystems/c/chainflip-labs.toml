@@ -103,4 +103,3 @@ url = "https://github.com/chainflip-io/terraform-aws-github-runner"
 
 [[repo]]
 url = "https://github.com/chainflip-io/terraform-kubernetes-basic-auth"
-

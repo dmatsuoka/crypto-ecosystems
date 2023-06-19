@@ -68,4 +68,3 @@ missing = true
 [[repo]]
 url = "https://github.com/laddernetwork/wasm-erc20"
 missing = true
-

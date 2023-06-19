@@ -35,4 +35,3 @@ url = "https://github.com/ofproject/ofwallet"
 [[repo]]
 url = "https://github.com/ofproject/testA"
 missing = true
-

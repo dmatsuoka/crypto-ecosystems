@@ -236,4 +236,3 @@ url = "https://github.com/functionland/wnfs-swift-package"
 [[repo]]
 url = "https://github.com/functionland/wnfs-utils"
 tags = ["IPLD", "WNFS"]
-

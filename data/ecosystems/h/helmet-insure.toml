@@ -8,4 +8,3 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/helmet-insure/helmet-insure.github.io"
-

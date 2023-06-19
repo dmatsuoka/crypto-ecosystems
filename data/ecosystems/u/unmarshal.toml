@@ -57,4 +57,3 @@ url = "https://github.com/eucrypt/unmarshal-treasury"
 [[repo]]
 url = "https://github.com/eucrypt/yet-another-cloudwatch-exporter"
 missing = true
-

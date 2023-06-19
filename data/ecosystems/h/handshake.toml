@@ -142,4 +142,3 @@ url = "https://github.com/HNScan/hnscan-backend"
 [[repo]]
 url = "https://github.com/kyokan/bob-wallet"
 tags = ["Wallet"]
-

@@ -11,4 +11,3 @@ github_organizations = [
 [[repo]]
 url = "https://github.com/Spar-Protocol/spar-website"
 missing = true
-

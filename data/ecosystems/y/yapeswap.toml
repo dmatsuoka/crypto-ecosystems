@@ -57,4 +57,3 @@ url = "https://github.com/yapeswap/yapeswap-v2-subgraph"
 [[repo]]
 url = "https://github.com/yapeswap/yearn-docs"
 missing = true
-

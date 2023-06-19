@@ -243,4 +243,3 @@ url = "https://github.com/AztecProtocol/zk-money"
 [[repo]]
 url = "https://github.com/AztecProtocol/zkether"
 missing = true
-

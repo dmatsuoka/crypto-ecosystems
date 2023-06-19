@@ -26,4 +26,3 @@ url = "https://github.com/collective-dao/filecoin-solidity"
 [[repo]]
 url = "https://github.com/collective-dao/liquid-staking"
 missing = true
-

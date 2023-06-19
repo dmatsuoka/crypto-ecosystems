@@ -14,4 +14,3 @@ url = "https://github.com/stackup-wallet/stackup"
 [[repo]]
 url = "https://github.com/stackupfinance/stackup-nft"
 missing = true
-

@@ -60,4 +60,3 @@ url = "https://github.com/StreamFlow-Finance/timelock-crate"
 [[repo]]
 url = "https://github.com/StreamFlow-Finance/token-list"
 missing = true
-

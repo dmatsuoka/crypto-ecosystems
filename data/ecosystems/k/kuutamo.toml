@@ -45,4 +45,3 @@ url = "https://github.com/kuutamolabs/nixpkgs"
 [[repo]]
 url = "https://github.com/kuutamolabs/sensei"
 missing = true
-

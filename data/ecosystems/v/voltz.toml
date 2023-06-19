@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/voltz-energy/token-distribution"
 missing = true
-

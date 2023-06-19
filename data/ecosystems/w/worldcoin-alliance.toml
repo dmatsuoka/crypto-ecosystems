@@ -8,4 +8,3 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/worldcoinproject/worldcoin-v0.8"
-

@@ -54,4 +54,3 @@ missing = true
 [[repo]]
 url = "https://github.com/ockam-network/serde_bare"
 missing = true
-

@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/madcoin-project/madcoin"
 missing = true
-

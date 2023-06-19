@@ -200,4 +200,3 @@ url = "https://github.com/stafiprotocol/tendermint"
 [[repo]]
 url = "https://github.com/stafiprotocol/testnets"
 missing = true
-

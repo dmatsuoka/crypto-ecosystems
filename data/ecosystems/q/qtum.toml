@@ -439,4 +439,3 @@ url = "https://github.com/qtumproject/x86lib"
 [[repo]]
 url = "https://github.com/trick77/docker-qtum-stake"
 missing = true
-

@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/decenomy/MonkeyV2"
 missing = true
-

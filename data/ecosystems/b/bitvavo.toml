@@ -63,4 +63,3 @@ url = "https://github.com/bitvavo/terraform-provider-mysql"
 
 [[repo]]
 url = "https://github.com/bitvavo/test-oauth"
-

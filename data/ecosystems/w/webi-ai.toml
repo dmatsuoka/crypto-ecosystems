@@ -53,4 +53,3 @@ url = "https://github.com/webi-ai/webi_routing_api"
 [[repo]]
 url = "https://github.com/webi-ai/webi_frontend"
 missing = true
-

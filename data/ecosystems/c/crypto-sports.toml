@@ -10,4 +10,3 @@ github_organizations = []
 url = "https://github.com/c-sports/CSPN-Core"
 tags = ["Protocol"]
 missing = true
-

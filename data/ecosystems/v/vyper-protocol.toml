@@ -48,4 +48,3 @@ missing = true
 [[repo]]
 url = "https://github.com/vyper-protocol/vyper-sdk"
 missing = true
-

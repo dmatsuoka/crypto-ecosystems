@@ -113,4 +113,3 @@ url = "https://github.com/SimplioOfficial/wallet_connect_uri_validator"
 [[repo]]
 url = "https://github.com/SimplioOfficial/walletconnect-dart-sdk"
 missing = true
-

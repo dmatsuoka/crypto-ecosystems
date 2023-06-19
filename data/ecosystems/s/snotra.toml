@@ -11,4 +11,3 @@ github_organizations = [
 [[repo]]
 url = "https://github.com/SnotraTech/staking-launchpad-contracts"
 missing = true
-

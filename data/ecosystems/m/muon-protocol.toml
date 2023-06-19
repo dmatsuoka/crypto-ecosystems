@@ -101,4 +101,3 @@ url = "https://github.com/muon-protocol/remote-method-caller"
 [[repo]]
 url = "https://github.com/muon-protocol/solana-tests"
 missing = true
-

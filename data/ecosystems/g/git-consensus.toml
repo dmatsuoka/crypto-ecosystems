@@ -22,4 +22,3 @@ url = "https://github.com/git-consensus/github-action-verify-address"
 
 [[repo]]
 url = "https://github.com/git-consensus/prepare-commit-message"
-

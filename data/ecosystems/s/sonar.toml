@@ -32,4 +32,3 @@ missing = true
 [[repo]]
 url = "https://github.com/sonarwatch/token-list"
 missing = true
-

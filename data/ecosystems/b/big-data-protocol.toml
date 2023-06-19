@@ -37,4 +37,3 @@ url = "https://github.com/bigdataprotocol/provider"
 [[repo]]
 url = "https://github.com/bigdataprotocol/provider-old"
 missing = true
-

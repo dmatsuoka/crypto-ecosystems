@@ -8,4 +8,3 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/RadiumCore/radium-0.11"
-

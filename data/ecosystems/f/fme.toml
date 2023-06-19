@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/vittominacori/erc20-generator"
 missing = true
-

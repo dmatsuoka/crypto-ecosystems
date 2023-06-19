@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/xam-darnold/steak-public-contracts"
 missing = true
-

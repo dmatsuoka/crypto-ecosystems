@@ -128,4 +128,3 @@ url = "https://github.com/numerai/tournament-data-integrity"
 [[repo]]
 url = "https://github.com/numerai/tpot"
 missing = true
-

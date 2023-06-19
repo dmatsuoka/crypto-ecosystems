@@ -317,4 +317,3 @@ url = "https://github.com/BitGo/wallet-recovery-wizard"
 [[repo]]
 url = "https://github.com/BitGo/yub"
 missing = true
-

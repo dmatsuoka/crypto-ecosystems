@@ -26,4 +26,3 @@ url = "https://github.com/tryethernal/scripts"
 [[repo]]
 url = "https://github.com/tryethernal/ssl-root-cas.js"
 missing = true
-

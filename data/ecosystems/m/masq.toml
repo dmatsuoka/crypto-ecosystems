@@ -58,4 +58,3 @@ missing = true
 [[repo]]
 url = "https://github.com/MASQ-Project/terraform-vultr-masq-server"
 missing = true
-

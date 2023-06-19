@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/DiffusionDAO/diffusion-contracts"
 missing = true
-

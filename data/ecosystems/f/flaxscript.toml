@@ -9,4 +9,3 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/thegreatoldone/flaxscript"
 missing = true
-
