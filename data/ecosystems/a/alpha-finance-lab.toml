@@ -3,7 +3,9 @@ title = "Alpha Finance Lab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlphaFinanceLab"]
+github_organizations = [
+  "https://github.com/AlphaFinanceLab",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/AlphaFinanceLab/assets"
 
 [[repo]]
 url = "https://github.com/AlphaFinanceLab/chambers-monitoring-cron"
+missing = true
 
 [[repo]]
 url = "https://github.com/AlphaFinanceLab/compound-protocol"
@@ -71,3 +74,4 @@ url = "https://github.com/AlphaFinanceLab/smart-contract-registry"
 
 [[repo]]
 url = "https://github.com/AlphaFinanceLab/terra-money-grants"
+

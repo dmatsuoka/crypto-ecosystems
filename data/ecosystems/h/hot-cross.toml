@@ -3,7 +3,9 @@ title = "Hot Cross"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hotcrosscom"]
+github_organizations = [
+  "https://github.com/hotcrosscom",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/hotcrosscom/defi-tokens-wiki"
 
 [[repo]]
 url = "https://github.com/hotcrosscom/dev-static-files"
+missing = true
 
 [[repo]]
 url = "https://github.com/hotcrosscom/ERC721A"
@@ -41,6 +44,9 @@ url = "https://github.com/hotcrosscom/selfchain-genesis"
 
 [[repo]]
 url = "https://github.com/hotcrosscom/snapshot"
+missing = true
 
 [[repo]]
 url = "https://github.com/hotcrosscom/snapshot-spaces"
+missing = true
+

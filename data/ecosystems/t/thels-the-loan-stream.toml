@@ -3,8 +3,11 @@ title = "Thels (The Loan Stream)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/theloanstream"]
+github_organizations = [
+  "https://github.com/theloanstream",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/theloanstream/thels"
+

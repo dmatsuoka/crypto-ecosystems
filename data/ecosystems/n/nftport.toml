@@ -3,7 +3,9 @@ title = "NFTPort"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nftport"]
+github_organizations = [
+  "https://github.com/nftport",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/nftport/solidity-contracts"
 
 [[repo]]
 url = "https://github.com/nftport/x-ai-app-example"
+

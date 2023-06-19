@@ -3,7 +3,9 @@ title = "DragonLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DragonProtocol"]
+github_organizations = [
+  "https://github.com/DragonProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/DragonProtocol/vaults"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/WTF-Solidity"
+

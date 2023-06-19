@@ -3,7 +3,9 @@ title = "Cryption Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryption-network"]
+github_organizations = [
+  "https://github.com/cryption-network",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/cryption-network/sdk-cra"
 
 [[repo]]
 url = "https://github.com/cryption-network/token-erc20"
+

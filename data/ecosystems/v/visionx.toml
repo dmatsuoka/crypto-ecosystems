@@ -3,8 +3,11 @@ title = "VisionX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VisionX-Team"]
+github_organizations = [
+  "https://github.com/VisionX-Team",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/VisionX-Team/DefectDetection"
+

@@ -3,7 +3,9 @@ title = "Tinyman"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tinymanorg"]
+github_organizations = [
+  "https://github.com/tinymanorg",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/tinymanorg/tinyman-periphery-contracts-v2"
 
 [[repo]]
 url = "https://github.com/tinymanorg/tinyman-py-sdk"
+

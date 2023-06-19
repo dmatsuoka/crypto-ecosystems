@@ -3,7 +3,9 @@ title = "Rocket Pool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rocket-pool"]
+github_organizations = [
+  "https://github.com/rocket-pool",
+]
 
 # Repositories
 [[repo]]
@@ -143,3 +145,4 @@ url = "https://github.com/rocket-pool/verify-v1.1-hotfix"
 
 [[repo]]
 url = "https://github.com/rocket-pool/web3.js"
+

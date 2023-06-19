@@ -1,7 +1,9 @@
 # Ecosystem Level Information
 title = "Zcash"
 
-sub_ecosystems = ["Bolt Labs"]
+sub_ecosystems = [
+  "Bolt Labs",
+]
 
 github_organizations = [
   "https://github.com/nighthawk-apps",
@@ -148,6 +150,7 @@ url = "https://github.com/recursethis/zcash-docker"
 
 [[repo]]
 url = "https://github.com/rodrigoalvesvieira/zcash_ruby_explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/sebastianst/GenesisZ"
@@ -181,6 +184,7 @@ url = "https://github.com/unsalted/docker-nheqminer-cuda"
 
 [[repo]]
 url = "https://github.com/zcash/awesome-zcash"
+missing = true
 
 [[repo]]
 url = "https://github.com/zcash/developers"
@@ -193,6 +197,7 @@ url = "https://github.com/zcash/halo2"
 
 [[repo]]
 url = "https://github.com/zcash/halo2_gadgets"
+missing = true
 
 [[repo]]
 url = "https://github.com/zcash/halo2_legacy_pdqsort"
@@ -347,6 +352,7 @@ url = "https://github.com/ZcashFoundation/GrantProposals-2018Q2"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/hashes"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/infra"
@@ -407,6 +413,7 @@ url = "https://github.com/ZcashFoundation/s-nomp"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/stayinghomeclub"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/tech-reports"
@@ -482,3 +489,4 @@ url = "https://github.com/zingolabs/zingolib"
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-zcash"
+

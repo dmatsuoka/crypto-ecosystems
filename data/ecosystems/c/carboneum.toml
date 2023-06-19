@@ -3,7 +3,9 @@ title = "Carboneum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CarboneumProject"]
+github_organizations = [
+  "https://github.com/CarboneumProject",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/CarboneumProject/writecontract"
 
 [[repo]]
 url = "https://github.com/CarboneumProject/zeppelin-solidity"
+

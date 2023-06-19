@@ -3,7 +3,9 @@ title = "clrfund"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clrfund"]
+github_organizations = [
+  "https://github.com/clrfund",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/clrfund/static-web"
 
 [[repo]]
 url = "https://github.com/clrfund/web"
+

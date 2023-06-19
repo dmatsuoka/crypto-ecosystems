@@ -3,8 +3,11 @@ title = "CoinonatX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xcxt-community"]
+github_organizations = [
+  "https://github.com/xcxt-community",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/xcxt-community/CoinonatX"
+

@@ -3,7 +3,9 @@ title = "MOST Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MostProtocol"]
+github_organizations = [
+  "https://github.com/MostProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/MostProtocol/most-core"
 
 [[repo]]
 url = "https://github.com/MostProtocol/most-mbtc-core"
+

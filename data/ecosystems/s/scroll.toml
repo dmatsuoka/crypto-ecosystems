@@ -3,7 +3,9 @@ title = "Scroll"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scroll-tech"]
+github_organizations = [
+  "https://github.com/scroll-tech",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/scroll-tech/common-header"
 
 [[repo]]
 url = "https://github.com/scroll-tech/dev-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/scroll-tech/eth-tools"
@@ -143,3 +146,4 @@ url = "https://github.com/scroll-tech/zkevm-specs"
 
 [[repo]]
 url = "https://github.com/scroll-tech/zktrie"
+

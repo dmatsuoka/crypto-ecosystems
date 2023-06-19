@@ -3,7 +3,9 @@ title = "HyperCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HcashOrg"]
+github_organizations = [
+  "https://github.com/HcashOrg",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/HcashOrg/slog"
 
 [[repo]]
 url = "https://github.com/HcashOrg/testnetfaucet"
+

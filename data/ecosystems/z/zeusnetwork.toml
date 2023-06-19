@@ -3,7 +3,9 @@ title = "ZeusNetwork"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ZEUS-coin"]
+github_organizations = [
+  "https://github.com/ZEUS-coin",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ZEUS-coin/smart-contracts"
 
 [[repo]]
 url = "https://github.com/ZEUS-coin/wallet"
+

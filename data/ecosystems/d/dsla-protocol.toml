@@ -3,7 +3,9 @@ title = "DSLA Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Stacktical"]
+github_organizations = [
+  "https://github.com/Stacktical",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/Stacktical/stacktical-dsla-oracle-travel"
 
 [[repo]]
 url = "https://github.com/Stacktical/stacktical-dsla-poc-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Stacktical/stacktical-dsla-residency"
@@ -83,3 +86,4 @@ url = "https://github.com/Stacktical/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/Stacktical/willitscale-polkadot"
+

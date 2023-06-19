@@ -3,7 +3,9 @@ title = "Cryptomeda"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptomeda"]
+github_organizations = [
+  "https://github.com/cryptomeda",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/cryptomeda/TechToken"
 
 [[repo]]
 url = "https://github.com/cryptomeda/TechTokenVesting"
+

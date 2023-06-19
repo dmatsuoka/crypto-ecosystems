@@ -3,7 +3,9 @@ title = "Verified Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/verified-chain"]
+github_organizations = [
+  "https://github.com/verified-chain",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/verified-chain/contracts"
 
 [[repo]]
 url = "https://github.com/verified-chain/verified-dapp"
+

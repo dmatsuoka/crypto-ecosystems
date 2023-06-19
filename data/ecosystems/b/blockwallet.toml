@@ -3,7 +3,9 @@ title = "BlockWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/block-wallet"]
+github_organizations = [
+  "https://github.com/block-wallet",
+]
 
 # Repositories
 [[repo]]
@@ -20,21 +22,26 @@ url = "https://github.com/block-wallet/block-atokens"
 
 [[repo]]
 url = "https://github.com/block-wallet/block-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/block-extension-background"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/block-extension-dev-docs"
 
 [[repo]]
 url = "https://github.com/block-wallet/block-extension-provider"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/block-extension-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/block-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/block-token"
@@ -53,6 +60,7 @@ url = "https://github.com/block-wallet/chains-assets"
 
 [[repo]]
 url = "https://github.com/block-wallet/circomlib"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/compliance-tool"
@@ -104,6 +112,7 @@ url = "https://github.com/block-wallet/schema-validator"
 
 [[repo]]
 url = "https://github.com/block-wallet/snarkjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/block-wallet/test-task"
@@ -113,3 +122,5 @@ url = "https://github.com/block-wallet/web3modal"
 
 [[repo]]
 url = "https://github.com/block-wallet/websnark"
+missing = true
+

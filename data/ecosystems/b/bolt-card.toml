@@ -3,7 +3,9 @@ title = "Bolt Card"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boltcard"]
+github_organizations = [
+  "https://github.com/boltcard",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/boltcard/boltcard-wallet-app"
 
 [[repo]]
 url = "https://github.com/boltcard/boltcard.org"
+

@@ -3,7 +3,9 @@ title = "Adosia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/adosia"]
+github_organizations = [
+  "https://github.com/adosia",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,8 @@ url = "https://github.com/adosia/spaceprinter"
 
 [[repo]]
 url = "https://github.com/adosia/spaceprinterui"
+missing = true
 
 [[repo]]
 url = "https://github.com/onchainapps/noderunner"
+

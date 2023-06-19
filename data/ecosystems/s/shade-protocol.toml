@@ -3,7 +3,9 @@ title = "Shade Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/securesecrets"]
+github_organizations = [
+  "https://github.com/securesecrets",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/securesecrets/website"
 
 [[repo]]
 url = "https://github.com/securesecrets/wrap.scrt.network"
+

@@ -3,7 +3,9 @@ title = "Penguin Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Penguin-Finance"]
+github_organizations = [
+  "https://github.com/Penguin-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Penguin-Finance/penguin-finance-frontend"
 
 [[repo]]
 url = "https://github.com/Penguin-Finance/png-files"
+

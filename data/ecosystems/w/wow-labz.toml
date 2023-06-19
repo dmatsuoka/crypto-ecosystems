@@ -3,7 +3,9 @@ title = "Wow Labz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WowLabz"]
+github_organizations = [
+  "https://github.com/WowLabz",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/WowLabz/authentication_service"
 
 [[repo]]
 url = "https://github.com/WowLabz/bridge_smart_contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/WowLabz/DeFi-Developer-Road-Map"
@@ -86,3 +89,4 @@ url = "https://github.com/WowLabz/x-frame-options-bypass"
 
 [[repo]]
 url = "https://github.com/WowLabz/yoda_creator_economy_node"
+

@@ -3,7 +3,9 @@ title = "Habitat"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xHabitat"]
+github_organizations = [
+  "https://github.com/0xHabitat",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/0xHabitat/voting-frontend"
 
 [[repo]]
 url = "https://github.com/0xHabitat/website"
+

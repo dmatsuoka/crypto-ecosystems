@@ -3,7 +3,9 @@ title = "Beldex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Beldex-Coin"]
+github_organizations = [
+  "https://github.com/Beldex-Coin",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/Beldex-Coin/beldex-core-custom"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-core-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-docs"
@@ -98,6 +101,7 @@ url = "https://github.com/Beldex-Coin/beldex-web-js"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-web-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/belnet"
@@ -134,3 +138,4 @@ url = "https://github.com/Beldex-Coin/react-native-beldex-core"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/social-group-server"
+

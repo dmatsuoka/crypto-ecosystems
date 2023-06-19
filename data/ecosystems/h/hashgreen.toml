@@ -3,7 +3,9 @@ title = "Hashgreen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hashgreen"]
+github_organizations = [
+  "https://github.com/hashgreen",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/hashgreen/uat-docs.hashgreen.github.io"
 
 [[repo]]
 url = "https://github.com/hashgreen/uat-swap-ldp.hashgreen.github.io"
+

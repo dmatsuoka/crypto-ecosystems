@@ -3,7 +3,9 @@ title = "Supercolony"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Supercolony-net"]
+github_organizations = [
+  "https://github.com/Supercolony-net",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/Supercolony-net/typechain-polkadot"
 
 [[repo]]
 url = "https://github.com/Supercolony-net/typechain-polkadot_example"
+

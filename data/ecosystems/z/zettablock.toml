@@ -3,7 +3,9 @@ title = "ZettaBlock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zettablock"]
+github_organizations = [
+  "https://github.com/Zettablock",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Zettablock/ethereum-token-metadata-bot"
 
 [[repo]]
 url = "https://github.com/Zettablock/okx-hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zettablock/spark"
@@ -23,3 +26,4 @@ url = "https://github.com/Zettablock/trino-public"
 
 [[repo]]
 url = "https://github.com/Zettablock/zetta-dbt-action"
+

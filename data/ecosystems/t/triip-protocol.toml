@@ -3,7 +3,9 @@ title = "Triip Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/triipme"]
+github_organizations = [
+  "https://github.com/triipme",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/triipme/type-a-retreat"
 
 [[repo]]
 url = "https://github.com/triipme/type-a-static"
+

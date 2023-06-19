@@ -3,14 +3,18 @@ title = "Cobinhood"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cobinhood"]
+github_organizations = [
+  "https://github.com/cobinhood",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/cobinhood/api-client-libraries"
+missing = true
 
 [[repo]]
 url = "https://github.com/cobinhood/api-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/cobinhood/btcd"
@@ -38,6 +42,7 @@ url = "https://github.com/cobinhood/iota-nelson-node"
 
 [[repo]]
 url = "https://github.com/cobinhood/jobs"
+missing = true
 
 [[repo]]
 url = "https://github.com/cobinhood/melody"
@@ -59,3 +64,4 @@ url = "https://github.com/cobinhood/react-native-canvas"
 
 [[repo]]
 url = "https://github.com/cobinhood/Reversi_On_Smart_Contract_POC"
+

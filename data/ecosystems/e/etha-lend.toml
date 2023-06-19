@@ -3,7 +3,9 @@ title = "ETHA Lend"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethalend"]
+github_organizations = [
+  "https://github.com/ethalend",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/ethalend/Brandassets"
 
 [[repo]]
 url = "https://github.com/ethalend/etha-adapters"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethalend/etha-protocol"
@@ -32,3 +35,4 @@ url = "https://github.com/ethalend/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/ethalend/token-profile"
+

@@ -3,7 +3,9 @@ title = "VN Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tronprotocol"]
+github_organizations = [
+  "https://github.com/tronprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/tronprotocol/custom-oracle"
 
 [[repo]]
 url = "https://github.com/tronprotocol/data-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/tronprotocol/delivery-wu"
@@ -176,6 +179,7 @@ url = "https://github.com/tronprotocol/tron-mpc-testnet"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-prophet"
+missing = true
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-rosetta-api"
@@ -185,6 +189,7 @@ url = "https://github.com/tronprotocol/tron-sdk-py"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-sharp"
+missing = true
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-station"
@@ -200,6 +205,7 @@ url = "https://github.com/tronprotocol/tron-studio"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-zksnark"
@@ -227,3 +233,4 @@ url = "https://github.com/tronprotocol/zcash"
 
 [[repo]]
 url = "https://github.com/tronprotocol/zksnark-java-sdk"
+

@@ -3,7 +3,9 @@ title = "Strayacoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StrayaCoin"]
+github_organizations = [
+  "https://github.com/StrayaCoin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/StrayaCoin/StrayaCoin-Core"
 
 [[repo]]
 url = "https://github.com/StrayaCoin/strayacoin-seeder"
+

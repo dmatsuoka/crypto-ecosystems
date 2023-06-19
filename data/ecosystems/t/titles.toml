@@ -3,8 +3,11 @@ title = "Titles"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tibles"]
+github_organizations = [
+  "https://github.com/Tibles",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Tibles/tibles-smart-contracts"
+

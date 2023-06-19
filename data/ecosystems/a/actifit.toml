@@ -3,7 +3,9 @@ title = "Actifit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/actifit"]
+github_organizations = [
+  "https://github.com/actifit",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/actifit/actifit-toolkit"
 
 [[repo]]
 url = "https://github.com/actifit/tokensale"
+

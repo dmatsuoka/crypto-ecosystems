@@ -3,7 +3,9 @@ title = "Sarcophagus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sarcophagus-org"]
+github_organizations = [
+  "https://github.com/sarcophagus-org",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/sarcophagus-org/marketing_site"
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/marketing_site_2023"
+missing = true
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/merkle-distributor"
@@ -38,6 +41,7 @@ url = "https://github.com/sarcophagus-org/sarco-funding-executor"
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/sarco-purchase-executor"
+missing = true
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/sarco-token"
@@ -95,3 +99,4 @@ url = "https://github.com/sarcophagus-org/sarcophagus-v2-specs"
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/SIPs"
+

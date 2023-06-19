@@ -3,7 +3,9 @@ title = "Planet Inverse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Project-Inverse"]
+github_organizations = [
+  "https://github.com/Project-Inverse",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Project-Inverse/supply-api"
 
 [[repo]]
 url = "https://github.com/Project-Inverse/whitepaper"
+

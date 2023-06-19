@@ -3,7 +3,9 @@ title = "Sunny Aggregator"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SunnyAggregator"]
+github_organizations = [
+  "https://github.com/SunnyAggregator",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/SunnyAggregator/react-coingecko"
 
 [[repo]]
 url = "https://github.com/SunnyAggregator/reward"
+missing = true
 
 [[repo]]
 url = "https://github.com/SunnyAggregator/sunny-pool-list"
@@ -47,3 +50,4 @@ url = "https://github.com/SunnyAggregator/token-list"
 
 [[repo]]
 url = "https://github.com/SunnyAggregator/token-list-builder"
+

@@ -3,7 +3,9 @@ title = "MerkleBot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/merklebot"]
+github_organizations = [
+  "https://github.com/merklebot",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/merklebot/trantor"
 
 [[repo]]
 url = "https://github.com/merklebot/web3-storage-manager"
+

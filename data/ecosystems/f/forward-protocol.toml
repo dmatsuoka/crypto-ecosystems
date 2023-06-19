@@ -3,7 +3,9 @@ title = "Forward Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ForwardProtocol"]
+github_organizations = [
+  "https://github.com/ForwardProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/ForwardProtocol/tendermint"
 
 [[repo]]
 url = "https://github.com/ForwardProtocol/TokenList"
+

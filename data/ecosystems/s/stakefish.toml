@@ -3,7 +3,9 @@ title = "Stakefish"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakefish"]
+github_organizations = [
+  "https://github.com/stakefish",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/stakefish/web3-flashbots"
 
 [[repo]]
 url = "https://github.com/stakefish/web3-utils.py"
+

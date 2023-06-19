@@ -3,7 +3,9 @@ title = "Coreum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoreumFoundation"]
+github_organizations = [
+  "https://github.com/CoreumFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/CoreumFoundation/coreum"
 
 [[repo]]
 url = "https://github.com/CoreumFoundation/coreum-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoreumFoundation/coreum-monitor"
@@ -47,3 +50,4 @@ url = "https://github.com/CoreumFoundation/smartcontract-template"
 
 [[repo]]
 url = "https://github.com/CoreumFoundation/tutorials"
+

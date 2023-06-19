@@ -3,7 +3,9 @@ title = "Polyphene"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polyphene"]
+github_organizations = [
+  "https://github.com/polyphene",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/polyphene/recs-contract"
 
 [[repo]]
 url = "https://github.com/polyphene/recs-monorepo"
+

@@ -3,7 +3,9 @@ title = "Can Scale"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/canscale"]
+github_organizations = [
+  "https://github.com/canscale",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/canscale/StableRBTree"
 
 [[repo]]
 url = "https://github.com/canscale/supernova-candb-demo"
+

@@ -3,7 +3,9 @@ title = "ZoKrates"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zokrates"]
+github_organizations = [
+  "https://github.com/Zokrates",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Zokrates/zokrates-remix-plugin"
 
 [[repo]]
 url = "https://github.com/Zokrates/zokrates.github.io"
+

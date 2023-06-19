@@ -3,7 +3,9 @@ title = "Solarbeam"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solarbeamio"]
+github_organizations = [
+  "https://github.com/solarbeamio",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/solarbeamio/contracts"
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-analytics"
+missing = true
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-blocklytics"
@@ -23,12 +26,15 @@ url = "https://github.com/solarbeamio/solarbeam-farms-subgraph"
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-farms-subquery"
+missing = true
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-farms-subquery-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-farms-subquery-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-gas-swap-subquery"
@@ -47,3 +53,4 @@ url = "https://github.com/solarbeamio/solarbeam-tokenlist"
 
 [[repo]]
 url = "https://github.com/solarbeamio/solarbeam-vaults-subquery"
+

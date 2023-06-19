@@ -3,7 +3,9 @@ title = "Circuits of Value"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecentricCorp"]
+github_organizations = [
+  "https://github.com/DecentricCorp",
+]
 
 # Repositories
 [[repo]]
@@ -221,3 +223,4 @@ url = "https://github.com/DecentricCorp/stormdb"
 
 [[repo]]
 url = "https://github.com/DecentricCorp/web3admin"
+

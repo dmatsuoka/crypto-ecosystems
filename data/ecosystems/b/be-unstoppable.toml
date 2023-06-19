@@ -3,11 +3,14 @@ title = "Be Unstoppable"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/horizontalsystems"]
+github_organizations = [
+  "https://github.com/horizontalsystems",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/horizontalsystems/action-sheet"
+missing = true
 
 [[repo]]
 url = "https://github.com/horizontalsystems/ActionSheet.Swift"
@@ -50,6 +53,7 @@ url = "https://github.com/horizontalsystems/BitcoinCore.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/BitcoinCoreKitSwift"
+missing = true
 
 [[repo]]
 url = "https://github.com/horizontalsystems/BitcoinKit.Swift"
@@ -353,3 +357,4 @@ url = "https://github.com/horizontalsystems/xrates-kit-ios"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/ZcashLightClientKit"
+

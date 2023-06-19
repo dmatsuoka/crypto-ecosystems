@@ -3,7 +3,9 @@ title = "Open Trading Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OpenTradingNetworkFoundation"]
+github_organizations = [
+  "https://github.com/OpenTradingNetworkFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/OpenTradingNetworkFoundation/price-reporter"
 
 [[repo]]
 url = "https://github.com/OpenTradingNetworkFoundation/wallet-ui"
+

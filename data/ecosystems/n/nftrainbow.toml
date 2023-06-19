@@ -3,7 +3,9 @@ title = "NFTRainbow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nft-rainbow"]
+github_organizations = [
+  "https://github.com/nft-rainbow",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/nft-rainbow/Swagger-API"
 
 [[repo]]
 url = "https://github.com/nft-rainbow/website"
+

@@ -3,7 +3,9 @@ title = "Genius Yield"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/geniusyield"]
+github_organizations = [
+  "https://github.com/geniusyield",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/geniusyield/plutarch"
 
 [[repo]]
 url = "https://github.com/geniusyield/plutus-simple-model"
+

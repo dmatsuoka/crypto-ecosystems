@@ -3,7 +3,9 @@ title = "NOIA Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/noia-network"]
+github_organizations = [
+  "https://github.com/noia-network",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/noia-network/vpptop"
 
 [[repo]]
 url = "https://github.com/noia-network/webrtc-direct"
+

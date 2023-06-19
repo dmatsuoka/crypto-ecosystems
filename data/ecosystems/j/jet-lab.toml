@@ -3,7 +3,9 @@ title = "Jet Lab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jet-lab"]
+github_organizations = [
+  "https://github.com/jet-lab",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/jet-lab/multisig"
 
 [[repo]]
 url = "https://github.com/jet-lab/multisig-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/jet-lab/optimorph"
@@ -104,3 +107,4 @@ url = "https://github.com/jet-lab/stable-swap"
 
 [[repo]]
 url = "https://github.com/jet-lab/whirlpools"
+

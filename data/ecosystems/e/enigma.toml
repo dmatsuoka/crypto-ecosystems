@@ -3,23 +3,30 @@ title = "Enigma"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/enigmampc"]
+github_organizations = [
+  "https://github.com/enigmampc",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/enigmampc/duplex"
+missing = true
 
 [[repo]]
 url = "https://github.com/enigmampc/ring"
+missing = true
 
 [[repo]]
 url = "https://github.com/enigmampc/scrt-finance-rewards"
+missing = true
 
 [[repo]]
 url = "https://github.com/enigmampc/secret-oracle-predictor"
+missing = true
 
 [[repo]]
 url = "https://github.com/enigmampc/SimpleAMM"
+missing = true
 
 [[repo]]
 url = "https://github.com/scrtlabs/assets"
@@ -161,6 +168,7 @@ url = "https://github.com/scrtlabs/ethabi"
 
 [[repo]]
 url = "https://github.com/scrtlabs/EthereumBridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/scrtlabs/EthereumBridgeBackend"
@@ -419,3 +427,4 @@ url = "https://github.com/scrtlabs/x25519-dalek"
 
 [[repo]]
 url = "https://github.com/scrtlabs/zeroize"
+

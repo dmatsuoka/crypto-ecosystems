@@ -3,7 +3,10 @@ title = "Degen Algorand"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/degenalgorand", "https://github.com/DegenAlgorand"]
+github_organizations = [
+  "https://github.com/degenalgorand",
+  "https://github.com/DegenAlgorand",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +41,4 @@ url = "https://github.com/DegenAlgorand/svelte-website.old"
 
 [[repo]]
 url = "https://github.com/DegenAlgorand/teal-examples"
+

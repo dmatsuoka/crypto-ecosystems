@@ -3,7 +3,9 @@ title = "Mecha Tracker"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mecha-Tracker"]
+github_organizations = [
+  "https://github.com/Mecha-Tracker",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Mecha-Tracker/MechaNFT"
 
 [[repo]]
 url = "https://github.com/Mecha-Tracker/MechaPresale"
+

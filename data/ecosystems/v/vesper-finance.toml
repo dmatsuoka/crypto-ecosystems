@@ -3,7 +3,9 @@ title = "Vesper Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vesperfi"]
+github_organizations = [
+  "https://github.com/vesperfi",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/vesperfi/vesper-contracts"
 
 [[repo]]
 url = "https://github.com/vesperfi/vesper-pool-ops"
+missing = true
 
 [[repo]]
 url = "https://github.com/vesperfi/vesper-pools"
@@ -62,3 +65,4 @@ url = "https://github.com/vesperfi/VTokenFraxLendOracle"
 
 [[repo]]
 url = "https://github.com/vesperfi/vusd-stablecoin"
+

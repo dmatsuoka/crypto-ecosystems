@@ -3,7 +3,9 @@ title = "First Blood"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Firstbloodio"]
+github_organizations = [
+  "https://github.com/Firstbloodio",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/Firstbloodio/ui-carousel"
 
 [[repo]]
 url = "https://github.com/Firstbloodio/Witness-page"
+

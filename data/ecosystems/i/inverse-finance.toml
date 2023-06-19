@@ -3,7 +3,9 @@ title = "Inverse Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InverseFinance"]
+github_organizations = [
+  "https://github.com/InverseFinance",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/InverseFinance/witch-hunt"
 
 [[repo]]
 url = "https://github.com/InverseFinance/yVault-feeds"
+

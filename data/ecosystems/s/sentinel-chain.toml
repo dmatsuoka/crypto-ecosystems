@@ -3,7 +3,9 @@ title = "Sentinel Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InfoCorp-Technologies"]
+github_organizations = [
+  "https://github.com/InfoCorp-Technologies",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,11 @@ url = "https://github.com/InfoCorp-Technologies/migrated-sentinel-chain-network"
 
 [[repo]]
 url = "https://github.com/InfoCorp-Technologies/senc-donation"
+missing = true
 
 [[repo]]
 url = "https://github.com/InfoCorp-Technologies/sentinel-chain-explorer"
 
 [[repo]]
 url = "https://github.com/InfoCorp-Technologies/smart-contract-watch"
+

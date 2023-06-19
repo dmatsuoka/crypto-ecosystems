@@ -3,7 +3,9 @@ title = "galactic council"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/galacticcouncil"]
+github_organizations = [
+  "https://github.com/galacticcouncil",
+]
 
 # Repositories
 [[repo]]
@@ -125,6 +127,7 @@ url = "https://github.com/galacticcouncil/HydraDX-api"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-api-jobs"
+missing = true
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-api-old"
@@ -173,6 +176,7 @@ url = "https://github.com/galacticcouncil/HydraDX-subsquid"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-traits"
+missing = true
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-ui"
@@ -188,6 +192,7 @@ url = "https://github.com/galacticcouncil/HydraDX-web-old"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/infrastructure"
+missing = true
 
 [[repo]]
 url = "https://github.com/galacticcouncil/lbp-info"
@@ -230,6 +235,7 @@ url = "https://github.com/galacticcouncil/sdk"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/senate"
+missing = true
 
 [[repo]]
 url = "https://github.com/galacticcouncil/snakewatch"
@@ -269,3 +275,4 @@ url = "https://github.com/galacticcouncil/xcm-workshop"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/xhdx"
+

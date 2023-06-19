@@ -3,7 +3,9 @@ title = "Spectrum Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spectrumprotocol"]
+github_organizations = [
+  "https://github.com/spectrumprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/spectrumprotocol/multisig.money"
 
 [[repo]]
 url = "https://github.com/spectrumprotocol/spectrum-core"
+

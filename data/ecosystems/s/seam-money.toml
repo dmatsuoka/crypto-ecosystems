@@ -3,7 +3,9 @@ title = "Seam Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SeamMoney"]
+github_organizations = [
+  "https://github.com/SeamMoney",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,5 @@ url = "https://github.com/SeamMoney/seam-frontend"
 
 [[repo]]
 url = "https://github.com/SeamMoney/strategy-builder"
+missing = true
+

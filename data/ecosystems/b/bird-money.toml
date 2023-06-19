@@ -3,7 +3,9 @@ title = "bird.money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bird-money"]
+github_organizations = [
+  "https://github.com/bird-money",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/bird-money/on-chain-oracle"
 
 [[repo]]
 url = "https://github.com/bird-money/on-chain-oracle-v2"
+

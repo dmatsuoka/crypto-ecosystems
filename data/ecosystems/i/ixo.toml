@@ -3,7 +3,9 @@ title = "ixo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ixofoundation"]
+github_organizations = [
+  "https://github.com/ixofoundation",
+]
 
 # Repositories
 [[repo]]
@@ -50,9 +52,11 @@ url = "https://github.com/ixofoundation/docs"
 
 [[repo]]
 url = "https://github.com/ixofoundation/documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/documentation-deprecated-"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/documents"
@@ -113,12 +117,15 @@ url = "https://github.com/ixofoundation/ixo-cellnode"
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-chrome-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-claims-credentials"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-claims-worker"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-client-sdk"
@@ -200,12 +207,14 @@ url = "https://github.com/ixofoundation/ixo-mobile-old"
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-mobile-upgraded"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-mobileclient"
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-MobileClientRenaissance"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-mq-poller"
@@ -239,6 +248,7 @@ url = "https://github.com/ixofoundation/ixo-server"
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-serverless-claims-credentials"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-sign"
@@ -269,6 +279,7 @@ url = "https://github.com/ixofoundation/ixo-webclient"
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixo-world"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/ixofoundation.github.io"
@@ -290,6 +301,7 @@ url = "https://github.com/ixofoundation/media"
 
 [[repo]]
 url = "https://github.com/ixofoundation/mkdocs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixofoundation/mongo-claim-store"
@@ -326,3 +338,4 @@ url = "https://github.com/ixofoundation/w3id.org"
 
 [[repo]]
 url = "https://github.com/ixofoundation/workflows"
+

@@ -3,14 +3,20 @@ title = "Dice.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dice-finance"]
+github_organizations = [
+  "https://github.com/dice-finance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/dice-finance/DIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/dice-finance/Smart-Contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/dice-finance/Whitepaper"
+missing = true
+

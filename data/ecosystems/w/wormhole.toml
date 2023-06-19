@@ -3,7 +3,9 @@ title = "Wormhole"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wormhole-foundation"]
+github_organizations = [
+  "https://github.com/wormhole-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -125,3 +127,4 @@ url = "https://github.com/wormhole-foundation/wormhole-widget"
 
 [[repo]]
 url = "https://github.com/wormhole-foundation/xdapp-book"
+

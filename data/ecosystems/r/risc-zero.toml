@@ -3,7 +3,9 @@ title = "RISC Zero"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/risc0"]
+github_organizations = [
+  "https://github.com/risc0",
+]
 
 # Repositories
 [[repo]]
@@ -112,3 +114,4 @@ url = "https://github.com/risc0/zk-benchmarking"
 
 [[repo]]
 url = "https://github.com/risc0/zkp-compiler-shootout"
+

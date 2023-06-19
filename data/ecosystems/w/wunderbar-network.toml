@@ -3,7 +3,9 @@ title = "Wunderbar Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WunderbarNetwork"]
+github_organizations = [
+  "https://github.com/WunderbarNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/WunderbarNetwork/substrate-2022-archived"
 
 [[repo]]
 url = "https://github.com/WunderbarNetwork/substrate-parachain-template-zombienet"
+

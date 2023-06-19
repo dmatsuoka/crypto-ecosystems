@@ -3,7 +3,9 @@ title = "Plasma Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plasmadlt"]
+github_organizations = [
+  "https://github.com/plasmadlt",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/plasmadlt/subgraphs"
 
 [[repo]]
 url = "https://github.com/plasmadlt/yield-server"
+

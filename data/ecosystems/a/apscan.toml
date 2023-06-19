@@ -3,7 +3,9 @@ title = "Apscan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/apscan"]
+github_organizations = [
+  "https://github.com/apscan",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/apscan/indexer"
 
 [[repo]]
 url = "https://github.com/apscan/move"
+

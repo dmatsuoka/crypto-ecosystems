@@ -3,7 +3,9 @@ title = "Distributed Lab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/distributedlab-solidity-library"]
+github_organizations = [
+  "https://github.com/distributedlab-solidity-library",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/dl-solidity-library/hardhat-template"
 
 [[repo]]
 url = "https://github.com/dl-solidity-library/thegraph-template"
+

@@ -3,7 +3,9 @@ title = "lcnem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lcnem"]
+github_organizations = [
+  "https://github.com/lcnem",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/UnUniFi/chain"
 
 [[repo]]
 url = "https://github.com/UnUniFi/utils"
+

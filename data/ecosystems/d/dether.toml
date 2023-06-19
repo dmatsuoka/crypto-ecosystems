@@ -3,7 +3,9 @@ title = "Dether"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dethertech"]
+github_organizations = [
+  "https://github.com/dethertech",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/dethertech/cors-anywhere"
 
 [[repo]]
 url = "https://github.com/dethertech/daoApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/dethertech/dether-react-map"
@@ -71,3 +74,4 @@ url = "https://github.com/dethertech/token-profile"
 
 [[repo]]
 url = "https://github.com/dethertech/tokenbase"
+

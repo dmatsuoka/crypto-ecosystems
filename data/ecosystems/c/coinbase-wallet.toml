@@ -3,7 +3,9 @@ title = "Coinbase Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoinbaseWallet"]
+github_organizations = [
+  "https://github.com/CoinbaseWallet",
+]
 
 # Repositories
 [[repo]]
@@ -11,12 +13,14 @@ url = "https://github.com/coinbase/nft-dapp-starter-kit"
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/ahbottomnavigation"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/AnyCodable"
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/AwesomeCache"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/bcash-docker"
@@ -47,9 +51,11 @@ url = "https://github.com/CoinbaseWallet/coinselect"
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/cropiwa"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/GrowingTextView"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinbaseWallet/lcoin-docker"
@@ -62,3 +68,4 @@ url = "https://github.com/CoinbaseWallet/signupeoseos"
 
 [[repo]]
 url = "https://github.com/petejkim/eth-eip712-util"
+

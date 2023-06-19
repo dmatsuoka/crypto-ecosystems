@@ -3,7 +3,9 @@ title = "Pundi X"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pundix"]
+github_organizations = [
+  "https://github.com/pundix",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/pundix/tokens-info"
 
 [[repo]]
 url = "https://github.com/pundix/XWallet-Website"
+

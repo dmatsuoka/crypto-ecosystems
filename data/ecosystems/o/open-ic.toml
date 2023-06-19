@@ -3,7 +3,9 @@ title = "Open IC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/open-ic"]
+github_organizations = [
+  "https://github.com/open-ic",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/open-ic/svelte-markdown"
 
 [[repo]]
 url = "https://github.com/open-ic/transaction-notifier"
+

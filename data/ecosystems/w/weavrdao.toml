@@ -3,7 +3,9 @@ title = "WeavrDao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/weavrdao"]
+github_organizations = [
+  "https://github.com/weavrdao",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/weavrdao/weavr-website"
 
 [[repo]]
 url = "https://github.com/weavrdao/web3-automation"
+

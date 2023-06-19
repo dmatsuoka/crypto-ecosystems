@@ -3,7 +3,9 @@ title = "Argon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Argon-Foundation"]
+github_organizations = [
+  "https://github.com/Argon-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Argon-Foundation/platform-contracts"
 
 [[repo]]
 url = "https://github.com/Argon-Foundation/testnet-faucet"
+

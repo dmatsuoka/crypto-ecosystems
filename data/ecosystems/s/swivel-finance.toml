@@ -3,7 +3,9 @@ title = "Swivel Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Swivel-Finance"]
+github_organizations = [
+  "https://github.com/Swivel-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Swivel-Finance/ui"
 
 [[repo]]
 url = "https://github.com/Swivel-Finance/yield-server"
+

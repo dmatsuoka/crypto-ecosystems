@@ -3,7 +3,9 @@ title = "Bright Union"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bright-Union"]
+github_organizations = [
+  "https://github.com/Bright-Union",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Bright-Union/security"
 
 [[repo]]
 url = "https://github.com/Bright-Union/snapshot-spaces"
+

@@ -3,7 +3,9 @@ title = "Helix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProjectHelixCoin"]
+github_organizations = [
+  "https://github.com/ProjectHelixCoin",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/ProjectHelixCoin/vps"
 
 [[repo]]
 url = "https://github.com/ProjectHelixCoin/wallet-interface"
+

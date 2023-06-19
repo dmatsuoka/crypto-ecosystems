@@ -3,7 +3,9 @@ title = "ComingChat"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coming-chat"]
+github_organizations = [
+  "https://github.com/coming-chat",
+]
 
 # Repositories
 [[repo]]
@@ -146,6 +148,7 @@ url = "https://github.com/coming-chat/sui-cat"
 
 [[repo]]
 url = "https://github.com/coming-chat/sui-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/coming-chat/sui-red-packet"
@@ -176,3 +179,4 @@ url = "https://github.com/coming-chat/zksync2-go"
 
 [[repo]]
 url = "https://github.com/imtianx/wallet-connect-kotlin"
+

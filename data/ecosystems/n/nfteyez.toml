@@ -3,7 +3,9 @@ title = "NFTeyez"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NftEyez"]
+github_organizations = [
+  "https://github.com/NftEyez",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/NftEyez/listing-assets"
 
 [[repo]]
 url = "https://github.com/NftEyez/sol-rayz"
+

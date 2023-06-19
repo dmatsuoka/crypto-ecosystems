@@ -3,7 +3,9 @@ title = "citycoins"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/citycoins"]
+github_organizations = [
+  "https://github.com/citycoins",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/citycoins/scripts"
 
 [[repo]]
 url = "https://github.com/citycoins/ui"
+

@@ -3,7 +3,9 @@ title = "HireVibes"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hirevibes"]
+github_organizations = [
+  "https://github.com/hirevibes",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/hirevibes/freelancerdex-app"
 
 [[repo]]
 url = "https://github.com/hirevibes/hirevibes.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/hirevibes/javascript-questions"
@@ -47,3 +50,4 @@ url = "https://github.com/hirevibes/token-contract-stacks"
 
 [[repo]]
 url = "https://github.com/hirevibes/v-markdown-editor"
+

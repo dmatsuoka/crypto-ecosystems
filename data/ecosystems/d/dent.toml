@@ -3,7 +3,9 @@ title = "Dent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dentproject"]
+github_organizations = [
+  "https://github.com/dentproject",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/dentproject/testing"
 
 [[repo]]
 url = "https://github.com/dentproject/upstream"
+

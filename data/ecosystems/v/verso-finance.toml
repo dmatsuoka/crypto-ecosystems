@@ -3,7 +3,9 @@ title = "Verso Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VersoOfficial"]
+github_organizations = [
+  "https://github.com/VersoOfficial",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,9 @@ url = "https://github.com/VersoOfficial/pr"
 
 [[repo]]
 url = "https://github.com/VersoOfficial/xvsoCredits"
+missing = true
 
 [[repo]]
 url = "https://github.com/VersoOfficial/xVsoStaking"
+missing = true
+

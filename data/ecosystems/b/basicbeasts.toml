@@ -3,7 +3,9 @@ title = "Basicbeasts"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/basicbeasts"]
+github_organizations = [
+  "https://github.com/basicbeasts",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/basicbeasts/basic-beasts-web"
 
 [[repo]]
 url = "https://github.com/basicbeasts/treasure-hunt"
+

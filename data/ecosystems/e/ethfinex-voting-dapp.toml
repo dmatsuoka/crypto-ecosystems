@@ -3,7 +3,9 @@ title = "Ethfinex Voting Dapp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethfinex"]
+github_organizations = [
+  "https://github.com/ethfinex",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,11 @@ url = "https://github.com/ethfinex/0x-order-verify"
 
 [[repo]]
 url = "https://github.com/ethfinex/antani"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethfinex/bfx-api-node-models"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethfinex/dvf-trustless-data"
@@ -29,6 +33,7 @@ url = "https://github.com/ethfinex/ethfinex-trading-competition"
 
 [[repo]]
 url = "https://github.com/ethfinex/nec-dao-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethfinex/nectar"
@@ -50,3 +55,4 @@ url = "https://github.com/rhinofi/nec-engine"
 
 [[repo]]
 url = "https://github.com/rhinofi/starkware-crypto"
+

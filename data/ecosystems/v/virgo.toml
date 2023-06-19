@@ -3,7 +3,9 @@ title = "Virgo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/virgoproject"]
+github_organizations = [
+  "https://github.com/virgoproject",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/virgoproject/VirgoWallet"
 
 [[repo]]
 url = "https://github.com/virgoproject/walletBanners"
+

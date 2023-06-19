@@ -3,7 +3,9 @@ title = "Moonsama"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonsama"]
+github_organizations = [
+  "https://github.com/moonsama",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/moonsama/Moonsama-Marketplace-Subsquid"
 
 [[repo]]
 url = "https://github.com/moonsama/moonsama-squid"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonsama/raresama-custom-collections"
@@ -59,6 +62,7 @@ url = "https://github.com/moonsama/raresama-nft-squid"
 
 [[repo]]
 url = "https://github.com/moonsama/react-web3-use"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonsama/snapshot.js"
@@ -71,3 +75,4 @@ url = "https://github.com/moonsama/ss58-registry"
 
 [[repo]]
 url = "https://github.com/moonsama/web3-token"
+

@@ -3,8 +3,11 @@ title = "BlackPool Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlackPool-Finance"]
+github_organizations = [
+  "https://github.com/BlackPool-Finance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/BlackPool-Finance/managers"
+

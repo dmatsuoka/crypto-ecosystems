@@ -3,7 +3,9 @@ title = "Merlion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/merlion-zone"]
+github_organizations = [
+  "https://github.com/merlion-zone",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/merlion-zone/mertester"
 
 [[repo]]
 url = "https://github.com/merlion-zone/terra-core"
+

@@ -3,7 +3,9 @@ title = "Netbox Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NetboxGlobal"]
+github_organizations = [
+  "https://github.com/NetboxGlobal",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/NetboxGlobal/Netbox.Browser"
 
 [[repo]]
 url = "https://github.com/NetboxGlobal/Netbox.Wallet"
+

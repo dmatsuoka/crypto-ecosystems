@@ -3,7 +3,9 @@ title = "Warden Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wardenfinance"]
+github_organizations = [
+  "https://github.com/wardenfinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/wardenfinance/contracts"
 
 [[repo]]
 url = "https://github.com/wardenfinance/currency"
+

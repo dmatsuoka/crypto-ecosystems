@@ -3,7 +3,9 @@ title = "CreDA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CreDA-Protocol"]
+github_organizations = [
+  "https://github.com/CreDA-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/CreDA-Protocol/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/CreDA-Protocol/solidity-create2-deployer"
+

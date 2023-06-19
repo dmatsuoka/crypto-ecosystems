@@ -3,7 +3,9 @@ title = "SALT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SALTLending"]
+github_organizations = [
+  "https://github.com/SALTLending",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/SALTLending/ts-matches"
 
 [[repo]]
 url = "https://github.com/SALTLending/wai-jwt-auth-middleware"
+

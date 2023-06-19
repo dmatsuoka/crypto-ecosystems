@@ -3,7 +3,9 @@ title = "Hifi Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hifi-finance"]
+github_organizations = [
+  "https://github.com/hifi-finance",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/hifi-finance/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/paulrberg/prb-math"
+

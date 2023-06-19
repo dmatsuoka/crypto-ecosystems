@@ -3,7 +3,9 @@ title = "MASQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MASQ-Project"]
+github_organizations = [
+  "https://github.com/MASQ-Project",
+]
 
 # Repositories
 [[repo]]
@@ -44,12 +46,16 @@ url = "https://github.com/MASQ-Project/rust-in-blockchain"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/s3-artifacts-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/MASQ-Project/SHRD-contract"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/terraform-aws-masq-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/MASQ-Project/terraform-vultr-masq-server"
+missing = true
+

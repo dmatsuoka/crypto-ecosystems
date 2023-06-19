@@ -3,7 +3,9 @@ title = "BiShares"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bisharesindexfund"]
+github_organizations = [
+  "https://github.com/bisharesindexfund",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/bisharesindexfund/spiritswap-tokens-list-icon"
 
 [[repo]]
 url = "https://github.com/bisharesindexfund/website-v2.0"
+

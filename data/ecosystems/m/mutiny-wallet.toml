@@ -3,7 +3,9 @@ title = "Mutiny Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MutinyWallet"]
+github_organizations = [
+  "https://github.com/MutinyWallet",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/MutinyWallet/bdk"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/bip21"
+missing = true
 
 [[repo]]
 url = "https://github.com/MutinyWallet/bitcoin-waila"
@@ -53,3 +56,4 @@ url = "https://github.com/MutinyWallet/rust-lightning"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/websocket-proxy"
+

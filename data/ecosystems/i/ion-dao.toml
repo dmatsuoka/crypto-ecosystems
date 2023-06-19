@@ -3,7 +3,9 @@ title = "ION DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/many-things"]
+github_organizations = [
+  "https://github.com/many-things",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/many-things/ion-dao-contracts"
 
 [[repo]]
 url = "https://github.com/many-things/iou-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/many-things/keplr-wallet"
@@ -77,6 +80,7 @@ url = "https://github.com/many-things/styleguide"
 
 [[repo]]
 url = "https://github.com/many-things/taxi-receipts"
+missing = true
 
 [[repo]]
 url = "https://github.com/many-things/tendermint"
@@ -89,3 +93,4 @@ url = "https://github.com/many-things/useWeb3Wallet"
 
 [[repo]]
 url = "https://github.com/Ryz0nd/fcl-types"
+

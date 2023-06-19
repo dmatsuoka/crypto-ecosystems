@@ -3,7 +3,9 @@ title = "Coindcx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coindcx-official"]
+github_organizations = [
+  "https://github.com/coindcx-official",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/coindcx-official/coindcx-official.github.io"
 
 [[repo]]
 url = "https://github.com/coindcx-official/coindcx-ruby-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/coindcx-official/octopus"
 
 [[repo]]
 url = "https://github.com/coindcx-official/rest-api"
+

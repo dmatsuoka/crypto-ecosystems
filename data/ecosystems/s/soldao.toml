@@ -3,7 +3,9 @@ title = "SolDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sol-DAO"]
+github_organizations = [
+  "https://github.com/Sol-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Sol-DAO/solstyle"
 
 [[repo]]
 url = "https://github.com/Sol-DAO/website"
+

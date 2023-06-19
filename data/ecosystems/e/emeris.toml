@@ -3,7 +3,9 @@ title = "Emeris"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EmerisHQ"]
+github_organizations = [
+  "https://github.com/EmerisHQ",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/EmerisHQ/sdk-service-meta"
 
 [[repo]]
 url = "https://github.com/EmerisHQ/tracelistener"
+

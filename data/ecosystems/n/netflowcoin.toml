@@ -3,7 +3,9 @@ title = "NetFlowCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/netflowcoin"]
+github_organizations = [
+  "https://github.com/netflowcoin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/netflowcoin/izzbie-android"
 
 [[repo]]
 url = "https://github.com/netflowcoin/izzbie-IOS"
+

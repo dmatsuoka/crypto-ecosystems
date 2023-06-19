@@ -3,7 +3,9 @@ title = "Patronus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/patronusfi"]
+github_organizations = [
+  "https://github.com/patronusfi",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/patronusfi/frontend"
 
 [[repo]]
 url = "https://github.com/patronusfi/sui"
+

@@ -3,7 +3,9 @@ title = "Idle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Idle-Labs"]
+github_organizations = [
+  "https://github.com/Idle-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/Idle-Labs/idle-contracts"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-dashboard-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-dashboard-legacy"
@@ -68,3 +71,4 @@ url = "https://github.com/Idle-Labs/idle-TVL"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/snapshot-spaces"
+

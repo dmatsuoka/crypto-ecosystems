@@ -3,7 +3,9 @@ title = "Subscan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/subscan-explorer"]
+github_organizations = [
+  "https://github.com/subscan-explorer",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/subscan-explorer/widget-editor"
 
 [[repo]]
 url = "https://github.com/subscan-explorer/widget-interface"
+

@@ -3,7 +3,9 @@ title = "ETHLend"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ETHLend"]
+github_organizations = [
+  "https://github.com/ETHLend",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/ETHLend/ICO_SmartContract"
 
 [[repo]]
 url = "https://github.com/ETHLend/Kogia"
+missing = true
 
 [[repo]]
 url = "https://github.com/ETHLend/logos"
@@ -32,3 +35,4 @@ url = "https://github.com/ETHLend/Microstaking"
 
 [[repo]]
 url = "https://github.com/ETHLend/statistics"
+

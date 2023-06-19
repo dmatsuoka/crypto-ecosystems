@@ -3,11 +3,14 @@ title = "The Paypr Company"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paypr"]
+github_organizations = [
+  "https://github.com/paypr",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/paypr/common-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/paypr/contracts-sdk-ts"
@@ -26,3 +29,4 @@ url = "https://github.com/paypr/mui5-common-components"
 
 [[repo]]
 url = "https://github.com/paypr/sapling-node-solidity-hardhat"
+

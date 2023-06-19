@@ -3,7 +3,9 @@ title = "Gogocoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gogocoin"]
+github_organizations = [
+  "https://github.com/gogocoin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/gogocoin/gogo-contracts"
 
 [[repo]]
 url = "https://github.com/gogocoin/quickswap-default-token-list"
+

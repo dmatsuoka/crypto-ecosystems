@@ -3,7 +3,9 @@ title = "Dept"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/deptagency"]
+github_organizations = [
+  "https://github.com/deptagency",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/deptagency/theme-boost"
 
 [[repo]]
 url = "https://github.com/deptagency/Unity-iOS"
+

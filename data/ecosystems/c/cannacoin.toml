@@ -3,7 +3,9 @@ title = "CannaCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cannacoin-Project"]
+github_organizations = [
+  "https://github.com/Cannacoin-Project",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/Cannacoin-Project/Simple-Cannacoin-Widget"
 
 [[repo]]
 url = "https://github.com/Cannacoin-Project/vanitygen"
+

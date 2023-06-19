@@ -3,7 +3,9 @@ title = "Unipilot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Unipilot"]
+github_organizations = [
+  "https://github.com/Unipilot",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Unipilot/unipilot-v2"
 
 [[repo]]
 url = "https://github.com/Unipilot/zapper-studio"
+

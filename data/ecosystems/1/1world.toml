@@ -3,8 +3,11 @@ title = "1World"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/1World-Online"]
+github_organizations = [
+  "https://github.com/1World-Online",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/1World-Online/1WO-token-contract"
+

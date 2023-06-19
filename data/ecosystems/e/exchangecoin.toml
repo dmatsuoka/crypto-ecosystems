@@ -3,7 +3,9 @@ title = "ExchangeCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EXCCoin"]
+github_organizations = [
+  "https://github.com/EXCCoin",
+]
 
 # Repositories
 [[repo]]
@@ -11,15 +13,19 @@ url = "https://github.com/EXCCoin/base58"
 
 [[repo]]
 url = "https://github.com/EXCCoin/bitcore"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/bitcore-mnemonic"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/bitcore-wallet-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/bitcore-wallet-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/cspp"
@@ -74,9 +80,11 @@ url = "https://github.com/EXCCoin/gominer"
 
 [[repo]]
 url = "https://github.com/EXCCoin/insight"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/insight-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/EXCCoin/miningcore"
@@ -92,3 +100,4 @@ url = "https://github.com/EXCCoin/multicoin-address-validator"
 
 [[repo]]
 url = "https://github.com/EXCCoin/vspd"
+

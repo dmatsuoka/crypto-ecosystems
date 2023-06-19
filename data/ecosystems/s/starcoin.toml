@@ -3,7 +3,9 @@ title = "Starcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/starcoinorg"]
+github_organizations = [
+  "https://github.com/starcoinorg",
+]
 
 # Repositories
 [[repo]]
@@ -377,3 +379,4 @@ url = "https://github.com/starcoinorg/website"
 
 [[repo]]
 url = "https://github.com/starcoinorg/xtor"
+

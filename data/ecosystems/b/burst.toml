@@ -3,7 +3,9 @@ title = "Burst"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PoC-Consortium"]
+github_organizations = [
+  "https://github.com/PoC-Consortium",
+]
 
 # Repositories
 [[repo]]
@@ -26,12 +28,14 @@ url = "https://github.com/PoC-Consortium/burstcoin-docker"
 
 [[repo]]
 url = "https://github.com/PoC-Consortium/burstcoin-guides"
+missing = true
 
 [[repo]]
 url = "https://github.com/PoC-Consortium/burstcoin-mobile"
 
 [[repo]]
 url = "https://github.com/PoC-Consortium/burstcoin-mobile-doc"
+missing = true
 
 [[repo]]
 url = "https://github.com/PoC-Consortium/burstcoin.package"
@@ -68,3 +72,4 @@ url = "https://github.com/PoC-Consortium/scavenger"
 
 [[repo]]
 url = "https://github.com/PoC-Consortium/Utilities"
+

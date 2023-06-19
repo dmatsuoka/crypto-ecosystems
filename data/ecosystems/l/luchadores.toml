@@ -3,7 +3,9 @@ title = "Luchadores"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/luchadores-community"]
+github_organizations = [
+  "https://github.com/luchadores-community",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/luchadores-community/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/luchadores-community/studio"
+

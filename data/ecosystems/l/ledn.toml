@@ -3,8 +3,12 @@ title = "Ledn"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ledn-io"]
+github_organizations = [
+  "https://github.com/Ledn-io",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Ledn-io/BitGoJS"
+missing = true
+

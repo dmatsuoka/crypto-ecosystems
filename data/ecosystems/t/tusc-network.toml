@@ -3,7 +3,9 @@ title = "TUSC Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TUSCNetwork"]
+github_organizations = [
+  "https://github.com/TUSCNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/TUSCNetwork/tuscjs-ws"
 
 [[repo]]
 url = "https://github.com/TUSCNetwork/WooCommerceGateway"
+

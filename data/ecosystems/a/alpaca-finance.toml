@@ -3,7 +3,9 @@ title = "Alpaca Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alpaca-finance"]
+github_organizations = [
+  "https://github.com/alpaca-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/alpaca-finance/bsc-alpaca-contract"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/crypto-addr-serialize"
+missing = true
 
 [[repo]]
 url = "https://github.com/alpaca-finance/DefiLlama-Adapters"
@@ -59,3 +62,4 @@ url = "https://github.com/alpaca-finance/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/xALPACA-contract"
+

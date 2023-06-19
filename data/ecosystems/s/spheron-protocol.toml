@@ -3,7 +3,9 @@ title = "Spheron Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/argoapp-live"]
+github_organizations = [
+  "https://github.com/argoapp-live",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/argoapp-live/argo-airdrop-app"
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-be"
@@ -20,6 +23,7 @@ url = "https://github.com/argoapp-live/argo-bounty-issue"
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-faucet-app"
@@ -38,6 +42,7 @@ url = "https://github.com/argoapp-live/argo-vesting-ui"
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-yieldfarming-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/arseeding"
@@ -77,3 +82,4 @@ url = "https://github.com/spheronFdn/desub-js"
 
 [[repo]]
 url = "https://github.com/spheronFdn/documentations"
+

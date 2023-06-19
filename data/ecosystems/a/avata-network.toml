@@ -3,7 +3,9 @@ title = "AVATA Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AVATA-Network"]
+github_organizations = [
+  "https://github.com/AVATA-Network",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/AVATA-Network/avata-sdk"
 
 [[repo]]
 url = "https://github.com/AVATA-Network/avata-tokenlist"
+

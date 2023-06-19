@@ -3,7 +3,9 @@ title = "Raicoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/raicoincommunity"]
+github_organizations = [
+  "https://github.com/raicoincommunity",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/raicoincommunity/raicoincommunity.github.io"
 
 [[repo]]
 url = "https://github.com/raicoincommunity/WebWallet"
+

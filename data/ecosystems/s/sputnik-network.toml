@@ -3,7 +3,9 @@ title = "Sputnik Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SputnikNetwork"]
+github_organizations = [
+  "https://github.com/SputnikNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/SputnikNetwork/starname-explorer"
 
 [[repo]]
 url = "https://github.com/SputnikNetwork/website"
+

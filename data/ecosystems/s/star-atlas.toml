@@ -3,7 +3,9 @@ title = "Star Atlas"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/staratlasmeta"]
+github_organizations = [
+  "https://github.com/staratlasmeta",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/staratlasmeta/anchor"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/discourse"
+missing = true
 
 [[repo]]
 url = "https://github.com/staratlasmeta/factory"
@@ -23,6 +26,7 @@ url = "https://github.com/staratlasmeta/List-of-Dirty-Naughty-Obscene-and-Otherw
 
 [[repo]]
 url = "https://github.com/staratlasmeta/player_profile"
+missing = true
 
 [[repo]]
 url = "https://github.com/staratlasmeta/proc-macro-error"
@@ -50,6 +54,7 @@ url = "https://github.com/staratlasmeta/token-vesting"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/tribeca"
+missing = true
 
 [[repo]]
 url = "https://github.com/staratlasmeta/wallet-adapter"
@@ -59,3 +64,4 @@ url = "https://github.com/staratlasmeta/wasm-bindgen"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/wasm-pack"
+

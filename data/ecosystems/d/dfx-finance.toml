@@ -3,7 +3,9 @@ title = "DFX Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dfx-finance"]
+github_organizations = [
+  "https://github.com/dfx-finance",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/dfx-finance/subgraph"
 
 [[repo]]
 url = "https://github.com/dfx-finance/zapper-studio"
+

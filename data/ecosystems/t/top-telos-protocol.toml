@@ -3,7 +3,9 @@ title = "TOP (Telos Protocol)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/telosprotocol"]
+github_organizations = [
+  "https://github.com/telosprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/telosprotocol/xvm"
 
 [[repo]]
 url = "https://github.com/telosprotocol/xwrouter"
+

@@ -3,7 +3,9 @@ title = "Bitclout"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitclout"]
+github_organizations = [
+  "https://github.com/bitclout",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/deso-protocol/rosetta-deso"
 
 [[repo]]
 url = "https://github.com/deso-protocol/run"
+

@@ -3,7 +3,9 @@ title = "Andoromeda"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Andoromeda-Foundation"]
+github_organizations = [
+  "https://github.com/Andoromeda-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -38,12 +40,14 @@ url = "https://github.com/Andoromeda-Foundation/bestswap-bsc-info"
 
 [[repo]]
 url = "https://github.com/Andoromeda-Foundation/bestswap-info"
+missing = true
 
 [[repo]]
 url = "https://github.com/Andoromeda-Foundation/bsc-blocks"
 
 [[repo]]
 url = "https://github.com/Andoromeda-Foundation/bscswap-v2-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/Andoromeda-Foundation/coin-price"
@@ -224,3 +228,4 @@ url = "https://github.com/Andoromeda-Foundation/wechat-admin"
 
 [[repo]]
 url = "https://github.com/Andoromeda-Foundation/youlin"
+

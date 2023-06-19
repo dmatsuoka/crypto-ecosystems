@@ -3,7 +3,9 @@ title = "MR Research AG"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/research-ag"]
+github_organizations = [
+  "https://github.com/research-ag",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/research-ag/enumeration"
 
 [[repo]]
 url = "https://github.com/research-ag/hpl"
+missing = true
 
 [[repo]]
 url = "https://github.com/research-ag/hpl-io"
@@ -44,3 +47,4 @@ url = "https://github.com/research-ag/vector"
 
 [[repo]]
 url = "https://github.com/research-ag/vessel-package-set"
+

@@ -3,7 +3,9 @@ title = "Hiro LaunchDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Hiro-finance"]
+github_organizations = [
+  "https://github.com/Hiro-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Hiro-finance/hiro-finance.github.io"
 
 [[repo]]
 url = "https://github.com/Hiro-finance/token-list"
+

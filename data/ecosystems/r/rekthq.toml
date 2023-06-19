@@ -3,7 +3,9 @@ title = "RektHQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RektHQ"]
+github_organizations = [
+  "https://github.com/RektHQ",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/RektHQ/marketing"
 
 [[repo]]
 url = "https://github.com/RektHQ/merkle-distributor"
+

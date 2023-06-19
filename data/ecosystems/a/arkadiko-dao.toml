@@ -3,7 +3,9 @@ title = "arkadiko-dao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arkadiko-dao"]
+github_organizations = [
+  "https://github.com/arkadiko-dao",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/arkadiko-dao/landing"
 
 [[repo]]
 url = "https://github.com/arkadiko-dao/token-vesting"
+

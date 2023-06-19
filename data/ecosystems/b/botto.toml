@@ -3,7 +3,9 @@ title = "Botto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bottoproject"]
+github_organizations = [
+  "https://github.com/bottoproject",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/bottoproject/smart-contracts"
 
 [[repo]]
 url = "https://github.com/bottoproject/subgraph"
+

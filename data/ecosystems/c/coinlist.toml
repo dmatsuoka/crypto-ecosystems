@@ -3,7 +3,9 @@ title = "Coinlist"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coinlist"]
+github_organizations = [
+  "https://github.com/coinlist",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/coinlist/cap-ec2"
 
 [[repo]]
 url = "https://github.com/coinlist/dbt"
+missing = true
 
 [[repo]]
 url = "https://github.com/coinlist/scale.rb"
@@ -23,3 +26,4 @@ url = "https://github.com/coinlist/sinatra-base"
 
 [[repo]]
 url = "https://github.com/coinlist/webpack-rails"
+

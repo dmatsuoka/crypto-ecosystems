@@ -3,7 +3,9 @@ title = "NFT Worlds"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NFT-Worlds"]
+github_organizations = [
+  "https://github.com/NFT-Worlds",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/NFT-Worlds/WRLD-Payments-API"
 
 [[repo]]
 url = "https://github.com/NFT-Worlds/WRLD-Shop"
+

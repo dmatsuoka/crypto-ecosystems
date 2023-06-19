@@ -3,7 +3,9 @@ title = "Agronomist Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/agronomist-tech"]
+github_organizations = [
+  "https://github.com/agronomist-tech",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/agronomist-tech/landing"
 
 [[repo]]
 url = "https://github.com/agronomist-tech/token-list"
+

@@ -3,7 +3,9 @@ title = "Surge DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Surge-DAO"]
+github_organizations = [
+  "https://github.com/Surge-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Surge-DAO/passport-nft"
 
 [[repo]]
 url = "https://github.com/Surge-DAO/surge-nft-generative-art"
+

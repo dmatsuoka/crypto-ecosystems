@@ -3,8 +3,11 @@ title = "YSL.IO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ysl-io"]
+github_organizations = [
+  "https://github.com/ysl-io",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ysl-io/audits"
+

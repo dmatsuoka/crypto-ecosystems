@@ -3,14 +3,18 @@ title = "Guild Waterdrop"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/guild-w"]
+github_organizations = [
+  "https://github.com/guild-w",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/guild-w/dark-gang"
+missing = true
 
 [[repo]]
 url = "https://github.com/guild-w/df-dao-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/guild-w/df-explorer"
@@ -26,3 +30,4 @@ url = "https://github.com/guild-w/guild-w.github.io"
 
 [[repo]]
 url = "https://github.com/guild-w/RaritySea"
+

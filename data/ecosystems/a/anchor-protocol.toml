@@ -3,7 +3,9 @@ title = "Anchor Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Anchor-Protocol"]
+github_organizations = [
+  "https://github.com/Anchor-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/Anchor-Protocol/anchor-earn"
 
 [[repo]]
 url = "https://github.com/Anchor-Protocol/anchor-notebooks"
+missing = true
 
 [[repo]]
 url = "https://github.com/Anchor-Protocol/anchor-token-contracts"
@@ -80,3 +83,4 @@ url = "https://github.com/Anchor-Protocol/terrariums"
 
 [[repo]]
 url = "https://github.com/Anchor-Protocol/whitelist"
+

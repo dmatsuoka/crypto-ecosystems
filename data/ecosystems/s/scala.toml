@@ -3,7 +3,9 @@ title = "Scala"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scala-network"]
+github_organizations = [
+  "https://github.com/scala-network",
+]
 
 # Repositories
 [[repo]]
@@ -173,3 +175,4 @@ url = "https://github.com/scala-network/XTC-Stats"
 
 [[repo]]
 url = "https://github.com/scala-network/xtcandrig"
+

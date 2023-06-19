@@ -3,7 +3,9 @@ title = "Bet Swirl"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BetSwirl"]
+github_organizations = [
+  "https://github.com/BetSwirl",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/BetSwirl/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/BetSwirl/spellbook"
+

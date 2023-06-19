@@ -3,7 +3,9 @@ title = "ShadowCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shadowproject"]
+github_organizations = [
+  "https://github.com/shadowproject",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/shadowproject/website"
 
 [[repo]]
 url = "https://github.com/shadowproject/whitepapers"
+

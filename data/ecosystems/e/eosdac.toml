@@ -3,7 +3,9 @@ title = "EOSDAC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eosdac"]
+github_organizations = [
+  "https://github.com/eosdac",
+]
 
 # Repositories
 [[repo]]
@@ -206,3 +208,4 @@ url = "https://github.com/eosdac/worbli-testnet"
 
 [[repo]]
 url = "https://github.com/eosdac/wp_payments_propose"
+

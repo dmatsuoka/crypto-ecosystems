@@ -3,7 +3,9 @@ title = "Cruzo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cruzocards"]
+github_organizations = [
+  "https://github.com/cruzocards",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/cruzocards/cruzo-contracts"
 
 [[repo]]
 url = "https://github.com/cruzocards/cruzo-contracts-rarible"
+

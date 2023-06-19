@@ -3,7 +3,9 @@ title = "Solend"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solendprotocol"]
+github_organizations = [
+  "https://github.com/solendprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/solendprotocol/tvl-calculator-example"
 
 [[repo]]
 url = "https://github.com/solendprotocol/yield-server"
+

@@ -3,7 +3,9 @@ title = "Rate3 Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rate-engineering"]
+github_organizations = [
+  "https://github.com/rate-engineering",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/rate-engineering/recompose"
 
 [[repo]]
 url = "https://github.com/rate-engineering/token-profile"
+

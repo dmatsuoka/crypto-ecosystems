@@ -3,7 +3,9 @@ title = "Neutral Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neutral-protocol"]
+github_organizations = [
+  "https://github.com/neutral-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/neutral-protocol/neutral-candles-polygon"
 
 [[repo]]
 url = "https://github.com/neutral-protocol/neutral-liquidation-keeper"
+

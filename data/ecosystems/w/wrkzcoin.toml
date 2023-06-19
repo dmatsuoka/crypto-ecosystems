@@ -3,7 +3,9 @@ title = "WrkzCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wrkzcoin"]
+github_organizations = [
+  "https://github.com/wrkzcoin",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/wrkzcoin/xmrig"
 
 [[repo]]
 url = "https://github.com/wrkzcoin/xwrkz"
+

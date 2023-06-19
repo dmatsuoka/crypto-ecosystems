@@ -3,7 +3,9 @@ title = "CWV Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CryptoWorldChain"]
+github_organizations = [
+  "https://github.com/CryptoWorldChain",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/CryptoWorldChain/vrf"
 
 [[repo]]
 url = "https://github.com/CryptoWorldChain/zippo_1.8"
+

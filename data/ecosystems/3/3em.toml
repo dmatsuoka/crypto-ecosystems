@@ -3,7 +3,9 @@ title = "3em"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/three-em"]
+github_organizations = [
+  "https://github.com/three-em",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/three-em/Protocol-spec"
 
 [[repo]]
 url = "https://github.com/three-em/website"
+

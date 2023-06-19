@@ -3,7 +3,9 @@ title = "Simply VC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SimplyVC"]
+github_organizations = [
+  "https://github.com/SimplyVC",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/SimplyVC/mainnet-1"
 
 [[repo]]
 url = "https://github.com/SimplyVC/mainnet-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/SimplyVC/mainnet-3"
@@ -146,3 +149,4 @@ url = "https://github.com/SimplyVC/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/SimplyVC/weiwatchers_mapping"
+

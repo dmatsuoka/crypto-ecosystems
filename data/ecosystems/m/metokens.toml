@@ -3,7 +3,9 @@ title = "meTokens"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/meTokens"]
+github_organizations = [
+  "https://github.com/meTokens",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/meTokens/bancor-zero-formula"
 
 [[repo]]
 url = "https://github.com/meTokens/governance"
+missing = true
 
 [[repo]]
 url = "https://github.com/meTokens/meTokens-core"
@@ -20,3 +23,4 @@ url = "https://github.com/meTokens/meTokens-erc20"
 
 [[repo]]
 url = "https://github.com/meTokens/meTokens-vesting"
+

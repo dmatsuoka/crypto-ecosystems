@@ -3,7 +3,9 @@ title = "ELASTECH Services"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GetElastech"]
+github_organizations = [
+  "https://github.com/GetElastech",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/GetElastech/guidelines"
 
 [[repo]]
 url = "https://github.com/GetElastech/observer_learning_project"
+

@@ -3,11 +3,14 @@ title = "Altafin Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/altafinprotocol"]
+github_organizations = [
+  "https://github.com/altafinprotocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/altafinprotocol/altafinprotocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/altafinprotocol/altafinprotocol-subgraph"
@@ -26,3 +29,4 @@ url = "https://github.com/altafinprotocol/i-support-ukraine-web"
 
 [[repo]]
 url = "https://github.com/altafinprotocol/research"
+

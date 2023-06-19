@@ -3,8 +3,11 @@ title = "ShowMe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShowMeXYZ"]
+github_organizations = [
+  "https://github.com/ShowMeXYZ",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ShowMeXYZ/Maskbook"
+

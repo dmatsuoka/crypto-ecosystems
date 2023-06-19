@@ -3,7 +3,9 @@ title = "Insolar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/insolar"]
+github_organizations = [
+  "https://github.com/insolar",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/insolar/block-explorer"
 
 [[repo]]
 url = "https://github.com/insolar/bolos-app-insolar"
+missing = true
 
 [[repo]]
 url = "https://github.com/insolar/component-manager"
@@ -53,6 +56,7 @@ url = "https://github.com/insolar/go-jose"
 
 [[repo]]
 url = "https://github.com/insolar/golden-image"
+missing = true
 
 [[repo]]
 url = "https://github.com/insolar/insconfig"
@@ -83,9 +87,11 @@ url = "https://github.com/insolar/loadgenerator"
 
 [[repo]]
 url = "https://github.com/insolar/log"
+missing = true
 
 [[repo]]
 url = "https://github.com/insolar/logger"
+missing = true
 
 [[repo]]
 url = "https://github.com/insolar/mainnet"
@@ -134,3 +140,4 @@ url = "https://github.com/insolar/x-crypto"
 
 [[repo]]
 url = "https://github.com/insolar/xns"
+

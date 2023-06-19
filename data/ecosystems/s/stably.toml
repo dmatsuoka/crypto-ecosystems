@@ -3,7 +3,9 @@ title = "Stably"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stablyio"]
+github_organizations = [
+  "https://github.com/stablyio",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/stablyio/USDS_Libra"
 
 [[repo]]
 url = "https://github.com/stablyio/zusd-ethereum"
+

@@ -3,7 +3,9 @@ title = "WardenSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Wardenswap"]
+github_organizations = [
+  "https://github.com/Wardenswap",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Wardenswap/warden-pool"
 
 [[repo]]
 url = "https://github.com/Wardenswap/warden-protocol"
+

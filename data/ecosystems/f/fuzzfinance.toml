@@ -3,7 +3,9 @@ title = "FuzzFinance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FuzzFinance"]
+github_organizations = [
+  "https://github.com/FuzzFinance",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/FuzzFinance/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/FuzzFinance/vfat-tools"
+

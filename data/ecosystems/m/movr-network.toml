@@ -3,7 +3,9 @@ title = "Movr Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/movrnetwork"]
+github_organizations = [
+  "https://github.com/movrnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,8 @@ url = "https://github.com/SocketDotTech/fundmovr-example"
 
 [[repo]]
 url = "https://github.com/SocketDotTech/fundmovr-example-UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/SocketDotTech/movr-landing-page"
+

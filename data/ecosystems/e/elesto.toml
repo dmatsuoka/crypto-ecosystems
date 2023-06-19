@@ -3,7 +3,9 @@ title = "Elesto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/elesto-dao"]
+github_organizations = [
+  "https://github.com/elesto-dao",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/elesto-dao/did-test-suite"
 
 [[repo]]
 url = "https://github.com/elesto-dao/elesto"
+

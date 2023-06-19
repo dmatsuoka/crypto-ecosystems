@@ -3,7 +3,9 @@ title = "PlayerLink"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/playerlinkio"]
+github_organizations = [
+  "https://github.com/playerlinkio",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/playerlinkio/playerlink-technology-website"
 
 [[repo]]
 url = "https://github.com/playerlinkio/playerlink-ventures"
+

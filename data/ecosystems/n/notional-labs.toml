@@ -3,7 +3,9 @@ title = "Notional Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/notional-labs"]
+github_organizations = [
+  "https://github.com/notional-labs",
+]
 
 # Repositories
 [[repo]]
@@ -368,6 +370,7 @@ url = "https://github.com/notional-labs/Gravity-Bridge"
 
 [[repo]]
 url = "https://github.com/notional-labs/helpful-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/notional-labs/hermes"
@@ -710,6 +713,7 @@ url = "https://github.com/notional-labs/restake-tools"
 
 [[repo]]
 url = "https://github.com/notional-labs/reward-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/notional-labs/reward-tool"
@@ -887,3 +891,4 @@ url = "https://github.com/notional-labs/wasmvm"
 
 [[repo]]
 url = "https://github.com/notional-labs/websocket"
+

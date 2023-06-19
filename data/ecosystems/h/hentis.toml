@@ -3,14 +3,18 @@ title = "Hentis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hentis-one"]
+github_organizations = [
+  "https://github.com/hentis-one",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/hentis-one/Hentis-Launchpad"
+missing = true
 
 [[repo]]
 url = "https://github.com/hentis-one/Hentis-Swap"
+missing = true
 
 [[repo]]
 url = "https://github.com/Trellis-fi/Hentis-Farming"
@@ -38,3 +42,4 @@ url = "https://github.com/Trellis-fi/trellis-landingpage"
 
 [[repo]]
 url = "https://github.com/Trellis-fi/v2-sdk"
+

@@ -3,7 +3,9 @@ title = "Cycle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CycleProtocol"]
+github_organizations = [
+  "https://github.com/CycleProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/CycleProtocol/holders"
 
 [[repo]]
 url = "https://github.com/CycleProtocol/tokenlists"
+

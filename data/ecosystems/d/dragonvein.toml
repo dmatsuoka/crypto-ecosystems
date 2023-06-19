@@ -3,7 +3,9 @@ title = "DragonVein"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DragonveinChain"]
+github_organizations = [
+  "https://github.com/DragonveinChain",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/AriesChainMetaverse/FlexibleNSQ"
 
 [[repo]]
 url = "https://github.com/AriesChainMetaverse/tokencontract"
+

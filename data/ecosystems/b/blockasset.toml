@@ -3,7 +3,9 @@ title = "BlockAsset"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockassets"]
+github_organizations = [
+  "https://github.com/blockassets",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/blockassets/litecoinpool_exporter"
 
 [[repo]]
 url = "https://github.com/blockassets/prometheus_helper"
+

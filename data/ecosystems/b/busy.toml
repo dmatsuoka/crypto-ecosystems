@@ -3,7 +3,9 @@ title = "Busy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/busyorg"]
+github_organizations = [
+  "https://github.com/busyorg",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/busyorg/ipfs.busy.org"
 
 [[repo]]
 url = "https://github.com/busyorg/react-google-recaptcha"
+

@@ -3,7 +3,9 @@ title = "Saito"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SaitoTech"]
+github_organizations = [
+  "https://github.com/SaitoTech",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/SaitoTech/saitofaqs"
 
 [[repo]]
 url = "https://github.com/SaitoTech/wiki"
+

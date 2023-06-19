@@ -3,7 +3,9 @@ title = "Youves"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/youves-com"]
+github_organizations = [
+  "https://github.com/youves-com",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/youves-com/youves-smart-contract"
 
 [[repo]]
 url = "https://github.com/youves-com/youves-tracker-liquidation-bot"
+

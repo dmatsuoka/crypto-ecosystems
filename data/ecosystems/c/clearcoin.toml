@@ -3,7 +3,9 @@ title = "ClearCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clearcoin"]
+github_organizations = [
+  "https://github.com/clearcoin",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/clearcoin/tx-monitor"
 
 [[repo]]
 url = "https://github.com/clearcoin/web3j"
+

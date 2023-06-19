@@ -3,7 +3,9 @@ title = "ManekiSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/manekiswap"]
+github_organizations = [
+  "https://github.com/manekiswap",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/manekiswap/subgraph"
 
 [[repo]]
 url = "https://github.com/manekiswap/token-lists"
+

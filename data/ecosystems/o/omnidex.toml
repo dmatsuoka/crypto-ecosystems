@@ -3,7 +3,9 @@ title = "OmniDex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OmniDexFinance"]
+github_organizations = [
+  "https://github.com/OmniDexFinance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/OmniDexFinance/v1-lending-frontend"
 
 [[repo]]
 url = "https://github.com/OmniDexFinance/yield-server"
+

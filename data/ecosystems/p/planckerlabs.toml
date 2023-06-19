@@ -3,7 +3,9 @@ title = "PlanckerLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PlanckerLabs"]
+github_organizations = [
+  "https://github.com/PlanckerLabs",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/PlanckerLabs/Wishing-Pool"
 
 [[repo]]
 url = "https://github.com/PlanckerLabs/You-should-know-in-Web3"
+

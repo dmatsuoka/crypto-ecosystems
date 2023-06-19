@@ -3,7 +3,9 @@ title = "MYCELIUM LAB"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mycelium-Lab"]
+github_organizations = [
+  "https://github.com/Mycelium-Lab",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/Mycelium-Lab/dWill"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/dWill-UZ"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/dWill_client"
@@ -155,3 +158,4 @@ url = "https://github.com/Mycelium-Lab/XStarter-Contracts"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/XStarter-Frontend"
+

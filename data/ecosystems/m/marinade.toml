@@ -3,7 +3,9 @@ title = "Marinade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/marinade-finance"]
+github_organizations = [
+  "https://github.com/marinade-finance",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/marinade-finance/marinade-apy"
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-gitbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-onchain-helper"
@@ -122,6 +125,7 @@ url = "https://github.com/marinade-finance/solana-snapshot-etl"
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-finder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-manager"
@@ -143,6 +147,7 @@ url = "https://github.com/marinade-finance/token-list"
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-list-builder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-vesting"
@@ -158,3 +163,4 @@ url = "https://github.com/marinade-finance/vipers"
 
 [[repo]]
 url = "https://github.com/marinade-finance/voter-stake-registry"
+

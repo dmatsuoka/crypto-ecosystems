@@ -3,7 +3,9 @@ title = "Specular"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpecularL2"]
+github_organizations = [
+  "https://github.com/SpecularL2",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/SpecularL2/specularl2.github.io"
 
 [[repo]]
 url = "https://github.com/SpecularL2/website"
+

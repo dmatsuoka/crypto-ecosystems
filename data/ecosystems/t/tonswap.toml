@@ -3,7 +3,9 @@ title = "Tonswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tonswap"]
+github_organizations = [
+  "https://github.com/tonswap",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/tonswap/tonswap-telegram-bot"
 
 [[repo]]
 url = "https://github.com/tonswap/tonswap-web"
+

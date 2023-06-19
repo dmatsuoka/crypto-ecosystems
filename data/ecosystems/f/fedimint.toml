@@ -3,7 +3,9 @@ title = "Fedimint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fedimint"]
+github_organizations = [
+  "https://github.com/fedimint",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/fedimint/tonic_lnd"
 
 [[repo]]
 url = "https://github.com/fedimint/ui"
+

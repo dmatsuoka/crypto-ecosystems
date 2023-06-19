@@ -3,7 +3,9 @@ title = "WanSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wanswap"]
+github_organizations = [
+  "https://github.com/wanswap",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/wanswap/wasp-assist"
 
 [[repo]]
 url = "https://github.com/wanswap/web3-react-wan"
+

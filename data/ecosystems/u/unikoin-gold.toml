@@ -3,17 +3,24 @@ title = "Unikoin Gold"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unikoingold"]
+github_organizations = [
+  "https://github.com/unikoingold",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/unikoingold/ethereum_contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/unikoingold/Plugin-WooCommerce-UKG"
+missing = true
 
 [[repo]]
 url = "https://github.com/unikoingold/UnikoinGold-API"
+missing = true
 
 [[repo]]
 url = "https://github.com/unikoingold/UnikoinGold-UKG-Contract"
+missing = true
+

@@ -3,7 +3,9 @@ title = "Perennis Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Perennis-dev"]
+github_organizations = [
+  "https://github.com/Perennis-dev",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Perennis-dev/virtual-event-starter-kit"
 
 [[repo]]
 url = "https://github.com/Perennis-dev/wallet-selector"
+

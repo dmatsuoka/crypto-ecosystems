@@ -3,7 +3,9 @@ title = "Roketo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/roke-to"]
+github_organizations = [
+  "https://github.com/roke-to",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/roke-to/roketo-sdk-sample"
 
 [[repo]]
 url = "https://github.com/roke-to/roketo-test-dapp-public"
+

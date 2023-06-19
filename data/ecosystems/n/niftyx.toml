@@ -3,7 +3,9 @@ title = "Niftyx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/niftyx"]
+github_organizations = [
+  "https://github.com/niftyx",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/niftyx/get-rewards"
 
 [[repo]]
 url = "https://github.com/niftyx/snapshot-spaces"
+

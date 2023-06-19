@@ -3,7 +3,9 @@ title = "Moneta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moneta-project"]
+github_organizations = [
+  "https://github.com/moneta-project",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/moneta-project/whitepaper-DPI"
 
 [[repo]]
 url = "https://github.com/moneta-project/whitepaper-MONETA"
+

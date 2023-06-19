@@ -3,7 +3,9 @@ title = "Artic Trade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArcticTrade"]
+github_organizations = [
+  "https://github.com/ArcticTrade",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/ArcticTrade/izumi-swap-core"
 
 [[repo]]
 url = "https://github.com/ArcticTrade/izumi-swap-periphery"
+

@@ -3,7 +3,9 @@ title = "Rupiah Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rupiah-token"]
+github_organizations = [
+  "https://github.com/rupiah-token",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/rupiah-token/tokens-info"
 
 [[repo]]
 url = "https://github.com/rupiah-token/uniswap-frontend"
+

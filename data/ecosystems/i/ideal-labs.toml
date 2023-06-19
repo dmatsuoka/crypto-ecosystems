@@ -3,7 +3,9 @@ title = "Ideal Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ideal-lab5"]
+github_organizations = [
+  "https://github.com/ideal-lab5",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/ideal-lab5/iris-docs"
 
 [[repo]]
 url = "https://github.com/ideal-lab5/iris-parachain"
+missing = true
 
 [[repo]]
 url = "https://github.com/ideal-lab5/iris.js"
@@ -56,6 +59,7 @@ url = "https://github.com/ideal-lab5/substrate"
 
 [[repo]]
 url = "https://github.com/ideal-lab5/substrate-node-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/ideal-lab5/substrate-offchain-ipfs"
@@ -65,3 +69,4 @@ url = "https://github.com/ideal-lab5/ui"
 
 [[repo]]
 url = "https://github.com/ideal-lab5/whitepaper"
+

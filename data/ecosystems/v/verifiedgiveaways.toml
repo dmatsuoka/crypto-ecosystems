@@ -3,11 +3,16 @@ title = "VerifiedGiveaways"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VerifiedGiveaways"]
+github_organizations = [
+  "https://github.com/VerifiedGiveaways",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/VerifiedGiveaways/ic-react-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/VerifiedGiveaways/vg"
+missing = true
+

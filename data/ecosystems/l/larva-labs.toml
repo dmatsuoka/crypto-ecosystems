@@ -3,7 +3,9 @@ title = "Larva Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/larvalabs"]
+github_organizations = [
+  "https://github.com/larvalabs",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/larvalabs/voxcom"
 
 [[repo]]
 url = "https://github.com/larvalabs/wwwslidescreenhome"
+

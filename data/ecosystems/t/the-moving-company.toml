@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "The Moving Company"
 
-sub_ecosystems = ["0L Network"]
+sub_ecosystems = [
+  "0L Network",
+]
 
-github_organizations = ["https://github.com/movingco"]
+github_organizations = [
+  "https://github.com/movingco",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +72,4 @@ url = "https://github.com/movingco/sui-coin-list"
 
 [[repo]]
 url = "https://github.com/movingco/vscode-move-syntax"
+

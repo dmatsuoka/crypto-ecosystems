@@ -3,7 +3,9 @@ title = "Jelly Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jelly-swap"]
+github_organizations = [
+  "https://github.com/jelly-swap",
+]
 
 # Repositories
 [[repo]]
@@ -53,6 +55,7 @@ url = "https://github.com/jelly-swap/jelly-info"
 
 [[repo]]
 url = "https://github.com/jelly-swap/jelly-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/jelly-swap/jelly-maintenance-page"
@@ -77,3 +80,4 @@ url = "https://github.com/jelly-swap/jelly-tron-htlc"
 
 [[repo]]
 url = "https://github.com/jelly-swap/sdk"
+

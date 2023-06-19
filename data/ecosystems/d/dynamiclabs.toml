@@ -3,7 +3,9 @@ title = "Dynamiclabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dynamic-labs"]
+github_organizations = [
+  "https://github.com/dynamic-labs",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/dynamic-labs/ruadlist"
 
 [[repo]]
 url = "https://github.com/dynamic-labs/siwe"
+

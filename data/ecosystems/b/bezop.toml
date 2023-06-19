@@ -3,7 +3,9 @@ title = "Bezop"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bezopteam"]
+github_organizations = [
+  "https://github.com/bezopteam",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/bezopteam/bezop-blockchain-network"
 
 [[repo]]
 url = "https://github.com/bezopteam/bezop-dom-store"
+missing = true
 
 [[repo]]
 url = "https://github.com/bezopteam/bezop-net-intelligence-api"
@@ -26,3 +29,4 @@ url = "https://github.com/bezopteam/bezop-utils"
 
 [[repo]]
 url = "https://github.com/bezopteam/marketplace-doc"
+

@@ -3,7 +3,9 @@ title = "Astroport"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/astroport-fi"]
+github_organizations = [
+  "https://github.com/astroport-fi",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/astroport-fi/aips"
 
 [[repo]]
 url = "https://github.com/astroport-fi/anchor-bAsset-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/astroport-fi/astro-generator-proxy-contracts"
@@ -44,6 +47,7 @@ url = "https://github.com/astroport-fi/astroport-governance"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-lbp-frontend"
@@ -98,6 +102,8 @@ url = "https://github.com/astroport-fi/terraswap"
 
 [[repo]]
 url = "https://github.com/astroport-fi/token-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/astroport-fi/valkyrieprotocol"
+

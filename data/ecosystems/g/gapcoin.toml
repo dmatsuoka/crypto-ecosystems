@@ -3,7 +3,9 @@ title = "Gapcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gapcoin"]
+github_organizations = [
+  "https://github.com/gapcoin",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/gapcoin/Gapcoin-Website"
 
 [[repo]]
 url = "https://github.com/gapcoin/GapMiner"
+

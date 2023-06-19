@@ -3,7 +3,9 @@ title = "RChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rchain"]
+github_organizations = [
+  "https://github.com/rchain",
+]
 
 # Repositories
 [[repo]]
@@ -206,6 +208,7 @@ url = "https://github.com/rchain/rpublishing"
 
 [[repo]]
 url = "https://github.com/rchain/rshard"
+missing = true
 
 [[repo]]
 url = "https://github.com/rchain/rsong"
@@ -257,3 +260,4 @@ url = "https://github.com/rchain/www"
 
 [[repo]]
 url = "https://github.com/rchain/www.rchain.coop"
+

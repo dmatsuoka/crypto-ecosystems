@@ -3,7 +3,9 @@ title = "Smartz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/smartzplatform"]
+github_organizations = [
+  "https://github.com/smartzplatform",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/smartzplatform/workshop-2018-04-12"
 
 [[repo]]
 url = "https://github.com/smartzplatform/workshops"
+

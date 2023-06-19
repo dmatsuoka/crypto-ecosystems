@@ -3,7 +3,9 @@ title = ".bit - Previously DAS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dotbitHQ"]
+github_organizations = [
+  "https://github.com/dotbitHQ",
+]
 
 # Repositories
 [[repo]]
@@ -77,6 +79,7 @@ url = "https://github.com/dotbitHQ/das-contracts"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-dapp-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-database"
@@ -188,3 +191,4 @@ url = "https://github.com/dotbitHQ/wallet-sdk-js"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/Web3-Name-Service"
+

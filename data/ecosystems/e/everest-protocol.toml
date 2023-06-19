@@ -3,7 +3,9 @@ title = "Everest Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Everest-Option-Exchange-Team"]
+github_organizations = [
+  "https://github.com/Everest-Option-Exchange-Team",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Everest-Option-Exchange-Team/docs"
 
 [[repo]]
 url = "https://github.com/Everest-Option-Exchange-Team/test-interface"
+

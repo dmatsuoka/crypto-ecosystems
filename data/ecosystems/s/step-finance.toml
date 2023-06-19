@@ -3,7 +3,9 @@ title = "Step Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/step-finance"]
+github_organizations = [
+  "https://github.com/step-finance",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/step-finance/taskforce-connector"
 
 [[repo]]
 url = "https://github.com/step-finance/token-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/step-finance/token-list-overrides"
@@ -71,3 +74,4 @@ url = "https://github.com/step-finance/utl-aggregator"
 
 [[repo]]
 url = "https://github.com/step-finance/visx"
+

@@ -3,7 +3,9 @@ title = "Amplify Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amplify-labs"]
+github_organizations = [
+  "https://github.com/amplify-labs",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/amplify-labs/contracts"
 
 [[repo]]
 url = "https://github.com/amplify-labs/whitepaper"
+

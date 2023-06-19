@@ -3,7 +3,9 @@ title = "Decemony"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/decenomy"]
+github_organizations = [
+  "https://github.com/decenomy",
+]
 
 # Repositories
 [[repo]]
@@ -53,9 +55,11 @@ url = "https://github.com/decenomy/DSW"
 
 [[repo]]
 url = "https://github.com/decenomy/DSW-UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/decenomy/DSW.UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/decenomy/dswjs-lib"
@@ -104,6 +108,7 @@ url = "https://github.com/decenomy/MONK"
 
 [[repo]]
 url = "https://github.com/decenomy/MonkeyV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/decenomy/OWO"
@@ -140,3 +145,4 @@ url = "https://github.com/decenomy/TRTT"
 
 [[repo]]
 url = "https://github.com/decenomy/UCR"
+

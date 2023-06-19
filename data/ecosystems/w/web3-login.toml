@@ -3,7 +3,9 @@ title = "Web3 Login"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/web3-login"]
+github_organizations = [
+  "https://github.com/web3-login",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/web3-login/web3-login-page"
 
 [[repo]]
 url = "https://github.com/web3-login/web3-login.github.io"
+

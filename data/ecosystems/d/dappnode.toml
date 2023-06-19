@@ -3,7 +3,9 @@ title = "DAppNode"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dappnode"]
+github_organizations = [
+  "https://github.com/dappnode",
+]
 
 # Repositories
 [[repo]]
@@ -371,6 +373,7 @@ url = "https://github.com/dappnode/DAppNodePackage-Teku-Prater"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-testing"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-Tornado-Cash-Relayer"
@@ -419,6 +422,7 @@ url = "https://github.com/dappnode/DAppNodePackage-web3signer-prater"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-web3signer-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-zcash"
@@ -500,6 +504,7 @@ url = "https://github.com/dappnode/eth2-keymanager-frontend"
 
 [[repo]]
 url = "https://github.com/dappnode/eth2-keymanager-frontend-dappnode"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappnode/eth2-keymanager-frontend-dappnode-temporary"
@@ -569,6 +574,7 @@ url = "https://github.com/dappnode/prune-slashing"
 
 [[repo]]
 url = "https://github.com/dappnode/QA"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappnode/schemas"
@@ -623,3 +629,4 @@ url = "https://github.com/dappnode/welcome"
 
 [[repo]]
 url = "https://github.com/dappnode/welcome_materials"
+

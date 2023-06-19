@@ -3,7 +3,9 @@ title = "Faceter"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/faceterteam"]
+github_organizations = [
+  "https://github.com/faceterteam",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/faceterteam/smart_contracts"
 
 [[repo]]
 url = "https://github.com/faceterteam/SwiftKeychainWrapper"
+

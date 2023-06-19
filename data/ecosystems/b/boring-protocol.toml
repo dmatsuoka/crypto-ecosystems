@@ -3,17 +3,21 @@ title = "Boring Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boringprotocol"]
+github_organizations = [
+  "https://github.com/boringprotocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/boringprotocol/bippity-boppity"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/bopbot"
 
 [[repo]]
 url = "https://github.com/boringprotocol/bops-ur-uncle"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/bore"
@@ -35,15 +39,18 @@ url = "https://github.com/boringprotocol/boringprotocol-io"
 
 [[repo]]
 url = "https://github.com/boringprotocol/boringprotocol.sol"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/brand"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/brand-assets"
 
 [[repo]]
 url = "https://github.com/boringprotocol/bridge_ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/connect-pi"
@@ -56,15 +63,18 @@ url = "https://github.com/boringprotocol/docs"
 
 [[repo]]
 url = "https://github.com/boringprotocol/dvpn.sol"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/ecosystem"
 
 [[repo]]
 url = "https://github.com/boringprotocol/everything-boring"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/general"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/HIP"
@@ -80,9 +90,11 @@ url = "https://github.com/boringprotocol/metaplex"
 
 [[repo]]
 url = "https://github.com/boringprotocol/motherbored"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/motherbored.limited"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/netbird"
@@ -92,6 +104,7 @@ url = "https://github.com/boringprotocol/pi-gen"
 
 [[repo]]
 url = "https://github.com/boringprotocol/roadmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/serum-ts"
@@ -107,6 +120,8 @@ url = "https://github.com/boringprotocol/token-list"
 
 [[repo]]
 url = "https://github.com/boringprotocol/website"
+missing = true
 
 [[repo]]
 url = "https://github.com/boringprotocol/whitepaper"
+

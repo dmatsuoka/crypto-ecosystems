@@ -3,7 +3,9 @@ title = "Folks Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Folks-Finance"]
+github_organizations = [
+  "https://github.com/Folks-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Folks-Finance/folks-finance-contracts"
 
 [[repo]]
 url = "https://github.com/Folks-Finance/folks-finance-js-sdk"
+

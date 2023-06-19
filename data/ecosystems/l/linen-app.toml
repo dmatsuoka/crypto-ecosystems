@@ -3,7 +3,9 @@ title = "Linen App"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/linen-app"]
+github_organizations = [
+  "https://github.com/linen-app",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/linen-app/WalletConnectSwift"
 
 [[repo]]
 url = "https://github.com/linen-app/web3swift"
+

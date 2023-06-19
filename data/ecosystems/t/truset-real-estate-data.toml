@@ -3,7 +3,9 @@ title = "TruSet Real Estate Data"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TruSet"]
+github_organizations = [
+  "https://github.com/TruSet",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/TruSet/RevealerAPI"
 
 [[repo]]
 url = "https://github.com/TruSet/truset.github.io"
+

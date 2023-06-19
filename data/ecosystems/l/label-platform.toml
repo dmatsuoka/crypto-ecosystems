@@ -3,7 +3,9 @@ title = "Label Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/label-platform"]
+github_organizations = [
+  "https://github.com/label-platform",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/label-platform/binance-tracks-fe"
 
 [[repo]]
 url = "https://github.com/label-platform/label-market-sc"
+

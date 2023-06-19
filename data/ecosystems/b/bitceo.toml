@@ -3,7 +3,9 @@ title = "bitCEO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitceo"]
+github_organizations = [
+  "https://github.com/bitceo",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/bitceo/WebClientZeniius"
 
 [[repo]]
 url = "https://github.com/bitceo/YellowPaper"
+

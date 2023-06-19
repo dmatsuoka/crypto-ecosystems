@@ -3,7 +3,9 @@ title = "CheeseDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CatAndMouseDAO"]
+github_organizations = [
+  "https://github.com/CatAndMouseDAO",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/CatAndMouseDAO/ethers-multicall"
 
 [[repo]]
 url = "https://github.com/CatAndMouseDAO/Redirect"
+

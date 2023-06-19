@@ -3,7 +3,9 @@ title = "5Degrees Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/5DegreesProtocol"]
+github_organizations = [
+  "https://github.com/5DegreesProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/5DegreesProtocol/interface"
 
 [[repo]]
 url = "https://github.com/5DegreesProtocol/pancake-frontend"
+

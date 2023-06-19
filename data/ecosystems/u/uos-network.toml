@@ -3,7 +3,9 @@ title = "UOS Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UOSnetwork"]
+github_organizations = [
+  "https://github.com/UOSnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,11 @@ url = "https://github.com/UOSnetwork/tribute"
 
 [[repo]]
 url = "https://github.com/UOSnetwork/ucom.backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UOSnetwork/ucom.frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UOSnetwork/ucom.libs.common"
@@ -71,3 +75,4 @@ url = "https://github.com/UOSnetwork/uos.uip"
 
 [[repo]]
 url = "https://github.com/UOSnetwork/UOSTracker"
+

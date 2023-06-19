@@ -3,7 +3,9 @@ title = "PTON"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/forestingnetwork"]
+github_organizations = [
+  "https://github.com/forestingnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/forestingnetwork/etherwallet"
 
 [[repo]]
 url = "https://github.com/forestingnetwork/foresting"
+missing = true
 
 [[repo]]
 url = "https://github.com/forestingnetwork/go-ptonchain"
@@ -56,3 +59,4 @@ url = "https://github.com/forestingnetwork/ptonscan"
 
 [[repo]]
 url = "https://github.com/forestingnetwork/react-native-image-kit"
+

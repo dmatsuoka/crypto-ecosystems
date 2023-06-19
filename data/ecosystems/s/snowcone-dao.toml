@@ -3,7 +3,9 @@ title = "SnowCone DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SnowConeDao"]
+github_organizations = [
+  "https://github.com/SnowConeDao",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/SnowConeDao/python-snowtrace"
 
 [[repo]]
 url = "https://github.com/SnowConeDao/snowconekit"
+

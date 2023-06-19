@@ -3,7 +3,9 @@ title = "Boosted Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Boosted-Finance"]
+github_organizations = [
+  "https://github.com/Boosted-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Boosted-Finance/smart-contracts"
 
 [[repo]]
 url = "https://github.com/Boosted-Finance/snapshot-spaces"
+

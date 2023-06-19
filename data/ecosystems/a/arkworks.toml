@@ -3,7 +3,9 @@ title = "Arkworks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arkworks-rs"]
+github_organizations = [
+  "https://github.com/arkworks-rs",
+]
 
 # Repositories
 [[repo]]
@@ -83,3 +85,4 @@ url = "https://github.com/arkworks-rs/sumcheck"
 
 [[repo]]
 url = "https://github.com/arkworks-rs/template"
+

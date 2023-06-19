@@ -3,7 +3,9 @@ title = "ChainWhiZ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ChainWhiZ"]
+github_organizations = [
+  "https://github.com/ChainWhiZ",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/ChainWhiZ/Resources-Center-Web3"
 
 [[repo]]
 url = "https://github.com/ChainWhiZ/safe-contracts"
+

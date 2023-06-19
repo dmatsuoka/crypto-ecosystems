@@ -3,7 +3,9 @@ title = "DecentralCardGame"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecentralCardGame"]
+github_organizations = [
+  "https://github.com/DecentralCardGame",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/DecentralCardGame/cosmonauts-world"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/CrowdControlLauncher"
+missing = true
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/DecentralCardGame-Cardchain-client-ts"
@@ -56,3 +59,4 @@ url = "https://github.com/DecentralCardGame/Testnet"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/whitepaper"
+

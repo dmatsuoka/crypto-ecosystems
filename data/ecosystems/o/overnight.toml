@@ -3,7 +3,9 @@ title = "Overnight"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ovnstable"]
+github_organizations = [
+  "https://github.com/ovnstable",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/ovnstable/ovnstable-widgets"
 
 [[repo]]
 url = "https://github.com/ovnstable/peggedassets-server"
+

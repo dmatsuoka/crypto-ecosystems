@@ -3,7 +3,9 @@ title = "Datopia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/datopia"]
+github_organizations = [
+  "https://github.com/datopia",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/datopia/planet.clojure"
 
 [[repo]]
 url = "https://github.com/datopia/stickler"
+

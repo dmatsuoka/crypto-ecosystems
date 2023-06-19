@@ -3,7 +3,9 @@ title = "Aboard Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Aboard-Exchange"]
+github_organizations = [
+  "https://github.com/Aboard-Exchange",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Aboard-Exchange/audit_report"
 
 [[repo]]
 url = "https://github.com/Aboard-Exchange/smart-contract"
+

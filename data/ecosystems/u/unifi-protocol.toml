@@ -3,7 +3,9 @@ title = "Unifi Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unifiprotocol"]
+github_organizations = [
+  "https://github.com/unifiprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/unifiprotocol/uTradeV2-core"
 
 [[repo]]
 url = "https://github.com/unifiprotocol/validator-logos"
+

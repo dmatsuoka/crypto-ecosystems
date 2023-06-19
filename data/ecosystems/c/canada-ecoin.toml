@@ -3,7 +3,9 @@ title = "Canada eCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Canada-eCoin"]
+github_organizations = [
+  "https://github.com/Canada-eCoin",
+]
 
 # Repositories
 [[repo]]
@@ -89,6 +91,7 @@ url = "https://github.com/Canada-eCoin/eth-net-intelligence-api"
 
 [[repo]]
 url = "https://github.com/Canada-eCoin/eth-netstats"
+missing = true
 
 [[repo]]
 url = "https://github.com/Canada-eCoin/explorer"
@@ -116,3 +119,4 @@ url = "https://github.com/Canada-eCoin/self-hosted-box"
 
 [[repo]]
 url = "https://github.com/Canada-eCoin/Yaaic"
+

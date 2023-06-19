@@ -3,7 +3,9 @@ title = "Boom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boomcrypto"]
+github_organizations = [
+  "https://github.com/boomcrypto",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/boomcrypto/stacks-name-system"
 
 [[repo]]
 url = "https://github.com/boomcrypto/wallet-connect"
+

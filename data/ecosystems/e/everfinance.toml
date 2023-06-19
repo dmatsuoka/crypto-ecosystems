@@ -3,7 +3,9 @@ title = "everFinance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/everFinance"]
+github_organizations = [
+  "https://github.com/everFinance",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/everFinance/arsyncer"
 
 [[repo]]
 url = "https://github.com/everFinance/arsyncer-s3"
+missing = true
 
 [[repo]]
 url = "https://github.com/everFinance/arweave-bundles"
@@ -110,3 +113,4 @@ url = "https://github.com/everFinance/turing"
 
 [[repo]]
 url = "https://github.com/everFinance/web3infra-hackathon"
+

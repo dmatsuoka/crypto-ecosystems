@@ -3,7 +3,9 @@ title = "ShineChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShineChain"]
+github_organizations = [
+  "https://github.com/ShineChain",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/ShineChain/Whitepaper"
 
 [[repo]]
 url = "https://github.com/ShineChain/www"
+

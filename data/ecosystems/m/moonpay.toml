@@ -3,7 +3,9 @@ title = "MoonPay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonpay"]
+github_organizations = [
+  "https://github.com/moonpay",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/moonpay/storefront"
 
 [[repo]]
 url = "https://github.com/moonpay/typeorm"
+

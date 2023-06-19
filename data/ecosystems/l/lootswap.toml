@@ -3,7 +3,9 @@ title = "LootSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LootSwap"]
+github_organizations = [
+  "https://github.com/LootSwap",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/LootSwap/lootswap-uikit"
 
 [[repo]]
 url = "https://github.com/LootSwap/snapshot-spaces"
+

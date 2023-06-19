@@ -3,7 +3,9 @@ title = "Curio Cards"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/curiocards"]
+github_organizations = [
+  "https://github.com/curiocards",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/curiocards/vintage.curio.cards"
 
 [[repo]]
 url = "https://github.com/curiocards/wrapper-contracts"
+

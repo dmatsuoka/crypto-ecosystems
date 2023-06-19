@@ -3,7 +3,9 @@ title = "ParaDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paradaochain"]
+github_organizations = [
+  "https://github.com/paradaochain",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/paradaochain/docs"
 
 [[repo]]
 url = "https://github.com/paradaochain/paradao-ui"
+

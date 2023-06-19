@@ -3,7 +3,9 @@ title = "KogeCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kogecoin"]
+github_organizations = [
+  "https://github.com/kogecoin",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/kogecoin/vote-kogecoin-netlify"
 
 [[repo]]
 url = "https://github.com/kogecoin/widget"
+

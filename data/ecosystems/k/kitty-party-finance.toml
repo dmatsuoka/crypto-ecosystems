@@ -3,7 +3,9 @@ title = "Kitty Party Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kittypartydefi"]
+github_organizations = [
+  "https://github.com/kittypartydefi",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,5 @@ url = "https://github.com/kittypartydefi/token-lock"
 
 [[repo]]
 url = "https://github.com/kittypartydefi/zkTribe"
+missing = true
+

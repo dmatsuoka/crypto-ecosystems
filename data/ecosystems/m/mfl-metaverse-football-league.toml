@@ -3,7 +3,9 @@ title = "MFL Metaverse Football League"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Metaverse-Football-League"]
+github_organizations = [
+  "https://github.com/Metaverse-Football-League",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Metaverse-Football-League/mfl-game-bot"
 
 [[repo]]
 url = "https://github.com/Metaverse-Football-League/mfl-smart-contracts"
+

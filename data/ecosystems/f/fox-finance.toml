@@ -3,7 +3,9 @@ title = "FOX Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FOX-Finance"]
+github_organizations = [
+  "https://github.com/FOX-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/FOX-Finance/FOX-oracle"
 
 [[repo]]
 url = "https://github.com/FOX-Finance/webapp"
+

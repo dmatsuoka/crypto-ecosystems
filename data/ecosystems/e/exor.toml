@@ -3,7 +3,9 @@ title = "EXOR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/team-exor"]
+github_organizations = [
+  "https://github.com/team-exor",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/team-exor/generic-unspendable"
 
 [[repo]]
 url = "https://github.com/team-exor/gitian.sigs"
+

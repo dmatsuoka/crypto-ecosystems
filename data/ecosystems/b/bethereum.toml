@@ -3,7 +3,9 @@ title = "Bethereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bethereumproject"]
+github_organizations = [
+  "https://github.com/bethereumproject",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/bethereumproject/vesting_smart_contracts"
 
 [[repo]]
 url = "https://github.com/bethereumproject/world_cup_lottery"
+

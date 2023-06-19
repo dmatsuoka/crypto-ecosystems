@@ -3,11 +3,16 @@ title = "Agreements Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/agreements-network"]
+github_organizations = [
+  "https://github.com/agreements-network",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/agreements-network/blackstone"
+missing = true
 
 [[repo]]
 url = "https://github.com/agreements-network/site"
+missing = true
+

@@ -3,7 +3,9 @@ title = "Intelligent Trading Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IntelligentTrading"]
+github_organizations = [
+  "https://github.com/IntelligentTrading",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/IntelligentTrading/core"
 
 [[repo]]
 url = "https://github.com/IntelligentTrading/dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/IntelligentTrading/data"
@@ -95,3 +98,4 @@ url = "https://github.com/IntelligentTrading/ui"
 
 [[repo]]
 url = "https://github.com/IntelligentTrading/user-dashboard"
+

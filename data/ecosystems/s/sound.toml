@@ -3,7 +3,9 @@ title = "Sound"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/soundxyz"]
+github_organizations = [
+  "https://github.com/soundxyz",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/soundxyz/wagmi"
 
 [[repo]]
 url = "https://github.com/soundxyz/web3modal"
+

@@ -3,7 +3,9 @@ title = "Tender Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tender-finance"]
+github_organizations = [
+  "https://github.com/tender-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/tender-finance/tender-fi-contracts"
 
 [[repo]]
 url = "https://github.com/tender-finance/tender-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/tender-finance/tender-lib"
@@ -41,3 +44,4 @@ url = "https://github.com/tender-finance/TND-Contracts"
 
 [[repo]]
 url = "https://github.com/tender-finance/yield-server"
+

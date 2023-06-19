@@ -3,7 +3,9 @@ title = "Minds"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Minds"]
+github_organizations = [
+  "https://github.com/Minds",
+]
 
 # Repositories
 [[repo]]
@@ -167,3 +169,4 @@ url = "https://github.com/Minds/web3modal-angular"
 
 [[repo]]
 url = "https://github.com/Minds/web3modal-ts"
+

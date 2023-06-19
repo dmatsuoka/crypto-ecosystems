@@ -3,7 +3,9 @@ title = "Phantasma"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/phantasma-io"]
+github_organizations = [
+  "https://github.com/phantasma-io",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/phantasma-io/Ecto"
 
 [[repo]]
 url = "https://github.com/phantasma-io/neo"
+missing = true
 
 [[repo]]
 url = "https://github.com/phantasma-io/neon-wallet"
@@ -134,3 +137,4 @@ url = "https://github.com/phantasma-io/vim-tomb"
 
 [[repo]]
 url = "https://github.com/phantasma-io/vscode-tomb"
+

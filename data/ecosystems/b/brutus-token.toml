@@ -3,7 +3,9 @@ title = "Brutus Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/brutustoken"]
+github_organizations = [
+  "https://github.com/brutustoken",
+]
 
 # Repositories
 [[repo]]
@@ -14,27 +16,32 @@ url = "https://github.com/brutustoken/BRUTUS-TOKEN"
 
 [[repo]]
 url = "https://github.com/brutustoken/brutusgroup.tk"
+missing = true
 
 [[repo]]
 url = "https://github.com/brutustoken/brutustoken.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/brutustoken/brutustoken.tk"
 
 [[repo]]
 url = "https://github.com/brutustoken/dapp.brutusgroup.tk"
+missing = true
 
 [[repo]]
 url = "https://github.com/brutustoken/finance"
 
 [[repo]]
 url = "https://github.com/brutustoken/Galeria"
+missing = true
 
 [[repo]]
 url = "https://github.com/brutustoken/MINTEARTE"
 
 [[repo]]
 url = "https://github.com/brutustoken/mintearte.tk"
+missing = true
 
 [[repo]]
 url = "https://github.com/brutustoken/Telegram-bot-v2"
@@ -44,3 +51,4 @@ url = "https://github.com/brutustoken/tron-tvc-list"
 
 [[repo]]
 url = "https://github.com/brutustoken/tronsr-template"
+

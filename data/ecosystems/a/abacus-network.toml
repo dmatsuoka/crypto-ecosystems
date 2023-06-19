@@ -3,7 +3,9 @@ title = "Abacus Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/abacus-network"]
+github_organizations = [
+  "https://github.com/abacus-network",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/abacus-network/abacus-app-template"
 
 [[repo]]
 url = "https://github.com/abacus-network/axelar-local-gmp-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/celo-ethers-provider"
@@ -41,3 +44,4 @@ url = "https://github.com/hyperlane-xyz/hyperlane-nft"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-token"
+

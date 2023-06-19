@@ -3,7 +3,9 @@ title = "Blockchain Commons"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockchainCommons"]
+github_organizations = [
+  "https://github.com/BlockchainCommons",
+]
 
 # Repositories
 [[repo]]
@@ -377,3 +379,4 @@ url = "https://github.com/BlockchainCommons/www.FiduciaryComputing.com"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/www.SmartCustody.com"
+

@@ -3,8 +3,11 @@ title = "Increment Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IncrementFi"]
+github_organizations = [
+  "https://github.com/IncrementFi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/IncrementFi/token-list"
+

@@ -3,7 +3,9 @@ title = "State Channels"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/statechannels"]
+github_organizations = [
+  "https://github.com/statechannels",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/statechannels/exit-format"
 
 [[repo]]
 url = "https://github.com/statechannels/go-crypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/statechannels/go-nitro"
@@ -50,6 +53,7 @@ url = "https://github.com/statechannels/legacy-packages"
 
 [[repo]]
 url = "https://github.com/statechannels/lotus"
+missing = true
 
 [[repo]]
 url = "https://github.com/statechannels/native-utils"
@@ -65,6 +69,7 @@ url = "https://github.com/statechannels/nitro-protocol"
 
 [[repo]]
 url = "https://github.com/statechannels/nitro-rpc-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/statechannels/nitro-tutorial"
@@ -101,3 +106,4 @@ url = "https://github.com/statechannels/wallet-specs"
 
 [[repo]]
 url = "https://github.com/statechannels/website"
+

@@ -3,7 +3,9 @@ title = "Nevermind"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nevermined-io"]
+github_organizations = [
+  "https://github.com/nevermined-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/nevermined-io/.github"
 
 [[repo]]
 url = "https://github.com/nevermined-io/app_docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/nevermined-io/assets"
@@ -200,3 +203,4 @@ url = "https://github.com/nevermined-io/tutorials"
 
 [[repo]]
 url = "https://github.com/nevermined-io/workshop"
+

@@ -3,7 +3,9 @@ title = "OX Fina"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oxfina"]
+github_organizations = [
+  "https://github.com/oxfina",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/oxfina/OX-Whitepaper"
 
 [[repo]]
 url = "https://github.com/oxfina/Token"
+

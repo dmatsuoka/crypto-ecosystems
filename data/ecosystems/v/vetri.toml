@@ -3,7 +3,9 @@ title = "Vetri"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vetri-global"]
+github_organizations = [
+  "https://github.com/vetri-global",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/vetri-global/vetri-did-driver"
 
 [[repo]]
 url = "https://github.com/vetri-global/white-paper"
+

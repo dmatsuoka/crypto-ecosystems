@@ -3,7 +3,9 @@ title = "Reverse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vertekfi"]
+github_organizations = [
+  "https://github.com/vertekfi",
+]
 
 # Repositories
 [[repo]]
@@ -29,15 +31,18 @@ url = "https://github.com/vertekfi/beefy-contracts"
 
 [[repo]]
 url = "https://github.com/vertekfi/bribes"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/bsc-blocks"
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-backend-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-frontend"
@@ -77,12 +82,15 @@ url = "https://github.com/vertekfi/token-list"
 
 [[repo]]
 url = "https://github.com/vertekfi/vaults"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/vertek-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/vertek-nft"
 
 [[repo]]
 url = "https://github.com/vertekfi/voting-snapshots"
+

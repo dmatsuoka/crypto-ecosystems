@@ -3,7 +3,9 @@ title = "Tribeca Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TribecaHQ"]
+github_organizations = [
+  "https://github.com/TribecaHQ",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/TribecaHQ/tribeca-registry-build"
 
 [[repo]]
 url = "https://github.com/TribecaHQ/vote-escrow-leaderboard"
+

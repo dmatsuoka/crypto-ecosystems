@@ -3,7 +3,9 @@ title = "Astria"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/astriaorg"]
+github_organizations = [
+  "https://github.com/astriaorg",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/astriaorg/tendermint"
 
 [[repo]]
 url = "https://github.com/astriaorg/test-images"
+

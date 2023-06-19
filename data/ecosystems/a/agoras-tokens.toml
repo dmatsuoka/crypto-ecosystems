@@ -3,7 +3,9 @@ title = "Agoras Tokens"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IDNI"]
+github_organizations = [
+  "https://github.com/IDNI",
+]
 
 # Repositories
 [[repo]]
@@ -26,9 +28,11 @@ url = "https://github.com/IDNI/Tau-Alpha-Server"
 
 [[repo]]
 url = "https://github.com/IDNI/tau-lang"
+missing = true
 
 [[repo]]
 url = "https://github.com/IDNI/TML"
 
 [[repo]]
 url = "https://github.com/IDNI/tml_playground"
+

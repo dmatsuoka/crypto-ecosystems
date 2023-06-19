@@ -3,7 +3,9 @@ title = "Jarvis Plus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/x-contract"]
+github_organizations = [
+  "https://github.com/x-contract",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/x-contract/WorldCupBetSmartContractSolution"
 
 [[repo]]
 url = "https://github.com/x-contract/X-Contract.ICO"
+

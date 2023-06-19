@@ -3,7 +3,9 @@ title = "Bunicorn"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bunicorndefi"]
+github_organizations = [
+  "https://github.com/bunicorndefi",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/bunicorndefi/tokenswap_exchange_proxy"
 
 [[repo]]
 url = "https://github.com/bunicorndefi/tokenswap_registry_proxy"
+

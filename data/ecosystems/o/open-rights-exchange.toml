@@ -3,7 +3,9 @@ title = "Open Rights Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Open-Rights-Exchange"]
+github_organizations = [
+  "https://github.com/Open-Rights-Exchange",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Open-Rights-Exchange/ore-protocol"
 
 [[repo]]
 url = "https://github.com/Open-Rights-Exchange/ore-verifier"
+

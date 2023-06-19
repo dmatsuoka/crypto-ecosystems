@@ -3,7 +3,9 @@ title = "Hybrix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hybrix-io"]
+github_organizations = [
+  "https://github.com/hybrix-io",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/hybrix-io/hybrixd"
 
 [[repo]]
 url = "https://github.com/hybrix-io/tui-wallet"
+

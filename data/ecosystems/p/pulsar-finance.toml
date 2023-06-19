@@ -3,7 +3,9 @@ title = "Pulsar Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PulsarDefi"]
+github_organizations = [
+  "https://github.com/PulsarDefi",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/PulsarDefi/web3.py"
 
 [[repo]]
 url = "https://github.com/PulsarDefi/zo-sdk-py"
+

@@ -3,7 +3,9 @@ title = "ContentBox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BOXFoundation"]
+github_organizations = [
+  "https://github.com/BOXFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/BOXFoundation/transaction-scheduling"
 
 [[repo]]
 url = "https://github.com/BOXFoundation/whitepaper"
+

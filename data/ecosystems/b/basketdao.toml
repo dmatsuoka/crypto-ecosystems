@@ -3,7 +3,9 @@ title = "BasketDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/basketdao"]
+github_organizations = [
+  "https://github.com/basketdao",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/basketdao/timelock-viewer"
 
 [[repo]]
 url = "https://github.com/basketdao/yearn-exporter"
+

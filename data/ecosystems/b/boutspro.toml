@@ -3,7 +3,9 @@ title = "BoutsPro"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bouts-Pro"]
+github_organizations = [
+  "https://github.com/Bouts-Pro",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Bouts-Pro/tokenbase"
 
 [[repo]]
 url = "https://github.com/Bouts-Pro/zeppelin-solidity"
+

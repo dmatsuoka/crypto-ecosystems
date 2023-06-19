@@ -3,7 +3,9 @@ title = "Cellframe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/demlabs-cellframe"]
+github_organizations = [
+  "https://github.com/demlabs-cellframe",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/demlabs-cellframe/python-cellframe-app-bundle"
 
 [[repo]]
 url = "https://github.com/demlabs-cellframe/wordpress-plugin-cellframe-explorer"
+

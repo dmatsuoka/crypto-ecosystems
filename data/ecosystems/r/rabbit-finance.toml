@@ -3,7 +3,9 @@ title = "Rabbit Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RabbitFinanceProtocol"]
+github_organizations = [
+  "https://github.com/RabbitFinanceProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/RabbitFinanceProtocol/rabbit_dao"
 
 [[repo]]
 url = "https://github.com/RabbitFinanceProtocol/rabbit_finance_bsc"
+

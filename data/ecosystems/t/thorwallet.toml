@@ -3,7 +3,9 @@ title = "THORWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/THORWallet"]
+github_organizations = [
+  "https://github.com/THORWallet",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/THORWallet/THORWallet-xchainjs"
 
 [[repo]]
 url = "https://github.com/THORWallet/xchainjs-lib"
+

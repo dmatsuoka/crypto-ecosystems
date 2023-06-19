@@ -3,7 +3,9 @@ title = "Dapp University"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dappuniversity"]
+github_organizations = [
+  "https://github.com/dappuniversity",
+]
 
 # Repositories
 [[repo]]
@@ -143,6 +145,7 @@ url = "https://github.com/dappuniversity/freelance-project-template"
 
 [[repo]]
 url = "https://github.com/dappuniversity/frontrunning"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappuniversity/Frontrunning-attack-tutorial"
@@ -308,3 +311,4 @@ url = "https://github.com/dappuniversity/whale_tracker"
 
 [[repo]]
 url = "https://github.com/dappuniversity/yield-aggregator"
+

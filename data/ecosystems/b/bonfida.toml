@@ -3,7 +3,9 @@ title = "Bonfida"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bonfida"]
+github_organizations = [
+  "https://github.com/Bonfida",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/Bonfida/batch-resolver"
 
 [[repo]]
 url = "https://github.com/Bonfida/bonfida-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bonfida/bonfida-bot-docs"
@@ -77,6 +80,7 @@ url = "https://github.com/Bonfida/name-resolver"
 
 [[repo]]
 url = "https://github.com/Bonfida/name-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bonfida/name-tokenizer"
@@ -146,3 +150,4 @@ url = "https://github.com/Bonfida/validators"
 
 [[repo]]
 url = "https://github.com/Bonfida/vault-watcher"
+

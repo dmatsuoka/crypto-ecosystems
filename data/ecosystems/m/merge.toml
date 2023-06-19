@@ -3,7 +3,9 @@ title = "Merge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProjectMerge"]
+github_organizations = [
+  "https://github.com/ProjectMerge",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/ProjectMerge/safe-ordinals-gallery"
 
 [[repo]]
 url = "https://github.com/ProjectMerge/yiimp"
+

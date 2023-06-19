@@ -3,7 +3,9 @@ title = "Algomint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Algomint"]
+github_organizations = [
+  "https://github.com/Algomint",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Algomint/monthly-report"
 
 [[repo]]
 url = "https://github.com/Algomint/moralis-ethereum-nextjs-demo"
+

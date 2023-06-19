@@ -1,9 +1,15 @@
 # Ecosystem Level Information
 title = "Celestia"
 
-sub_ecosystems = ["Astria", "Modular Cloud", "Rollkit"]
+sub_ecosystems = [
+  "Astria",
+  "Modular Cloud",
+  "Rollkit",
+]
 
-github_organizations = ["https://github.com/celestiaorg"]
+github_organizations = [
+  "https://github.com/celestiaorg",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +62,7 @@ url = "https://github.com/celestiaorg/celestia-specs"
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia-sre"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia.org"
@@ -110,6 +117,7 @@ url = "https://github.com/celestiaorg/docs"
 
 [[repo]]
 url = "https://github.com/celestiaorg/docs.celestia.org"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/ephemeral-cluster"
@@ -137,6 +145,7 @@ url = "https://github.com/celestiaorg/explorer"
 
 [[repo]]
 url = "https://github.com/celestiaorg/gatsby-plugin-plausible"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/go-car"
@@ -167,6 +176,7 @@ url = "https://github.com/celestiaorg/go-libp2p-pubsub"
 
 [[repo]]
 url = "https://github.com/celestiaorg/go-multihash"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/go-verifcid"
@@ -194,6 +204,7 @@ url = "https://github.com/celestiaorg/insync"
 
 [[repo]]
 url = "https://github.com/celestiaorg/interchaintest"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/ipld-plugin-experiments"
@@ -329,3 +340,4 @@ url = "https://github.com/samricotta/cel-dummy"
 
 [[repo]]
 url = "https://github.com/XF0707/celestia"
+

@@ -3,7 +3,9 @@ title = "mrgn"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mrgnlabs"]
+github_organizations = [
+  "https://github.com/mrgnlabs",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/mrgnlabs/zo-abi"
 
 [[repo]]
 url = "https://github.com/mrgnlabs/zo-keeper"
+

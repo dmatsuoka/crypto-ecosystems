@@ -3,7 +3,9 @@ title = "The Kin DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TheKinDAO"]
+github_organizations = [
+  "https://github.com/TheKinDAO",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/TheKinDAO/User_Account"
 
 [[repo]]
 url = "https://github.com/TheKinDAO/Work_Contract"
+

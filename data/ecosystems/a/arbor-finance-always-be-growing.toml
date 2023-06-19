@@ -3,7 +3,9 @@ title = "Arbor Finance (Always be Growing)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alwaysbegrowing"]
+github_organizations = [
+  "https://github.com/alwaysbegrowing",
+]
 
 # Repositories
 [[repo]]
@@ -17,12 +19,15 @@ url = "https://github.com/alwaysbegrowing/arbor-docs"
 
 [[repo]]
 url = "https://github.com/alwaysbegrowing/arbor-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/alwaysbegrowing/arbor-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/alwaysbegrowing/arbor-landing-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/alwaysbegrowing/bookland.eth"
@@ -119,3 +124,4 @@ url = "https://github.com/alwaysbegrowing/telegram-text-entities-filler"
 
 [[repo]]
 url = "https://github.com/alwaysbegrowing/twilio-video-app-react-nextjs"
+

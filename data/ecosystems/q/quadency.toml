@@ -3,7 +3,9 @@ title = "Quadency"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/quadency"]
+github_organizations = [
+  "https://github.com/quadency",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,5 @@ url = "https://github.com/quadency/react-grid-layout"
 
 [[repo]]
 url = "https://github.com/quadency/strategy-coder"
+missing = true
+

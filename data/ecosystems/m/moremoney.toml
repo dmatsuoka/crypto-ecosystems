@@ -3,7 +3,9 @@ title = "MoreMoney"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MoreMoney-Finance"]
+github_organizations = [
+  "https://github.com/MoreMoney-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/MoreMoney-Finance/web3-react"
 
 [[repo]]
 url = "https://github.com/MoreMoney-Finance/WP"
+

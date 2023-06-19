@@ -3,7 +3,9 @@ title = "DexKit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DexKit"]
+github_organizations = [
+  "https://github.com/DexKit",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/DexKit/wizard-contracts"
 
 [[repo]]
 url = "https://github.com/DexKit/wordpress"
+

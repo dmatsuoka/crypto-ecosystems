@@ -1,6 +1,13 @@
+# Ecosystem Level Information
 title = "dSquad"
+
 sub_ecosystems = []
-github_organizations = ["https://github.com/ICPSquad"]
+
+github_organizations = [
+  "https://github.com/ICPSquad",
+]
+
+# Repositories
 [[repo]]
 url = "https://github.com/ICPSquad/Squad"
 

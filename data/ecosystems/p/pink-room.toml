@@ -3,7 +3,9 @@ title = "Pink Room"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pink-room"]
+github_organizations = [
+  "https://github.com/pink-room",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/pink-room/short-stories-landing"
 
 [[repo]]
 url = "https://github.com/pink-room/walletconnectkit-android"
+

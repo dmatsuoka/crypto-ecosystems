@@ -3,7 +3,9 @@ title = "Uniris (Archethic)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/archethic-foundation"]
+github_organizations = [
+  "https://github.com/archethic-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/archethic-foundation/UCOnomics"
 
 [[repo]]
 url = "https://github.com/archethic-foundation/yubidart"
+

@@ -3,7 +3,9 @@ title = "vefi network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VeFi-Network"]
+github_organizations = [
+  "https://github.com/VeFi-Network",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/Vefi-Ecosystem/vefi-wallet"
 
 [[repo]]
 url = "https://github.com/Vefi-Ecosystem/vefi-wallet-processes"
+

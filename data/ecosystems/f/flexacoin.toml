@@ -3,7 +3,9 @@ title = "Flexacoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flexacoin"]
+github_organizations = [
+  "https://github.com/flexacoin",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/flexacoin/smart-contracts"
 
 [[repo]]
 url = "https://github.com/flexacoin/smart-contracts-audit"
+

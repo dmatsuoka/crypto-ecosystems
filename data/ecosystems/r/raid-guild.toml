@@ -3,7 +3,9 @@ title = "Raid Guild"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/raid-guild"]
+github_organizations = [
+  "https://github.com/raid-guild",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/raid-guild/araboard"
 
 [[repo]]
 url = "https://github.com/raid-guild/araboard-data-sources"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/aragon-colony-app"
@@ -68,6 +71,7 @@ url = "https://github.com/raid-guild/CypherShares-Governance-Staking"
 
 [[repo]]
 url = "https://github.com/raid-guild/CypherShares-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/cyphershares-ui"
@@ -215,6 +219,7 @@ url = "https://github.com/raid-guild/reactjs-web3connect"
 
 [[repo]]
 url = "https://github.com/raid-guild/RIP-Requests"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/RIPs"
@@ -257,3 +262,4 @@ url = "https://github.com/raid-guild/wrapeth"
 
 [[repo]]
 url = "https://github.com/raid-guild/zipzap-web"
+

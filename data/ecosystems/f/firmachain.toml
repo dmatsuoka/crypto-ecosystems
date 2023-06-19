@@ -3,7 +3,9 @@ title = "FirmaChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FirmaChain"]
+github_organizations = [
+  "https://github.com/FirmaChain",
+]
 
 # Repositories
 [[repo]]
@@ -248,3 +250,4 @@ url = "https://github.com/FirmaChain/web-examples"
 
 [[repo]]
 url = "https://github.com/FirmaChain/whitepaper"
+

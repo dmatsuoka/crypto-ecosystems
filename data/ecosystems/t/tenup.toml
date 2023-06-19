@@ -3,7 +3,9 @@ title = "TenUp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tenup-coin"]
+github_organizations = [
+  "https://github.com/tenup-coin",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/tenup-coin/TenupSmart"
 
 [[repo]]
 url = "https://github.com/tenup-coin/tups"
+

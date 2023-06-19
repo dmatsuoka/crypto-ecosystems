@@ -3,7 +3,9 @@ title = "Eclipse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Eclipse-Laboratories-Inc"]
+github_organizations = [
+  "https://github.com/Eclipse-Laboratories-Inc",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/Eclipse-Laboratories-Inc/curve25519-dalek"
 
 [[repo]]
 url = "https://github.com/Eclipse-Laboratories-Inc/documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/Eclipse-Laboratories-Inc/eclipse-faucet-front-end"
@@ -74,3 +77,4 @@ url = "https://github.com/Eclipse-Laboratories-Inc/solar-eclipse"
 
 [[repo]]
 url = "https://github.com/Eclipse-Laboratories-Inc/zk-bpf"
+

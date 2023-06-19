@@ -3,7 +3,9 @@ title = "Pentagon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pentagonxyz"]
+github_organizations = [
+  "https://github.com/pentagonxyz",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/pentagonxyz/safe-core-sdk"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/sui"
+missing = true
 
 [[repo]]
 url = "https://github.com/pentagonxyz/waymont-wallet-global-recovery-script"
@@ -77,3 +80,4 @@ url = "https://github.com/pentagonxyz/xyk-amm-move"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/zen-observable-ts"
+

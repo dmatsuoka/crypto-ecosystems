@@ -3,7 +3,9 @@ title = "Bread"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/breadwallet"]
+github_organizations = [
+  "https://github.com/breadwallet",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/breadwallet/ubuntu"
 
 [[repo]]
 url = "https://github.com/breadwallet/unbound"
+

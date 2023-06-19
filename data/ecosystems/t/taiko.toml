@@ -3,7 +3,9 @@ title = "Taiko"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/taikochain"]
+github_organizations = [
+  "https://github.com/taikochain",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/taikochain/halo2wrong"
 
 [[repo]]
 url = "https://github.com/taikochain/smock"
+missing = true
 
 [[repo]]
 url = "https://github.com/taikochain/whitepaper"
+missing = true
 
 [[repo]]
 url = "https://github.com/taikochain/zkevm-circuits"
@@ -35,3 +39,4 @@ url = "https://github.com/taikoxyz/taiko-geth"
 
 [[repo]]
 url = "https://github.com/taikoxyz/taiko-mono"
+

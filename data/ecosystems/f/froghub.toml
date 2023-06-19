@@ -3,7 +3,9 @@ title = "Froghub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/froghub-io"]
+github_organizations = [
+  "https://github.com/froghub-io",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/froghub-io/wFIL"
 
 [[repo]]
 url = "https://github.com/froghub-io/wFIL-home"
+

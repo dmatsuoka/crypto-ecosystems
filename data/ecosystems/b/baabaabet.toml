@@ -3,8 +3,11 @@ title = "BaaBaaBet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/baabaabet"]
+github_organizations = [
+  "https://github.com/baabaabet",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/baabaabet/baa-contracts"
+

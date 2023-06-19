@@ -3,7 +3,9 @@ title = "Bitfinex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitfinexcom"]
+github_organizations = [
+  "https://github.com/bitfinexcom",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/bitfinexcom/bfx-cli"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-coin-slp-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-ext-eos-multisig"
@@ -77,6 +80,7 @@ url = "https://github.com/bitfinexcom/bfx-ext-gpg-js"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-ext-sendgrid-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-facs-api"
@@ -650,3 +654,4 @@ url = "https://github.com/bitfinexcom/ulisse"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/wasteland"
+

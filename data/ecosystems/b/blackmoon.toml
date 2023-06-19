@@ -3,7 +3,9 @@ title = "Blackmoon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blackmoonfg"]
+github_organizations = [
+  "https://github.com/blackmoonfg",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/blackmoonfg/atx-common-contract"
 
 [[repo]]
 url = "https://github.com/blackmoonfg/bmc-contract"
+

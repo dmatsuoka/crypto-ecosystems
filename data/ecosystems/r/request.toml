@@ -3,7 +3,9 @@ title = "Request"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RequestNetwork"]
+github_organizations = [
+  "https://github.com/RequestNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -35,9 +37,11 @@ url = "https://github.com/RequestNetwork/donations.request.network"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/edge-core-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/edge-react-gui"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/js-ipfs-api"
@@ -71,6 +75,7 @@ url = "https://github.com/RequestNetwork/request-apps"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/request-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/request-helm-charts"
@@ -83,6 +88,7 @@ url = "https://github.com/RequestNetwork/Request-OP"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/Request_App"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/Request_Artifacts"
@@ -122,3 +128,4 @@ url = "https://github.com/RequestNetwork/workshop"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/xdeployer"
+

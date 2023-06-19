@@ -3,7 +3,9 @@ title = "Moonstream.to"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bugout-dev"]
+github_organizations = [
+  "https://github.com/bugout-dev",
+]
 
 # Repositories
 [[repo]]
@@ -224,3 +226,4 @@ url = "https://github.com/bugout-dev/unim-leaderboard"
 
 [[repo]]
 url = "https://github.com/bugout-dev/web3login"
+

@@ -3,7 +3,9 @@ title = "Alkemi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlkemiNetwork"]
+github_organizations = [
+  "https://github.com/AlkemiNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/AlkemiNetwork/api-docs"
 
 [[repo]]
 url = "https://github.com/AlkemiNetwork/projects"
+

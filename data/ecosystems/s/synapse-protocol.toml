@@ -3,7 +3,9 @@ title = "Synapse Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/synapsecns"]
+github_organizations = [
+  "https://github.com/synapsecns",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/synapsecns/gqlgenc"
 
 [[repo]]
 url = "https://github.com/synapsecns/interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/synapsecns/joe-core"
@@ -80,3 +83,4 @@ url = "https://github.com/synapsecns/synapse-sol-lib"
 
 [[repo]]
 url = "https://github.com/synapsecns/synapsecommon-go"
+

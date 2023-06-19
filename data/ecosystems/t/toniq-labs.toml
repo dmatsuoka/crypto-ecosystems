@@ -3,7 +3,9 @@ title = "Toniq Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Toniq-Labs"]
+github_organizations = [
+  "https://github.com/Toniq-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/Toniq-Labs/toniq-website"
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/web3auth-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/wrapped_cycles"
@@ -104,3 +107,4 @@ url = "https://github.com/Toniq-Labs/wrapper"
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/wtc-website"
+

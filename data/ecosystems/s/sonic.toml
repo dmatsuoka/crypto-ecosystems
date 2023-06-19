@@ -3,7 +3,9 @@ title = "Sonic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sonicdex"]
+github_organizations = [
+  "https://github.com/sonicdex",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/sonicdex/sonic-v1"
 
 [[repo]]
 url = "https://github.com/sonicdex/zkWasm"
+

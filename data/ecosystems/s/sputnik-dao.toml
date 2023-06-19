@@ -3,7 +3,9 @@ title = "Sputnik DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/near-daos"]
+github_organizations = [
+  "https://github.com/near-daos",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/near-daos/sputnik-dao-ui"
 
 [[repo]]
 url = "https://github.com/near-daos/sputnik-dao-ui-reskin"
+

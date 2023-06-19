@@ -3,11 +3,14 @@ title = "adbank"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AdBank"]
+github_organizations = [
+  "https://github.com/AdBank",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/AdBank/adbank-ads"
+missing = true
 
 [[repo]]
 url = "https://github.com/AdBank/adbank-alpha-preview"
@@ -23,3 +26,5 @@ url = "https://github.com/AdBank/blade-extension"
 
 [[repo]]
 url = "https://github.com/AdBank/UX"
+missing = true
+

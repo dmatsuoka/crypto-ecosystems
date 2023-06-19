@@ -3,7 +3,9 @@ title = "DuckDaoDime"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DuckDao"]
+github_organizations = [
+  "https://github.com/DuckDao",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,13 @@ url = "https://github.com/DuckDao/codepipeline-deployment"
 
 [[repo]]
 url = "https://github.com/DuckDao/DuckFarming_Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/DuckDao/DuckFarming_Contracts_v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/DuckDao/duckstarter_v2"
+missing = true
+

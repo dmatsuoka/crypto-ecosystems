@@ -3,7 +3,9 @@ title = "Geist Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/geist-finance"]
+github_organizations = [
+  "https://github.com/geist-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/geist-finance/geist-branding"
 
 [[repo]]
 url = "https://github.com/geist-finance/geist-protocol"
+

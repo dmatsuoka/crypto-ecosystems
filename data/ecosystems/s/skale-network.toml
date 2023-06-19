@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Skale Network"
 
-sub_ecosystems = ["Razor Network"]
+sub_ecosystems = [
+  "Razor Network",
+]
 
-github_organizations = ["https://github.com/skalenetwork"]
+github_organizations = [
+  "https://github.com/skalenetwork",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +66,7 @@ url = "https://github.com/skalenetwork/default-token-list"
 
 [[repo]]
 url = "https://github.com/skalenetwork/deploy-automation"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/dictionary"
@@ -113,6 +118,7 @@ url = "https://github.com/skalenetwork/hackathon"
 
 [[repo]]
 url = "https://github.com/skalenetwork/hardhat"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/hardhat-skale"
@@ -155,6 +161,7 @@ url = "https://github.com/skalenetwork/libBLS"
 
 [[repo]]
 url = "https://github.com/skalenetwork/libff"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/libjson-rpc-cpp"
@@ -233,9 +240,11 @@ url = "https://github.com/skalenetwork/se-integrations"
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx-lkl"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx.py"
@@ -296,6 +305,7 @@ url = "https://github.com/skalenetwork/skale-node"
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-node-monitor-jenkins"
@@ -353,6 +363,7 @@ url = "https://github.com/skalenetwork/test-docs"
 
 [[repo]]
 url = "https://github.com/skalenetwork/test-pm"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/test-tokens"
@@ -377,3 +388,4 @@ url = "https://github.com/skalenetwork/web3-exercises"
 
 [[repo]]
 url = "https://github.com/skalenetwork/workflow_test"
+

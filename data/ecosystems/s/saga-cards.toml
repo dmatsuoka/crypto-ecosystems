@@ -3,7 +3,9 @@ title = "Saga Cards"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sagacards"]
+github_organizations = [
+  "https://github.com/sagacards",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/sagacards/vote"
 
 [[repo]]
 url = "https://github.com/sagacards/wallet"
+

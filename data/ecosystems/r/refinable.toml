@@ -3,7 +3,9 @@ title = "Refinable"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/refinableco"]
+github_organizations = [
+  "https://github.com/refinableco",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/refinableco/web3-react"
 
 [[repo]]
 url = "https://github.com/refinableco/web3-react-core"
+

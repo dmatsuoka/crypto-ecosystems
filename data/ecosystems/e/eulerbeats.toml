@@ -3,7 +3,9 @@ title = "EulerBeats"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EulerBeats"]
+github_organizations = [
+  "https://github.com/EulerBeats",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/EulerBeats/awesome-eulerbeats"
 
 [[repo]]
 url = "https://github.com/EulerBeats/eulerbeats-cli"
+

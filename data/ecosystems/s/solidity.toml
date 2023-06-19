@@ -1,7 +1,9 @@
 # Ecosystem Level Information
 title = "Solidity"
 
-sub_ecosystems = ["Coinsult"]
+sub_ecosystems = [
+  "Coinsult",
+]
 
 github_organizations = []
 
@@ -68,3 +70,4 @@ url = "https://github.com/zerodao-finance/zero-protocol"
 
 [[repo]]
 url = "https://github.com/zobront/xchain"
+

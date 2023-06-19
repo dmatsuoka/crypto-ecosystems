@@ -3,7 +3,9 @@ title = "Stereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stereum-dev"]
+github_organizations = [
+  "https://github.com/stereum-dev",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/stereum-dev/synclink-spec"
 
 [[repo]]
 url = "https://github.com/stereum-dev/UIobjects"
+

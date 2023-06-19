@@ -3,7 +3,9 @@ title = "Casper Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/casper-ecosystem"]
+github_organizations = [
+  "https://github.com/casper-ecosystem",
+]
 
 # Repositories
 [[repo]]
@@ -11,18 +13,22 @@ url = "https://github.com/casper-ecosystem/.github"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/auction-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/authorization-keys-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/caller-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/cargo-casper"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/CaskNFT"
+missing = true
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/casper-cep47-js-client"
@@ -182,3 +188,4 @@ url = "https://github.com/casper-ecosystem/two-party-multi-sig"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/uref-sharing-example"
+

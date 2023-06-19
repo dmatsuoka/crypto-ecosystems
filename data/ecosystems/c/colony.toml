@@ -3,7 +3,9 @@ title = "Colony"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/JoinColony"]
+github_organizations = [
+  "https://github.com/JoinColony",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/JoinColony/codemod-proptypes-to-flow"
 
 [[repo]]
 url = "https://github.com/JoinColony/coding-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/JoinColony/coding-challenge-events-list"
@@ -59,6 +62,7 @@ url = "https://github.com/JoinColony/coding-challenge-events-list-bootstrap"
 
 [[repo]]
 url = "https://github.com/JoinColony/coinMachine"
+missing = true
 
 [[repo]]
 url = "https://github.com/JoinColony/colony-docker-images"
@@ -266,6 +270,7 @@ url = "https://github.com/JoinColony/tailor"
 
 [[repo]]
 url = "https://github.com/JoinColony/token-sale-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/JoinColony/tokenbridge"
@@ -296,3 +301,4 @@ url = "https://github.com/JoinColony/web3-ddp-provider"
 
 [[repo]]
 url = "https://github.com/JoinColony/zendesk_theme"
+

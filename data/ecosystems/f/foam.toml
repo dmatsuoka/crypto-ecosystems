@@ -3,7 +3,9 @@ title = "FOAM"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/f-o-a-m"]
+github_organizations = [
+  "https://github.com/f-o-a-m",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/f-o-a-m/csc-explorer"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/CustomPiOS"
+missing = true
 
 [[repo]]
 url = "https://github.com/f-o-a-m/dhall-ffi"
@@ -83,6 +86,7 @@ url = "https://github.com/f-o-a-m/hs-web3"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/hubot-mail-listener"
+missing = true
 
 [[repo]]
 url = "https://github.com/f-o-a-m/hyper"
@@ -200,6 +204,7 @@ url = "https://github.com/f-o-a-m/purescript-trout-client"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-uport"
+missing = true
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-web-mercator"
@@ -272,3 +277,4 @@ url = "https://github.com/f-o-a-m/uuid"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/web3-psql-example"
+

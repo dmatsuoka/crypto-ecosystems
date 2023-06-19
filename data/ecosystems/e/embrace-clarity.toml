@@ -3,7 +3,9 @@ title = "Embrace Clarity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Embrace-clarity"]
+github_organizations = [
+  "https://github.com/Embrace-clarity",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Embrace-clarity/organisation"
 
 [[repo]]
 url = "https://github.com/Embrace-clarity/The_Ark"
+

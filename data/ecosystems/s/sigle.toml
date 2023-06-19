@@ -3,7 +3,9 @@ title = "Sigle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sigle"]
+github_organizations = [
+  "https://github.com/sigle",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/sigle/stxstats"
 
 [[repo]]
 url = "https://github.com/sigle/the-explorer-guild"
+

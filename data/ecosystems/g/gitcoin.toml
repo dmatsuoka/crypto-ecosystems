@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Gitcoin"
 
-sub_ecosystems = ["Moonshot Collective"]
+sub_ecosystems = [
+  "Moonshot Collective",
+]
 
-github_organizations = ["https://github.com/gitcoinco"]
+github_organizations = [
+  "https://github.com/gitcoinco",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +45,7 @@ url = "https://github.com/gitcoinco/bailoutmainst"
 
 [[repo]]
 url = "https://github.com/gitcoinco/bd"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/beyondblockchainteams"
@@ -56,6 +61,7 @@ url = "https://github.com/gitcoinco/cerebro"
 
 [[repo]]
 url = "https://github.com/gitcoinco/cf_eyeo_example"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/chainsauce"
@@ -116,6 +122,7 @@ url = "https://github.com/gitcoinco/cypress-metamask"
 
 [[repo]]
 url = "https://github.com/gitcoinco/dappcon"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/data-ops"
@@ -125,6 +132,7 @@ url = "https://github.com/gitcoinco/desktop-app"
 
 [[repo]]
 url = "https://github.com/gitcoinco/dgrants"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/discourse-adplugin"
@@ -155,9 +163,11 @@ url = "https://github.com/gitcoinco/environment-ferretwell-staging"
 
 [[repo]]
 url = "https://github.com/gitcoinco/ERC-1337"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/ethavatar"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/ethdenver"
@@ -176,6 +186,7 @@ url = "https://github.com/gitcoinco/gh-workflows"
 
 [[repo]]
 url = "https://github.com/gitcoinco/GIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitbook-KB"
@@ -194,6 +205,7 @@ url = "https://github.com/gitcoinco/gitcoin-rss"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin-wp-theme"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin_cadcad_model"
@@ -248,6 +260,7 @@ url = "https://github.com/gitcoinco/ios"
 
 [[repo]]
 url = "https://github.com/gitcoinco/javascript-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/Kudos721Contract"
@@ -257,12 +270,14 @@ url = "https://github.com/gitcoinco/kudosbadges"
 
 [[repo]]
 url = "https://github.com/gitcoinco/labs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/lemonade-stand"
 
 [[repo]]
 url = "https://github.com/gitcoinco/Marketing"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/matching_contracts"
@@ -284,6 +299,7 @@ url = "https://github.com/gitcoinco/merkle_payouts"
 
 [[repo]]
 url = "https://github.com/gitcoinco/metagraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport"
@@ -350,6 +366,7 @@ url = "https://github.com/gitcoinco/slack-protector"
 
 [[repo]]
 url = "https://github.com/gitcoinco/smart-contract-best-practices"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/smart_contracts"
@@ -380,3 +397,5 @@ url = "https://github.com/gitcoinco/web"
 
 [[repo]]
 url = "https://github.com/gitcoinco/whitepaper"
+missing = true
+

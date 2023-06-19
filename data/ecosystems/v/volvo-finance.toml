@@ -3,7 +3,9 @@ title = "Volvo Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VovoFinance"]
+github_organizations = [
+  "https://github.com/VovoFinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/VovoFinance/logo"
 
 [[repo]]
 url = "https://github.com/VovoFinance/VovoProducts"
+

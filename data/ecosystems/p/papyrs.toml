@@ -3,7 +3,9 @@ title = "papyrs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/papyrs"]
+github_organizations = [
+  "https://github.com/papyrs",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/papyrs/unsplash-proxy"
 
 [[repo]]
 url = "https://github.com/papyrs/what-is-internet-identity"
+

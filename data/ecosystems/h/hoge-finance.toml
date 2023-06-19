@@ -3,7 +3,9 @@ title = "Hoge Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HogeFinance"]
+github_organizations = [
+  "https://github.com/HogeFinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/HogeFinance/front-end-web"
 
 [[repo]]
 url = "https://github.com/HogeFinance/hai-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/HogeFinance/heroku-buildpack-vips"
@@ -56,3 +59,4 @@ url = "https://github.com/HogeFinance/UniFaucet"
 
 [[repo]]
 url = "https://github.com/HogeFinance/wenmemes"
+

@@ -3,7 +3,10 @@ title = "Plastiks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plastiks-io", "https://github.com/Plastiks-io"]
+github_organizations = [
+  "https://github.com/plastiks-io",
+  "https://github.com/Plastiks-io",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +32,4 @@ url = "https://github.com/Plastiks-io/valora-address-metadata"
 
 [[repo]]
 url = "https://github.com/Plastiks-io/valora-dapp-list"
+

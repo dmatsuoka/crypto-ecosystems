@@ -3,7 +3,9 @@ title = "Textury"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/textury"]
+github_organizations = [
+  "https://github.com/textury",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/textury/p3-client"
 
 [[repo]]
 url = "https://github.com/textury/permaweb-dropper"
+

@@ -3,7 +3,9 @@ title = "SmartCheck"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/smartdec"]
+github_organizations = [
+  "https://github.com/smartdec",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/smartdec/xmr-stak-cpu"
 
 [[repo]]
 url = "https://github.com/smartdec/xqueue"
+

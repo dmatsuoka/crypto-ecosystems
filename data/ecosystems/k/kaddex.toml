@@ -3,7 +3,9 @@ title = "Kaddex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kaddex-org"]
+github_organizations = [
+  "https://github.com/kaddex-org",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/kaddex-org/x-wallet-landing"
 
 [[repo]]
 url = "https://github.com/kaddex-org/x-wallet-mobile"
+

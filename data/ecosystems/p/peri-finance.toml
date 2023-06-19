@@ -3,7 +3,9 @@ title = "Peri Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/perifinance"]
+github_organizations = [
+  "https://github.com/perifinance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/perifinance/solidifier"
 
 [[repo]]
 url = "https://github.com/perifinance/token-profile"
+

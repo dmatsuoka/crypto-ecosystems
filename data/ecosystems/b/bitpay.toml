@@ -3,7 +3,9 @@ title = "BitPay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitpay"]
+github_organizations = [
+  "https://github.com/bitpay",
+]
 
 # Repositories
 [[repo]]
@@ -635,3 +637,4 @@ url = "https://github.com/bitpay/yuidoc"
 
 [[repo]]
 url = "https://github.com/bitpay/zencart-plugin"
+

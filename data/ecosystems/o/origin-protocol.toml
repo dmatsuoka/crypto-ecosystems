@@ -3,7 +3,9 @@ title = "Origin Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OriginProtocol"]
+github_organizations = [
+  "https://github.com/OriginProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -227,3 +229,4 @@ url = "https://github.com/OriginProtocol/website-frontend"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/yield"
+

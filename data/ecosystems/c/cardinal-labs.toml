@@ -3,7 +3,9 @@ title = "Cardinal Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cardinal-labs"]
+github_organizations = [
+  "https://github.com/cardinal-labs",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/cardinal-labs/cardinal-identity-ui"
 
 [[repo]]
 url = "https://github.com/cardinal-labs/cardinal-marketplace"
+missing = true
 
 [[repo]]
 url = "https://github.com/cardinal-labs/cardinal-minting-ui"
@@ -104,3 +107,4 @@ url = "https://github.com/cardinal-labs/squads-program-upgrade"
 
 [[repo]]
 url = "https://github.com/cardinal-labs/walletkit"
+

@@ -3,7 +3,9 @@ title = "Arrakis Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArrakisFinance"]
+github_organizations = [
+  "https://github.com/ArrakisFinance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ArrakisFinance/vault-v1-core"
 
 [[repo]]
 url = "https://github.com/ArrakisFinance/vault-v1-periphery"
+

@@ -3,7 +3,9 @@ title = "DeepDragons (DragonETH)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeepDragons"]
+github_organizations = [
+  "https://github.com/DeepDragons",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/DeepDragons/ssr-bsc-dragons"
 
 [[repo]]
 url = "https://github.com/DeepDragons/v-dragons"
+

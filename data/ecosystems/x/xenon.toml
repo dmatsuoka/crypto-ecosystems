@@ -3,7 +3,9 @@ title = "Xenon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xenon-so"]
+github_organizations = [
+  "https://github.com/xenon-so",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/xenon-so/serum-dex-ui"
 
 [[repo]]
 url = "https://github.com/xenon-so/spl-token-wallet"
+

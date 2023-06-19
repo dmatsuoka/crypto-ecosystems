@@ -3,7 +3,9 @@ title = "Vertcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vertcoin"]
+github_organizations = [
+  "https://github.com/vertcoin",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/vertcoin/vertous"
 
 [[repo]]
 url = "https://github.com/vertcoin/vertpunk"
+

@@ -3,8 +3,11 @@ title = "Chainhop"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainhop-dex"]
+github_organizations = [
+  "https://github.com/chainhop-dex",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/chainhop-dex/chainhop-contracts"
+

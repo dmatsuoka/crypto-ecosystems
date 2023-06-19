@@ -3,7 +3,9 @@ title = "Money on Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/money-on-chain"]
+github_organizations = [
+  "https://github.com/money-on-chain",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/money-on-chain/stable-protocol-interface"
 
 [[repo]]
 url = "https://github.com/money-on-chain/stable-protocol-interface-v3"
+

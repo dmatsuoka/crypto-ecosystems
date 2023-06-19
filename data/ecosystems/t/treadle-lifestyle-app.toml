@@ -3,7 +3,9 @@ title = "Treadle Lifestyle App"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/treadle"]
+github_organizations = [
+  "https://github.com/treadle",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/treadle/treadle-contracts"
 
 [[repo]]
 url = "https://github.com/treadle/treadle-cycling-recognition"
+

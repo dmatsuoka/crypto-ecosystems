@@ -3,7 +3,9 @@ title = "ezo network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ezo-network"]
+github_organizations = [
+  "https://github.com/ezo-network",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/ezo-network/ezo-token"
 
 [[repo]]
 url = "https://github.com/ezo-network/SmartSwap_frontend"
+

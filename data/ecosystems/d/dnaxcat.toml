@@ -3,7 +3,9 @@ title = "DNAxCAT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DNAxCAT"]
+github_organizations = [
+  "https://github.com/DNAxCAT",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/DNAxCAT/assets"
 
 [[repo]]
 url = "https://github.com/DNAxCAT/DXCT-Core"
+

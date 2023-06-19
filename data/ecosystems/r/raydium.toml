@@ -3,7 +3,9 @@ title = "Raydium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RadiumCore"]
+github_organizations = [
+  "https://github.com/RadiumCore",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/RadiumCore/Validity"
 
 [[repo]]
 url = "https://github.com/RadiumCore/zeroclient_gui"
+

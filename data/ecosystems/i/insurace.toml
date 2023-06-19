@@ -3,7 +3,9 @@ title = "InsurAce"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InsurAce-Protocol"]
+github_organizations = [
+  "https://github.com/InsurAce-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/InsurAce-Protocol/app-plugin-insurace"
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/contract-metadata"
@@ -35,18 +38,23 @@ url = "https://github.com/InsurAce-Protocol/insurace-lbp"
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/projects"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/revocation-registry"
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/token-profile"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/tokenlists"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/zapper-studio"
+

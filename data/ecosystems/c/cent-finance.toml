@@ -3,7 +3,9 @@ title = "Cent Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/centfinance"]
+github_organizations = [
+  "https://github.com/centfinance",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/centfinance/Cent.Wallet_API"
 
 [[repo]]
 url = "https://github.com/centfinance/Cent.Website"
+missing = true
 
 [[repo]]
 url = "https://github.com/centfinance/CentToken"
@@ -122,12 +125,15 @@ url = "https://github.com/centfinance/Symmetric.Frontend-Tezos"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.ipfs-push"
+missing = true
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.MiningScript-celo"
+missing = true
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.MiningScript-xdai"
+missing = true
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.PoolsUI"
@@ -161,3 +167,4 @@ url = "https://github.com/centfinance/Tezos"
 
 [[repo]]
 url = "https://github.com/centfinance/tokenbridge"
+

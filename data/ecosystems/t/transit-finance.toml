@@ -3,7 +3,9 @@ title = "Transit Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Transit-Finance"]
+github_organizations = [
+  "https://github.com/Transit-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Transit-Finance/Transit-Swap"
 
 [[repo]]
 url = "https://github.com/Transit-Finance/TransitRefund"
+

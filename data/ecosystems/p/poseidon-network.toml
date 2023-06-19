@@ -3,7 +3,9 @@ title = "Poseidon Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/poseidon-network"]
+github_organizations = [
+  "https://github.com/poseidon-network",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/poseidon-network/qservice-static-page"
 
 [[repo]]
 url = "https://github.com/poseidon-network/qvpn.poseidon.network"
+

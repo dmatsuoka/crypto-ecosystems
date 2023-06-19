@@ -3,7 +3,9 @@ title = "off-piste"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Off-Piste"]
+github_organizations = [
+  "https://github.com/Off-Piste",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Off-Piste/Trolley-Core"
 
 [[repo]]
 url = "https://github.com/Off-Piste/Trolley.io-cocoa"
+

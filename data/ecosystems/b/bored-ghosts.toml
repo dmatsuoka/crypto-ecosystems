@@ -3,7 +3,9 @@ title = "Bored Ghosts"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bgd-labs"]
+github_organizations = [
+  "https://github.com/bgd-labs",
+]
 
 # Repositories
 [[repo]]
@@ -200,3 +202,4 @@ url = "https://github.com/bgd-labs/viem"
 
 [[repo]]
 url = "https://github.com/bgd-labs/web3-react"
+

@@ -3,7 +3,9 @@ title = "Nsure Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nsure-tech"]
+github_organizations = [
+  "https://github.com/nsure-tech",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/nsure-tech/token-profile"
 
 [[repo]]
 url = "https://github.com/nsure-tech/underwriter-program"
+

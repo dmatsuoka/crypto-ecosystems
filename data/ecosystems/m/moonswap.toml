@@ -3,7 +3,9 @@ title = "MoonSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moon-migration"]
+github_organizations = [
+  "https://github.com/moon-migration",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/moon-migration/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/moon-migration/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/moon-migration/moonswap-core"
@@ -23,3 +26,5 @@ url = "https://github.com/moon-migration/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/moon-migration/spaces"
+missing = true
+

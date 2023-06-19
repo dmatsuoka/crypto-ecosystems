@@ -3,7 +3,9 @@ title = "Cyclone"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cycloneprotocol"]
+github_organizations = [
+  "https://github.com/cycloneprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/cycloneprotocol/websnark"
 
 [[repo]]
 url = "https://github.com/cycloneprotocol/zcash"
+

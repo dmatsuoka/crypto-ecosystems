@@ -3,7 +3,9 @@ title = "Euler Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/euler-xyz"]
+github_organizations = [
+  "https://github.com/euler-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -83,3 +85,4 @@ url = "https://github.com/euler-xyz/yield-server"
 
 [[repo]]
 url = "https://github.com/euler-xyz/zapper-studio"
+

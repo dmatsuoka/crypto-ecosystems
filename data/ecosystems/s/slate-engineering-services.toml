@@ -3,7 +3,9 @@ title = "Slate Engineering Services"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/slate-engineering"]
+github_organizations = [
+  "https://github.com/slate-engineering",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/slate-engineering/slate-scripts"
 
 [[repo]]
 url = "https://github.com/slate-engineering/slate-web-extension"
+

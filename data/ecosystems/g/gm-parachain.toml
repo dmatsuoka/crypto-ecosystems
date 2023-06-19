@@ -3,7 +3,9 @@ title = "GM Parachain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GMorDIE"]
+github_organizations = [
+  "https://github.com/GMorDIE",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/GMorDIE/gmordie"
 
 [[repo]]
 url = "https://github.com/GMorDIE/gmordie-subsquid"
+

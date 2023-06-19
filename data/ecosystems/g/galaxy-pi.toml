@@ -3,7 +3,9 @@ title = "Galaxy Pi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/galaxypi"]
+github_organizations = [
+  "https://github.com/galaxypi",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/galaxypi/galaxy-growth"
 
 [[repo]]
 url = "https://github.com/galaxypi/galaxy.ooo"
+

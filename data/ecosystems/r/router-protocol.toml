@@ -3,7 +3,9 @@ title = "Router Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/router-protocol"]
+github_organizations = [
+  "https://github.com/router-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -140,3 +142,4 @@ url = "https://github.com/router-protocol/wasmd"
 
 [[repo]]
 url = "https://github.com/router-protocol/widget-react-template"
+

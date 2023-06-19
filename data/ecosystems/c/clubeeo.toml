@@ -3,8 +3,11 @@ title = "clubeeo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clubeeo"]
+github_organizations = [
+  "https://github.com/clubeeo",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/clubeeo/clubeeo-js"
+

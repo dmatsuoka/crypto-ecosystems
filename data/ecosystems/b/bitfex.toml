@@ -3,7 +3,9 @@ title = "Bitfex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idap-io"]
+github_organizations = [
+  "https://github.com/idap-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/idap-io/smart_contracts"
 
 [[repo]]
 url = "https://github.com/idap-io/Whitelist"
+

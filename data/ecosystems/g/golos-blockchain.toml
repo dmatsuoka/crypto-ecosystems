@@ -3,7 +3,9 @@ title = "Golos Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/golos-blockchain"]
+github_organizations = [
+  "https://github.com/golos-blockchain",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/golos-blockchain/chain-node"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/chainbb"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/desktop"
@@ -38,6 +41,7 @@ url = "https://github.com/golos-blockchain/golos-classic-js"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/golos-notify-rest"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/golos-witness-tools"
@@ -65,9 +69,11 @@ url = "https://github.com/golos-blockchain/links"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-session"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/notify"
@@ -110,3 +116,4 @@ url = "https://github.com/golos-blockchain/updater"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/wiki"
+

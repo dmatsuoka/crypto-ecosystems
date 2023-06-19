@@ -3,7 +3,9 @@ title = "Poly Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polynetwork"]
+github_organizations = [
+  "https://github.com/polynetwork",
+]
 
 # Repositories
 [[repo]]
@@ -176,6 +178,7 @@ url = "https://github.com/polynetwork/poly-bridge"
 
 [[repo]]
 url = "https://github.com/polynetwork/poly-bridge-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/polynetwork/poly-go-sdk"
@@ -227,3 +230,4 @@ url = "https://github.com/polynetwork/Zion"
 
 [[repo]]
 url = "https://github.com/polynetwork/zion-setup"
+

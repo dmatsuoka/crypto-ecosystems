@@ -3,7 +3,9 @@ title = "Canopus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Canopus-Network-OPUS"]
+github_organizations = [
+  "https://github.com/Canopus-Network-OPUS",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Canopus-Network-OPUS/pangolin.exchange"
 
 [[repo]]
 url = "https://github.com/Canopus-Network-OPUS/token-lists"
+

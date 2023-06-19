@@ -3,7 +3,9 @@ title = "Kattana"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kattana-io"]
+github_organizations = [
+  "https://github.com/kattana-io",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/kattana-io/assets"
 
 [[repo]]
 url = "https://github.com/kattana-io/elrond-tron-parser"
+missing = true
 
 [[repo]]
 url = "https://github.com/kattana-io/gocent"
@@ -35,3 +38,4 @@ url = "https://github.com/kattana-io/tron-blocks-parser"
 
 [[repo]]
 url = "https://github.com/kattana-io/tron-objects-api"
+

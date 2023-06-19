@@ -3,8 +3,11 @@ title = "AnyToNFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PunkNFT"]
+github_organizations = [
+  "https://github.com/PunkNFT",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/PunkNFT/Rarity-Helper"
+

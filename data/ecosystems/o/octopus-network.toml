@@ -1,9 +1,15 @@
 # Ecosystem Level Information
 title = "Octopus Network"
 
-sub_ecosystems = ["DeBio Network", "Myriad Social", "Unique One Official"]
+sub_ecosystems = [
+  "DeBio Network",
+  "Myriad Social",
+  "Unique One Official",
+]
 
-github_organizations = ["https://github.com/octopus-network"]
+github_organizations = [
+  "https://github.com/octopus-network",
+]
 
 # Repositories
 [[repo]]
@@ -161,6 +167,7 @@ url = "https://github.com/octopus-network/near-ibc"
 
 [[repo]]
 url = "https://github.com/octopus-network/near-indexer-for-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/octopus-network/near-light-client-rs"
@@ -392,3 +399,4 @@ url = "https://github.com/octopus-network/wrapped-appchain-token"
 
 [[repo]]
 url = "https://github.com/uinb/fusotao"
+

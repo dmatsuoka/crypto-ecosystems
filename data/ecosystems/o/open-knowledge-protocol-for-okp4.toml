@@ -3,7 +3,9 @@ title = "Open Knowledge Protocol For (OKP4)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/okp4"]
+github_organizations = [
+  "https://github.com/okp4",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/okp4/Widoco"
 
 [[repo]]
 url = "https://github.com/okp4/wiki"
+

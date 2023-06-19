@@ -3,7 +3,9 @@ title = "ALIS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlisProject"]
+github_organizations = [
+  "https://github.com/AlisProject",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/AlisProject/license-token-contract"
 
 [[repo]]
 url = "https://github.com/AlisProject/mvp-mockup"
+missing = true
 
 [[repo]]
 url = "https://github.com/AlisProject/nft-contract"
@@ -107,3 +110,4 @@ url = "https://github.com/AlisProject/welcome"
 
 [[repo]]
 url = "https://github.com/AlisProject/whitepaper"
+

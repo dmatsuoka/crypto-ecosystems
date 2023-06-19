@@ -3,11 +3,14 @@ title = "Clixpesa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clixpesa"]
+github_organizations = [
+  "https://github.com/clixpesa",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/clixpesa/buidl-the-future"
+missing = true
 
 [[repo]]
 url = "https://github.com/clixpesa/build-with-celo-hackathon"
@@ -41,6 +44,7 @@ url = "https://github.com/clixpesa/react-celo"
 
 [[repo]]
 url = "https://github.com/clixpesa/spaces-composed"
+missing = true
 
 [[repo]]
 url = "https://github.com/clixpesa/tatum-kms"
@@ -50,3 +54,5 @@ url = "https://github.com/clixpesa/two-party-ecdsa"
 
 [[repo]]
 url = "https://github.com/clixpesa/XDC-DeFi-Hackathon"
+missing = true
+

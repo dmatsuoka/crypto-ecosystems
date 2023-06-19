@@ -3,7 +3,9 @@ title = "Battlemon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/battlemon-project"]
+github_organizations = [
+  "https://github.com/battlemon-project",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/battlemon-project/sui-workspace"
 
 [[repo]]
 url = "https://github.com/battlemon-project/sui_indexer"
+

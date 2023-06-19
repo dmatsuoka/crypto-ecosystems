@@ -3,7 +3,9 @@ title = "Firebird Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/firebird-finance"]
+github_organizations = [
+  "https://github.com/firebird-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/firebird-finance/audits"
 
 [[repo]]
 url = "https://github.com/firebird-finance/clipper-dex-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/firebird-finance/firebird-assets"
@@ -47,3 +50,4 @@ url = "https://github.com/firebird-finance/pancake-pair-subgraph"
 
 [[repo]]
 url = "https://github.com/firebird-finance/vault-core"
+

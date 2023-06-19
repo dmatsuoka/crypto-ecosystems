@@ -3,7 +3,9 @@ title = "Nimbus Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nimbusplatformorg"]
+github_organizations = [
+  "https://github.com/nimbusplatformorg",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/nimbusplatformorg/contract-metadata"
 
 [[repo]]
 url = "https://github.com/nimbusplatformorg/nim-smartcontract"
+

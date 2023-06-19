@@ -3,7 +3,9 @@ title = "IDEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idexio"]
+github_organizations = [
+  "https://github.com/idexio",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/idexio/smart-contract-registry"
 
 [[repo]]
 url = "https://github.com/idexio/staking-replicator"
+

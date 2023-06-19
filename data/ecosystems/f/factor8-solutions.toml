@@ -3,7 +3,9 @@ title = "Factor8 Solutions"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Factor8Solutions"]
+github_organizations = [
+  "https://github.com/Factor8Solutions",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Factor8Solutions/fil-trusted-setup-p2"
 
 [[repo]]
 url = "https://github.com/Factor8Solutions/lotus"
+

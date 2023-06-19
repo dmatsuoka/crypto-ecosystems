@@ -3,7 +3,9 @@ title = "Balanced"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/balancednetwork"]
+github_organizations = [
+  "https://github.com/balancednetwork",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/balancednetwork/sdk-core"
 
 [[repo]]
 url = "https://github.com/balancednetwork/v1-sdk"
+

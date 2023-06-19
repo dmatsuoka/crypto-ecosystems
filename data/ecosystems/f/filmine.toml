@@ -3,7 +3,9 @@ title = "Filmine"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/filmineio"]
+github_organizations = [
+  "https://github.com/filmineio",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/filmineio/slingshot"
 
 [[repo]]
 url = "https://github.com/filmineio/telegraf-input-lotus"
+

@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Kamu"
 
-sub_ecosystems = ["Open Data Fabric"]
+sub_ecosystems = [
+  "Open Data Fabric",
+]
 
-github_organizations = ["https://github.com/kamu-data"]
+github_organizations = [
+  "https://github.com/kamu-data",
+]
 
 # Repositories
 [[repo]]
@@ -76,3 +80,4 @@ url = "https://github.com/kamu-data/materialize"
 
 [[repo]]
 url = "https://github.com/kamu-data/timely-dataflow"
+

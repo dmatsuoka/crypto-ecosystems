@@ -3,7 +3,9 @@ title = "PAC Global"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PACCommunity"]
+github_organizations = [
+  "https://github.com/PACCommunity",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/PACCommunity/sentinel"
 
 [[repo]]
 url = "https://github.com/PACCommunity/x11_hash"
+

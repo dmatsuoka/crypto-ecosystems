@@ -3,7 +3,9 @@ title = "Numoen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Numoen"]
+github_organizations = [
+  "https://github.com/Numoen",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Numoen/arbitrage"
 
 [[repo]]
 url = "https://github.com/Numoen/code4rena-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/Numoen/common-utils"
@@ -65,3 +68,4 @@ url = "https://github.com/Numoen/swap-library"
 
 [[repo]]
 url = "https://github.com/Numoen/whitepaper"
+

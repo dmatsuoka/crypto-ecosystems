@@ -3,7 +3,9 @@ title = "Parami"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/parami-foundation"]
+github_organizations = [
+  "https://github.com/parami-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/parami-foundation/subexpo"
 
 [[repo]]
 url = "https://github.com/parami-foundation/sygma-solidity"
+

@@ -3,7 +3,9 @@ title = "Defi Kingdoms"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DefiKingdoms"]
+github_organizations = [
+  "https://github.com/DefiKingdoms",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/DefiKingdoms/blockchain-poller"
 
 [[repo]]
 url = "https://github.com/DefiKingdoms/chains"
+missing = true
 
 [[repo]]
 url = "https://github.com/DefiKingdoms/community-token-list"
@@ -44,3 +47,4 @@ url = "https://github.com/DefiKingdoms/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/DefiKingdoms/subnet-evm"
+

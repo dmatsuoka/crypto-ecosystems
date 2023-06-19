@@ -3,7 +3,9 @@ title = "MetaFam"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MetaFam"]
+github_organizations = [
+  "https://github.com/MetaFam",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/MetaFam/wyvern-schemas"
 
 [[repo]]
 url = "https://github.com/MetaFam/XP"
+

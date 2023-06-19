@@ -3,7 +3,9 @@ title = "Rand Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/randlabs"]
+github_organizations = [
+  "https://github.com/randlabs",
+]
 
 # Repositories
 [[repo]]
@@ -203,3 +205,4 @@ url = "https://github.com/randlabs/web-fetch"
 
 [[repo]]
 url = "https://github.com/randlabs/wormhole"
+

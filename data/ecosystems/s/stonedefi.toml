@@ -3,7 +3,9 @@ title = "StoneDefi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stonedefi"]
+github_organizations = [
+  "https://github.com/stonedefi",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/stonedefi/stoneindex-node"
 
 [[repo]]
 url = "https://github.com/stonedefi/synthetix"
+

@@ -3,7 +3,9 @@ title = "ONOToken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/onochat"]
+github_organizations = [
+  "https://github.com/onochat",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/onochat/ONOchain"
 
 [[repo]]
 url = "https://github.com/onochat/ONOchain.contracts"
+

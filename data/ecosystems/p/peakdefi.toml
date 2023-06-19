@@ -3,7 +3,9 @@ title = "PEAKDEFI"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PeakDeFi"]
+github_organizations = [
+  "https://github.com/PeakDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/PeakDeFi/peakdefi-launchpad-web"
 
 [[repo]]
 url = "https://github.com/PeakDeFi/PeakDeFi-token"
+

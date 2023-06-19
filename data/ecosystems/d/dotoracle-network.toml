@@ -3,7 +3,9 @@ title = "DotOracle Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dotoracle"]
+github_organizations = [
+  "https://github.com/dotoracle",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/dotoracle/web3-react-torus-connector-casper"
 
 [[repo]]
 url = "https://github.com/dotoracle/yearn-api"
+

@@ -3,7 +3,9 @@ title = "DTFN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DTFN"]
+github_organizations = [
+  "https://github.com/DTFN",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/DTFN/rust-sgx-sqlite3"
 
 [[repo]]
 url = "https://github.com/DTFN/web3j"
+

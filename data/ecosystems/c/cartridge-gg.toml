@@ -3,7 +3,9 @@ title = "cartridge-gg"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cartridge-gg"]
+github_organizations = [
+  "https://github.com/cartridge-gg",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/cartridge-gg/starknet-plugin-account"
 
 [[repo]]
 url = "https://github.com/cartridge-gg/webauthn"
+

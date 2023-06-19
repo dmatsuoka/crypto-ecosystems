@@ -3,7 +3,9 @@ title = "Poof-cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/poofcash"]
+github_organizations = [
+  "https://github.com/poofcash",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/poofcash/websnark"
 
 [[repo]]
 url = "https://github.com/poofcash/zkutil"
+

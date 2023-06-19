@@ -3,7 +3,9 @@ title = "Internet Maximalism"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InternetMaximalism"]
+github_organizations = [
+  "https://github.com/InternetMaximalism",
+]
 
 # Repositories
 [[repo]]
@@ -35,9 +37,11 @@ url = "https://github.com/InternetMaximalism/go-ethereum"
 
 [[repo]]
 url = "https://github.com/InternetMaximalism/intmax"
+missing = true
 
 [[repo]]
 url = "https://github.com/InternetMaximalism/intmax-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/InternetMaximalism/intmax-interoperability-plugin"
@@ -77,3 +81,4 @@ url = "https://github.com/InternetMaximalism/verkle-tree-circuit"
 
 [[repo]]
 url = "https://github.com/InternetMaximalism/webmax.js"
+

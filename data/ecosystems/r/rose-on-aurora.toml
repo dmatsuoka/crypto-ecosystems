@@ -3,7 +3,9 @@ title = "Rose On Aurora"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RoseOnAurora"]
+github_organizations = [
+  "https://github.com/RoseOnAurora",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/RoseOnAurora/rose-landing"
 
 [[repo]]
 url = "https://github.com/RoseOnAurora/rose-subgraph"
+

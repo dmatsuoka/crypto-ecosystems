@@ -3,7 +3,9 @@ title = "Brickblock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/brickblock-io"]
+github_organizations = [
+  "https://github.com/brickblock-io",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/brickblock-io/eth-contract-metadata"
 
 [[repo]]
 url = "https://github.com/brickblock-io/live-coding-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/brickblock-io/redux-first-router-demo"
@@ -65,3 +68,4 @@ url = "https://github.com/brickblock-io/whitepaper-general"
 
 [[repo]]
 url = "https://github.com/brickblock-io/whitepaper-technical"
+

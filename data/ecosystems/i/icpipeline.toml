@@ -3,7 +3,9 @@ title = "ICPipeline"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/icpipeline-framework"]
+github_organizations = [
+  "https://github.com/icpipeline-framework",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/icpipeline-framework/uplink-beta"
 
 [[repo]]
 url = "https://github.com/icpipeline-framework/worker-docker-beta"
+

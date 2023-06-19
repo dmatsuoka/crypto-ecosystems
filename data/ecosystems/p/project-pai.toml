@@ -3,7 +3,9 @@ title = "Project Pai"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/projectpai"]
+github_organizations = [
+  "https://github.com/projectpai",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/projectpai/pouw-main-iteration"
 
 [[repo]]
 url = "https://github.com/projectpai/rskj"
+

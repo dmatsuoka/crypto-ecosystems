@@ -3,7 +3,9 @@ title = "01coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zocteam"]
+github_organizations = [
+  "https://github.com/zocteam",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/zocteam/zoc-bootstrap"
 
 [[repo]]
 url = "https://github.com/zocteam/zoc-tools"
+

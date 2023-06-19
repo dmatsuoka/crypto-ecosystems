@@ -3,7 +3,9 @@ title = "Superfluid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/superfluid-finance"]
+github_organizations = [
+  "https://github.com/superfluid-finance",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/superfluid-finance/tokenlist"
 
 [[repo]]
 url = "https://github.com/superfluid-finance/widget"
+

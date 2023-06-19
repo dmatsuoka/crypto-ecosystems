@@ -3,7 +3,9 @@ title = "Firefly"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fireflyprotocol"]
+github_organizations = [
+  "https://github.com/fireflyprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,27 +13,35 @@ url = "https://github.com/fireflyprotocol/bluefin-exchange-contracts-evm"
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/ChainBridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/dtrade-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/firefly-client"
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/firefly-client-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/firefly-client-python"
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/firefly-datadog-analytics-aggregator"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/hummingbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/ink-contract-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireflyprotocol/library"
+missing = true
+

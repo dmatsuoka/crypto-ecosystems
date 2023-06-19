@@ -3,7 +3,9 @@ title = "Lossless"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Lossless-Cash"]
+github_organizations = [
+  "https://github.com/Lossless-Cash",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Lossless-Cash/vault-protection-easy-demo"
 
 [[repo]]
 url = "https://github.com/Lossless-Cash/wrapped-lossless-erc20"
+

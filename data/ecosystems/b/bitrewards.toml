@@ -3,7 +3,9 @@ title = "BitRewards"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitRewards"]
+github_organizations = [
+  "https://github.com/BitRewards",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/BitRewards/UmiCmsModule"
 
 [[repo]]
 url = "https://github.com/BitRewards/WordpressModule"
+

@@ -3,7 +3,9 @@ title = "CACHE Gold"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cache-token"]
+github_organizations = [
+  "https://github.com/cache-token",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/cache-token/simple-ledger"
 
 [[repo]]
 url = "https://github.com/cache-token/tokens"
+

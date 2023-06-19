@@ -3,7 +3,9 @@ title = "Chain4Energy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chain4energy"]
+github_organizations = [
+  "https://github.com/chain4energy",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/chain4energy/slips"
 
 [[repo]]
 url = "https://github.com/chain4energy/split-vesting-page"
+

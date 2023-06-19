@@ -3,7 +3,9 @@ title = "Santym"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Santym-Inc"]
+github_organizations = [
+  "https://github.com/Santym-Inc",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Santym-Inc/helios"
 
 [[repo]]
 url = "https://github.com/Santym-Inc/santym.fi"
+

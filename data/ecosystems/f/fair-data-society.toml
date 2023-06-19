@@ -3,7 +3,9 @@ title = "Fair Data Society"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fairDataSociety"]
+github_organizations = [
+  "https://github.com/fairDataSociety",
+]
 
 # Repositories
 [[repo]]
@@ -272,3 +274,4 @@ url = "https://github.com/fairDataSociety/zk-wallet-key-management"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/zkdocs"
+

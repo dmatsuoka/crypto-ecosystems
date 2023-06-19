@@ -3,7 +3,9 @@ title = "BlockWit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockWit"]
+github_organizations = [
+  "https://github.com/BlockWit",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/BlockWit/token-distributor"
 
 [[repo]]
 url = "https://github.com/BlockWit/w3dna"
+

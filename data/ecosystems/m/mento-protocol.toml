@@ -3,7 +3,9 @@ title = "Mento Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mento-protocol"]
+github_organizations = [
+  "https://github.com/mento-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/mento-protocol/docs"
 
 [[repo]]
 url = "https://github.com/mento-protocol/governance"
+missing = true
 
 [[repo]]
 url = "https://github.com/mento-protocol/mento-core"
@@ -47,3 +50,4 @@ url = "https://github.com/mento-protocol/simulation"
 
 [[repo]]
 url = "https://github.com/mento-protocol/sourcify-to-etherscan"
+

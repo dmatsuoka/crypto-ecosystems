@@ -3,7 +3,9 @@ title = "AirGap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/airgap-it"]
+github_organizations = [
+  "https://github.com/airgap-it",
+]
 
 # Repositories
 [[repo]]
@@ -206,3 +208,4 @@ url = "https://github.com/airgap-it/zaturn-android-sdk"
 
 [[repo]]
 url = "https://github.com/airgap-it/zaturn-ios-sdk"
+

@@ -3,7 +3,9 @@ title = "Unique One Official"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Unique-One-Official"]
+github_organizations = [
+  "https://github.com/Unique-One-Official",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Unique-One-Official/uonenet-node"
 
 [[repo]]
 url = "https://github.com/Unique-One-Official/walletconnect-website"
+

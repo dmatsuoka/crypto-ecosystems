@@ -3,7 +3,9 @@ title = "MEET.ONE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/meet-one"]
+github_organizations = [
+  "https://github.com/meet-one",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/meet-one/cosmos-docs"
 
 [[repo]]
 url = "https://github.com/meet-one/dapps-demo-collection"
+missing = true
 
 [[repo]]
 url = "https://github.com/meet-one/documentation"
@@ -38,6 +41,7 @@ url = "https://github.com/meet-one/eos"
 
 [[repo]]
 url = "https://github.com/meet-one/eos-balance-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/meet-one/eos-generate"
@@ -140,3 +144,4 @@ url = "https://github.com/meet-one/universal-authenticator-library"
 
 [[repo]]
 url = "https://github.com/meet-one/Wallet-SDK"
+

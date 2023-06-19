@@ -3,7 +3,9 @@ title = "Neutrino Dollar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ventuary-lab"]
+github_organizations = [
+  "https://github.com/ventuary-lab",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/ventuary-lab/waves-contract-cache"
 
 [[repo]]
 url = "https://github.com/ventuary-lab/YIPS"
+

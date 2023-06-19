@@ -3,7 +3,9 @@ title = "Souffl3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ENJOY-LAB"]
+github_organizations = [
+  "https://github.com/ENJOY-LAB",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/ENJOY-LAB/my-id-bot"
 
 [[repo]]
 url = "https://github.com/ENJOY-LAB/nft-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/ENJOY-LAB/nft-protocol"
@@ -32,3 +35,4 @@ url = "https://github.com/ENJOY-LAB/sui-version"
 
 [[repo]]
 url = "https://github.com/ENJOY-LAB/wav3-docs"
+

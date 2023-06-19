@@ -3,7 +3,9 @@ title = "egoras market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EgorasMarket"]
+github_organizations = [
+  "https://github.com/EgorasMarket",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/EgorasMarket/EgorasSmartContractV2"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasWeb"
@@ -62,6 +65,7 @@ url = "https://github.com/EgorasMarket/Ella.ng"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Fort-Admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Marketplace-web-app"
@@ -107,3 +111,4 @@ url = "https://github.com/EgorasMarket/Vault-web-app"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/what-is-egoras"
+

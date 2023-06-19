@@ -3,7 +3,9 @@ title = "Rise"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RiseVision"]
+github_organizations = [
+  "https://github.com/RiseVision",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/RiseVision/coinbase-node"
 
 [[repo]]
 url = "https://github.com/RiseVision/Documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiseVision/java-wrapper-api"
@@ -71,15 +74,19 @@ url = "https://github.com/RiseVision/rise-react-wallet"
 
 [[repo]]
 url = "https://github.com/RiseVision/Rise-SDK-CSharp"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiseVision/Rise-SDK-Java"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiseVision/Rise-SDK-NodeJS"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiseVision/Rise-SDK-Python"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiseVision/Rise-SDK-Ruby"
@@ -107,3 +114,4 @@ url = "https://github.com/RiseVision/risevision.github.io"
 
 [[repo]]
 url = "https://github.com/RiseVision/waves-gateway-framework"
+

@@ -3,7 +3,9 @@ title = "Magic Liquidity Rainbow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Magical-Liquidity-Rainbow"]
+github_organizations = [
+  "https://github.com/Magical-Liquidity-Rainbow",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Magical-Liquidity-Rainbow/smart-contracts"
 
 [[repo]]
 url = "https://github.com/Magical-Liquidity-Rainbow/snapshot"
+

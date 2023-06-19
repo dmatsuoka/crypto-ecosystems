@@ -3,7 +3,9 @@ title = "InterValue"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/intervalue"]
+github_organizations = [
+  "https://github.com/intervalue",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/intervalue/inWalletcore"
 
 [[repo]]
 url = "https://github.com/intervalue/token-profile"
+

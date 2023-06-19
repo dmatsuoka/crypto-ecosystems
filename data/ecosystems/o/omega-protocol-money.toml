@@ -3,7 +3,9 @@ title = "Omega Protocol Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omgswap"]
+github_organizations = [
+  "https://github.com/omgswap",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/omgswap/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/omgswap/tailor-react-spa"
+

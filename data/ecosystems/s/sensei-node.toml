@@ -3,7 +3,9 @@ title = "Sensei Node"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sensei-Node"]
+github_organizations = [
+  "https://github.com/Sensei-Node",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/Sensei-Node/sui-gas-updater"
 
 [[repo]]
 url = "https://github.com/Sensei-Node/super-rotary-phone"
+

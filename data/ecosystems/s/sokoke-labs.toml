@@ -3,8 +3,11 @@ title = "Sokoke Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sokoke-Labs"]
+github_organizations = [
+  "https://github.com/Sokoke-Labs",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Sokoke-Labs/exr-contracts-public"
+

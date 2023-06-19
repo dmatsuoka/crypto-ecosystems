@@ -3,7 +3,9 @@ title = "LACChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lacchain"]
+github_organizations = [
+  "https://github.com/lacchain",
+]
 
 # Repositories
 [[repo]]
@@ -215,3 +217,4 @@ url = "https://github.com/lacchain/vc-repository"
 
 [[repo]]
 url = "https://github.com/lacchain/wiki"
+

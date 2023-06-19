@@ -3,11 +3,14 @@ title = "Seascape Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blocklords"]
+github_organizations = [
+  "https://github.com/blocklords",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/blocklords/addresses-cdn"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklords/bigbang-smartcontracts"
@@ -53,18 +56,22 @@ url = "https://github.com/blocklords/redis-limiter"
 
 [[repo]]
 url = "https://github.com/blocklords/sds-adapter-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklords/sds-cli"
 
 [[repo]]
 url = "https://github.com/blocklords/sds-evm-adapter"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklords/sds-hardhat"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklords/sds-truffle"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklords/sds-ts"
@@ -98,3 +105,4 @@ url = "https://github.com/Seastarinteractive/moonscape-smartcontracts"
 
 [[repo]]
 url = "https://github.com/Seastarinteractive/seadex"
+

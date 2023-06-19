@@ -3,7 +3,9 @@ title = "Marketmaking.PRO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/marketmakingpro"]
+github_organizations = [
+  "https://github.com/marketmakingpro",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/marketmakingpro/farming-contracts"
 
 [[repo]]
 url = "https://github.com/marketmakingpro/MMPROStandartLibriary"
+

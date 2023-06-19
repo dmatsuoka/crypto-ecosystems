@@ -3,7 +3,9 @@ title = "expload"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/expload"]
+github_organizations = [
+  "https://github.com/expload",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/expload/XGold"
 
 [[repo]]
 url = "https://github.com/expload/XTrophy"
+

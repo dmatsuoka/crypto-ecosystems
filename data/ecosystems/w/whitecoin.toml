@@ -3,7 +3,9 @@ title = "WhiteCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Whitecoin-org"]
+github_organizations = [
+  "https://github.com/Whitecoin-org",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Whitecoin-org/xwc-blockchain"
 
 [[repo]]
 url = "https://github.com/Whitecoin-org/zxing-cpp"
+

@@ -3,7 +3,9 @@ title = "Daxia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecentralizedDerivatives"]
+github_organizations = [
+  "https://github.com/DecentralizedDerivatives",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/DecentralizedDerivatives/truffle-contract"
 
 [[repo]]
 url = "https://github.com/DecentralizedDerivatives/Wrapped_Ether"
+

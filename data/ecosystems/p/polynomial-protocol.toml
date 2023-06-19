@@ -3,7 +3,9 @@ title = "Polynomial Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Polynomial-Protocol"]
+github_organizations = [
+  "https://github.com/Polynomial-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Polynomial-Protocol/polynomial-earn-contracts"
 
 [[repo]]
 url = "https://github.com/Polynomial-Protocol/utils"
+

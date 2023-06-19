@@ -3,7 +3,9 @@ title = "Near Social"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NearSocial"]
+github_organizations = [
+  "https://github.com/NearSocial",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/NearSocial/VM"
 
 [[repo]]
 url = "https://github.com/NearSocial/web4-preview"
+

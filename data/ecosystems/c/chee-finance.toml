@@ -3,7 +3,9 @@ title = "Chee Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chee-finance"]
+github_organizations = [
+  "https://github.com/chee-finance",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,8 @@ url = "https://github.com/chee-finance/docs"
 
 [[repo]]
 url = "https://github.com/chee-finance/hashlips_art_engine"
+missing = true
 
 [[repo]]
 url = "https://github.com/chee-finance/venft"
+

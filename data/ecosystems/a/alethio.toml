@@ -3,7 +3,9 @@ title = "Alethio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Alethio"]
+github_organizations = [
+  "https://github.com/Alethio",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/Alethio/web3-go"
 
 [[repo]]
 url = "https://github.com/Alethio/web3-multicall-go"
+

@@ -3,7 +3,9 @@ title = "Interlay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/interlay"]
+github_organizations = [
+  "https://github.com/interlay",
+]
 
 # Repositories
 [[repo]]
@@ -24,6 +26,7 @@ url = "https://github.com/interlay/archive-interlay.github.io"
 
 [[repo]]
 url = "https://github.com/interlay/audit-reports"
+missing = true
 
 [[repo]]
 url = "https://github.com/interlay/bitcoin-lib"
@@ -200,6 +203,7 @@ url = "https://github.com/interlay/substrate"
 
 [[repo]]
 url = "https://github.com/interlay/substrate-front-end-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/interlay/subxt"
@@ -251,3 +255,4 @@ url = "https://github.com/timbotro/kt-vault-runner"
 
 [[repo]]
 url = "https://github.com/timbotro/vault-buddy"
+

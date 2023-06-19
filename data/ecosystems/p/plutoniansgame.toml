@@ -3,7 +3,9 @@ title = "plutoniansgame"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plutoniansgame"]
+github_organizations = [
+  "https://github.com/plutoniansgame",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/plutoniansgame/SPL_circulating_supply_tool"
 
 [[repo]]
 url = "https://github.com/plutoniansgame/token-list"
+

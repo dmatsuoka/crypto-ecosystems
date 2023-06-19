@@ -3,7 +3,9 @@ title = "Rizon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rizon-world"]
+github_organizations = [
+  "https://github.com/rizon-world",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/rizon-world/rizonjs"
 
 [[repo]]
 url = "https://github.com/rizon-world/testnet"
+

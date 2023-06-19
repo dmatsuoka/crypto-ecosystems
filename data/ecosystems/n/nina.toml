@@ -3,11 +3,14 @@ title = "nina"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nina-market"]
+github_organizations = [
+  "https://github.com/nina-market",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/nina-market/nina-common"
+missing = true
 
 [[repo]]
 url = "https://github.com/nina-protocol/anchor"
@@ -26,3 +29,4 @@ url = "https://github.com/nina-protocol/nina-spl-claim"
 
 [[repo]]
 url = "https://github.com/nina-protocol/spl-token-wallet"
+

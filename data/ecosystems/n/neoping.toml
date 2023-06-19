@@ -3,7 +3,9 @@ title = "Neoping"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Neopin"]
+github_organizations = [
+  "https://github.com/Neopin",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Neopin/NeopinConnect-iOS"
 
 [[repo]]
 url = "https://github.com/Neopin/NeopinConnect-Unity"
+

@@ -3,7 +3,9 @@ title = "BitShares"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitshares"]
+github_organizations = [
+  "https://github.com/bitshares",
+]
 
 # Repositories
 [[repo]]
@@ -93,6 +95,7 @@ url = "https://github.com/bitshares/bitshares-ui-api"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-ui-original"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-ui-staging"
@@ -291,3 +294,4 @@ url = "https://github.com/bitshares/witness-monitor"
 
 [[repo]]
 url = "https://github.com/bitshares/www.bitshares.org"
+

@@ -3,7 +3,9 @@ title = "SimpleChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/simplechain-org"]
+github_organizations = [
+  "https://github.com/simplechain-org",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/simplechain-org/remix-ide"
 
 [[repo]]
 url = "https://github.com/simplechain-org/simplechain"
+missing = true
 
 [[repo]]
 url = "https://github.com/simplechain-org/simplenode"
@@ -83,3 +86,4 @@ url = "https://github.com/simplechain-org/web3.js-1"
 
 [[repo]]
 url = "https://github.com/simplechain-org/whitepaper"
+

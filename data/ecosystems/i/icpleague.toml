@@ -3,7 +3,9 @@ title = "icpleague"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/icpleague"]
+github_organizations = [
+  "https://github.com/icpleague",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/icpleague/motoko"
 
 [[repo]]
 url = "https://github.com/icpleague/Supernova-2022-CN"
+

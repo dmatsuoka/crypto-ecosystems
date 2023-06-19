@@ -3,7 +3,9 @@ title = "AlgoDex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/algodex"]
+github_organizations = [
+  "https://github.com/algodex",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/algodex/testnet-rewards-checker"
 
 [[repo]]
 url = "https://github.com/algodex/trading-bot"
+

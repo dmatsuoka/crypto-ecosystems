@@ -3,7 +3,9 @@ title = "Laika Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/laika-labs"]
+github_organizations = [
+  "https://github.com/laika-labs",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/laika-labs/laika-extension"
 
 [[repo]]
 url = "https://github.com/laika-labs/laika-testing-contract-terra"
+

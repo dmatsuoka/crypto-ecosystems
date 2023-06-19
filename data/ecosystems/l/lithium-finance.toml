@@ -3,8 +3,11 @@ title = "Lithium Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LithiumFinance"]
+github_organizations = [
+  "https://github.com/LithiumFinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/LithiumFinance/Website"
+

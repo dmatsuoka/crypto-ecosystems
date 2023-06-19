@@ -3,7 +3,9 @@ title = "BlockBank"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockbankcoltd"]
+github_organizations = [
+  "https://github.com/blockbankcoltd",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/blockbankcoltd/item-swap"
 
 [[repo]]
 url = "https://github.com/blockbankcoltd/react-stockcharts"
+

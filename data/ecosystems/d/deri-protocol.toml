@@ -8,15 +8,19 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/deri-finance/app"
+missing = true
 
 [[repo]]
 url = "https://github.com/deri-finance/bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/deri-finance/deri-finance.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/deri-finance/governance"
+missing = true
 
 [[repo]]
 url = "https://github.com/deri-protocol/alphatest"
@@ -53,3 +57,4 @@ url = "https://github.com/deri-protocol/testnet"
 
 [[repo]]
 url = "https://github.com/deri-protocol/whitepaper"
+

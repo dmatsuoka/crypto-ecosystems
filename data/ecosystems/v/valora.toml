@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Valora"
 
-sub_ecosystems = ["Fiat Connect"]
+sub_ecosystems = [
+  "Fiat Connect",
+]
 
-github_organizations = ["https://github.com/valora-inc"]
+github_organizations = [
+  "https://github.com/valora-inc",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +45,7 @@ url = "https://github.com/valora-inc/bnc-onboard-hooks"
 
 [[repo]]
 url = "https://github.com/valora-inc/celo-tracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/valora-inc/clipboard"
@@ -161,3 +166,4 @@ url = "https://github.com/valora-inc/valora-helper"
 
 [[repo]]
 url = "https://github.com/valora-inc/wallet"
+

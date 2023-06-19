@@ -3,7 +3,9 @@ title = "Complus Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/complusnetwork"]
+github_organizations = [
+  "https://github.com/complusnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/complusnetwork/subgraph-bsc"
 
 [[repo]]
 url = "https://github.com/complusnetwork/subgraph-heco"
+

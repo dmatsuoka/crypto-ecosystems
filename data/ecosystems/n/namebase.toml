@@ -3,7 +3,9 @@ title = "Namebase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/namebasehq"]
+github_organizations = [
+  "https://github.com/namebasehq",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/namebasehq/namebase-types"
 
 [[repo]]
 url = "https://github.com/namebasehq/namer-news-frontend-svelte-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/nodejs-skynet"
@@ -119,3 +122,4 @@ url = "https://github.com/namebasehq/simple-hsd-wrapper"
 
 [[repo]]
 url = "https://github.com/namebasehq/txtdirect"
+

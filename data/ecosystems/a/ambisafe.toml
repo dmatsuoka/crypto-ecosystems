@@ -3,7 +3,9 @@ title = "Ambisafe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ambisafe"]
+github_organizations = [
+  "https://github.com/Ambisafe",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/Ambisafe/ambisafe-tokens-js"
 
 [[repo]]
 url = "https://github.com/Ambisafe/ambisafe_tenant_client"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ambisafe/ansible-role-1pass"
@@ -125,6 +128,7 @@ url = "https://github.com/Ambisafe/landings-images-tools"
 
 [[repo]]
 url = "https://github.com/Ambisafe/moola-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ambisafe/orderbook-hapi-rate-limiter"
@@ -167,3 +171,4 @@ url = "https://github.com/Ambisafe/voting_docs"
 
 [[repo]]
 url = "https://github.com/Ambisafe/web3-wallet-java-lib"
+

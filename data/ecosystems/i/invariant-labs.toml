@@ -3,7 +3,9 @@ title = "Invariant Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/invariant-labs"]
+github_organizations = [
+  "https://github.com/invariant-labs",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/invariant-labs/stats"
 
 [[repo]]
 url = "https://github.com/invariant-labs/webapp"
+

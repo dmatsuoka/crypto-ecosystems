@@ -3,7 +3,9 @@ title = "XMax"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/XMaxPlatform"]
+github_organizations = [
+  "https://github.com/XMaxPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/XMaxPlatform/xmaxjs-json-lib"
 
 [[repo]]
 url = "https://github.com/XMaxPlatform/xmaxjs-keygen-lib"
+

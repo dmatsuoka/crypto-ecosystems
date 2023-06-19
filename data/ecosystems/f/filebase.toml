@@ -3,7 +3,9 @@ title = "Filebase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/filebase"]
+github_organizations = [
+  "https://github.com/filebase",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/filebase/siad"
 
 [[repo]]
 url = "https://github.com/filebase/uplink-nodejs"
+

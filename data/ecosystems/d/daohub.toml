@@ -3,7 +3,9 @@ title = "DaoHub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Daohub-io"]
+github_organizations = [
+  "https://github.com/Daohub-io",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Daohub-io/substrate"
 
 [[repo]]
 url = "https://github.com/Daohub-io/substrate-api-client"
+

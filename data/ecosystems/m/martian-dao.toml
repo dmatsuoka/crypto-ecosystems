@@ -3,7 +3,9 @@ title = "Martian DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/martian-dao"]
+github_organizations = [
+  "https://github.com/martian-dao",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/martian-dao/sui-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/martian-dao/sui-web3.js"
+

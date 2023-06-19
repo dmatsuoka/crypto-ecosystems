@@ -3,7 +3,9 @@ title = "VerusCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VerusCoin"]
+github_organizations = [
+  "https://github.com/VerusCoin",
+]
 
 # Repositories
 [[repo]]
@@ -110,6 +112,7 @@ url = "https://github.com/VerusCoin/terminal-in-react"
 
 [[repo]]
 url = "https://github.com/VerusCoin/verus-bridgekeeper"
+missing = true
 
 [[repo]]
 url = "https://github.com/VerusCoin/Verus-Coin-Importer"
@@ -179,3 +182,4 @@ url = "https://github.com/VerusCoin/VerusPayInstallScripts"
 
 [[repo]]
 url = "https://github.com/VerusCoin/VerusServicesSetup"
+

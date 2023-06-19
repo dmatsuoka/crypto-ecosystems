@@ -3,7 +3,9 @@ title = "MB8 Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MB8Coin"]
+github_organizations = [
+  "https://github.com/MB8Coin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/MB8Coin/insight"
 
 [[repo]]
 url = "https://github.com/MB8Coin/mb8coin-core"
+

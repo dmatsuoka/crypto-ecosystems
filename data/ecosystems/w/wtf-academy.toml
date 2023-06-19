@@ -3,7 +3,9 @@ title = "WTF.Academy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WTFAcademy"]
+github_organizations = [
+  "https://github.com/WTFAcademy",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/WTFAcademy/ETHBeijing"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/evote-fabric"
+missing = true
 
 [[repo]]
 url = "https://github.com/WTFAcademy/frontend"
@@ -92,3 +95,4 @@ url = "https://github.com/WTFAcademy/WTFGeth"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTFTasks"
+

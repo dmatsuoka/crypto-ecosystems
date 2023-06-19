@@ -3,7 +3,9 @@ title = "Atomic Loans"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AtomicLoans"]
+github_organizations = [
+  "https://github.com/AtomicLoans",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/AtomicLoans/technicalpaper"
 
 [[repo]]
 url = "https://github.com/AtomicLoans/wallet"
+

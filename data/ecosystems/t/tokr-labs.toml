@@ -3,7 +3,9 @@ title = "Tokr Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tokr-Labs"]
+github_organizations = [
+  "https://github.com/Tokr-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/Tokr-Labs/torus-utils-swift"
 
 [[repo]]
 url = "https://github.com/Tokr-Labs/web3auth-swift-sdk"
+

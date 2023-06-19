@@ -3,7 +3,9 @@ title = "ChainLayer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainlayer"]
+github_organizations = [
+  "https://github.com/chainlayer",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/chainlayer/validator-profiles"
 
 [[repo]]
 url = "https://github.com/chainlayer/zabbix-templates"
+

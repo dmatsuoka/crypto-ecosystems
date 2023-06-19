@@ -3,7 +3,9 @@ title = "Bitwin24"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitWin24"]
+github_organizations = [
+  "https://github.com/BitWin24",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/BitWin24/gitian.sigs"
 
 [[repo]]
 url = "https://github.com/BitWin24/MN-Install"
+

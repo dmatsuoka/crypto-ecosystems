@@ -3,7 +3,9 @@ title = "RUGenerous"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RuGenerous"]
+github_organizations = [
+  "https://github.com/RuGenerous",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/RuGenerous/rugenerous-scripts"
 
 [[repo]]
 url = "https://github.com/RuGenerous/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/RuGenerous/Smart-Contracts"
@@ -41,3 +44,4 @@ url = "https://github.com/RuGenerous/token-lists"
 
 [[repo]]
 url = "https://github.com/RuGenerous/tokens"
+

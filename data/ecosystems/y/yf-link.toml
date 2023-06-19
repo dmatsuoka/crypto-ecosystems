@@ -3,7 +3,9 @@ title = "YF Link"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yflink"]
+github_organizations = [
+  "https://github.com/yflink",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/yflink/yflusd-protocol"
 
 [[repo]]
 url = "https://github.com/yflink/yieldfarming"
+

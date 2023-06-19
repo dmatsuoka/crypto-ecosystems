@@ -3,7 +3,9 @@ title = "Moola-market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moolamarket"]
+github_organizations = [
+  "https://github.com/moolamarket",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/moolamarket/moola-utils"
 
 [[repo]]
 url = "https://github.com/moolamarket/moola-v2"
+

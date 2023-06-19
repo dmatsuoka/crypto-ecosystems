@@ -3,7 +3,9 @@ title = "Flowty"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Flowtyio"]
+github_organizations = [
+  "https://github.com/Flowtyio",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Flowtyio/withdraw-helper"
 
 [[repo]]
 url = "https://github.com/Flowtyio/withdraw-restrictions"
+

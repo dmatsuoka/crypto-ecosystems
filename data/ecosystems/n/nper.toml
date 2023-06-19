@@ -3,7 +3,9 @@ title = "NPER"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NperProject"]
+github_organizations = [
+  "https://github.com/NperProject",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/ChainusProject/Marketing"
 
 [[repo]]
 url = "https://github.com/ChainusProject/SmartContract"
+

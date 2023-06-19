@@ -3,7 +3,9 @@ title = "Nexo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nexofinance"]
+github_organizations = [
+  "https://github.com/nexofinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/nexofinance/contract-metadata"
 
 [[repo]]
 url = "https://github.com/nexofinance/NEXO-Token"
+

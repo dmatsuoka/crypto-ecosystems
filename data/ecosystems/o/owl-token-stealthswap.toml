@@ -3,7 +3,9 @@ title = "OWL Token (StealthSwap)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stealthswap"]
+github_organizations = [
+  "https://github.com/stealthswap",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/stealthswap/web3.js"
 
 [[repo]]
 url = "https://github.com/stealthswap/website"
+

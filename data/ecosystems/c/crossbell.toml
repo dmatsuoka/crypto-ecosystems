@@ -3,7 +3,9 @@ title = "Crossbell"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Crossbell-Box"]
+github_organizations = [
+  "https://github.com/Crossbell-Box",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Crossbell-Box/bridge"
 
 [[repo]]
 url = "https://github.com/Crossbell-Box/bridge-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Crossbell-Box/bridge-core"
@@ -137,3 +140,4 @@ url = "https://github.com/Crossbell-Box/xLog-mobile"
 
 [[repo]]
 url = "https://github.com/Crossbell-Box/xSync"
+

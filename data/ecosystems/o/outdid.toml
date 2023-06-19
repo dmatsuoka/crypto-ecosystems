@@ -3,7 +3,9 @@ title = "OutDID"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OutDID-io"]
+github_organizations = [
+  "https://github.com/OutDID-io",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/OutDID-io/smartscanner-core"
 
 [[repo]]
 url = "https://github.com/OutDID-io/witnesscalc"
+

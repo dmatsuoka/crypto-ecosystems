@@ -3,7 +3,9 @@ title = "SOAR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SoarEarth"]
+github_organizations = [
+  "https://github.com/SoarEarth",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/SoarEarth/skymap-token"
 
 [[repo]]
 url = "https://github.com/SoarEarth/wallet-frozen"
+

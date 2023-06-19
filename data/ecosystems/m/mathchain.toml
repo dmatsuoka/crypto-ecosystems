@@ -89,6 +89,7 @@ url = "https://github.com/mathwallet/nft_docs"
 
 [[repo]]
 url = "https://github.com/mathwallet/onboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/mathwallet/react-demo"
@@ -122,3 +123,4 @@ url = "https://github.com/mathwallet/web3swift"
 
 [[repo]]
 url = "https://github.com/mathwallet/whitepaper"
+

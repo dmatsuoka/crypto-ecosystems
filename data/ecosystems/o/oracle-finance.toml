@@ -3,7 +3,9 @@ title = "Oracle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Oracle-DAO"]
+github_organizations = [
+  "https://github.com/Oracle-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Oracle-DAO/oracle-dao-launchpad"
 
 [[repo]]
 url = "https://github.com/Oracle-DAO/oracle-frontend"
+

@@ -3,7 +3,9 @@ title = "Less Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LESS-xyz"]
+github_organizations = [
+  "https://github.com/LESS-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/LESS-xyz/lesstools-frontend"
 
 [[repo]]
 url = "https://github.com/LESS-xyz/token-contract"
+

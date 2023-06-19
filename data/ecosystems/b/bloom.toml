@@ -3,7 +3,9 @@ title = "Bloom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hellobloom"]
+github_organizations = [
+  "https://github.com/hellobloom",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/hellobloom/bloom-vault"
 
 [[repo]]
 url = "https://github.com/hellobloom/collective-program"
+missing = true
 
 [[repo]]
 url = "https://github.com/hellobloom/community-grants"
@@ -134,3 +137,4 @@ url = "https://github.com/hellobloom/waci-demo"
 
 [[repo]]
 url = "https://github.com/hellobloom/waci-kit-react"
+

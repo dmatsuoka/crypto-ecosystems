@@ -3,7 +3,9 @@ title = "Hathor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HathorNetwork"]
+github_organizations = [
+  "https://github.com/HathorNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/HathorNetwork/yiimp"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/yiimp_install_scrypt"
+

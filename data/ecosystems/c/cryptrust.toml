@@ -3,8 +3,11 @@ title = "Cryptrust"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptrusten"]
+github_organizations = [
+  "https://github.com/cryptrusten",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/cryptrusten/token-profile"
+

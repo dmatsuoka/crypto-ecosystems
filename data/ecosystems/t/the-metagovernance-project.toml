@@ -3,7 +3,9 @@ title = "The Metagovernance Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metagov"]
+github_organizations = [
+  "https://github.com/metagov",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/metagov/to-community"
 
 [[repo]]
 url = "https://github.com/metagov/veephd"
+

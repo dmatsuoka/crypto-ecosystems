@@ -3,7 +3,9 @@ title = "Blocklancer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlocklancerOrg"]
+github_organizations = [
+  "https://github.com/BlocklancerOrg",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/BlocklancerOrg/rocket-chat"
 
 [[repo]]
 url = "https://github.com/BlocklancerOrg/wiki"
+

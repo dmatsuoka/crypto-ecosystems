@@ -3,7 +3,9 @@ title = "FoxWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/foxwallet"]
+github_organizations = [
+  "https://github.com/foxwallet",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/foxwallet/tokens"
 
 [[repo]]
 url = "https://github.com/foxwallet/zksync-web-v2-docs"
+

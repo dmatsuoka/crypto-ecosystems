@@ -3,7 +3,9 @@ title = "Madfish Solutions"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/madfish-solutions"]
+github_organizations = [
+  "https://github.com/madfish-solutions",
+]
 
 # Repositories
 [[repo]]
@@ -36,6 +38,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/dex-searcher"
+missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/didon-helper-bot"
@@ -102,6 +105,7 @@ url = "https://github.com/madfish-solutions/perpetual-contracts-interface"
 
 [[repo]]
 url = "https://github.com/madfish-solutions/quipu-farms-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/quipu-vesting"
@@ -117,6 +121,7 @@ url = "https://github.com/madfish-solutions/quipuswap-core-v2"
 
 [[repo]]
 url = "https://github.com/madfish-solutions/quipuswap-core-v3"
+missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/quipuswap-docs"
@@ -177,6 +182,7 @@ url = "https://github.com/madfish-solutions/Solidity-Dry-Runner"
 
 [[repo]]
 url = "https://github.com/madfish-solutions/swap-router-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/templewallet-backend"
@@ -201,6 +207,7 @@ url = "https://github.com/madfish-solutions/tezos-bancor"
 
 [[repo]]
 url = "https://github.com/madfish-solutions/tezos-dexes-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/madfish-solutions/tezos-ecosystem-projects"
@@ -249,3 +256,4 @@ url = "https://github.com/madfish-solutions/yupana-contracts"
 
 [[repo]]
 url = "https://github.com/madfish-solutions/yupana-protocol-core"
+

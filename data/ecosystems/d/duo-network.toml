@@ -3,7 +3,9 @@ title = "DUO Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FinBook"]
+github_organizations = [
+  "https://github.com/FinBook",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/FinBook/trust-wallet-android-source"
 
 [[repo]]
 url = "https://github.com/FinBook/trust-wallet-ios"
+

@@ -3,7 +3,9 @@ title = "Pendulum Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pendulum-chain"]
+github_organizations = [
+  "https://github.com/pendulum-chain",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/pendulum-chain/Zenlink-DEX-Module"
 
 [[repo]]
 url = "https://github.com/pendulum-chain/zenlink-interface"
+

@@ -3,7 +3,9 @@ title = "JSECOIN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/JSEcoin"]
+github_organizations = [
+  "https://github.com/JSEcoin",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/JSEcoin/v1platform"
 
 [[repo]]
 url = "https://github.com/JSEcoin/website"
+

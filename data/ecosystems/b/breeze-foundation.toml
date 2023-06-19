@@ -3,7 +3,9 @@ title = "Breeze Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/breeze-foundation"]
+github_organizations = [
+  "https://github.com/breeze-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/breeze-foundation/tmac-signup"
 
 [[repo]]
 url = "https://github.com/breeze-foundation/tmac_bridge"
+

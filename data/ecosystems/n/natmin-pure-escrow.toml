@@ -3,7 +3,9 @@ title = "Natmin Pure Escrow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NatminPureEscrow"]
+github_organizations = [
+  "https://github.com/NatminPureEscrow",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/NatminPureEscrow/WebApp"
 
 [[repo]]
 url = "https://github.com/NatminPureEscrow/WebAppImages"
+

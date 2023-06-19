@@ -3,7 +3,9 @@ title = "Transak"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Transak"]
+github_organizations = [
+  "https://github.com/Transak",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/Transak/Transak-widget-react-sample"
 
 [[repo]]
 url = "https://github.com/Transak/volly"
+

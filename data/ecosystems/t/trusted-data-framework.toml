@@ -3,7 +3,9 @@ title = "Trusted Data Framework"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrustedDataFramework"]
+github_organizations = [
+  "https://github.com/TrustedDataFramework",
+]
 
 # Repositories
 [[repo]]
@@ -35,12 +37,15 @@ url = "https://github.com/TrustedDataFramework/LotusVM"
 
 [[repo]]
 url = "https://github.com/TrustedDataFramework/pscscan"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrustedDataFramework/pscscan-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrustedDataFramework/pscscan-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrustedDataFramework/rust-wbi"
@@ -86,3 +91,4 @@ url = "https://github.com/TrustedDataFramework/web-console"
 
 [[repo]]
 url = "https://github.com/TrustedDataFramework/web-tds"
+

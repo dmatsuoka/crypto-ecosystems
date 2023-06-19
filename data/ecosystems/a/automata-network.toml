@@ -3,7 +3,9 @@ title = "Automata Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/automata-network"]
+github_organizations = [
+  "https://github.com/automata-network",
+]
 
 # Repositories
 [[repo]]
@@ -104,6 +106,7 @@ url = "https://github.com/automata-network/libsecp256k1"
 
 [[repo]]
 url = "https://github.com/automata-network/metamask-iframe-connector"
+missing = true
 
 [[repo]]
 url = "https://github.com/automata-network/mev-wiki"
@@ -116,6 +119,7 @@ url = "https://github.com/automata-network/polkadot-json-common"
 
 [[repo]]
 url = "https://github.com/automata-network/reward-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/automata-network/rusty_leveldb_sgx"
@@ -140,3 +144,4 @@ url = "https://github.com/automata-network/sushiswap-sdk"
 
 [[repo]]
 url = "https://github.com/xata-fi/xata-sdk"
+

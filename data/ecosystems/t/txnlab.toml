@@ -3,7 +3,9 @@ title = "TxnLab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TxnLab"]
+github_organizations = [
+  "https://github.com/TxnLab",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/TxnLab/nfd-cli-examples"
 
 [[repo]]
 url = "https://github.com/TxnLab/use-wallet"
+

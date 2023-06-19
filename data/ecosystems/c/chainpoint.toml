@@ -3,7 +3,9 @@ title = "Chainpoint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainpoint"]
+github_organizations = [
+  "https://github.com/chainpoint",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/chainpoint/w3id.org"
 
 [[repo]]
 url = "https://github.com/chainpoint/whitepaper"
+

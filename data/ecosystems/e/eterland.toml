@@ -3,7 +3,9 @@ title = "Eterland"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Eterland"]
+github_organizations = [
+  "https://github.com/Eterland",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Eterland/eterland-public-smart-contracts"
 
 [[repo]]
 url = "https://github.com/Eterland/EterToken"
+

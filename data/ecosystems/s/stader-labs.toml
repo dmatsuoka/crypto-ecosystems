@@ -3,7 +3,9 @@ title = "Stader Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stader-labs"]
+github_organizations = [
+  "https://github.com/stader-labs",
+]
 
 # Repositories
 [[repo]]
@@ -80,6 +82,7 @@ url = "https://github.com/stader-labs/stader-lp-staking"
 
 [[repo]]
 url = "https://github.com/stader-labs/stader-minipool-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/stader-labs/stader-node"
@@ -110,3 +113,4 @@ url = "https://github.com/stader-labs/update-screenshots"
 
 [[repo]]
 url = "https://github.com/stader-labs/wormhole-token-list"
+

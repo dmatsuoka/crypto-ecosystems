@@ -3,7 +3,9 @@ title = "Creaton"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/creaton-io"]
+github_organizations = [
+  "https://github.com/creaton-io",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/creaton-io/Ghost3"
 
 [[repo]]
 url = "https://github.com/creaton-io/NuCreaton"
+missing = true
 
 [[repo]]
 url = "https://github.com/creaton-io/nucypher"
@@ -47,3 +50,4 @@ url = "https://github.com/creaton-io/wavy-app"
 
 [[repo]]
 url = "https://github.com/creaton-io/webaverse"
+

@@ -3,7 +3,9 @@ title = "Exfil Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Exfil-Finance"]
+github_organizations = [
+  "https://github.com/Exfil-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Exfil-Finance/oracle-tests-ScalingEthDemo"
 
 [[repo]]
 url = "https://github.com/Exfil-Finance/staking-dapp-ScalingEthDemo"
+

@@ -3,7 +3,9 @@ title = "NKN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nknorg"]
+github_organizations = [
+  "https://github.com/nknorg",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/nknorg/eth-resolver-go"
 
 [[repo]]
 url = "https://github.com/nknorg/eth-resolver-go-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/example-kaizen"
@@ -122,6 +125,7 @@ url = "https://github.com/nknorg/nkn-java-sdk"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-mining"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-multiclient-js"
@@ -164,6 +168,7 @@ url = "https://github.com/nknorg/nkn-tunnel"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-tunnel-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-utility"
@@ -179,6 +184,7 @@ url = "https://github.com/nknorg/nkngomobile"
 
 [[repo]]
 url = "https://github.com/nknorg/NKNMobileWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/nMobile"
@@ -221,3 +227,4 @@ url = "https://github.com/nknorg/tuna-proxy-speedtest"
 
 [[repo]]
 url = "https://github.com/nknorg/vxeddsa"
+

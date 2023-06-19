@@ -3,7 +3,9 @@ title = "Churrito Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ChurritoFi"]
+github_organizations = [
+  "https://github.com/ChurritoFi",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/ChurritoFi/twitter-bot"
 
 [[repo]]
 url = "https://github.com/ChurritoFi/widgets"
+

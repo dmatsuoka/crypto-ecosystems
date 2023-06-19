@@ -3,7 +3,9 @@ title = "Progress Chain EVM L2"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProgressChain"]
+github_organizations = [
+  "https://github.com/ProgressChain",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/ProgressChain/swap-lib"
 
 [[repo]]
 url = "https://github.com/ProgressChain/swap-periphery"
+

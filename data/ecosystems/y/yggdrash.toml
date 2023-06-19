@@ -3,7 +3,9 @@ title = "YGGDRASH"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yggdrash"]
+github_organizations = [
+  "https://github.com/yggdrash",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/yggdrash/recruit"
 
 [[repo]]
 url = "https://github.com/yggdrash/smartContract"
+missing = true
 
 [[repo]]
 url = "https://github.com/yggdrash/token"
@@ -53,3 +56,4 @@ url = "https://github.com/yggdrash/yggdrash-sdk-js"
 
 [[repo]]
 url = "https://github.com/yggdrash/yggdrash-wallet"
+

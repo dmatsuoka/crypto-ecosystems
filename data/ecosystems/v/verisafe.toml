@@ -3,7 +3,9 @@ title = "VeriSafe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VeriSafe"]
+github_organizations = [
+  "https://github.com/VeriSafe",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/VeriSafe/defi-wrappers"
 
 [[repo]]
 url = "https://github.com/VeriSafe/Desktop-Wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/VeriSafe/dex-whitelist-orders"
@@ -101,3 +104,4 @@ url = "https://github.com/VeriSafe/VeriSafe.github.io"
 
 [[repo]]
 url = "https://github.com/VeriSafe/widget-woocommerce"
+

@@ -3,7 +3,9 @@ title = "dscvr one"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dscvr-one"]
+github_organizations = [
+  "https://github.com/dscvr-one",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/dscvr-one/nns-registry"
 
 [[repo]]
 url = "https://github.com/dscvr-one/soulbound-token"
+

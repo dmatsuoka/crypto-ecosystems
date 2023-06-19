@@ -3,7 +3,9 @@ title = "Vega Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vegaprotocol"]
+github_organizations = [
+  "https://github.com/vegaprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/vegaprotocol/approbation"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/beehive"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/bounties"
@@ -89,6 +92,7 @@ url = "https://github.com/vegaprotocol/ethonline-workshop"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/fan-art"
@@ -98,6 +102,7 @@ url = "https://github.com/vegaprotocol/feedback"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/frontend-developer-task"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/frontend-monorepo"
@@ -131,6 +136,7 @@ url = "https://github.com/vegaprotocol/graphql-workshop"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/graphqldoc"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/helm-charts"
@@ -143,6 +149,7 @@ url = "https://github.com/vegaprotocol/iavl"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/jazzicon-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/jenkins-shared-library"
@@ -224,6 +231,7 @@ url = "https://github.com/vegaprotocol/sample-api-scripts"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/sdk-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/sdk-golang"
@@ -254,6 +262,7 @@ url = "https://github.com/vegaprotocol/social-media-verification"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/sol2uml"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/specs"
@@ -269,6 +278,7 @@ url = "https://github.com/vegaprotocol/tendermint"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/testprotosize"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/thingbox"
@@ -347,6 +357,7 @@ url = "https://github.com/vegaprotocol/vegawallet-dummy"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/vegawallet-service-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/vegaprotocol/vegawallet-ui"
@@ -365,3 +376,4 @@ url = "https://github.com/vegaprotocol/wendy"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/xgo"
+

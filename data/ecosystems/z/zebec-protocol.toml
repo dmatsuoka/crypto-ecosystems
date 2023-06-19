@@ -3,7 +3,9 @@ title = "Zebec Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zebec-protocol"]
+github_organizations = [
+  "https://github.com/Zebec-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/Zebec-protocol/multisig"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/Project-Submitted-By-Developers"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/ricks-solana"
@@ -71,3 +74,4 @@ url = "https://github.com/Zebec-protocol/zebec-sdk-v2"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/zebec-wormhole-program"
+

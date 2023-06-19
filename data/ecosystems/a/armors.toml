@@ -3,7 +3,9 @@ title = "Armors"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/armors"]
+github_organizations = [
+  "https://github.com/armors",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/armors/ago"
 
 [[repo]]
 url = "https://github.com/armors/ARM-Token-Audit"
+missing = true
 
 [[repo]]
 url = "https://github.com/armors/armors-contract"
@@ -47,3 +50,4 @@ url = "https://github.com/armors/token-profile"
 
 [[repo]]
 url = "https://github.com/armors/traceability"
+

@@ -3,7 +3,9 @@ title = "digital native"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/digitalnativeinc"]
+github_organizations = [
+  "https://github.com/digitalnativeinc",
+]
 
 # Repositories
 [[repo]]
@@ -197,3 +199,4 @@ url = "https://github.com/standardweb3/validator-guide-gitbook"
 
 [[repo]]
 url = "https://github.com/standardweb3/webfront"
+

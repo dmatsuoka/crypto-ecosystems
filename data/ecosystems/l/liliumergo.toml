@@ -3,7 +3,9 @@ title = "LiliumErgo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LiliumErgo"]
+github_organizations = [
+  "https://github.com/LiliumErgo",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/LiliumErgo/quick-hash"
 
 [[repo]]
 url = "https://github.com/LiliumErgo/scala-api"
+

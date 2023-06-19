@@ -3,7 +3,9 @@ title = "Sparkpoint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sparkpointio"]
+github_organizations = [
+  "https://github.com/sparkpointio",
+]
 
 # Repositories
 [[repo]]
@@ -74,9 +76,11 @@ url = "https://github.com/sparkpointio/sparkswap-dex"
 
 [[repo]]
 url = "https://github.com/sparkpointio/sparkswap-dex-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/sparkpointio/sparkswap-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/sparkpointio/sparkswap-info"
@@ -101,3 +105,4 @@ url = "https://github.com/sparkpointio/token-geyser"
 
 [[repo]]
 url = "https://github.com/sparkpointio/venus-protocol"
+

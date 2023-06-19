@@ -3,7 +3,9 @@ title = "DSTOQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DSTOQ"]
+github_organizations = [
+  "https://github.com/DSTOQ",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/DSTOQ/slate"
 
 [[repo]]
 url = "https://github.com/DSTOQ/stellar-protocol"
+

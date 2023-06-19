@@ -3,7 +3,9 @@ title = "Dicether"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dicether"]
+github_organizations = [
+  "https://github.com/dicether",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/dicether/truffle-ledger-wallet-provider"
 
 [[repo]]
 url = "https://github.com/dicether/verifier"
+

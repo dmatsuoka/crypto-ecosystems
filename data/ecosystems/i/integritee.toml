@@ -41,3 +41,4 @@ url = "https://github.com/integritee-network/tungstenite-rs-sgx"
 
 [[repo]]
 url = "https://github.com/integritee-network/worker"
+

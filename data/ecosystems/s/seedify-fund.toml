@@ -3,7 +3,9 @@ title = "Seedify.fund"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Seedifyfund"]
+github_organizations = [
+  "https://github.com/Seedifyfund",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/Seedifyfund/diamond-template"
 
 [[repo]]
 url = "https://github.com/Seedifyfund/Ghost-Snapshot"
+missing = true
 
 [[repo]]
 url = "https://github.com/Seedifyfund/Ghost-Snapshot-Api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Seedifyfund/igo-all-in-one"
@@ -32,6 +36,7 @@ url = "https://github.com/Seedifyfund/inosubAdmin"
 
 [[repo]]
 url = "https://github.com/Seedifyfund/Launchpad-admin-panel"
+missing = true
 
 [[repo]]
 url = "https://github.com/Seedifyfund/Launchpad-smart-contract"
@@ -65,3 +70,4 @@ url = "https://github.com/Seedifyfund/TokenClaimLinearVesting"
 
 [[repo]]
 url = "https://github.com/Seedifyfund/Yield-Farming-smart-contract"
+

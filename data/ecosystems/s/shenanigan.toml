@@ -3,7 +3,9 @@ title = "Shenanigan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShenaniganDApp"]
+github_organizations = [
+  "https://github.com/ShenaniganDApp",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/ShenaniganDApp/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/ShenaniganDApp/unisocks"
+

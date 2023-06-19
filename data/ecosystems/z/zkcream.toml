@@ -3,7 +3,9 @@ title = "zkCream"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/couger-inc"]
+github_organizations = [
+  "https://github.com/couger-inc",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/couger-inc/rachel_weather_report"
 
 [[repo]]
 url = "https://github.com/couger-inc/research"
+

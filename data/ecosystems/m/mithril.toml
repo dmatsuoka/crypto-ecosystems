@@ -3,7 +3,9 @@ title = "Mithril"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mithio"]
+github_organizations = [
+  "https://github.com/mithio",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/mithio/vault-python-sdk"
 
 [[repo]]
 url = "https://github.com/mithio/vfat-tools"
+

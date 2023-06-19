@@ -3,7 +3,9 @@ title = "Carbonite Club"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CarboniteClub"]
+github_organizations = [
+  "https://github.com/CarboniteClub",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/CarboniteClub/Frontend"
 
 [[repo]]
 url = "https://github.com/CarboniteClub/smart-contract"
+

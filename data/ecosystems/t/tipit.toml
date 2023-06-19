@@ -3,7 +3,9 @@ title = "Tipit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tipitio"]
+github_organizations = [
+  "https://github.com/tipitio",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,8 @@ url = "https://github.com/tipitio/ScatterApps"
 
 [[repo]]
 url = "https://github.com/tipitio/test-repo"
+missing = true
 
 [[repo]]
 url = "https://github.com/tipitio/tipit-resources"
+

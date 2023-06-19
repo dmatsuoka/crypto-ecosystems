@@ -3,7 +3,9 @@ title = "Ritocoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RitoProject"]
+github_organizations = [
+  "https://github.com/RitoProject",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/RitoProject/x21s_hash"
 
 [[repo]]
 url = "https://github.com/RitoProject/yiimp"
+

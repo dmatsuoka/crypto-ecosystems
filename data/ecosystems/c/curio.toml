@@ -3,7 +3,9 @@ title = "Curio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CurioTeam"]
+github_organizations = [
+  "https://github.com/CurioTeam",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/CurioTeam/curio-parachain"
 
 [[repo]]
 url = "https://github.com/CurioTeam/curio-parachain-apps"
+missing = true
 
 [[repo]]
 url = "https://github.com/CurioTeam/curio-parachain-node"
@@ -167,3 +170,4 @@ url = "https://github.com/CurioTeam/vote-proxy"
 
 [[repo]]
 url = "https://github.com/CurioTeam/whitelisted-tokensale"
+

@@ -3,7 +3,9 @@ title = "BNUG Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BNUG-BLOCK"]
+github_organizations = [
+  "https://github.com/BNUG-BLOCK",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/BNUG-BLOCK/web-app-updated"
 
 [[repo]]
 url = "https://github.com/BNUG-BLOCK/web-landing-page"
+

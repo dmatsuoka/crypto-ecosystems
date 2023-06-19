@@ -3,7 +3,9 @@ title = "TrueFi Engineering (Ethworks)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrueFiEng"]
+github_organizations = [
+  "https://github.com/TrueFiEng",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/TrueFiEng/Waffle"
 
 [[repo]]
 url = "https://github.com/TrueFiEng/workshop-usedapp"
+

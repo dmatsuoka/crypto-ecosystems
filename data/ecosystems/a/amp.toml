@@ -3,7 +3,9 @@ title = "Amp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amptoken"]
+github_organizations = [
+  "https://github.com/amptoken",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/amptoken/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/amptoken/snapshot-strategies"
+

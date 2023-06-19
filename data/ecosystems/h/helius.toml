@@ -3,7 +3,9 @@ title = "Helius"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/helius-labs"]
+github_organizations = [
+  "https://github.com/helius-labs",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/helius-labs/helius-rpc-proxy"
 
 [[repo]]
 url = "https://github.com/helius-labs/helius-rpc-proxy-backup"
+missing = true
 
 [[repo]]
 url = "https://github.com/helius-labs/helius-sdk"
@@ -44,3 +47,4 @@ url = "https://github.com/helius-labs/xray"
 
 [[repo]]
 url = "https://github.com/helius-labs/xray-devnet"
+

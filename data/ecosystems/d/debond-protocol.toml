@@ -3,7 +3,9 @@ title = "Debond Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Debond-Protocol"]
+github_organizations = [
+  "https://github.com/Debond-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Debond-Protocol/Webapp"
 
 [[repo]]
 url = "https://github.com/Debond-Protocol/Website"
+

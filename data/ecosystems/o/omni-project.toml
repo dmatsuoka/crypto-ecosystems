@@ -3,11 +3,15 @@ title = "Omni Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OmniProject"]
+github_organizations = [
+  "https://github.com/OmniProject",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/OmniProject/omni"
+missing = true
 
 [[repo]]
 url = "https://github.com/OmniProject/omni-journal-builder"
+

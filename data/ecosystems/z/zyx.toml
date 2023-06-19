@@ -3,7 +3,9 @@ title = "ZYX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ZYXnetwork"]
+github_organizations = [
+  "https://github.com/ZYXnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ZYXnetwork/ZYX-explorer"
 
 [[repo]]
 url = "https://github.com/ZYXnetwork/ZYX-Wallet"
+

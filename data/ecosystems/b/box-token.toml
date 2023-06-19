@@ -3,7 +3,9 @@ title = "BOX Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boxproject"]
+github_organizations = [
+  "https://github.com/boxproject",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/boxproject/token-profile"
 
 [[repo]]
 url = "https://github.com/boxproject/voucher"
+

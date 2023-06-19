@@ -3,7 +3,9 @@ title = "TrueDeck"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrueDeck"]
+github_organizations = [
+  "https://github.com/TrueDeck",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/TrueDeck/TrueDeckTokenBurn"
 
 [[repo]]
 url = "https://github.com/TrueDeck/TrueDeckTokenLocking"
+

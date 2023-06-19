@@ -3,7 +3,9 @@ title = "Merculet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Merculet"]
+github_organizations = [
+  "https://github.com/Merculet",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Merculet/UAVJsSDK"
 
 [[repo]]
 url = "https://github.com/Merculet/vue-template"
+

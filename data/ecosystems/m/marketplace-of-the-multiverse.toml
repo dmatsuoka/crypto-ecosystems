@@ -3,7 +3,9 @@ title = "Marketplace of the Multiverse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Marketplace-of-the-Multiverse"]
+github_organizations = [
+  "https://github.com/Marketplace-of-the-Multiverse",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Marketplace-of-the-Multiverse/marketplace-fe"
 
 [[repo]]
 url = "https://github.com/Marketplace-of-the-Multiverse/marketplace-solidity"
+

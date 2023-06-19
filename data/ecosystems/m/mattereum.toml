@@ -3,14 +3,20 @@ title = "Mattereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mattereum"]
+github_organizations = [
+  "https://github.com/mattereum",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/mattereum/EIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/mattereum/MultiSigWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/mattereum/photo-licensing-ethereum"
+missing = true
+

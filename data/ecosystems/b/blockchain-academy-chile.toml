@@ -3,7 +3,9 @@ title = "Blockchain Academy Chile"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchain-academy-chile"]
+github_organizations = [
+  "https://github.com/blockchain-academy-chile",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/somos-colledge/Nervos"
 
 [[repo]]
 url = "https://github.com/somos-colledge/Solidity"
+

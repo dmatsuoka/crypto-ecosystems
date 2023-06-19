@@ -3,7 +3,9 @@ title = "BiLira"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bilira-org"]
+github_organizations = [
+  "https://github.com/bilira-org",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/bilira-org/tokenlists"
 
 [[repo]]
 url = "https://github.com/bilira-org/workshops"
+

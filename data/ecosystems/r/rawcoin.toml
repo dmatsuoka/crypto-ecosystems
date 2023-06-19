@@ -3,7 +3,9 @@ title = "Rawcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rawcoin-project"]
+github_organizations = [
+  "https://github.com/rawcoin-project",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/rawcoin-project/rawcoin"
 
 [[repo]]
 url = "https://github.com/rawcoin-project/rawcoinwallet"
+

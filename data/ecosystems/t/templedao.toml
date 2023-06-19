@@ -3,7 +3,9 @@ title = "TempleDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TempleDAO"]
+github_organizations = [
+  "https://github.com/TempleDAO",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/TempleDAO/DevOps"
 
 [[repo]]
 url = "https://github.com/TempleDAO/impostor-detector-discord-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/TempleDAO/temple"
@@ -26,9 +29,11 @@ url = "https://github.com/TempleDAO/temple-price-bot"
 
 [[repo]]
 url = "https://github.com/TempleDAO/TempleDAO"
+missing = true
 
 [[repo]]
 url = "https://github.com/TempleDAO/templedao-metrics-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/TempleDAO/webaverse-weapon-test"
@@ -38,3 +43,4 @@ url = "https://github.com/TempleDAO/Webaverse_Test"
 
 [[repo]]
 url = "https://github.com/TempleDAO/webaversezodiacapp"
+

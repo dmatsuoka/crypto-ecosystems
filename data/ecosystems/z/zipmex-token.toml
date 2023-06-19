@@ -3,11 +3,14 @@ title = "Zipmex Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zipmex"]
+github_organizations = [
+  "https://github.com/zipmex",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/zipmex/airflow-backup"
+missing = true
 
 [[repo]]
 url = "https://github.com/zipmex/apex-api"
@@ -20,6 +23,7 @@ url = "https://github.com/zipmex/BitGoJS"
 
 [[repo]]
 url = "https://github.com/zipmex/boblancer-script"
+missing = true
 
 [[repo]]
 url = "https://github.com/zipmex/commanded"
@@ -59,18 +63,21 @@ url = "https://github.com/zipmex/Indonesia-Postal-Code"
 
 [[repo]]
 url = "https://github.com/zipmex/jesse-bau-sql"
+missing = true
 
 [[repo]]
 url = "https://github.com/zipmex/last-successful-commit-action"
 
 [[repo]]
 url = "https://github.com/zipmex/lp-gate-io"
+missing = true
 
 [[repo]]
 url = "https://github.com/zipmex/marmot-lint"
 
 [[repo]]
 url = "https://github.com/zipmex/mma"
+missing = true
 
 [[repo]]
 url = "https://github.com/zipmex/multicoin-address-validator"
@@ -98,3 +105,4 @@ url = "https://github.com/zipmex/winston-papertrail"
 
 [[repo]]
 url = "https://github.com/zipmex/zverse-cms"
+

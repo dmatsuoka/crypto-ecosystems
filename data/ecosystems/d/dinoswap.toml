@@ -3,7 +3,9 @@ title = "DinoSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DinoSwap"]
+github_organizations = [
+  "https://github.com/DinoSwap",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/DinoSwap/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/DinoSwap/tarpit-contract"
+

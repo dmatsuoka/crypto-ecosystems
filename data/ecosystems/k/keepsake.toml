@@ -3,7 +3,9 @@ title = "Keepsake"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KeepsakeMarketplace"]
+github_organizations = [
+  "https://github.com/KeepsakeMarketplace",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/KeepsakeMarketplace/alchemy_move"
 
 [[repo]]
 url = "https://github.com/KeepsakeMarketplace/keepsake-contracts"
+

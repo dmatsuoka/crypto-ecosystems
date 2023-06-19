@@ -3,7 +3,9 @@ title = "rome blockchain labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Rome-Blockchain-Labs"]
+github_organizations = [
+  "https://github.com/Rome-Blockchain-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Rome-Blockchain-Labs/terminal-library"
 
 [[repo]]
 url = "https://github.com/Rome-Blockchain-Labs/terminal-widgets"
+

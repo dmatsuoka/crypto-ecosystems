@@ -3,7 +3,9 @@ title = "Kuchain Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KuChainNetwork"]
+github_organizations = [
+  "https://github.com/KuChainNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/KuChainNetwork/Project-Decalogue"
 
 [[repo]]
 url = "https://github.com/KuChainNetwork/Project-Deluge"
+

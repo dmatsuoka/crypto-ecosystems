@@ -3,7 +3,9 @@ title = "Pastel"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pastelnetwork"]
+github_organizations = [
+  "https://github.com/pastelnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -188,3 +190,4 @@ url = "https://github.com/pastelnetwork/webtools_update"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/xgo"
+

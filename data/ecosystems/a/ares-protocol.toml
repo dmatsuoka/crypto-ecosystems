@@ -3,7 +3,9 @@ title = "Ares Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aresprotocols"]
+github_organizations = [
+  "https://github.com/aresprotocols",
+]
 
 # Repositories
 [[repo]]
@@ -206,3 +208,4 @@ url = "https://github.com/aresprotocols/wiki"
 
 [[repo]]
 url = "https://github.com/aresprotocols/yulian9"
+

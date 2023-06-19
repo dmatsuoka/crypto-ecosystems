@@ -3,7 +3,9 @@ title = "Swing"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polkaswitch"]
+github_organizations = [
+  "https://github.com/polkaswitch",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,15 @@ url = "https://github.com/polkaswitch/chains"
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-sdk-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-transaction"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/evm-cosmos-crosschain-swap"
@@ -65,3 +70,4 @@ url = "https://github.com/polkaswitch/trade-volumn-test"
 
 [[repo]]
 url = "https://github.com/SwingCoin/Swing"
+

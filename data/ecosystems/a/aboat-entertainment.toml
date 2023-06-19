@@ -3,7 +3,9 @@ title = "Aboat Entertainment"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Talkaboat"]
+github_organizations = [
+  "https://github.com/Talkaboat",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Talkaboat/smart-contracts"
 
 [[repo]]
 url = "https://github.com/Talkaboat/talkaboat-frontend"
+

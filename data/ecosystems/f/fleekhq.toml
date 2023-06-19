@@ -3,7 +3,9 @@ title = "FleekHQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FleekHQ"]
+github_organizations = [
+  "https://github.com/FleekHQ",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/FleekHQ/webflow-example"
 
 [[repo]]
 url = "https://github.com/FleekHQ/workflows"
+

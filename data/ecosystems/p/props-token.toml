@@ -3,7 +3,9 @@ title = "Props Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/propsproject"]
+github_organizations = [
+  "https://github.com/propsproject",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/propsproject/tpl-contracts"
 
 [[repo]]
 url = "https://github.com/propsproject/wyvern-v3"
+

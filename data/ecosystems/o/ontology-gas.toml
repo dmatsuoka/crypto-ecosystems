@@ -3,7 +3,9 @@ title = "Ontology Gas"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ontio"]
+github_organizations = [
+  "https://github.com/ontio",
+]
 
 # Repositories
 [[repo]]
@@ -140,6 +142,7 @@ url = "https://github.com/ontio/ontology-ts-sdk"
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wagon"
+missing = true
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wasm"
@@ -173,3 +176,4 @@ url = "https://github.com/ontio/triones-node-tool"
 
 [[repo]]
 url = "https://github.com/ontio/wagon"
+

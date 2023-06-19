@@ -3,7 +3,9 @@ title = "Peeranha"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/peeranha"]
+github_organizations = [
+  "https://github.com/peeranha",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/peeranha/peeranha"
 
 [[repo]]
 url = "https://github.com/peeranha/peeranha-move"
+missing = true
 
 [[repo]]
 url = "https://github.com/peeranha/peeranha-query-index"
@@ -26,3 +29,4 @@ url = "https://github.com/peeranha/super-rotary-phone"
 
 [[repo]]
 url = "https://github.com/peeranha/web3-onboard"
+

@@ -3,7 +3,9 @@ title = "Oh Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OhFinance"]
+github_organizations = [
+  "https://github.com/OhFinance",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/OhFinance/oh-web3-types"
 
 [[repo]]
 url = "https://github.com/OhFinance/TypeChain"
+

@@ -3,7 +3,9 @@ title = "Apillon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Apillon-web3"]
+github_organizations = [
+  "https://github.com/Apillon-web3",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Apillon-web3/website-deploy-example"
 
 [[repo]]
 url = "https://github.com/Apillon-web3/wiki"
+

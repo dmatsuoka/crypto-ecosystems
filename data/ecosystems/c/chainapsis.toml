@@ -3,7 +3,9 @@ title = "Chainapsis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainapsis"]
+github_organizations = [
+  "https://github.com/chainapsis",
+]
 
 # Repositories
 [[repo]]
@@ -17,9 +19,11 @@ url = "https://github.com/chainapsis/cicd-test"
 
 [[repo]]
 url = "https://github.com/chainapsis/cicd-test-temp"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainapsis/cicd-test-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainapsis/cosmos-sdk"
@@ -110,3 +114,4 @@ url = "https://github.com/chainapsis/walletconnect-docs"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/cosmodal"
+

@@ -3,7 +3,9 @@ title = "welldonestudio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/welldonestudio"]
+github_organizations = [
+  "https://github.com/welldonestudio",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/welldonestudio/welldonestudio-video"
 
 [[repo]]
 url = "https://github.com/welldonestudio/welldonestudio.github.io"
+

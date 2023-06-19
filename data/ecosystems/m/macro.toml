@@ -3,7 +3,9 @@ title = "Macro"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xMacro"]
+github_organizations = [
+  "https://github.com/0xMacro",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/0xMacro/tuition"
 
 [[repo]]
 url = "https://github.com/0xMacro/two-dimensional-array"
+

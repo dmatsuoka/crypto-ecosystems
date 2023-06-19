@@ -3,7 +3,9 @@ title = "Gigaverse Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gigaverselabs"]
+github_organizations = [
+  "https://github.com/gigaverselabs",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/gigaverselabs/giga721"
 
 [[repo]]
 url = "https://github.com/gigaverselabs/ic_sales_bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/gigaverselabs/ic_vault"
@@ -26,3 +29,4 @@ url = "https://github.com/gigaverselabs/topup_site"
 
 [[repo]]
 url = "https://github.com/gigaverselabs/validator"
+

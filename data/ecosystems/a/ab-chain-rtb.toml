@@ -3,8 +3,11 @@ title = "AB-Chain RTB"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AB-CHAIN-com"]
+github_organizations = [
+  "https://github.com/AB-CHAIN-com",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/AB-CHAIN-com/ab-chain_smart_contracts"
+

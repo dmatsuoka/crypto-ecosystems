@@ -3,7 +3,9 @@ title = "THETA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thetatoken"]
+github_organizations = [
+  "https://github.com/thetatoken",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/thetatoken/sliver-integration-transaction-signer"
 
 [[repo]]
 url = "https://github.com/thetatoken/sliver-integration-web-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/thetatoken/sushiswap"
@@ -68,6 +71,7 @@ url = "https://github.com/thetatoken/theta-infrastructure-ledger-explorer"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-infrastructure-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-launcher"
@@ -144,3 +148,4 @@ url = "https://github.com/thetatoken/videojs-theta-plugin-example"
 
 [[repo]]
 url = "https://github.com/thetatoken/wyvern-v3"
+

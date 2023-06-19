@@ -3,11 +3,14 @@ title = "Revain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Revain"]
+github_organizations = [
+  "https://github.com/Revain",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Revain/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Revain/design"
@@ -35,3 +38,4 @@ url = "https://github.com/Revain/Token"
 
 [[repo]]
 url = "https://github.com/Revain/voting-contract"
+

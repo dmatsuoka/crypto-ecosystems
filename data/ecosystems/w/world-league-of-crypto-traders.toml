@@ -3,8 +3,11 @@ title = "World League of Crypto Traders"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lottrade"]
+github_organizations = [
+  "https://github.com/lottrade",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/lottrade/smartcontract"
+

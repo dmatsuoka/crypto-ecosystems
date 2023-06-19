@@ -3,11 +3,14 @@ title = "Sei Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sei-protocol"]
+github_organizations = [
+  "https://github.com/sei-protocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/sei-protocol/dex-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/sei-protocol/goblin"
@@ -98,3 +101,4 @@ url = "https://github.com/sei-protocol/tm-db"
 
 [[repo]]
 url = "https://github.com/sei-protocol/vortex-common"
+

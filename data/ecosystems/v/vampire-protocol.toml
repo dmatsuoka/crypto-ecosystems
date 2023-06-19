@@ -3,14 +3,20 @@ title = "Vampire Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ethtari"]
+github_organizations = [
+  "https://github.com/Ethtari",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Ethtari/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ethtari/Vampire-protocol-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ethtari/yields"
+missing = true
+

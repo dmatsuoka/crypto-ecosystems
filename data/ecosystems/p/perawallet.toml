@@ -3,7 +3,9 @@ title = "PeraWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/perawallet"]
+github_organizations = [
+  "https://github.com/perawallet",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/perawallet/pera-wallet"
 
 [[repo]]
 url = "https://github.com/perawallet/pera-web-wallet"
+

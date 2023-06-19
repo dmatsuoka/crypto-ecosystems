@@ -3,7 +3,9 @@ title = "Origami"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/origamiMP"]
+github_organizations = [
+  "https://github.com/origamiMP",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/origamiMP/ps_origami_theme_classic"
 
 [[repo]]
 url = "https://github.com/origamiMP/ps_origami_theme_panda"
+

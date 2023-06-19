@@ -3,7 +3,9 @@ title = "Ricochet Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ricochet-Exchange"]
+github_organizations = [
+  "https://github.com/Ricochet-Exchange",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/Ricochet-Exchange/rex-bank-frontend"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/rex-liquidity-network"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/rex-lite"
@@ -71,3 +74,4 @@ url = "https://github.com/Ricochet-Exchange/ricochet-super-swap"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/ricochet-tokens"
+

@@ -3,7 +3,9 @@ title = "Mystiko"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mystikonetwork"]
+github_organizations = [
+  "https://github.com/mystikonetwork",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/mystikonetwork/mystiko-static"
 
 [[repo]]
 url = "https://github.com/mystikonetwork/ZoKrates"
+

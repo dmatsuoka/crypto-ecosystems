@@ -3,7 +3,9 @@ title = "token jenny"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tokenjenny"]
+github_organizations = [
+  "https://github.com/tokenjenny",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/tokenjenny/multicall-batcher"
 
 [[repo]]
 url = "https://github.com/tokenjenny/TokenJenny-Public"
+

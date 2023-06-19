@@ -3,7 +3,9 @@ title = "avme"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/avme"]
+github_organizations = [
+  "https://github.com/avme",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/avme/tokenlists"
 
 [[repo]]
 url = "https://github.com/avme/web3cpp"
+

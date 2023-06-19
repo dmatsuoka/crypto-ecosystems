@@ -3,7 +3,9 @@ title = "LINE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/line"]
+github_organizations = [
+  "https://github.com/line",
+]
 
 # Repositories
 [[repo]]
@@ -353,3 +355,4 @@ url = "https://github.com/line/webpack.kr"
 
 [[repo]]
 url = "https://github.com/line/zipkin-lens"
+

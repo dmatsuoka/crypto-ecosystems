@@ -3,7 +3,9 @@ title = "Orca So"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orca-so"]
+github_organizations = [
+  "https://github.com/orca-so",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/orca-so/orca-sdks"
 
 [[repo]]
 url = "https://github.com/orca-so/pyth-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/orca-so/solana"
@@ -50,3 +53,4 @@ url = "https://github.com/orca-so/whirlpool-sdk"
 
 [[repo]]
 url = "https://github.com/orca-so/whirlpools"
+

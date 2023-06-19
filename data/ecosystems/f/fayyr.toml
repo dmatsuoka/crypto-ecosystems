@@ -3,7 +3,9 @@ title = "Fayyr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Fayyr-Organization"]
+github_organizations = [
+  "https://github.com/Fayyr-Organization",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Fayyr-Organization/fayyr-nft-series"
 
 [[repo]]
 url = "https://github.com/Fayyr-Organization/fayyr-scavenger-hunt"
+

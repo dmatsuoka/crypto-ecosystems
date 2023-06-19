@@ -3,7 +3,9 @@ title = "TDEX Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tdex-network"]
+github_organizations = [
+  "https://github.com/tdex-network",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/tdex-network/umbrel-apps"
 
 [[repo]]
 url = "https://github.com/tdex-network/whitepaper"
+

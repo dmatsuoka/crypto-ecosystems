@@ -3,7 +3,9 @@ title = "uniscam"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Uniscam"]
+github_organizations = [
+  "https://github.com/Uniscam",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Uniscam/uniscam-interface"
 
 [[repo]]
 url = "https://github.com/Uniscam/uniscam-sdk"
+

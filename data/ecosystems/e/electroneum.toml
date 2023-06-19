@@ -3,7 +3,9 @@ title = "Electroneum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/electroneum"]
+github_organizations = [
+  "https://github.com/electroneum",
+]
 
 # Repositories
 [[repo]]
@@ -63,3 +65,4 @@ url = "https://github.com/electroneum/vendor-php"
 
 [[repo]]
 url = "https://github.com/electroneum/wallet-manager-php"
+

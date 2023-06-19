@@ -3,8 +3,11 @@ title = "ALLUVA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Alluva"]
+github_organizations = [
+  "https://github.com/Alluva",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Alluva/alluva-token"
+

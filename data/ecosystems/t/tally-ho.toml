@@ -3,7 +3,10 @@ title = "Tally Ho!"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tallycash", "https://github.com/tallyhowallet"]
+github_organizations = [
+  "https://github.com/tallycash",
+  "https://github.com/tallyhowallet",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +134,4 @@ url = "https://github.com/tallyhowallet/web3-react"
 
 [[repo]]
 url = "https://github.com/tallyhowallet/yearn-finance-v3"
+

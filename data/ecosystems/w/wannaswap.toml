@@ -17,3 +17,5 @@ url = "https://github.com/wannaswap/wannaswap-core"
 
 [[repo]]
 url = "https://github.com/wannaswap/wannaswap-sdk"
+missing = true
+

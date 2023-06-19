@@ -3,7 +3,9 @@ title = "Totem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/totem-network"]
+github_organizations = [
+  "https://github.com/totem-network",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/totem-network/orbit-db-access-controllers"
 
 [[repo]]
 url = "https://github.com/totem-network/token.totem.network"
+missing = true
 
 [[repo]]
 url = "https://github.com/totem-network/totem"
@@ -32,3 +35,4 @@ url = "https://github.com/totem-network/totem.app"
 
 [[repo]]
 url = "https://github.com/totem-network/totem.network"
+

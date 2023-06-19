@@ -3,7 +3,9 @@ title = "Bomb Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bombmoney"]
+github_organizations = [
+  "https://github.com/bombmoney",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/bombmoney/yearn-finance-v3"
 
 [[repo]]
 url = "https://github.com/bombmoney/zap"
+

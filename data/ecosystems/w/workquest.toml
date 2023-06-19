@@ -3,7 +3,9 @@ title = "WorkQuest"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WorkQuest"]
+github_organizations = [
+  "https://github.com/WorkQuest",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/WorkQuest/workers"
 
 [[repo]]
 url = "https://github.com/WorkQuest/workers-queue-server-client"
+

@@ -3,7 +3,9 @@ title = "Outblock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Outblock"]
+github_organizations = [
+  "https://github.com/Outblock",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/Outblock/flow-account"
 
 [[repo]]
 url = "https://github.com/Outblock/flow-account-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Outblock/flow-account-creation"
@@ -119,3 +122,4 @@ url = "https://github.com/Outblock/stinsen"
 
 [[repo]]
 url = "https://github.com/Outblock/wallet-core"
+

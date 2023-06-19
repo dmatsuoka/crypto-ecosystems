@@ -3,7 +3,9 @@ title = "Swapcoinz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swapcoinz-spz"]
+github_organizations = [
+  "https://github.com/swapcoinz-spz",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/swapcoinz-spz/code"
 
 [[repo]]
 url = "https://github.com/swapcoinz-spz/Swapcoinz-overiew"
+

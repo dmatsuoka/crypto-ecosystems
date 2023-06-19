@@ -3,7 +3,9 @@ title = "FlypMe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flypme"]
+github_organizations = [
+  "https://github.com/flypme",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/flypme/ngx-scanner"
 
 [[repo]]
 url = "https://github.com/flypme/ngx-scanner-dist"
+

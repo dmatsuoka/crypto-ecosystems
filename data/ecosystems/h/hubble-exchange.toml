@@ -3,7 +3,9 @@ title = "Hubble Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hubble-exchange"]
+github_organizations = [
+  "https://github.com/hubble-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/hubble-exchange/subnet-evm"
 
 [[repo]]
 url = "https://github.com/hubble-exchange/web3-onboard"
+

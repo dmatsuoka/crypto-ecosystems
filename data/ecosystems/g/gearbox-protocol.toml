@@ -3,7 +3,9 @@ title = "Gearbox Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Gearbox-protocol"]
+github_organizations = [
+  "https://github.com/Gearbox-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/Gearbox-protocol/liquidator-v2"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/ninja-game"
+missing = true
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/play-with-gearbox"
@@ -95,6 +98,7 @@ url = "https://github.com/Gearbox-protocol/rewards"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/risk-framework-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/sdk"
@@ -113,3 +117,4 @@ url = "https://github.com/Gearbox-protocol/third-eye"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/token-distributor"
+

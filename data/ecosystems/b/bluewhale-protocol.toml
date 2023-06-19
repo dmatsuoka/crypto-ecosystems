@@ -3,7 +3,9 @@ title = "Bluewhale Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bluewhale-protocol"]
+github_organizations = [
+  "https://github.com/bluewhale-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/bluewhale-protocol/bluewhale-protocol.github.io"
 
 [[repo]]
 url = "https://github.com/bluewhale-protocol/bluewhale-trust"
+

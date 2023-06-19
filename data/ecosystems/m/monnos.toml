@@ -3,8 +3,11 @@ title = "MONNOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/monnos"]
+github_organizations = [
+  "https://github.com/monnos",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/monnos/monnos-token"
+

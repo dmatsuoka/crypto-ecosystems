@@ -3,7 +3,9 @@ title = "DappRadar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dappradar"]
+github_organizations = [
+  "https://github.com/dappradar",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/dappradar/tokens"
 
 [[repo]]
 url = "https://github.com/dappradar/tokens-blacklist"
+

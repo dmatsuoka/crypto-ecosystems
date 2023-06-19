@@ -3,7 +3,9 @@ title = "Everex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EverexIO"]
+github_organizations = [
+  "https://github.com/EverexIO",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/EverexIO/tilda-php"
 
 [[repo]]
 url = "https://github.com/EverexIO/VisualPHPUnit"
+

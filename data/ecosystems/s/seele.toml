@@ -3,7 +3,9 @@ title = "Seele"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/seeleteam"]
+github_organizations = [
+  "https://github.com/seeleteam",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/seeleteam/SeeleWallet-CN"
 
 [[repo]]
 url = "https://github.com/seeleteam/truffle"
+

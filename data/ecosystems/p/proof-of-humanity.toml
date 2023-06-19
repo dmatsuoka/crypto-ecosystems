@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Proof of Humanity"
 
-sub_ecosystems = ["Yubiai"]
+sub_ecosystems = [
+  "Yubiai",
+]
 
-github_organizations = ["https://github.com/Proof-Of-Humanity"]
+github_organizations = [
+  "https://github.com/Proof-Of-Humanity",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +60,4 @@ url = "https://github.com/Proof-Of-Humanity/ubi-vaults-ui"
 
 [[repo]]
 url = "https://github.com/Proof-Of-Humanity/vouch-db"
+

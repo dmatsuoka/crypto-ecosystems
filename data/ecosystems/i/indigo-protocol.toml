@@ -3,7 +3,9 @@ title = "Indigo Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IndigoProtocol"]
+github_organizations = [
+  "https://github.com/IndigoProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/IndigoProtocol/stdlib"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/tokenomics"
+

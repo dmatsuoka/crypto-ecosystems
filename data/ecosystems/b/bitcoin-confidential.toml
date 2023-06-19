@@ -3,7 +3,9 @@ title = "Bitcoin Confidential"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bitcoin-Confidential"]
+github_organizations = [
+  "https://github.com/Bitcoin-Confidential",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Bitcoin-Confidential/quickbc-libapp-cpp"
 
 [[repo]]
 url = "https://github.com/Bitcoin-Confidential/Snap"
+

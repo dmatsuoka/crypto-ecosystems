@@ -3,7 +3,9 @@ title = "Meem Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/meemproject"]
+github_organizations = [
+  "https://github.com/meemproject",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/meemproject/meemvite-nft"
 
 [[repo]]
 url = "https://github.com/meemproject/metadata"
+

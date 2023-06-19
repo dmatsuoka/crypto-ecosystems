@@ -3,7 +3,9 @@ title = "Universe.XYZ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UniverseXYZ"]
+github_organizations = [
+  "https://github.com/UniverseXYZ",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/UniverseXYZ/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/UniverseXYZ/ethers.js-patched"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniverseXYZ/ethlogscanner"
@@ -68,6 +71,7 @@ url = "https://github.com/UniverseXYZ/Universe-Marketplace"
 
 [[repo]]
 url = "https://github.com/UniverseXYZ/Universe-Marketplace-App"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniverseXYZ/UniverseApp-Frontend"
@@ -92,3 +96,4 @@ url = "https://github.com/UniverseXYZ/XYZ-Token"
 
 [[repo]]
 url = "https://github.com/UniverseXYZ/xyzDAO-PM"
+

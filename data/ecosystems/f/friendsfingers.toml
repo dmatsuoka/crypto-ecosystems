@@ -3,7 +3,9 @@ title = "FriendsFingers"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FriendsFingers"]
+github_organizations = [
+  "https://github.com/FriendsFingers",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/FriendsFingers/shaka.friendsfingers.com"
 
 [[repo]]
 url = "https://github.com/FriendsFingers/token-dealer"
+

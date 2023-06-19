@@ -3,7 +3,9 @@ title = "Totle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TotlePlatform"]
+github_organizations = [
+  "https://github.com/TotlePlatform",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/TotlePlatform/AirSwap.js"
 
 [[repo]]
 url = "https://github.com/TotlePlatform/alpha-wallet-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/TotlePlatform/alpha-wallet-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/TotlePlatform/contracts"
@@ -62,3 +66,4 @@ url = "https://github.com/TotlePlatform/web3connect"
 
 [[repo]]
 url = "https://github.com/TotlePlatform/widget-react-example"
+

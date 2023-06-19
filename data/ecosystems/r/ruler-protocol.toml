@@ -3,7 +3,9 @@ title = "Ruler Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ruler-Protocol"]
+github_organizations = [
+  "https://github.com/Ruler-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Ruler-Protocol/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/Ruler-Protocol/veToken-voting"
+

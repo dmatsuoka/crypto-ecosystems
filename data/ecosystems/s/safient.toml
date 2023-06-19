@@ -3,7 +3,9 @@ title = "Safient"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/safient"]
+github_organizations = [
+  "https://github.com/safient",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/safient/app-notice"
 
 [[repo]]
 url = "https://github.com/safient/asguard-site"
+missing = true
 
 [[repo]]
 url = "https://github.com/safient/cli"
@@ -56,6 +59,7 @@ url = "https://github.com/safient/safient-id"
 
 [[repo]]
 url = "https://github.com/safient/safient-metamask"
+missing = true
 
 [[repo]]
 url = "https://github.com/safient/safient-tokens"
@@ -71,9 +75,11 @@ url = "https://github.com/safient/secret-sharing-ar"
 
 [[repo]]
 url = "https://github.com/safient/vouchers"
+missing = true
 
 [[repo]]
 url = "https://github.com/safient/wallet"
 
 [[repo]]
 url = "https://github.com/safient/wallet-snap"
+

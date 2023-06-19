@@ -3,7 +3,9 @@ title = "Forta Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/forta-network"]
+github_organizations = [
+  "https://github.com/forta-network",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/forta-network/security-framework"
 
 [[repo]]
 url = "https://github.com/forta-network/starter-kits"
+

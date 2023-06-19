@@ -3,7 +3,9 @@ title = "MRV Studio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MRV-Studio"]
+github_organizations = [
+  "https://github.com/MRV-Studio",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/MRV-Studio/openmrv-contract"
 
 [[repo]]
 url = "https://github.com/MRV-Studio/openmrv-server"
+

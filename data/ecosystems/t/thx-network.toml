@@ -3,7 +3,9 @@ title = "thx.network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thxprotocol"]
+github_organizations = [
+  "https://github.com/thxprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/thxprotocol/docs"
 
 [[repo]]
 url = "https://github.com/thxprotocol/fee-swap"
+missing = true
 
 [[repo]]
 url = "https://github.com/thxprotocol/modules"
@@ -92,3 +95,4 @@ url = "https://github.com/thxprotocol/webhook-examples"
 
 [[repo]]
 url = "https://github.com/thxprotocol/widgets"
+

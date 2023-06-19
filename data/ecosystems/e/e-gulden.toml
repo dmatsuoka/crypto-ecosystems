@@ -3,7 +3,9 @@ title = "e-Gulden"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Electronic-Gulden-Foundation"]
+github_organizations = [
+  "https://github.com/Electronic-Gulden-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/Electronic-Gulden-Foundation/blocknetdx-blockchain-con
 
 [[repo]]
 url = "https://github.com/Electronic-Gulden-Foundation/blue-app-btc"
+missing = true
 
 [[repo]]
 url = "https://github.com/Electronic-Gulden-Foundation/cdn-moonshine"
@@ -59,6 +62,7 @@ url = "https://github.com/Electronic-Gulden-Foundation/electronic-gulden-foundat
 
 [[repo]]
 url = "https://github.com/Electronic-Gulden-Foundation/electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/Electronic-Gulden-Foundation/electrum-ltc"
@@ -86,3 +90,4 @@ url = "https://github.com/Electronic-Gulden-Foundation/ROT"
 
 [[repo]]
 url = "https://github.com/Electronic-Gulden-Foundation/website-2017-"
+

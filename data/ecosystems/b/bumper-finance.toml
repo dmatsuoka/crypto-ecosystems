@@ -3,7 +3,9 @@ title = "Bumper Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bumper-dao"]
+github_organizations = [
+  "https://github.com/bumper-dao",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/bumper-dao/defillama-server"
 
 [[repo]]
 url = "https://github.com/bumper-dao/falkor-bugs"
+

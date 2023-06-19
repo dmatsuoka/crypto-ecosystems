@@ -3,7 +3,9 @@ title = "GraphLinq Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GraphLinq"]
+github_organizations = [
+  "https://github.com/GraphLinq",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/GraphLinq/GraphLinq.BetaTest"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.BlockchainTestnet"
+missing = true
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.CacheApi"
@@ -131,3 +134,4 @@ url = "https://github.com/GraphLinq/GraphLinq.StakingContract"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.VSCodeTheme"
+

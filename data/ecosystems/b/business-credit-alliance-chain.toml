@@ -3,7 +3,9 @@ title = "Business Credit Alliance Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BusinessCredit"]
+github_organizations = [
+  "https://github.com/BusinessCredit",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/BusinessCredit/kaa"
 
 [[repo]]
 url = "https://github.com/BusinessCredit/MyCryptos"
+missing = true
 
 [[repo]]
 url = "https://github.com/BusinessCredit/raft"
@@ -56,3 +59,4 @@ url = "https://github.com/BusinessCredit/wallet"
 
 [[repo]]
 url = "https://github.com/BusinessCredit/white_paper"
+

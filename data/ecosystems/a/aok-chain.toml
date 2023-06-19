@@ -3,7 +3,9 @@ title = "AOK Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AokChain"]
+github_organizations = [
+  "https://github.com/AokChain",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/AokChain/Socket"
 
 [[repo]]
 url = "https://github.com/AokChain/SwapIndex"
+

@@ -3,7 +3,9 @@ title = "Collectify"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CollectifyApp"]
+github_organizations = [
+  "https://github.com/CollectifyApp",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/CollectifyApp/PlayGroundNFT"
 
 [[repo]]
 url = "https://github.com/CollectifyApp/SignSBT"
+

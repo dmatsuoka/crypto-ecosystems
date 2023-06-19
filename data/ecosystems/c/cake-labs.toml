@@ -3,7 +3,9 @@ title = "Cake Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cake-tech"]
+github_organizations = [
+  "https://github.com/cake-tech",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/cake-tech/cakewallet-guides-1"
 
 [[repo]]
 url = "https://github.com/cake-tech/cakewallet-guides-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/cake-tech/cw"
@@ -92,3 +95,4 @@ url = "https://github.com/cake-tech/upptime-cakewallet"
 
 [[repo]]
 url = "https://github.com/cake-tech/upptime-monerocom"
+

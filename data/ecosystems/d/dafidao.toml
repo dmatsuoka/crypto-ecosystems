@@ -3,7 +3,9 @@ title = "DAFIDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Da-Fi"]
+github_organizations = [
+  "https://github.com/Da-Fi",
+]
 
 # Repositories
 [[repo]]
@@ -263,3 +265,4 @@ url = "https://github.com/Da-Fi/zerepoch"
 
 [[repo]]
 url = "https://github.com/Da-Fi/zksync-da-fi"
+

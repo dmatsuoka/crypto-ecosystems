@@ -3,7 +3,9 @@ title = "Hut34"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hut34"]
+github_organizations = [
+  "https://github.com/hut34",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,14 @@ url = "https://github.com/hut34/hut34-wiki"
 
 [[repo]]
 url = "https://github.com/hut34/hutR"
+missing = true
 
 [[repo]]
 url = "https://github.com/hut34/hutr-package"
 
 [[repo]]
 url = "https://github.com/hut34/hutX"
+missing = true
 
 [[repo]]
 url = "https://github.com/hut34/officeAddin"
@@ -47,3 +51,4 @@ url = "https://github.com/hut34/tokens"
 
 [[repo]]
 url = "https://github.com/hut34/wiki"
+

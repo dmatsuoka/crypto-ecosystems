@@ -3,7 +3,9 @@ title = "Koinos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/koinos"]
+github_organizations = [
+  "https://github.com/koinos",
+]
 
 # Repositories
 [[repo]]
@@ -209,3 +211,4 @@ url = "https://github.com/koinos/protobuf-go"
 
 [[repo]]
 url = "https://github.com/koinos/secp256k1-vrf"
+

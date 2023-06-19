@@ -3,7 +3,9 @@ title = "Bitccess"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitaccess"]
+github_organizations = [
+  "https://github.com/bitaccess",
+]
 
 # Repositories
 [[repo]]
@@ -107,6 +109,7 @@ url = "https://github.com/bitaccess/jobs"
 
 [[repo]]
 url = "https://github.com/bitaccess/lnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitaccess/LndHub"
@@ -143,6 +146,7 @@ url = "https://github.com/bitaccess/subdir-heroku-buildpack"
 
 [[repo]]
 url = "https://github.com/bitaccess/thunderhub"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitaccess/ts-common"
@@ -152,3 +156,4 @@ url = "https://github.com/bitaccess/ts-config"
 
 [[repo]]
 url = "https://github.com/bitaccess/zbar"
+

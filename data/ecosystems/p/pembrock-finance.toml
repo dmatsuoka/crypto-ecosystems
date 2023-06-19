@@ -3,7 +3,9 @@ title = "PembRock Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PembROCK-Finance"]
+github_organizations = [
+  "https://github.com/PembROCK-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/PembROCK-Finance/token"
 
 [[repo]]
 url = "https://github.com/PembROCK-Finance/yield-server"
+

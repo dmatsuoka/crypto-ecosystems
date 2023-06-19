@@ -3,7 +3,9 @@ title = "Fireblocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fireblocks"]
+github_organizations = [
+  "https://github.com/fireblocks",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/fireblocks/polkadot_staking_sdk"
 
 [[repo]]
 url = "https://github.com/fireblocks/terra2.0_transfer"
+missing = true
 
 [[repo]]
 url = "https://github.com/fireblocks/tezos_staking_sdk"
@@ -74,3 +77,4 @@ url = "https://github.com/fireblocks/tokenization-lab"
 
 [[repo]]
 url = "https://github.com/fireblocks/ts-sinon"
+

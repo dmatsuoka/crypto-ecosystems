@@ -3,7 +3,9 @@ title = "district0x"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/district0x"]
+github_organizations = [
+  "https://github.com/district0x",
+]
 
 # Repositories
 [[repo]]
@@ -344,6 +346,7 @@ url = "https://github.com/district0x/node-xhr2"
 
 [[repo]]
 url = "https://github.com/district0x/power-plant"
+missing = true
 
 [[repo]]
 url = "https://github.com/district0x/project-0x-connect-fx"
@@ -383,3 +386,4 @@ url = "https://github.com/district0x/tcrfactory"
 
 [[repo]]
 url = "https://github.com/district0x/X0X"
+

@@ -3,7 +3,9 @@ title = "Narwhalswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/narwhalswap"]
+github_organizations = [
+  "https://github.com/narwhalswap",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/narwhalswap/default-token-list"
 
 [[repo]]
 url = "https://github.com/narwhalswap/grand-bank"
+missing = true
 
 [[repo]]
 url = "https://github.com/narwhalswap/nar-token"
@@ -32,3 +35,4 @@ url = "https://github.com/narwhalswap/thegrandbanks-assets"
 
 [[repo]]
 url = "https://github.com/narwhalswap/thegrandbanks-uikit"
+

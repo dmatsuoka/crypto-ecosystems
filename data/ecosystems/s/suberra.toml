@@ -3,7 +3,9 @@ title = "Suberra"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/suberra"]
+github_organizations = [
+  "https://github.com/suberra",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/suberra/suberra-docs"
 
 [[repo]]
 url = "https://github.com/suberra/suberralabs-website"
+

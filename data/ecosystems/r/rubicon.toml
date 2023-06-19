@@ -3,7 +3,9 @@ title = "Rubicon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RubiconDeFi"]
+github_organizations = [
+  "https://github.com/RubiconDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/RubiconDeFi/web3-react"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/zapper-studio"
+

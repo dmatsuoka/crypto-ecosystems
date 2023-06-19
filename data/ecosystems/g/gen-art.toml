@@ -3,7 +3,9 @@ title = "Gen.Art"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gen-dot-art"]
+github_organizations = [
+  "https://github.com/gen-dot-art",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/gen-dot-art/governance"
 
 [[repo]]
 url = "https://github.com/gen-dot-art/legacy-contracts"
+

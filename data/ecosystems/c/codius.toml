@@ -3,7 +3,9 @@ title = "Codius"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/codius"]
+github_organizations = [
+  "https://github.com/codius",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,5 @@ url = "https://github.com/codius/openfaas-cloud"
 
 [[repo]]
 url = "https://github.com/codius/validating-admission-webhook"
+missing = true
+

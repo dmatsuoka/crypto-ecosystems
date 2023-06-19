@@ -3,8 +3,11 @@ title = "Omega One"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Omega-1"]
+github_organizations = [
+  "https://github.com/Omega-1",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Omega-1/old-token-launch"
+

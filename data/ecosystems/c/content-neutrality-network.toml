@@ -3,7 +3,9 @@ title = "Content Neutrality Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cnntoken"]
+github_organizations = [
+  "https://github.com/cnntoken",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/cnntoken/NewsDog-CNN"
 
 [[repo]]
 url = "https://github.com/cnntoken/Token"
+

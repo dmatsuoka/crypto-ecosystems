@@ -3,7 +3,9 @@ title = "Carthage Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/carthageprotocol"]
+github_organizations = [
+  "https://github.com/carthageprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/carthageprotocol/v3-subtwo"
 
 [[repo]]
 url = "https://github.com/carthageprotocol/widgets"
+

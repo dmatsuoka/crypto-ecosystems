@@ -3,7 +3,9 @@ title = "DeFi Saver"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecenterApps"]
+github_organizations = [
+  "https://github.com/DecenterApps",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/DecenterApps/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/DecenterApps/defisaver-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/DecenterApps/defisaver-open-defi-hackathon"
@@ -92,3 +95,4 @@ url = "https://github.com/defisaver/defisaver-tokens"
 
 [[repo]]
 url = "https://github.com/defisaver/defisaver-v3-contracts"
+

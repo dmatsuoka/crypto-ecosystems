@@ -3,7 +3,9 @@ title = "Liquid Driver"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LiquidDriver-finance"]
+github_organizations = [
+  "https://github.com/LiquidDriver-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/LiquidDriver-finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/LiquidDriver-finance/Frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/LiquidDriver-finance/liquiddriver-contracts"
@@ -26,3 +29,4 @@ url = "https://github.com/LiquidDriver-finance/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/LiquidDriver-finance/xLQDR-model"
+

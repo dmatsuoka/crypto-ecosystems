@@ -3,7 +3,9 @@ title = "Bitcoin Gold"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BTCGPU"]
+github_organizations = [
+  "https://github.com/BTCGPU",
+]
 
 # Repositories
 [[repo]]
@@ -108,3 +110,4 @@ url = "https://github.com/BTCGPU/wallet-core"
 
 [[repo]]
 url = "https://github.com/zeubea/bitgem"
+

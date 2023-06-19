@@ -8,3 +8,4 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/STASISNET/STASIS-EURS-token-smart-contract"
+

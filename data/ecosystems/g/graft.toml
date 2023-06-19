@@ -3,7 +3,9 @@ title = "Graft"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/graft-project"]
+github_organizations = [
+  "https://github.com/graft-project",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/graft-project/xmrig-amd"
 
 [[repo]]
 url = "https://github.com/graft-project/xmrig-nvidia"
+

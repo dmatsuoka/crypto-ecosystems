@@ -3,7 +3,9 @@ title = "Skyward Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/skyward-finance"]
+github_organizations = [
+  "https://github.com/skyward-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/skyward-finance/contracts"
 
 [[repo]]
 url = "https://github.com/skyward-finance/lockup-ui"
+

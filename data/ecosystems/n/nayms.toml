@@ -3,7 +3,9 @@ title = "Nayms"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sector-fi"]
+github_organizations = [
+  "https://github.com/sector-fi",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/sector-fi/vested-erc20"
 
 [[repo]]
 url = "https://github.com/sector-fi/web3-backtest"
+

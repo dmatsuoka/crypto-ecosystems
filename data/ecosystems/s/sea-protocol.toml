@@ -3,7 +3,9 @@ title = "Sea Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sea-protocol"]
+github_organizations = [
+  "https://github.com/sea-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,8 @@ url = "https://github.com/sea-protocol/seaprotocol"
 
 [[repo]]
 url = "https://github.com/sea-protocol/webapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/sea-protocol/XEN-crypto"
+

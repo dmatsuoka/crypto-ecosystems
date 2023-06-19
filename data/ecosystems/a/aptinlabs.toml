@@ -3,7 +3,9 @@ title = "AptinLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AptinLabs"]
+github_organizations = [
+  "https://github.com/AptinLabs",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/AptinLabs/move"
 
 [[repo]]
 url = "https://github.com/AptinLabs/test-coins"
+

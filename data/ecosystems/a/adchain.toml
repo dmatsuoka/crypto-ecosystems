@@ -3,7 +3,9 @@ title = "adChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AdChain"]
+github_organizations = [
+  "https://github.com/AdChain",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/AdChain/tcr"
 
 [[repo]]
 url = "https://github.com/AdChain/token-launch-contracts"
+

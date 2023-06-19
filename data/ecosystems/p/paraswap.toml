@@ -3,7 +3,9 @@ title = "Paraswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paraswap"]
+github_organizations = [
+  "https://github.com/paraswap",
+]
 
 # Repositories
 [[repo]]
@@ -80,6 +82,7 @@ url = "https://github.com/paraswap/paraswap-subgraph"
 
 [[repo]]
 url = "https://github.com/paraswap/paraswap-terms-of-use"
+missing = true
 
 [[repo]]
 url = "https://github.com/paraswap/paraswap-volume-tracker"
@@ -101,3 +104,4 @@ url = "https://github.com/paraswap/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/paraswap/wallet-connect-relay-heroku"
+

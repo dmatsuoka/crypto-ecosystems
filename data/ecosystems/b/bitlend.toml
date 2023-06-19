@@ -3,7 +3,9 @@ title = "Bitlend"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bitlend-protocol"]
+github_organizations = [
+  "https://github.com/Bitlend-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Bitlend-protocol/bitlend-media"
 
 [[repo]]
 url = "https://github.com/Bitlend-protocol/DefiLlama-Adapters"
+

@@ -3,11 +3,14 @@ title = "Europechain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Europechain"]
+github_organizations = [
+  "https://github.com/Europechain",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Europechain/eos-airdrops"
+missing = true
 
 [[repo]]
 url = "https://github.com/Europechain/eosio-dev-introduction-course"
@@ -26,3 +29,4 @@ url = "https://github.com/Europechain/Testnet"
 
 [[repo]]
 url = "https://github.com/Europechain/xec.contracts"
+

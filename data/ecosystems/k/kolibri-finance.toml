@@ -3,7 +3,9 @@ title = "Kolibri Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Hover-Labs"]
+github_organizations = [
+  "https://github.com/Hover-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/Hover-Labs/templewallet-extension"
 
 [[repo]]
 url = "https://github.com/Hover-Labs/token-farm"
+

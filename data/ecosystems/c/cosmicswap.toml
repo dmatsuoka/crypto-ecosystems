@@ -3,7 +3,9 @@ title = "Cosmicswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CosmicSwap"]
+github_organizations = [
+  "https://github.com/CosmicSwap",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/CosmicSwap/cosmic-vote"
 
 [[repo]]
 url = "https://github.com/CosmicSwap/cosmicswap-uikit"
+

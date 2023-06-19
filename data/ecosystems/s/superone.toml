@@ -3,7 +3,9 @@ title = "SuperONE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/superoneio"]
+github_organizations = [
+  "https://github.com/superoneio",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/superoneio/wallet-i18n"
 
 [[repo]]
 url = "https://github.com/superoneio/yoyow-node-sdk"
+

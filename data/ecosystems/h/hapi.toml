@@ -3,7 +3,9 @@ title = "HAPI"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HAPIprotocol"]
+github_organizations = [
+  "https://github.com/HAPIprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/HAPIprotocol/token-list"
 
 [[repo]]
 url = "https://github.com/HAPIprotocol/tokens"
+

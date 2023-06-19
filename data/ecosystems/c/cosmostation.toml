@@ -3,7 +3,9 @@ title = "Cosmostation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cosmostation"]
+github_organizations = [
+  "https://github.com/cosmostation",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/cosmostation/cosmostation-chrome-extension-client"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-dapps-asset"
+missing = true
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-dapps-example"
@@ -260,3 +263,4 @@ url = "https://github.com/cosmostation/web-wallet-ts-react"
 
 [[repo]]
 url = "https://github.com/cosmostation/web3swift"
+

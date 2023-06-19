@@ -3,11 +3,16 @@ title = "EtherSportz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EtherSportz"]
+github_organizations = [
+  "https://github.com/EtherSportz",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/EtherSportz/Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/EtherSportz/ESZCoin"
+missing = true
+

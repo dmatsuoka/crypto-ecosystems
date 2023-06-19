@@ -3,14 +3,18 @@ title = "Snark.Art"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/snarkdotart"]
+github_organizations = [
+  "https://github.com/snarkdotart",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/snarkdotart/api-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/ERC721-batch"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/eth-go-bindings"
@@ -29,6 +33,9 @@ url = "https://github.com/snarkdotart/snarkcontract"
 
 [[repo]]
 url = "https://github.com/snarkdotart/validate-eth-address"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/wma-contract"
+missing = true
+

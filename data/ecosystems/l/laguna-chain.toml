@@ -3,7 +3,9 @@ title = "Laguna Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Laguna-Chain"]
+github_organizations = [
+  "https://github.com/Laguna-Chain",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Laguna-Chain/substrate"
 
 [[repo]]
 url = "https://github.com/Laguna-Chain/subxt"
+

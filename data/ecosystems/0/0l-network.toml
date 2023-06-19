@@ -3,7 +3,9 @@ title = "0L Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OLSF"]
+github_organizations = [
+  "https://github.com/OLSF",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/OLSF/diem"
 
 [[repo]]
 url = "https://github.com/OLSF/genesis-registration-depr"
+missing = true
 
 [[repo]]
 url = "https://github.com/OLSF/move"
@@ -50,3 +53,4 @@ url = "https://github.com/OLSF/move-0L"
 
 [[repo]]
 url = "https://github.com/OLSF/tool-scrubbers-guild"
+

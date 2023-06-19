@@ -3,7 +3,9 @@ title = "Moonshot Collective"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonshotcollective"]
+github_organizations = [
+  "https://github.com/moonshotcollective",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/moonshotcollective/tokenstream.party"
 
 [[repo]]
 url = "https://github.com/moonshotcollective/tokenstream.party-homepage"
+

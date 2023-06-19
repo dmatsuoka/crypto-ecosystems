@@ -3,7 +3,9 @@ title = "Color Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ColorPlatform"]
+github_organizations = [
+  "https://github.com/ColorPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/ColorPlatform/lite-proxy"
 
 [[repo]]
 url = "https://github.com/ColorPlatform/spectrum-mvp"
+

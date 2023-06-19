@@ -3,7 +3,9 @@ title = "Quarry Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/QuarryProtocol"]
+github_organizations = [
+  "https://github.com/QuarryProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/QuarryProtocol/tokadapt"
 
 [[repo]]
 url = "https://github.com/QuarryProtocol/token-list"
+

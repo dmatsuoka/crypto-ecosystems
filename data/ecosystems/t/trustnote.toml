@@ -3,7 +3,9 @@ title = "TrustNote"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/trustnote"]
+github_organizations = [
+  "https://github.com/trustnote",
+]
 
 # Repositories
 [[repo]]
@@ -149,6 +151,9 @@ url = "https://github.com/ringringringring/wallet-online"
 
 [[repo]]
 url = "https://github.com/trustnote/grin"
+missing = true
 
 [[repo]]
 url = "https://github.com/trustnote/grin-wallet"
+missing = true
+

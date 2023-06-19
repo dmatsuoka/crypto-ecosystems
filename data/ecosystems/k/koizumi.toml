@@ -3,7 +3,9 @@ title = "Koizumi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KoizumiAPT"]
+github_organizations = [
+  "https://github.com/KoizumiAPT",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/KoizumiAPT/ecosystem-projects"
 
 [[repo]]
 url = "https://github.com/KoizumiAPT/koiz-contracts"
+

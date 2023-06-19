@@ -3,7 +3,9 @@ title = "Sentience Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sentience-network"]
+github_organizations = [
+  "https://github.com/sentience-network",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/modulus-network/sentience-nft-marketplace"
 
 [[repo]]
 url = "https://github.com/sentience-network/sentience-token"
+

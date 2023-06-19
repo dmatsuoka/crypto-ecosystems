@@ -3,7 +3,9 @@ title = "Sparklink"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SparkNFT"]
+github_organizations = [
+  "https://github.com/SparkNFT",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/SparkNFT/SparkLinkSmartContract"
 
 [[repo]]
 url = "https://github.com/SparkNFT/UniformTs"
+

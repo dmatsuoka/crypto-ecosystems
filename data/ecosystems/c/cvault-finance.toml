@@ -3,7 +3,9 @@ title = "cVault.finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cVault-finance"]
+github_organizations = [
+  "https://github.com/cVault-finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/cVault-finance/coredex-vyper-contracts"
 
 [[repo]]
 url = "https://github.com/cVault-finance/cVault.finance"
+

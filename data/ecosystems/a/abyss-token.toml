@@ -3,7 +3,9 @@ title = "Abyss Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/theabyssportal"]
+github_organizations = [
+  "https://github.com/theabyssportal",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,13 @@ url = "https://github.com/abyssfinance/abyss-daico"
 
 [[repo]]
 url = "https://github.com/theabyssportal/Old-Smart-Contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/theabyssportal/TheAbyssNativeSdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/theabyssportal/TheAbyssUnity3d"
+missing = true
+

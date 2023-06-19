@@ -3,8 +3,11 @@ title = "Popex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/popex-entertainment"]
+github_organizations = [
+  "https://github.com/popex-entertainment",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/popex-entertainment/development-test"
+

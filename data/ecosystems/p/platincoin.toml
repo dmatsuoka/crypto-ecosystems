@@ -3,8 +3,11 @@ title = "PLATINCOIN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/platincoin-project"]
+github_organizations = [
+  "https://github.com/platincoin-project",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/platincoin-project/platincoin"
+

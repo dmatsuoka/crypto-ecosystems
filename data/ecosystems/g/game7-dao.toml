@@ -3,7 +3,9 @@ title = "Game7 DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/G7DAO"]
+github_organizations = [
+  "https://github.com/G7DAO",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/G7DAO/waiting-list-manager"
 
 [[repo]]
 url = "https://github.com/G7DAO/web3.unreal"
+

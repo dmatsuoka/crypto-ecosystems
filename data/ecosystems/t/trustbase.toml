@@ -3,7 +3,9 @@ title = "TrustBase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrustBase"]
+github_organizations = [
+  "https://github.com/TrustBase",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/TrustBase/trusted-contracts"
 
 [[repo]]
 url = "https://github.com/TrustBase/wasmi"
+

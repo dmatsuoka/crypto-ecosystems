@@ -3,7 +3,9 @@ title = "Subsquid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/subsquid"]
+github_organizations = [
+  "https://github.com/subsquid",
+]
 
 # Repositories
 [[repo]]
@@ -176,6 +178,7 @@ url = "https://github.com/subsquid/squid-crust-example"
 
 [[repo]]
 url = "https://github.com/subsquid/squid-duckdb-store"
+missing = true
 
 [[repo]]
 url = "https://github.com/subsquid/squid-evm-examples"
@@ -272,3 +275,4 @@ url = "https://github.com/subsquid/uniswap-squid"
 
 [[repo]]
 url = "https://github.com/subsquid/warthog"
+

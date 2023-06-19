@@ -3,7 +3,9 @@ title = "SEER"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/seer-project"]
+github_organizations = [
+  "https://github.com/seer-project",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/seer-project/seerjs-ws"
 
 [[repo]]
 url = "https://github.com/seer-project/seerToken"
+

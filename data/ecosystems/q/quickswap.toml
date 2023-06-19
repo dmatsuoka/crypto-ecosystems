@@ -3,7 +3,9 @@ title = "Quickswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/QuickSwap"]
+github_organizations = [
+  "https://github.com/QuickSwap",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/QuickSwap/web-core"
 
 [[repo]]
 url = "https://github.com/QuickSwap/zkevm-subgraph"
+

@@ -3,7 +3,9 @@ title = "Pantos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pantos-io"]
+github_organizations = [
+  "https://github.com/pantos-io",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/pantos-io/testnet-token-list"
 
 [[repo]]
 url = "https://github.com/pantos-io/x-chain-smartcontracts"
+

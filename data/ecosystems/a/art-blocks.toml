@@ -3,7 +3,9 @@ title = "Art Blocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArtBlocks"]
+github_organizations = [
+  "https://github.com/ArtBlocks",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/ArtBlocks/graph-node"
 
 [[repo]]
 url = "https://github.com/ArtBlocks/graph-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArtBlocks/langchainjs"
@@ -86,3 +89,4 @@ url = "https://github.com/ArtBlocks/twemoji"
 
 [[repo]]
 url = "https://github.com/ArtBlocks/vox.js"
+

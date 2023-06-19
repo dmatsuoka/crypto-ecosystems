@@ -3,7 +3,9 @@ title = "Unbound Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unbound-finance"]
+github_organizations = [
+  "https://github.com/unbound-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/unbound-finance/arbidex-core"
 
 [[repo]]
 url = "https://github.com/unbound-finance/bulkssrf"
+missing = true
 
 [[repo]]
 url = "https://github.com/unbound-finance/defiedge-react-sdk"
@@ -38,3 +41,4 @@ url = "https://github.com/unbound-finance/unbound-public-assets"
 
 [[repo]]
 url = "https://github.com/unbound-finance/uniswap-v3-core"
+

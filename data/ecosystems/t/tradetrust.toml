@@ -3,7 +3,9 @@ title = "TradeTrust"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TradeTrust"]
+github_organizations = [
+  "https://github.com/TradeTrust",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/TradeTrust/tt-verify"
 
 [[repo]]
 url = "https://github.com/TradeTrust/webinar-4-code-examples"
+

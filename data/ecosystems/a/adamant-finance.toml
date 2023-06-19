@@ -3,7 +3,9 @@ title = "Adamant Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/adamantfinance"]
+github_organizations = [
+  "https://github.com/adamantfinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/eepdev/docs"
 
 [[repo]]
 url = "https://github.com/eepdev/vaults"
+

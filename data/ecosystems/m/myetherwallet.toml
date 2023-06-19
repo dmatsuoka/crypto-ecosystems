@@ -3,7 +3,9 @@ title = "MyEtherWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MyEtherWallet"]
+github_organizations = [
+  "https://github.com/MyEtherWallet",
+]
 
 # Repositories
 [[repo]]
@@ -248,3 +250,4 @@ url = "https://github.com/MyEtherWallet/web3-react"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/web3modal"
+

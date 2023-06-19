@@ -3,7 +3,9 @@ title = "Parallel Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/parallel-finance"]
+github_organizations = [
+  "https://github.com/parallel-finance",
+]
 
 # Repositories
 [[repo]]
@@ -62,9 +64,11 @@ url = "https://github.com/parallel-finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/parallel-finance/deposit-subql"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/distribute-confirm-serivce"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/dump-script"
@@ -122,6 +126,7 @@ url = "https://github.com/parallel-finance/nominate-client"
 
 [[repo]]
 url = "https://github.com/parallel-finance/notification-center"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/Open-Grants-Program"
@@ -152,6 +157,7 @@ url = "https://github.com/parallel-finance/parallel-scan"
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallel-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallel-streaming-subql"
@@ -161,6 +167,7 @@ url = "https://github.com/parallel-finance/parallel-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallelx-starknet"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/polkadot"
@@ -185,6 +192,7 @@ url = "https://github.com/parallel-finance/specs"
 
 [[repo]]
 url = "https://github.com/parallel-finance/stake-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/stake-client-rs"
@@ -227,3 +235,4 @@ url = "https://github.com/parallel-finance/webext-redux"
 
 [[repo]]
 url = "https://github.com/parallel-finance/withdraw-subql"
+

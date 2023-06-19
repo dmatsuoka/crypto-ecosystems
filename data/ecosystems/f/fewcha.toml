@@ -3,7 +3,9 @@ title = "Fewcha"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fewcha-wallet"]
+github_organizations = [
+  "https://github.com/fewcha-wallet",
+]
 
 # Repositories
 [[repo]]
@@ -44,9 +46,11 @@ url = "https://github.com/fewcha-wallet/fewcha-plugin-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/fewcha-sui"
+missing = true
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/fewcha.app"
+missing = true
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/i18n"
@@ -62,3 +66,4 @@ url = "https://github.com/fewcha-wallet/releases"
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/sui"
+

@@ -3,7 +3,9 @@ title = "Yubiai"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yubiai"]
+github_organizations = [
+  "https://github.com/yubiai",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/yubiai/yubiai-sc-deploy-example"
 
 [[repo]]
 url = "https://github.com/yubiai/yubiaiStyle"
+

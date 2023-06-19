@@ -3,11 +3,14 @@ title = "Yup"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Yup-io"]
+github_organizations = [
+  "https://github.com/Yup-io",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Yup-io/app-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/Yup-io/bee-queue"
@@ -65,3 +68,4 @@ url = "https://github.com/Yup-io/yup_docs"
 
 [[repo]]
 url = "https://github.com/Yup-io/yup_stats"
+

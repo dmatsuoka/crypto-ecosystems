@@ -3,7 +3,9 @@ title = "Lien"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LienFinance"]
+github_organizations = [
+  "https://github.com/LienFinance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/LienFinance/NewVolatilityOracle"
 
 [[repo]]
 url = "https://github.com/LienFinance/oracle"
+

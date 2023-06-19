@@ -3,11 +3,14 @@ title = "Space Operator"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/space-operator"]
+github_organizations = [
+  "https://github.com/space-operator",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/space-operator/binaries"
+missing = true
 
 [[repo]]
 url = "https://github.com/space-operator/clockwork"
@@ -35,3 +38,4 @@ url = "https://github.com/space-operator/space-lib"
 
 [[repo]]
 url = "https://github.com/space-operator/space-wrapper"
+

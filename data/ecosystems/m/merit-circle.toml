@@ -3,7 +3,9 @@ title = "Merit Circle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Merit-Circle"]
+github_organizations = [
+  "https://github.com/Merit-Circle",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/Merit-Circle/merit-liquidity-mining"
 
 [[repo]]
 url = "https://github.com/Merit-Circle/merit-merch"
+missing = true
 
 [[repo]]
 url = "https://github.com/Merit-Circle/merit-nft"
@@ -44,3 +47,5 @@ url = "https://github.com/Merit-Circle/studio"
 
 [[repo]]
 url = "https://github.com/Merit-Circle/wagmi"
+missing = true
+

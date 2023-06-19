@@ -3,7 +3,9 @@ title = "Cooperation.org"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cooperation-org"]
+github_organizations = [
+  "https://github.com/Cooperation-org",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Cooperation-org/LinkedTrust"
 
 [[repo]]
 url = "https://github.com/Cooperation-org/SocialLinks"
+

@@ -3,8 +3,11 @@ title = "Waterslide App"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/waterslide-app"]
+github_organizations = [
+  "https://github.com/waterslide-app",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/waterslide-app/frontend-registry"
+

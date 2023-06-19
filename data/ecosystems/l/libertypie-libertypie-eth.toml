@@ -3,7 +3,9 @@ title = "LibertyPie ( libertypie.eth )"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LibertyPie"]
+github_organizations = [
+  "https://github.com/LibertyPie",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/LibertyPie/vue-svg-img"
 
 [[repo]]
 url = "https://github.com/LibertyPie/Wallet-Provider"
+

@@ -3,7 +3,9 @@ title = "Nomad"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nomad-xyz"]
+github_organizations = [
+  "https://github.com/nomad-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -53,6 +55,7 @@ url = "https://github.com/nomad-xyz/nft-server"
 
 [[repo]]
 url = "https://github.com/nomad-xyz/nomad-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/nomad-xyz/nomad-monorepo"
@@ -62,3 +65,4 @@ url = "https://github.com/nomad-xyz/rust"
 
 [[repo]]
 url = "https://github.com/nomad-xyz/safe-sdk"
+

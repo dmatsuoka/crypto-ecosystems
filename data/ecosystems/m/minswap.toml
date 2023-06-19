@@ -3,7 +3,9 @@ title = "Minswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/minswap"]
+github_organizations = [
+  "https://github.com/minswap",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/minswap/cardano-token-registry"
 
 [[repo]]
 url = "https://github.com/minswap/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/minswap/docs"
@@ -77,3 +80,4 @@ url = "https://github.com/minswap/verified-tokens"
 
 [[repo]]
 url = "https://github.com/minswap/wenbot"
+

@@ -3,7 +3,9 @@ title = "BondAppetit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bondappetit"]
+github_organizations = [
+  "https://github.com/bondappetit",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/bondappetit/website-cache"
 
 [[repo]]
 url = "https://github.com/bondappetit/woodpecker"
+

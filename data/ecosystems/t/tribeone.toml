@@ -3,7 +3,9 @@ title = "TribeOne"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TribeOneDefi"]
+github_organizations = [
+  "https://github.com/TribeOneDefi",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/TribeOneDefi/Substrate-Template-TribeOne"
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/t1-perp-trading-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/TribeOne-dApp-template"
@@ -38,3 +41,4 @@ url = "https://github.com/TribeOneDefi/TribeOne-DataStore-template"
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/TribeOne-Oracle-Template"
+

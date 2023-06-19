@@ -3,7 +3,9 @@ title = "Beta Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/beta-finance"]
+github_organizations = [
+  "https://github.com/beta-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/beta-finance/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/beta-finance/DefiLlama-Adapters"
+

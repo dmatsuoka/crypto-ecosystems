@@ -3,7 +3,9 @@ title = "Horizon Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Horizon-Protocol"]
+github_organizations = [
+  "https://github.com/Horizon-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/Horizon-Protocol/testnet-js-monorepo"
 
 [[repo]]
 url = "https://github.com/Horizon-Protocol/testnet-token-claim"
+

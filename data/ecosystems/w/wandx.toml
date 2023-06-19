@@ -3,7 +3,9 @@ title = "WandX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WandXDapp"]
+github_organizations = [
+  "https://github.com/WandXDapp",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/WandXDapp/WandXOptionsDapp"
 
 [[repo]]
 url = "https://github.com/WandXDapp/whitepaper"
+

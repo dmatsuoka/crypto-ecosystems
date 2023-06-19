@@ -3,7 +3,9 @@ title = "Climate Guardians"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/climate-guardians"]
+github_organizations = [
+  "https://github.com/climate-guardians",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/climate-guardians/unity-toucan-offsetter-module-2"
 
 [[repo]]
 url = "https://github.com/climate-guardians/zkSyncExample"
+

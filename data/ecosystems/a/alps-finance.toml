@@ -3,7 +3,9 @@ title = "Alps Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlpsFinance"]
+github_organizations = [
+  "https://github.com/AlpsFinance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/AlpsFinance/furucombo-contract"
 
 [[repo]]
 url = "https://github.com/AlpsFinance/merkle-airdrop-starter"
+

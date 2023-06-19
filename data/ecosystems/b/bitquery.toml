@@ -3,7 +3,9 @@ title = "Bitquery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitquery"]
+github_organizations = [
+  "https://github.com/bitquery",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/bitquery/widgets-runtime"
 
 [[repo]]
 url = "https://github.com/bitquery/wsgraphql"
+

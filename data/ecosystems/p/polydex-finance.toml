@@ -3,7 +3,9 @@ title = "Polydex Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polydex-fi"]
+github_organizations = [
+  "https://github.com/polydex-fi",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/polydex-fi/polydex-swap-periphery"
 
 [[repo]]
 url = "https://github.com/polydex-fi/polydex-toolkit"
+

@@ -3,7 +3,9 @@ title = "Blockchain Help"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchainhelppro"]
+github_organizations = [
+  "https://github.com/blockchainhelppro",
+]
 
 # Repositories
 [[repo]]
@@ -1745,3 +1747,4 @@ url = "https://github.com/blockchainhelppro/Zinon-Wallet-"
 
 [[repo]]
 url = "https://github.com/blockchainhelppro/Zuventus"
+

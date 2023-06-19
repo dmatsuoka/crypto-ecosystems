@@ -3,7 +3,9 @@ title = "Origin Sport"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OriginSport"]
+github_organizations = [
+  "https://github.com/OriginSport",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/OriginSport/who-is-champion"
 
 [[repo]]
 url = "https://github.com/OriginSport/world_cup_game"
+

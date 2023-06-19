@@ -3,7 +3,9 @@ title = "Gatechain Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gatechain"]
+github_organizations = [
+  "https://github.com/gatechain",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/gatechain/logging"
 
 [[repo]]
 url = "https://github.com/gatechain/metamask-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/gatechain/networklist-org"
@@ -137,3 +140,4 @@ url = "https://github.com/gatechain/youtube-dl"
 
 [[repo]]
 url = "https://github.com/gatechain/zk-perp-solidity"
+

@@ -3,7 +3,9 @@ title = "CryptoPay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptopay-dev"]
+github_organizations = [
+  "https://github.com/cryptopay-dev",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/cryptopay-dev/helm"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/hooker"
+missing = true
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/hooker_old"
@@ -104,3 +107,4 @@ url = "https://github.com/cryptopay-dev/wavecrest"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/yaga"
+

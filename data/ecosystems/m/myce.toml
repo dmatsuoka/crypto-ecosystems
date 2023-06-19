@@ -3,7 +3,9 @@ title = "MYCE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/myceworld"]
+github_organizations = [
+  "https://github.com/myceworld",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/myceworld/voyce-desktop"
 
 [[repo]]
 url = "https://github.com/myceworld/voyce-iphone"
+

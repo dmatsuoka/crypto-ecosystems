@@ -3,7 +3,9 @@ title = "Shroom.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shroom-finance"]
+github_organizations = [
+  "https://github.com/shroom-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/niftyx/get-rewards"
 
 [[repo]]
 url = "https://github.com/niftyx/snapshot-spaces"
+

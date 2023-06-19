@@ -3,7 +3,9 @@ title = "YetiSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/YetiSwap"]
+github_organizations = [
+  "https://github.com/YetiSwap",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/YetiSwap/tokens"
 
 [[repo]]
 url = "https://github.com/YetiSwap/yetiswap.app"
+

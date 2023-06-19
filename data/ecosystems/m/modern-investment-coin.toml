@@ -3,7 +3,9 @@ title = "Modern Investment Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ModernInvestmentCoin"]
+github_organizations = [
+  "https://github.com/ModernInvestmentCoin",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/ModernInvestmentCoin/MODIC-Core"
 
 [[repo]]
 url = "https://github.com/ModernInvestmentCoin/MODICE-MLT"
+

@@ -3,7 +3,9 @@ title = "AstridDao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AstridDAO"]
+github_organizations = [
+  "https://github.com/AstridDAO",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/AstridDAO/media-kit"
 
 [[repo]]
 url = "https://github.com/AstridDAO/peggedassets-server"
+

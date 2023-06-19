@@ -3,7 +3,9 @@ title = "ANON"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/anonymousbitcoin"]
+github_organizations = [
+  "https://github.com/anonymousbitcoin",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/anonymousbitcoin/utxo_snapshot"
 
 [[repo]]
 url = "https://github.com/anonymousbitcoin/zclassic"
+

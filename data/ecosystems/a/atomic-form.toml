@@ -3,7 +3,9 @@ title = "Atomic Form"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atomicform"]
+github_organizations = [
+  "https://github.com/atomicform",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/atomicform/the-graph-bayc"
 
 [[repo]]
 url = "https://github.com/atomicform/the-graph-mfers"
+

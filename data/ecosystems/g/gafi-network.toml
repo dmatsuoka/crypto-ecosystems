@@ -3,7 +3,9 @@ title = "Gafi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/grindytech"]
+github_organizations = [
+  "https://github.com/grindytech",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/grindytech/substrate-node-template"
 
 [[repo]]
 url = "https://github.com/grindytech/Substrate.NET.API"
+

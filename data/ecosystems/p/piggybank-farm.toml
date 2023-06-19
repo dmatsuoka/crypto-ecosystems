@@ -3,7 +3,9 @@ title = "Piggybank Farm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Piggybank-farm-Harmony"]
+github_organizations = [
+  "https://github.com/Piggybank-farm-Harmony",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Piggybank-farm-Harmony/contracts"
 
 [[repo]]
 url = "https://github.com/Piggybank-farm-Harmony/snapshot-spaces"
+

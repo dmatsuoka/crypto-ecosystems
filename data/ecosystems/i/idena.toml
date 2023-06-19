@@ -3,7 +3,9 @@ title = "Idena"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idena-network"]
+github_organizations = [
+  "https://github.com/idena-network",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/idena-network/vrf-js"
 
 [[repo]]
 url = "https://github.com/idena-network/wasmer"
+

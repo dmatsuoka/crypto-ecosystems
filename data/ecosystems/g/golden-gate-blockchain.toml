@@ -3,7 +3,9 @@ title = "Golden Gate Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GoldenGateGGX"]
+github_organizations = [
+  "https://github.com/GoldenGateGGX",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/GoldenGateGGX/golden-gate"
 
 [[repo]]
 url = "https://github.com/GoldenGateGGX/moonbeam"
+

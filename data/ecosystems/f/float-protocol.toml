@@ -3,7 +3,9 @@ title = "Float Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FloatProtocol"]
+github_organizations = [
+  "https://github.com/FloatProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/FloatProtocol/snapshot.js"
 
 [[repo]]
 url = "https://github.com/FloatProtocol/web3.js"
+

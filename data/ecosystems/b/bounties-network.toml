@@ -3,7 +3,9 @@ title = "Bounties Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bounties-Network"]
+github_organizations = [
+  "https://github.com/Bounties-Network",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Bounties-Network/Auth-Tx-Starter-Kit"
 
 [[repo]]
 url = "https://github.com/Bounties-Network/bounties-platform-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bounties-Network/Bounties-SDK"
@@ -53,3 +56,4 @@ url = "https://github.com/Bounties-Network/StandardStaking"
 
 [[repo]]
 url = "https://github.com/Bounties-Network/StdBountiesAnaltyics"
+

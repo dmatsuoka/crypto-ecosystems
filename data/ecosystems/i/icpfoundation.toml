@@ -3,7 +3,9 @@ title = "ICPFoundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/icpfoundation"]
+github_organizations = [
+  "https://github.com/icpfoundation",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/icpfoundation/skeleton-project"
 
 [[repo]]
 url = "https://github.com/icpfoundation/template"
+

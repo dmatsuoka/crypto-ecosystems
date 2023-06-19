@@ -3,7 +3,9 @@ title = "Rootkit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RootkitFinance"]
+github_organizations = [
+  "https://github.com/RootkitFinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/RootkitFinance/garden-of-infinite-love-ui-source"
 
 [[repo]]
 url = "https://github.com/RootkitFinance/LotusTokenSingle"
+missing = true
 
 [[repo]]
 url = "https://github.com/RootkitFinance/octadahlia-contracts-eth"
@@ -62,3 +65,4 @@ url = "https://github.com/RootkitFinance/uptether-contracts"
 
 [[repo]]
 url = "https://github.com/RootkitFinance/uptether-ui-build"
+

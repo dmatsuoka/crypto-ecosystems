@@ -3,7 +3,9 @@ title = "Alpaca City"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlpacaCity"]
+github_organizations = [
+  "https://github.com/AlpacaCity",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/AlpacaCity/github-pages"
 
 [[repo]]
 url = "https://github.com/AlpacaCity/token-profile"
+

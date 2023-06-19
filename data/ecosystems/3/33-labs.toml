@@ -3,7 +3,9 @@ title = "33 Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/33-Labs"]
+github_organizations = [
+  "https://github.com/33-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/33-Labs/flowbox"
 
 [[repo]]
 url = "https://github.com/33-Labs/flowview"
+

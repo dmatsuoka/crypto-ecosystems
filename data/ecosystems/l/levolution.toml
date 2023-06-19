@@ -3,8 +3,11 @@ title = "Levolution"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LEVL-LLC"]
+github_organizations = [
+  "https://github.com/LEVL-LLC",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/LEVL-LLC/token-contract-flat"
+

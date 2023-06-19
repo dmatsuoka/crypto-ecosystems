@@ -3,7 +3,9 @@ title = "Jito Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jito-foundation"]
+github_organizations = [
+  "https://github.com/jito-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/jito-foundation/solana-accountsdb-connector"
 
 [[repo]]
 url = "https://github.com/jito-foundation/sv-manager"
+

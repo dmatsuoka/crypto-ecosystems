@@ -3,7 +3,9 @@ title = "Plants and PIllars"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Plants-And-Pillars"]
+github_organizations = [
+  "https://github.com/Plants-And-Pillars",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,5 @@ url = "https://github.com/Plants-And-Pillars/polygon-apac-hack"
 
 [[repo]]
 url = "https://github.com/Plants-And-Pillars/zen-garden"
+missing = true
+

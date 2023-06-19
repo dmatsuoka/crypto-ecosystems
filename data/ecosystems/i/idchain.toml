@@ -3,7 +3,9 @@ title = "IDChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IDChain-eth"]
+github_organizations = [
+  "https://github.com/IDChain-eth",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/IDChain-eth/uniswap-sdk"
 
 [[repo]]
 url = "https://github.com/IDChain-eth/uniswap-v2-subgraph"
+

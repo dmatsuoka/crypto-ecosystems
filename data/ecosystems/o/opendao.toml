@@ -3,7 +3,9 @@ title = "opendao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opendao-protocols"]
+github_organizations = [
+  "https://github.com/opendao-protocols",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/opendao-protocols/uniswap-v2-periphery"
 
 [[repo]]
 url = "https://github.com/opendao-protocols/usdo-token"
+

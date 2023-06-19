@@ -3,7 +3,9 @@ title = "Quillhash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Quillhash"]
+github_organizations = [
+  "https://github.com/Quillhash",
+]
 
 # Repositories
 [[repo]]
@@ -182,3 +184,4 @@ url = "https://github.com/Quillhash/Web3-Security-Tools"
 
 [[repo]]
 url = "https://github.com/Quillhash/worker-proposals"
+

@@ -3,7 +3,9 @@ title = "StarShip"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/deploystarship"]
+github_organizations = [
+  "https://github.com/deploystarship",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/deploystarship/StarBase_android"
 
 [[repo]]
 url = "https://github.com/deploystarship/StarBase_iOS"
+

@@ -3,7 +3,9 @@ title = "AstariaXYZ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AstariaXYZ"]
+github_organizations = [
+  "https://github.com/AstariaXYZ",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/AstariaXYZ/slither-action"
 
 [[repo]]
 url = "https://github.com/AstariaXYZ/strategy-merkle-spec"
+

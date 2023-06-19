@@ -3,7 +3,9 @@ title = "RIF Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/riflabs"]
+github_organizations = [
+  "https://github.com/riflabs",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/riflabs/tokens"
 
 [[repo]]
 url = "https://github.com/rsksmart/rif-faucet-client"
+

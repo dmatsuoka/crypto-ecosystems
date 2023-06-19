@@ -3,7 +3,9 @@ title = "Portrait.gg"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/portraitgg"]
+github_organizations = [
+  "https://github.com/portraitgg",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,8 @@ url = "https://github.com/portraitgg/portrait-ipfs-pinner"
 
 [[repo]]
 url = "https://github.com/portraitgg/portrait-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/portraitgg/portrait-sdk"
+

@@ -3,7 +3,9 @@ title = "Smilo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/smilofoundation"]
+github_organizations = [
+  "https://github.com/smilofoundation",
+]
 
 # Repositories
 [[repo]]
@@ -179,3 +181,4 @@ url = "https://github.com/smilofoundation/Wiki"
 
 [[repo]]
 url = "https://github.com/smilofoundation/zeth"
+

@@ -3,7 +3,9 @@ title = "AsaStats"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/asastats"]
+github_organizations = [
+  "https://github.com/asastats",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/asastats/static-pages"
 
 [[repo]]
 url = "https://github.com/asastats/xGov"
+

@@ -3,7 +3,9 @@ title = "Treejer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/treejer"]
+github_organizations = [
+  "https://github.com/treejer",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/treejer/subgraph"
 
 [[repo]]
 url = "https://github.com/treejer/web"
+

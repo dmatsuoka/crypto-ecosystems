@@ -3,7 +3,9 @@ title = "matataki"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Matataki-io"]
+github_organizations = [
+  "https://github.com/Matataki-io",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/Matataki-io/TokenCircle-Bot-Backend"
 
 [[repo]]
 url = "https://github.com/Matataki-io/yam-protocol"
+

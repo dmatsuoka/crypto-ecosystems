@@ -3,7 +3,9 @@ title = "DXOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dxos"]
+github_organizations = [
+  "https://github.com/dxos",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/dxos/dockerpi"
 
 [[repo]]
 url = "https://github.com/dxos/dxns"
+missing = true
 
 [[repo]]
 url = "https://github.com/dxos/dxns-cosmos"
@@ -119,6 +122,7 @@ url = "https://github.com/dxos/feed-level-indexer"
 
 [[repo]]
 url = "https://github.com/dxos/frame-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/dxos/fu"
@@ -215,3 +219,4 @@ url = "https://github.com/dxos/vite"
 
 [[repo]]
 url = "https://github.com/dxos/web"
+

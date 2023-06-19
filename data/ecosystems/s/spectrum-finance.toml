@@ -3,7 +3,10 @@ title = "Spectrum Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ergolabs", "https://github.com/spectrum-finance"]
+github_organizations = [
+  "https://github.com/ergolabs",
+  "https://github.com/spectrum-finance",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +113,4 @@ url = "https://github.com/spectrum-finance/spectrum-offchain-ergo"
 
 [[repo]]
 url = "https://github.com/spectrum-finance/token-logos"
+

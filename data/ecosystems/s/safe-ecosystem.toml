@@ -3,7 +3,9 @@ title = "Safe Ecosystem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/safe-global"]
+github_organizations = [
+  "https://github.com/safe-global",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/safe-global/safe-gelato-relay-service"
 
 [[repo]]
 url = "https://github.com/safe-global/safe-global.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/safe-global/safe-guardians-page"
@@ -137,3 +140,4 @@ url = "https://github.com/safe-global/web-core"
 
 [[repo]]
 url = "https://github.com/safe-global/web3-onboard"
+

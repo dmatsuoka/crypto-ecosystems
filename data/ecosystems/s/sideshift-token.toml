@@ -3,7 +3,9 @@ title = "SideShift Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sideshift"]
+github_organizations = [
+  "https://github.com/sideshift",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/sideshift/Wallet"
 
 [[repo]]
 url = "https://github.com/sideshift/zapper-fi-studio"
+

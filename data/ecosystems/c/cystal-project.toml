@@ -3,7 +3,9 @@ title = "Cystal Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sol-crystal"]
+github_organizations = [
+  "https://github.com/sol-crystal",
+]
 
 # Repositories
 [[repo]]
@@ -47,9 +49,11 @@ url = "https://github.com/sol-crystal/solana-safety-101"
 
 [[repo]]
 url = "https://github.com/sol-crystal/solana-unity3d-CSharp-Binding"
+missing = true
 
 [[repo]]
 url = "https://github.com/sol-crystal/solana-unity3d-ffi-export"
+missing = true
 
 [[repo]]
 url = "https://github.com/sol-crystal/SolanaForUnity3D"
@@ -65,3 +69,4 @@ url = "https://github.com/sol-crystal/triomphe"
 
 [[repo]]
 url = "https://github.com/sol-crystal/unity-solana-wallet"
+

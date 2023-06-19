@@ -3,7 +3,9 @@ title = "Bitsong"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitsongofficial"]
+github_organizations = [
+  "https://github.com/bitsongofficial",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/bitsongofficial/console-ui"
 
 [[repo]]
 url = "https://github.com/bitsongofficial/contest"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitsongofficial/cosmjs-rn"
@@ -149,3 +152,4 @@ url = "https://github.com/bitsongofficial/wallet-dapp"
 
 [[repo]]
 url = "https://github.com/bitsongofficial/wallet-mobile"
+

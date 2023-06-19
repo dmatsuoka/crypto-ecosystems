@@ -3,8 +3,11 @@ title = "Blockchain Game Alliance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchaingamealliance"]
+github_organizations = [
+  "https://github.com/blockchaingamealliance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/blockchaingamealliance/BBA_ProofOfConcept"
+

@@ -3,7 +3,10 @@ title = "Atomex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atomex-me", "https://github.com/atomex-protocol"]
+github_organizations = [
+  "https://github.com/atomex-me",
+  "https://github.com/atomex-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +65,4 @@ url = "https://github.com/atomex-protocol/atomex-node"
 
 [[repo]]
 url = "https://github.com/atomex-protocol/atomex-sdk"
+

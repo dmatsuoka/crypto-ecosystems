@@ -3,7 +3,9 @@ title = "Dipole Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DipoleTech"]
+github_organizations = [
+  "https://github.com/DipoleTech",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/nft-never-sleep/nft-ns-chain"
 
 [[repo]]
 url = "https://github.com/nft-never-sleep/nft-ns-web"
+

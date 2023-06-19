@@ -3,7 +3,9 @@ title = "Reservoir Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/reservoirprotocol"]
+github_organizations = [
+  "https://github.com/reservoirprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/reservoirprotocol/indexer"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/instant-sell"
+missing = true
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/loyal-marketplace"
@@ -101,3 +104,4 @@ url = "https://github.com/reservoirprotocol/seaport-oracle"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/test-tokens-metadata"
+

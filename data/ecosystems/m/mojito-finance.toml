@@ -3,7 +3,9 @@ title = "Mojito Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MojitoFinance"]
+github_organizations = [
+  "https://github.com/MojitoFinance",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/MojitoFinance/mojito-lib"
 
 [[repo]]
 url = "https://github.com/MojitoFinance/mojito-nft-ifo-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/MojitoFinance/mojito-swap-core"
@@ -38,3 +41,4 @@ url = "https://github.com/MojitoFinance/mojito-swap-periphery"
 
 [[repo]]
 url = "https://github.com/MojitoFinance/mojito-swap-subgraph"
+

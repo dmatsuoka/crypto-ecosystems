@@ -3,7 +3,9 @@ title = "EMDX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/emdx-dex"]
+github_organizations = [
+  "https://github.com/emdx-dex",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/emdx-dex/rlending-protocol"
 
 [[repo]]
 url = "https://github.com/emdx-dex/token-contracts"
+

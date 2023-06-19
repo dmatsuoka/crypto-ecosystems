@@ -3,7 +3,9 @@ title = "Dawn Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Dawn-Protocol"]
+github_organizations = [
+  "https://github.com/Dawn-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/Dawn-Protocol/Token-BulkSender"
 
 [[repo]]
 url = "https://github.com/Dawn-Protocol/whitepaper-dec"
+

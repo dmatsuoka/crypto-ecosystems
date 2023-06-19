@@ -3,7 +3,9 @@ title = "blitslabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blitslabs"]
+github_organizations = [
+  "https://github.com/blitslabs",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/blitslabs/marketplace"
 
 [[repo]]
 url = "https://github.com/blitslabs/marketplace-contracts"
+

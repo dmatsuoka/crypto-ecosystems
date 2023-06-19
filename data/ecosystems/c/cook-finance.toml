@@ -3,7 +3,9 @@ title = "Cook Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CookFinance"]
+github_organizations = [
+  "https://github.com/CookFinance",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/CookFinance/cook-leverage"
 
 [[repo]]
 url = "https://github.com/CookFinance/cook-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/CookFinance/cook-protocol-v1"
@@ -44,3 +47,4 @@ url = "https://github.com/CookFinance/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/CookFinance/vfat-tools"
+

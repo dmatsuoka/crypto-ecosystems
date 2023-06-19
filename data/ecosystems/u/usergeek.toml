@@ -3,7 +3,9 @@ title = "usergeek"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/usergeek"]
+github_organizations = [
+  "https://github.com/usergeek",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/usergeek/geekfactory-js-util"
 
 [[repo]]
 url = "https://github.com/usergeek/usergeek-ic-js"
+

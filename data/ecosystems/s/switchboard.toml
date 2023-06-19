@@ -3,7 +3,9 @@ title = "Switchboard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/switchboard-xyz"]
+github_organizations = [
+  "https://github.com/switchboard-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/switchboard-xyz/sbv2-sui"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/sbv3-example1"
+missing = true
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/secrets-server"
@@ -95,6 +98,7 @@ url = "https://github.com/switchboard-xyz/sgx-sdk"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/sgx_gen_25519"
+missing = true
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/solana"
@@ -116,6 +120,7 @@ url = "https://github.com/switchboard-xyz/solana_switchboard_attestation_program
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/subscription-function"
+missing = true
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-api"
@@ -170,3 +175,4 @@ url = "https://github.com/switchboard-xyz/vrf.js"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/vybe-example"
+

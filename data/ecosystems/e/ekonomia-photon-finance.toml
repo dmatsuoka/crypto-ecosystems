@@ -3,7 +3,9 @@ title = "Ekonomia (Photon Finance)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ekonomia-tech"]
+github_organizations = [
+  "https://github.com/ekonomia-tech",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/ekonomia-tech/reputation-alpha"
 
 [[repo]]
 url = "https://github.com/ekonomia-tech/reputation-server"
+

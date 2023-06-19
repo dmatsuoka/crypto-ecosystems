@@ -3,8 +3,11 @@ title = "EZToken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ezpos"]
+github_organizations = [
+  "https://github.com/ezpos",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ezpos/eztoken-contract"
+

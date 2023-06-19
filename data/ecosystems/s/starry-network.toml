@@ -3,7 +3,9 @@ title = "Starry Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Starry-Network"]
+github_organizations = [
+  "https://github.com/Starry-Network",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Starry-Network/starry_node"
 
 [[repo]]
 url = "https://github.com/Starry-Network/starry_query"
+

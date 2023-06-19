@@ -3,7 +3,9 @@ title = "Git Consensus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/git-consensus"]
+github_organizations = [
+  "https://github.com/git-consensus",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/git-consensus/github-action-verify-address"
 
 [[repo]]
 url = "https://github.com/git-consensus/prepare-commit-message"
+

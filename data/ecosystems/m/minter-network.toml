@@ -3,7 +3,9 @@ title = "Minter Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MinterTeam"]
+github_organizations = [
+  "https://github.com/MinterTeam",
+]
 
 # Repositories
 [[repo]]
@@ -278,3 +280,4 @@ url = "https://github.com/MinterTeam/swap-router"
 
 [[repo]]
 url = "https://github.com/MinterTeam/tendermint"
+

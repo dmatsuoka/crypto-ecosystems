@@ -3,7 +3,9 @@ title = "Loot NFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lootproject"]
+github_organizations = [
+  "https://github.com/lootproject",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/lootproject/expansions-www"
 
 [[repo]]
 url = "https://github.com/lootproject/website"
+

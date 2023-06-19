@@ -3,7 +3,9 @@ title = "Swidge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SwidgeTeam"]
+github_organizations = [
+  "https://github.com/SwidgeTeam",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/SwidgeTeam/swidge"
 
 [[repo]]
 url = "https://github.com/SwidgeTeam/swidgeLanding"
+

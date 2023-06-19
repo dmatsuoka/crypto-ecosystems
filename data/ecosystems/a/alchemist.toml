@@ -3,7 +3,9 @@ title = "Alchemist"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alchemistcoin"]
+github_organizations = [
+  "https://github.com/alchemistcoin",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/alchemistcoin/build-frontend"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/copper-curators"
+missing = true
 
 [[repo]]
 url = "https://github.com/alchemistcoin/crucible-documentation"
@@ -65,3 +68,4 @@ url = "https://github.com/alchemistcoin/sandwiched-frontend"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/token-extensions"
+

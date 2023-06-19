@@ -3,7 +3,9 @@ title = "Mooni"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mooni"]
+github_organizations = [
+  "https://github.com/mooni",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/mooni/mooni"
 
 [[repo]]
 url = "https://github.com/mooni/mooni-maintenance"
+

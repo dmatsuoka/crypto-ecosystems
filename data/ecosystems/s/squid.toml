@@ -3,7 +3,9 @@ title = "Squid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xsquid"]
+github_organizations = [
+  "https://github.com/0xsquid",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/0xsquid/axelar-local-gmp-examples"
 
 [[repo]]
 url = "https://github.com/0xsquid/boost-activation-scraper"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xsquid/contract_call_vela"
@@ -47,3 +50,4 @@ url = "https://github.com/0xsquid/squidswap-abi-example"
 
 [[repo]]
 url = "https://github.com/0xsquid/widget-integrations"
+

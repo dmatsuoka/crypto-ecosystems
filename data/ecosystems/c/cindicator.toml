@@ -3,8 +3,11 @@ title = "Cindicator"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cindicator"]
+github_organizations = [
+  "https://github.com/Cindicator",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Cindicator/CindicatorArbitrageBot"
+

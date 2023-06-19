@@ -3,11 +3,14 @@ title = "Crypton Studio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CryptonStudio"]
+github_organizations = [
+  "https://github.com/CryptonStudio",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/CryptonStudio/amino-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/CryptonStudio/cryptokeeper-admin"
@@ -59,3 +62,4 @@ url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-Nodes-web-site"
 
 [[repo]]
 url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-SDK"
+

@@ -3,7 +3,9 @@ title = "Humans.ai"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/humansdotai"]
+github_organizations = [
+  "https://github.com/humansdotai",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/humansdotai/testnets"
 
 [[repo]]
 url = "https://github.com/humansdotai/wasmd"
+

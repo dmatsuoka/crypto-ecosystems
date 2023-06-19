@@ -3,7 +3,9 @@ title = "Maincoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/main-coin"]
+github_organizations = [
+  "https://github.com/main-coin",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/main-coin/main-wallet"
 
 [[repo]]
 url = "https://github.com/main-coin/merchant-api"
+

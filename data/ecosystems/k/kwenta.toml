@@ -3,7 +3,9 @@ title = "Kwenta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kwenta"]
+github_organizations = [
+  "https://github.com/Kwenta",
+]
 
 # Repositories
 [[repo]]
@@ -23,15 +25,18 @@ url = "https://github.com/Kwenta/curve-subgraph"
 
 [[repo]]
 url = "https://github.com/Kwenta/Documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/foundry-scaffold"
 
 [[repo]]
 url = "https://github.com/Kwenta/hype"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/issues"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/KIPs"
@@ -89,3 +94,4 @@ url = "https://github.com/Kwenta/token"
 
 [[repo]]
 url = "https://github.com/Kwenta/veKWENTA"
+

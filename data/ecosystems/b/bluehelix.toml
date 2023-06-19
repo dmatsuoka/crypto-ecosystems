@@ -3,7 +3,9 @@ title = "Bluehelix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bluehelix-network"]
+github_organizations = [
+  "https://github.com/bluehelix-network",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/bluehelix-network/docs"
 
 [[repo]]
 url = "https://github.com/bluehelix-network/testnet"
+

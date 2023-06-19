@@ -3,7 +3,9 @@ title = "Spore Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Enoki-DeFi-Club"]
+github_organizations = [
+  "https://github.com/Enoki-DeFi-Club",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Enoki-DeFi-Club/enoki-contracts"
 
 [[repo]]
 url = "https://github.com/Enoki-DeFi-Club/marketplace"
+

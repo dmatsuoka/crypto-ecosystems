@@ -3,7 +3,9 @@ title = "HOQU"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hoqu-io"]
+github_organizations = [
+  "https://github.com/hoqu-io",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/hoqu-io/platform"
 
 [[repo]]
 url = "https://github.com/hoqu-io/webmasters-ui"
+

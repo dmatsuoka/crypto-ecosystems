@@ -3,7 +3,9 @@ title = "WallETH"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/walleth"]
+github_organizations = [
+  "https://github.com/walleth",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/walleth/walleth-push"
 
 [[repo]]
 url = "https://github.com/walleth/walleth.github.com"
+

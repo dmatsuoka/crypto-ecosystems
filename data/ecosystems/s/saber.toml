@@ -3,7 +3,9 @@ title = "Saber"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/saber-hq"]
+github_organizations = [
+  "https://github.com/saber-hq",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/saber-hq/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/saber-hq/walletkit"
+

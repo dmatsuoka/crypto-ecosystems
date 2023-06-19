@@ -3,7 +3,9 @@ title = "BlockScan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlocksScan"]
+github_organizations = [
+  "https://github.com/BlocksScan",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/BlocksScan/XDCRPC_Docs"
 
 [[repo]]
 url = "https://github.com/BlocksScan/XinFin-Node"
+

@@ -3,7 +3,9 @@ title = "Aviate Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aviate-labs"]
+github_organizations = [
+  "https://github.com/aviate-labs",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/aviate-labs/agent-go"
 
 [[repo]]
 url = "https://github.com/aviate-labs/agent-go.cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/aviate-labs/array.mo"
@@ -59,6 +62,7 @@ url = "https://github.com/aviate-labs/date.mo"
 
 [[repo]]
 url = "https://github.com/aviate-labs/db.mo"
+missing = true
 
 [[repo]]
 url = "https://github.com/aviate-labs/dip.std"
@@ -161,9 +165,11 @@ url = "https://github.com/aviate-labs/template-ic"
 
 [[repo]]
 url = "https://github.com/aviate-labs/token-std.mo"
+missing = true
 
 [[repo]]
 url = "https://github.com/aviate-labs/ulid.mo"
 
 [[repo]]
 url = "https://github.com/aviate-labs/uuid.mo"
+

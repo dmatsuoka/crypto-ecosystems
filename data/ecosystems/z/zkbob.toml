@@ -3,7 +3,9 @@ title = "zkBob"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zkBob"]
+github_organizations = [
+  "https://github.com/zkBob",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/zkBob/zkbob-faucet"
 
 [[repo]]
 url = "https://github.com/zkBob/zkbob-utils-rs"
+

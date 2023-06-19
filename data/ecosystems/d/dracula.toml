@@ -3,7 +3,9 @@ title = "Dracula"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Dracula-Protocol"]
+github_organizations = [
+  "https://github.com/Dracula-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Dracula-Protocol/frontend"
 
 [[repo]]
 url = "https://github.com/Dracula-Protocol/snapshot-spaces"
+

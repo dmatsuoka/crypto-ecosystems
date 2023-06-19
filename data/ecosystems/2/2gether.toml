@@ -3,7 +3,9 @@ title = "2gether"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/2getherGlobal"]
+github_organizations = [
+  "https://github.com/2getherGlobal",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/2getherGlobal/2GB_Token"
 
 [[repo]]
 url = "https://github.com/2getherGlobal/2GT_Token"
+

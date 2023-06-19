@@ -3,7 +3,9 @@ title = "El Dorado"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eldoradoio"]
+github_organizations = [
+  "https://github.com/eldoradoio",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/eldoradoio/tatum-kms"
 
 [[repo]]
 url = "https://github.com/eldoradoio/TestnetTronFaucet"
+

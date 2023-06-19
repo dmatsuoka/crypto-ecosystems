@@ -3,7 +3,9 @@ title = "ocp-finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omni-corp-protocols"]
+github_organizations = [
+  "https://github.com/omni-corp-protocols",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/omni-corp-protocols/venomswap-sdk"
 
 [[repo]]
 url = "https://github.com/omni-corp-protocols/venomswap-sdk-extra"
+

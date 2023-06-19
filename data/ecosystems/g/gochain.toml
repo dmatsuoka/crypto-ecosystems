@@ -3,7 +3,9 @@ title = "GoChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gochain-io"]
+github_organizations = [
+  "https://github.com/gochain-io",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/gochain/web3"
 
 [[repo]]
 url = "https://github.com/gochain/web3-networks"
+

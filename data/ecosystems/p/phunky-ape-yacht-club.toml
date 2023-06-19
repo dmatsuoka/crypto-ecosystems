@@ -3,7 +3,9 @@ title = "Phunky Ape Yacht Club"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Phunky-Ape-Yacht-Club"]
+github_organizations = [
+  "https://github.com/Phunky-Ape-Yacht-Club",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Phunky-Ape-Yacht-Club/paycmarket-subgraph"
 
 [[repo]]
 url = "https://github.com/Phunky-Ape-Yacht-Club/phunky-mp"
+

@@ -3,7 +3,9 @@ title = "Duet Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/duet-protocol"]
+github_organizations = [
+  "https://github.com/duet-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/duet-protocol/duet-contracts"
 
 [[repo]]
 url = "https://github.com/duet-protocol/dUSD-minter"
+

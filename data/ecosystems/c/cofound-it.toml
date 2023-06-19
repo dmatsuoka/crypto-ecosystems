@@ -3,7 +3,9 @@ title = "Cofound.it"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cofoundit"]
+github_organizations = [
+  "https://github.com/cofoundit",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/cofoundit/getting-started-eth-development"
 
 [[repo]]
 url = "https://github.com/cofoundit/smart-contracts"
+

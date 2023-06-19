@@ -1,6 +1,13 @@
+# Ecosystem Level Information
 title = "DFINITY Side Projects"
+
 sub_ecosystems = []
-github_organizations = ["https://github.com/dfinity-side-projects"]
+
+github_organizations = [
+  "https://github.com/dfinity-side-projects",
+]
+
+# Repositories
 [[repo]]
 url = "https://github.com/dfinity-side-projects/STIFTUNG-DFN-donations"
 

@@ -3,7 +3,9 @@ title = "ValueDefi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/valuedefi"]
+github_organizations = [
+  "https://github.com/valuedefi",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/valuedefi/vaults"
 
 [[repo]]
 url = "https://github.com/valuedefi/vsafe-contracts"
+

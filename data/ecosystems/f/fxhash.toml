@@ -3,7 +3,9 @@ title = "fxhash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fxhash"]
+github_organizations = [
+  "https://github.com/fxhash",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/fxhash/specifications"
 
 [[repo]]
 url = "https://github.com/fxhash/system-descriptions"
+

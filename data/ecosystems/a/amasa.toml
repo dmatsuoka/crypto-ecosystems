@@ -3,7 +3,9 @@ title = "Amasa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amasaio"]
+github_organizations = [
+  "https://github.com/amasaio",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/amasaio/amasa-token"
 
 [[repo]]
 url = "https://github.com/amasaio/vesting-contract"
+

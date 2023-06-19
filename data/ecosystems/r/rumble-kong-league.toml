@@ -3,7 +3,9 @@ title = "Rumble Kong League"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rumble-kong-league"]
+github_organizations = [
+  "https://github.com/rumble-kong-league",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,8 @@ url = "https://github.com/rumble-kong-league/polygon-collection"
 
 [[repo]]
 url = "https://github.com/rumble-kong-league/sales-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/rumble-kong-league/tiny-rkl-erc721"
+

@@ -3,7 +3,9 @@ title = "Noir Lang"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/noir-lang"]
+github_organizations = [
+  "https://github.com/noir-lang",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/vezenovm/simple_shield"
 
 [[repo]]
 url = "https://github.com/whitenois3/nplate"
+

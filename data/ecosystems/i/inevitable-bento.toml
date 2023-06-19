@@ -3,7 +3,9 @@ title = "Inevitable (Bento)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/inevitable-changes"]
+github_organizations = [
+  "https://github.com/inevitable-changes",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/inevitable-changes/klaytn.bento.finance"
 
 [[repo]]
 url = "https://github.com/inevitable-dao/bento"
+

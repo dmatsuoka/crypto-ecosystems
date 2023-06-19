@@ -3,7 +3,9 @@ title = "HyperJump"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HyperJump-DeFi"]
+github_organizations = [
+  "https://github.com/HyperJump-DeFi",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/HyperJump-DeFi/hyperjump-onramp-widget"
 
 [[repo]]
 url = "https://github.com/HyperJump-DeFi/swap-token-list"
+

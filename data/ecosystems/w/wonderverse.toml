@@ -3,7 +3,9 @@ title = "wonderverse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wondrous-dev"]
+github_organizations = [
+  "https://github.com/wondrous-dev",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/wondrous-dev/token-gating-service"
 
 [[repo]]
 url = "https://github.com/wondrous-dev/wondrous-frontend"
+

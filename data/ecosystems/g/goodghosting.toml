@@ -3,7 +3,9 @@ title = "GoodGhosting"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Good-Ghosting"]
+github_organizations = [
+  "https://github.com/Good-Ghosting",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/Good-Ghosting/goodghosting-protocol-v2"
 
 [[repo]]
 url = "https://github.com/Good-Ghosting/goodghosting-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/Good-Ghosting/goodghosting-subgraph-v1"
@@ -50,3 +53,4 @@ url = "https://github.com/Good-Ghosting/zapper-integration"
 
 [[repo]]
 url = "https://github.com/Good-Ghosting/zapper-studio"
+

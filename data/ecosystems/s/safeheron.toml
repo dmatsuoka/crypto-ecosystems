@@ -3,7 +3,9 @@ title = "Safeheron"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Safeheron"]
+github_organizations = [
+  "https://github.com/Safeheron",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/Safeheron/crypto-hash-cpp"
 
 [[repo]]
 url = "https://github.com/Safeheron/crypto-mta-cpp"
+missing = true
 
 [[repo]]
 url = "https://github.com/Safeheron/crypto-paillier-cpp"
@@ -119,3 +122,4 @@ url = "https://github.com/Safeheron/tss-rsa-cpp-sgx"
 
 [[repo]]
 url = "https://github.com/Safeheron/two-party-ecdsa-js"
+

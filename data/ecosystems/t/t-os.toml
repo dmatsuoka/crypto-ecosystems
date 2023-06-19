@@ -3,7 +3,9 @@ title = "T.OS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tos-project"]
+github_organizations = [
+  "https://github.com/tos-project",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/tos-project/toswallet-android"
 
 [[repo]]
 url = "https://github.com/tos-project/toswallet-ios"
+

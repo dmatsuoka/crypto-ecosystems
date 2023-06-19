@@ -3,7 +3,9 @@ title = "FunFair"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/funfair-tech"]
+github_organizations = [
+  "https://github.com/funfair-tech",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/funfair-tech/CoinBot"
 
 [[repo]]
 url = "https://github.com/funfair-tech/defi-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/funfair-tech/etherwallet"
@@ -83,3 +86,4 @@ url = "https://github.com/funfair-tech/wallet-vue-integration-sample-js"
 
 [[repo]]
 url = "https://github.com/funfair-tech/web3.js"
+

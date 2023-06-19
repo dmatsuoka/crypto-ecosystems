@@ -3,7 +3,9 @@ title = "Bondly"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bondly"]
+github_organizations = [
+  "https://github.com/bondly",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/bondly/bondly-finance"
 
 [[repo]]
 url = "https://github.com/bondly/BondswapSubstrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/bondly/contract-metadata"
@@ -26,3 +29,4 @@ url = "https://github.com/bondly/nft-gov-spaces"
 
 [[repo]]
 url = "https://github.com/bondly/test-output"
+

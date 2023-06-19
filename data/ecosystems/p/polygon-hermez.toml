@@ -3,7 +3,9 @@ title = "Polygon Hermez"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xPolygonHermez"]
+github_organizations = [
+  "https://github.com/0xPolygonHermez",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/0xPolygonHermez/zkevm-testvectors"
 
 [[repo]]
 url = "https://github.com/iden3/eslint-config-react-ts"
+

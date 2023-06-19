@@ -3,7 +3,9 @@ title = "Bogged Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BoggedFinance"]
+github_organizations = [
+  "https://github.com/BoggedFinance",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/BoggedFinance/proxy"
 
 [[repo]]
 url = "https://github.com/BoggedFinance/web3-onboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/BoggedFinance/web3-onboard-core"
@@ -47,3 +50,4 @@ url = "https://github.com/BoggedFinance/web3-onboard-walletconnect"
 
 [[repo]]
 url = "https://github.com/BoggedFinance/web3modal"
+

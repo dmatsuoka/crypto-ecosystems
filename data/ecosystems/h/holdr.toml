@@ -3,7 +3,9 @@ title = "Holdr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/holdr-fi"]
+github_organizations = [
+  "https://github.com/holdr-fi",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/holdr-fi/veHLDR-fix"
 
 [[repo]]
 url = "https://github.com/holdr-fi/wNEAR"
+

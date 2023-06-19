@@ -3,7 +3,9 @@ title = "Sterlingcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sterlingcoin"]
+github_organizations = [
+  "https://github.com/Sterlingcoin",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/Sterlingcoin/Sterlingcoin-1.7-Release"
 
 [[repo]]
 url = "https://github.com/Sterlingcoin/Sterlingcoin-Core"
+missing = true
 
 [[repo]]
 url = "https://github.com/Sterlingcoin/Sterlingcoin-Core-WIP"
@@ -26,6 +29,8 @@ url = "https://github.com/Sterlingcoin/Sterlingcoin-Paper-Wallet"
 
 [[repo]]
 url = "https://github.com/Sterlingcoin/Sterlingcoin-seeder"
+missing = true
 
 [[repo]]
 url = "https://github.com/Sterlingcoin/Sterlingcoin-Seeder-WIP"
+

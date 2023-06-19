@@ -3,7 +3,9 @@ title = "Perpetual Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/perpetual-protocol"]
+github_organizations = [
+  "https://github.com/perpetual-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,12 +25,14 @@ url = "https://github.com/perpetual-protocol/examples"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/immunefi-14204"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-admin-safe-app"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-arbitrageur"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-bounties"
@@ -119,9 +123,11 @@ url = "https://github.com/perpetual-protocol/use-ethereum"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/vault-kit-themed"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/voting-escrow"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/ygift-ui"
+

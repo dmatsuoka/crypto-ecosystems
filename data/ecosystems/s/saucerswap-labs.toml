@@ -3,7 +3,9 @@ title = "SaucerSwap Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/saucerswaplabs"]
+github_organizations = [
+  "https://github.com/saucerswaplabs",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/saucerswaplabs/saucerswaplabs-core"
 
 [[repo]]
 url = "https://github.com/saucerswaplabs/saucerswaplabs-farm"
+

@@ -3,7 +3,9 @@ title = "Intercharity Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/team-bobocoin"]
+github_organizations = [
+  "https://github.com/team-bobocoin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/team-bobocoin/bobo"
 
 [[repo]]
 url = "https://github.com/team-bobocoin/cosmos-intercharity-net"
+

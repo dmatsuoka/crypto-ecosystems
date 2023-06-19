@@ -3,7 +3,9 @@ title = "Hundred Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hundred-finance"]
+github_organizations = [
+  "https://github.com/hundred-finance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/hundred-finance/merkletreejs"
 
 [[repo]]
 url = "https://github.com/hundred-finance/solarbeam-tokenlist"
+

@@ -3,7 +3,9 @@ title = "Coreto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coreto-io"]
+github_organizations = [
+  "https://github.com/coreto-io",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/coreto-io/rainbow-bridge-assets"
 
 [[repo]]
 url = "https://github.com/coreto-io/trustwallet-assets"
+

@@ -3,7 +3,9 @@ title = "Zero Authority"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zeroauthority-dao"]
+github_organizations = [
+  "https://github.com/zeroauthority-dao",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/zeroauthority-dao/Overview"
 
 [[repo]]
 url = "https://github.com/zeroauthority-dao/za-website"
+

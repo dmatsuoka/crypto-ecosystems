@@ -3,7 +3,9 @@ title = "United Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UtedToken"]
+github_organizations = [
+  "https://github.com/UtedToken",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/UtedToken/escrow"
 
 [[repo]]
 url = "https://github.com/UtedToken/escrow-api"
+

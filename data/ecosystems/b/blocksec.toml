@@ -3,7 +3,9 @@ title = "BlockSec"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blocksecteam"]
+github_organizations = [
+  "https://github.com/blocksecteam",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,5 @@ url = "https://github.com/blocksecteam/solana_demo"
 
 [[repo]]
 url = "https://github.com/blocksecteam/web3_phishing_domains"
+missing = true
+

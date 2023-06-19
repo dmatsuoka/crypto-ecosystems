@@ -3,7 +3,9 @@ title = "DogeCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dogecash"]
+github_organizations = [
+  "https://github.com/dogecash",
+]
 
 # Repositories
 [[repo]]
@@ -125,12 +127,14 @@ url = "https://github.com/dogecash/masternode-telegram-watcher"
 
 [[repo]]
 url = "https://github.com/dogecash/mn-status-check"
+missing = true
 
 [[repo]]
 url = "https://github.com/dogecash/multi-mn-installation"
 
 [[repo]]
 url = "https://github.com/dogecash/NBitcoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/dogecash/NBXplorer"
@@ -155,3 +159,4 @@ url = "https://github.com/dogecash/webca-new"
 
 [[repo]]
 url = "https://github.com/dogecash/website-translations"
+

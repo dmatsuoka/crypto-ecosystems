@@ -3,7 +3,9 @@ title = "Threshold Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/threshold-network"]
+github_organizations = [
+  "https://github.com/threshold-network",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/threshold-network/merkle-distribution"
 
 [[repo]]
 url = "https://github.com/threshold-network/merkle-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/threshold-network/security-audits"
@@ -65,3 +68,4 @@ url = "https://github.com/threshold-network/tss-lib"
 
 [[repo]]
 url = "https://github.com/threshold-network/UX-User-Research"
+

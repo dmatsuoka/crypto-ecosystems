@@ -3,7 +3,9 @@ title = "Hop Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hop-protocol"]
+github_organizations = [
+  "https://github.com/hop-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/hop-protocol/v2-docs"
 
 [[repo]]
 url = "https://github.com/hop-protocol/v2-monorepo"
+

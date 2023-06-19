@@ -3,7 +3,9 @@ title = "Earnbase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/earnbasefinance"]
+github_organizations = [
+  "https://github.com/earnbasefinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/earnbasefinance/enb-contracts"
 
 [[repo]]
 url = "https://github.com/earnbasefinance/snapshot-spaces"
+

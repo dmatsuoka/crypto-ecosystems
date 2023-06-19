@@ -3,7 +3,9 @@ title = "Metrika"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Metrika-Inc"]
+github_organizations = [
+  "https://github.com/Metrika-Inc",
+]
 
 # Repositories
 [[repo]]
@@ -54,3 +56,4 @@ url = "https://github.com/Metrika-Inc/relay-monitor"
 
 [[repo]]
 url = "https://github.com/Metrika-Inc/trino-python-client"
+

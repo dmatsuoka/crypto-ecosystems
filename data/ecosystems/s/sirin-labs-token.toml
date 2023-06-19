@@ -3,11 +3,14 @@ title = "SIRIN LABS Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sirin-labs"]
+github_organizations = [
+  "https://github.com/sirin-labs",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/sirin-labs/certain-channel"
+missing = true
 
 [[repo]]
 url = "https://github.com/sirin-labs/crowdsale-smart-contract"
@@ -38,3 +41,4 @@ url = "https://github.com/sirin-labs/voting-smart-contract"
 
 [[repo]]
 url = "https://github.com/sirin-labs/wallet-blockchain-gateway-service"
+

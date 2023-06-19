@@ -3,7 +3,9 @@ title = "Mero"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MeroCoin"]
+github_organizations = [
+  "https://github.com/MeroCoin",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/MeroCoin/merocoin-seeder"
 
 [[repo]]
 url = "https://github.com/MeroCoin/website"
+

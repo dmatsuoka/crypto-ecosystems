@@ -3,7 +3,9 @@ title = "seedclub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/seedclub"]
+github_organizations = [
+  "https://github.com/seedclub",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/seedclub/seed-club-hacks"
 
 [[repo]]
 url = "https://github.com/seedclub/voting-app"
+

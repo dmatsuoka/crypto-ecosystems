@@ -3,7 +3,9 @@ title = "Lenstube"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lenstube-xyz"]
+github_organizations = [
+  "https://github.com/lenstube-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,8 @@ url = "https://github.com/lenstube-xyz/assets"
 
 [[repo]]
 url = "https://github.com/lenstube-xyz/embed"
+missing = true
 
 [[repo]]
 url = "https://github.com/lenstube-xyz/lenstube"
+

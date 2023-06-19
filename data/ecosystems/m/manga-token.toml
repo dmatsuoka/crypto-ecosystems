@@ -3,7 +3,9 @@ title = "Manga Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Manga-Token"]
+github_organizations = [
+  "https://github.com/Manga-Token",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Manga-Token/trophee-1155"
 
 [[repo]]
 url = "https://github.com/Manga-Token/trophee-wyvern-exchange"
+

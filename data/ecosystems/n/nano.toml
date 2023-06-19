@@ -3,7 +3,9 @@ title = "Nano"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nanocurrency"]
+github_organizations = [
+  "https://github.com/nanocurrency",
+]
 
 # Repositories
 [[repo]]
@@ -98,6 +100,7 @@ url = "https://github.com/dourvaris/nano-python"
 
 [[repo]]
 url = "https://github.com/eduardofacunha/bitcougar-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/ezradiniz/go-nano-bot"
@@ -137,6 +140,7 @@ url = "https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW"
 
 [[repo]]
 url = "https://github.com/jaimehgb/RaiWalletV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/jaimehgb/RaiWebWallet"
@@ -206,9 +210,11 @@ url = "https://github.com/LucaDe/LdNanoIntegration"
 
 [[repo]]
 url = "https://github.com/lucaslopes/usenano"
+missing = true
 
 [[repo]]
 url = "https://github.com/lucawint/qrnano"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukes/nano-stream-ws"
@@ -236,6 +242,7 @@ url = "https://github.com/meltingice/nanocrawler"
 
 [[repo]]
 url = "https://github.com/michael1011/nanogo"
+missing = true
 
 [[repo]]
 url = "https://github.com/michielpost/NanoRPC"
@@ -342,6 +349,7 @@ url = "https://github.com/nanocurrency/protocol"
 
 [[repo]]
 url = "https://github.com/nanocurrency/qtci"
+missing = true
 
 [[repo]]
 url = "https://github.com/nanocurrency/roadmap"
@@ -357,6 +365,7 @@ url = "https://github.com/nanocurrency/rust-rai-lib"
 
 [[repo]]
 url = "https://github.com/nanocurrency/structor"
+missing = true
 
 [[repo]]
 url = "https://github.com/nanocurrency/test-nano-org"
@@ -453,6 +462,7 @@ url = "https://github.com/SergiySW/RaiBlocksJS"
 
 [[repo]]
 url = "https://github.com/shamo42/brainblocks-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/Shou/nano-vanity-filter"
@@ -477,12 +487,15 @@ url = "https://github.com/swartjean/nano-tipbot"
 
 [[repo]]
 url = "https://github.com/termhn/nanopow-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/thehen101/Rain"
+missing = true
 
 [[repo]]
 url = "https://github.com/thehen101/RainServer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ThunderOps/ansible-nano"
@@ -492,6 +505,7 @@ url = "https://github.com/ThunderOps/nano-exporter"
 
 [[repo]]
 url = "https://github.com/undercoded/nano-art-concepts"
+missing = true
 
 [[repo]]
 url = "https://github.com/vardthomas/Aggrex.RaiSharp"
@@ -504,12 +518,15 @@ url = "https://github.com/vitorcremonez/nano-paper-wallet"
 
 [[repo]]
 url = "https://github.com/xboston/nano-vanity"
+missing = true
 
 [[repo]]
 url = "https://github.com/xenonnsmb/nano-generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/zargot/nanorpc-c"
 
 [[repo]]
 url = "https://github.com/zargot/nanorpc-go"
+

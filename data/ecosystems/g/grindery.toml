@@ -3,7 +3,9 @@ title = "Grindery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/grindery-io"]
+github_organizations = [
+  "https://github.com/grindery-io",
+]
 
 # Repositories
 [[repo]]
@@ -164,3 +166,4 @@ url = "https://github.com/grindery-io/use-grindery-nexus"
 
 [[repo]]
 url = "https://github.com/grindery-io/webhook-connector"
+

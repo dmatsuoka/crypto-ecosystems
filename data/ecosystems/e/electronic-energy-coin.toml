@@ -3,8 +3,11 @@ title = "Electronic Energy Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ElectronicEnergyCoin"]
+github_organizations = [
+  "https://github.com/ElectronicEnergyCoin",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ElectronicEnergyCoin/smart-contracts"
+

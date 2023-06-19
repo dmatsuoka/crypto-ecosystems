@@ -3,8 +3,11 @@ title = "Skychain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Skychainglobal"]
+github_organizations = [
+  "https://github.com/Skychainglobal",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Skychainglobal/MVP"
+

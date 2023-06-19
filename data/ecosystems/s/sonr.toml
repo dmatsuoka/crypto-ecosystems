@@ -3,7 +3,9 @@ title = "Sonr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sonr-io"]
+github_organizations = [
+  "https://github.com/sonr-io",
+]
 
 # Repositories
 [[repo]]
@@ -77,6 +79,7 @@ url = "https://github.com/sonr-io/motor-flutter"
 
 [[repo]]
 url = "https://github.com/sonr-io/motor-flutter-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/sonr-io/motor-flutter-starter"
@@ -131,3 +134,4 @@ url = "https://github.com/sonr-io/ts-modules"
 
 [[repo]]
 url = "https://github.com/sonr-io/webauthn"
+

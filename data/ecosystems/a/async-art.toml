@@ -3,7 +3,9 @@ title = "Async Art"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/asyncart"]
+github_organizations = [
+  "https://github.com/asyncart",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/asyncart/async-subgraph_v2"
 
 [[repo]]
 url = "https://github.com/asyncart/autonomous-scripts"
+

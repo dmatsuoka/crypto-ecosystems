@@ -3,7 +3,9 @@ title = "BANKEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BANKEX"]
+github_organizations = [
+  "https://github.com/BANKEX",
+]
 
 # Repositories
 [[repo]]
@@ -269,9 +271,11 @@ url = "https://github.com/BANKEX/web3browser"
 
 [[repo]]
 url = "https://github.com/BANKEX/web3swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/BANKEX/whitepaper"
 
 [[repo]]
 url = "https://github.com/BANKEX/zkproof-research"
+

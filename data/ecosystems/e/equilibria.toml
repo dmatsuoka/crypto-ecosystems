@@ -3,7 +3,9 @@ title = "Equilibria"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EquilibriaCC"]
+github_organizations = [
+  "https://github.com/EquilibriaCC",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/EquilibriaCC/EquilibriaCommunityContent"
 
 [[repo]]
 url = "https://github.com/EquilibriaCC/eth-equilibria"
+missing = true
 
 [[repo]]
 url = "https://github.com/EquilibriaCC/explore"
@@ -116,3 +119,4 @@ url = "https://github.com/EquilibriaCC/XEQ-DAO-Avalanche"
 
 [[repo]]
 url = "https://github.com/EquilibriaCC/xeq_community_bot"
+

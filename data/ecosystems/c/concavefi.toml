@@ -3,7 +3,9 @@ title = "ConcaveFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ConcaveFi"]
+github_organizations = [
+  "https://github.com/ConcaveFi",
+]
 
 # Repositories
 [[repo]]
@@ -35,9 +37,11 @@ url = "https://github.com/ConcaveFi/conduit"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/Contrast"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConcaveFi/contrast-gitbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConcaveFi/DefiLlama-Adapters"
@@ -50,3 +54,4 @@ url = "https://github.com/ConcaveFi/synthswap"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/txs"
+

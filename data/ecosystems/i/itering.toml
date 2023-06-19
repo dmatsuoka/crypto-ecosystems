@@ -3,7 +3,9 @@ title = "Itering"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/itering"]
+github_organizations = [
+  "https://github.com/itering",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/itering/ethereumjs-wallet"
 
 [[repo]]
 url = "https://github.com/itering/etherwallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/itering/evmdis"
@@ -98,6 +101,7 @@ url = "https://github.com/itering/MiscSecNotes"
 
 [[repo]]
 url = "https://github.com/itering/mist"
+missing = true
 
 [[repo]]
 url = "https://github.com/itering/multi-party-ecdsa"
@@ -245,3 +249,4 @@ url = "https://github.com/subscan-explorer/subscan-multisig-react"
 
 [[repo]]
 url = "https://github.com/subscan-explorer/treasury-proposals"
+

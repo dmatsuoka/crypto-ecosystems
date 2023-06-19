@@ -3,7 +3,9 @@ title = "Infinitefuture Public Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/infinitefuturechain"]
+github_organizations = [
+  "https://github.com/infinitefuturechain",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/infinitefuturechain/mainnet"
 
 [[repo]]
 url = "https://github.com/infinitefuturechain/wallet"
+

@@ -3,7 +3,9 @@ title = "Nyancoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nyancoins"]
+github_organizations = [
+  "https://github.com/Nyancoins",
+]
 
 # Repositories
 [[repo]]
@@ -11,24 +13,29 @@ url = "https://github.com/Nyancoins/.github"
 
 [[repo]]
 url = "https://github.com/Nyancoins/bitcoin-abe"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nyancoins/docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nyancoins/eiquidus"
 
 [[repo]]
 url = "https://github.com/Nyancoins/electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nyancoins/electrum-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nyancoins/electrumx"
 
 [[repo]]
 url = "https://github.com/Nyancoins/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nyancoins/nyancha.in"
@@ -41,6 +48,7 @@ url = "https://github.com/Nyancoins/Nyancoin-Improvement-Proposals"
 
 [[repo]]
 url = "https://github.com/Nyancoins/nyancoind-snap"
+missing = true
 
 [[repo]]
 url = "https://github.com/SharkyRawr/blocktools"
@@ -65,3 +73,4 @@ url = "https://github.com/SharkyRawr/NyanTX"
 
 [[repo]]
 url = "https://github.com/SharkyRawr/ZeroTips"
+

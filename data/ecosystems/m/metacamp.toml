@@ -3,7 +3,9 @@ title = "Metacamp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MetacampDAO"]
+github_organizations = [
+  "https://github.com/MetacampDAO",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/MetacampDAO/anchor-counter-program"
 
 [[repo]]
 url = "https://github.com/MetacampDAO/anchor-nft-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/MetacampDAO/anchor-nft-staking-demo"
@@ -206,3 +209,4 @@ url = "https://github.com/MetacampDAO/tradehaus-program"
 
 [[repo]]
 url = "https://github.com/MetacampDAO/website-react-ts"
+

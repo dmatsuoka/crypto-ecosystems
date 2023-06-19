@@ -3,7 +3,9 @@ title = "Owl Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/owlprotocol"]
+github_organizations = [
+  "https://github.com/owlprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/owlprotocol/vite-dts"
 
 [[repo]]
 url = "https://github.com/owlprotocol/web3-redux"
+

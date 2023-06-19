@@ -3,17 +3,22 @@ title = "Menlo One"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MenloOne"]
+github_organizations = [
+  "https://github.com/MenloOne",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/MenloOne/belp-nft-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/MenloOne/belp-teaser-launchpad"
+missing = true
 
 [[repo]]
 url = "https://github.com/MenloOne/belp-teaser-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/MenloOne/block-overflow"
@@ -56,3 +61,4 @@ url = "https://github.com/MenloOne/truffle-hdwallet-provider-privkey"
 
 [[repo]]
 url = "https://github.com/MenloOne/whitepapers"
+

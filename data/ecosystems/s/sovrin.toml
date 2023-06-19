@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Sovrin"
 
-sub_ecosystems = ["DistributedCollective"]
+sub_ecosystems = [
+  "DistributedCollective",
+]
 
-github_organizations = ["https://github.com/sovrin-foundation"]
+github_organizations = [
+  "https://github.com/sovrin-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -98,6 +102,7 @@ url = "https://github.com/sovrin-foundation/sovrin-devexchange"
 
 [[repo]]
 url = "https://github.com/sovrin-foundation/sovrin-indy-android-dependencies"
+missing = true
 
 [[repo]]
 url = "https://github.com/sovrin-foundation/sovrin-sip"
@@ -128,3 +133,4 @@ url = "https://github.com/sovrin-foundation/training"
 
 [[repo]]
 url = "https://github.com/sovrin-foundation/vc-data-model"
+

@@ -3,7 +3,9 @@ title = "HodlTree"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HodlTreeProtocol"]
+github_organizations = [
+  "https://github.com/HodlTreeProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/HodlTreeProtocol/stableFlashloan"
 
 [[repo]]
 url = "https://github.com/HodlTreeProtocol/Whitepaper"
+

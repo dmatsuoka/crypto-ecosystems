@@ -3,7 +3,9 @@ title = "PureFi Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/purefiprotocol"]
+github_organizations = [
+  "https://github.com/purefiprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/purefiprotocol/usdt-ufi-exachange-doc"
 
 [[repo]]
 url = "https://github.com/purefiprotocol/verifier-widget-demo"
+

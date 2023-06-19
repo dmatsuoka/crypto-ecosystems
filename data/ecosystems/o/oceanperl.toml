@@ -3,7 +3,9 @@ title = "OceanPerl"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ocean-tech-ship"]
+github_organizations = [
+  "https://github.com/ocean-tech-ship",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/ocean-tech-ship/ocean-pearl"
 
 [[repo]]
 url = "https://github.com/ocean-tech-ship/ocean-pearl-api"
+

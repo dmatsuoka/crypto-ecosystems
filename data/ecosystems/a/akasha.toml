@@ -3,7 +3,9 @@ title = "AKASHA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AkashaProject"]
+github_organizations = [
+  "https://github.com/AkashaProject",
+]
 
 # Repositories
 [[repo]]
@@ -128,3 +130,4 @@ url = "https://github.com/AKASHAorg/Translations"
 
 [[repo]]
 url = "https://github.com/AKASHAorg/whisper-search"
+

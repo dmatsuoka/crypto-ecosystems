@@ -3,8 +3,11 @@ title = "Coral Cube"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coralcube-oss"]
+github_organizations = [
+  "https://github.com/coralcube-oss",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/coralcube-oss/mmm"
+

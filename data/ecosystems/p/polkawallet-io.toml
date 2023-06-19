@@ -3,7 +3,9 @@ title = "Polkawallet IO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polkawallet-io"]
+github_organizations = [
+  "https://github.com/polkawallet-io",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/polkawallet-io/transformer_page_view"
 
 [[repo]]
 url = "https://github.com/polkawallet-io/ui"
+

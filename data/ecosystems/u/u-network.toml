@@ -3,7 +3,9 @@ title = "U Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/U-Network"]
+github_organizations = [
+  "https://github.com/U-Network",
+]
 
 # Repositories
 [[repo]]
@@ -23,9 +25,11 @@ url = "https://github.com/U-Network/UnetworkBot"
 
 [[repo]]
 url = "https://github.com/U-Network/www"
+missing = true
 
 [[repo]]
 url = "https://github.com/uuu-network/explorer"
 
 [[repo]]
 url = "https://github.com/uuu-network/web3.js"
+

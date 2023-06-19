@@ -3,7 +3,9 @@ title = "Shopping.io Governance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shoppingio"]
+github_organizations = [
+  "https://github.com/shoppingio",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/shoppingio/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/shoppingio/source-code"
+

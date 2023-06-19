@@ -3,7 +3,9 @@ title = "BSideGames (Chain Monsters)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bsidegames"]
+github_organizations = [
+  "https://github.com/bsidegames",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/bsidegames/DEPRECATED-smart-contracts-ETH"
 
 [[repo]]
 url = "https://github.com/bsidegames/threetwentyone-website"
+

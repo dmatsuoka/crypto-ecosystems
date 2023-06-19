@@ -3,7 +3,9 @@ title = "Lizard Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Lizard-Exchange"]
+github_organizations = [
+  "https://github.com/Lizard-Exchange",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Lizard-Exchange/reflect-tokens"
 
 [[repo]]
 url = "https://github.com/Lizard-Exchange/vfat-tools"
+

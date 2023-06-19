@@ -3,7 +3,9 @@ title = "CoinStats"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoinStatsHQ"]
+github_organizations = [
+  "https://github.com/CoinStatsHQ",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/CoinStatsHQ/ton-hackathon"
 
 [[repo]]
 url = "https://github.com/CoinStatsHQ/wallet-connect-swift"
+

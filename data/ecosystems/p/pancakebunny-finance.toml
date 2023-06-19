@@ -3,7 +3,9 @@ title = "PancakeBunny Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PancakeBunny-finance"]
+github_organizations = [
+  "https://github.com/PancakeBunny-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/PancakeBunny-finance/qubit-finance"
 
 [[repo]]
 url = "https://github.com/PancakeBunny-finance/snapshot-spaces"
+

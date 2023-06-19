@@ -3,7 +3,9 @@ title = "Pear"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pearzap"]
+github_organizations = [
+  "https://github.com/pearzap",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/pearzap/sushiswap-subgraph"
 
 [[repo]]
 url = "https://github.com/pearzap/vfat-tools"
+

@@ -3,8 +3,11 @@ title = "Multicoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Multiven-Group-BV"]
+github_organizations = [
+  "https://github.com/Multiven-Group-BV",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Boom-Foundation-BV/Multicoin"
+

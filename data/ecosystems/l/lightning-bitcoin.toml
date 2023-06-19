@@ -3,7 +3,9 @@ title = "Lightning Bitcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lbtcio"]
+github_organizations = [
+  "https://github.com/lbtcio",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/lbtcio/lbtcTEST"
 
 [[repo]]
 url = "https://github.com/lbtcio/slips"
+

@@ -3,7 +3,9 @@ title = "RabbyHub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RabbyHub"]
+github_organizations = [
+  "https://github.com/RabbyHub",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/RabbyHub/Web3AppStoreProtocol"
 
 [[repo]]
 url = "https://github.com/RabbyHub/Widgets"
+

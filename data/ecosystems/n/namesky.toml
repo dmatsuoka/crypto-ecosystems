@@ -3,8 +3,12 @@ title = "NameSky"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NICENEARNAME"]
+github_organizations = [
+  "https://github.com/NICENEARNAME",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/NICENEARNAME/assets"
+missing = true
+

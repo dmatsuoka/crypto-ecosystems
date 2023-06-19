@@ -3,7 +3,9 @@ title = "MakiSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MakiSwap-Protocol"]
+github_organizations = [
+  "https://github.com/MakiSwap-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -53,9 +55,11 @@ url = "https://github.com/MakiSwap-Protocol/maki-farm-contracts"
 
 [[repo]]
 url = "https://github.com/MakiSwap-Protocol/maki-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/MakiSwap-Protocol/maki-frontend-FTM"
+missing = true
 
 [[repo]]
 url = "https://github.com/MakiSwap-Protocol/Maki-lottery-FE"
@@ -92,3 +96,4 @@ url = "https://github.com/MakiSwap-Protocol/prediction"
 
 [[repo]]
 url = "https://github.com/MakiSwap-Protocol/vault-contracts"
+

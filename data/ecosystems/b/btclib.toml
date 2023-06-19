@@ -3,7 +3,9 @@ title = "btclib"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/btclib-org"]
+github_organizations = [
+  "https://github.com/btclib-org",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/btclib-org/btclib_libsecp256k1"
 
 [[repo]]
 url = "https://github.com/btclib-org/btclib_node"
+

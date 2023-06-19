@@ -3,7 +3,9 @@ title = "Lino Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lino-network"]
+github_organizations = [
+  "https://github.com/lino-network",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/lino-network/gortmp_z"
 
 [[repo]]
 url = "https://github.com/lino-network/hls.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/lino-network/lino"
@@ -101,3 +104,4 @@ url = "https://github.com/lino-network/vue-class-component"
 
 [[repo]]
 url = "https://github.com/lino-network/web-api-test"
+

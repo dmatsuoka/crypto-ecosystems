@@ -3,7 +3,9 @@ title = "Anoma"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/anoma"]
+github_organizations = [
+  "https://github.com/anoma",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/anoma/anoma"
 
 [[repo]]
 url = "https://github.com/anoma/anoma-alpha"
+missing = true
 
 [[repo]]
 url = "https://github.com/anoma/anoma-wasm-multitoken"
@@ -29,6 +32,7 @@ url = "https://github.com/anoma/devtool"
 
 [[repo]]
 url = "https://github.com/anoma/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/anoma/e2e-test-helpers"
@@ -59,6 +63,7 @@ url = "https://github.com/anoma/juvix"
 
 [[repo]]
 url = "https://github.com/anoma/juvix-archived"
+missing = true
 
 [[repo]]
 url = "https://github.com/anoma/juvix-circuits"
@@ -93,12 +98,14 @@ url = "https://github.com/anoma/masp-phase2"
 
 [[repo]]
 url = "https://github.com/anoma/minijuvix"
+missing = true
 
 [[repo]]
 url = "https://github.com/anoma/namada"
 
 [[repo]]
 url = "https://github.com/anoma/namada-audit"
+missing = true
 
 [[repo]]
 url = "https://github.com/anoma/namada-interface"
@@ -171,3 +178,4 @@ url = "https://github.com/anoma/whitepaper"
 
 [[repo]]
 url = "https://github.com/anoma/zkp-compiler-shootout"
+

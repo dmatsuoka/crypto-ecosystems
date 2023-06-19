@@ -3,7 +3,9 @@ title = "DXdao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DXgovernance"]
+github_organizations = [
+  "https://github.com/DXgovernance",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/gnosis/dx-daostack"
 
 [[repo]]
 url = "https://github.com/protofire/omen-exchange"
+

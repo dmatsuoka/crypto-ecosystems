@@ -3,7 +3,9 @@ title = "Liminal Market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/liminal-market"]
+github_organizations = [
+  "https://github.com/liminal-market",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/liminal-market/liminal.market.thegraph"
 
 [[repo]]
 url = "https://github.com/liminal-market/liminal.market.web"
+

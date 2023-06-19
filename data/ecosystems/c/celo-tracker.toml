@@ -3,7 +3,9 @@ title = "Celo Tracker"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/celo-tracker"]
+github_organizations = [
+  "https://github.com/celo-tracker",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/celo-tracker/react-celo"
 
 [[repo]]
 url = "https://github.com/celo-tracker/tokens"
+

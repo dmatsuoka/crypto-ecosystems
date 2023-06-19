@@ -3,7 +3,9 @@ title = "New Alchemy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/newalchemylimited"]
+github_organizations = [
+  "https://github.com/newalchemylimited",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/newalchemylimited/seth"
 
 [[repo]]
 url = "https://github.com/newalchemylimited/tokendev.github.io"
+

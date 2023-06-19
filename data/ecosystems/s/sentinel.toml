@@ -3,7 +3,9 @@ title = "Sentinel"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sentinel-official"]
+github_organizations = [
+  "https://github.com/sentinel-official",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/sentinel-official/dvpn-node"
 
 [[repo]]
 url = "https://github.com/sentinel-official/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/faucet"
@@ -56,9 +59,11 @@ url = "https://github.com/sentinel-official/networks"
 
 [[repo]]
 url = "https://github.com/sentinel-official/resolver"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/rest-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/sentinel"
@@ -74,12 +79,14 @@ url = "https://github.com/sentinel-official/sentinel-dvpn-for-ios"
 
 [[repo]]
 url = "https://github.com/sentinel-official/sentinel-masternode"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/sentinel-utilities"
 
 [[repo]]
 url = "https://github.com/sentinel-official/sentinel-vpn-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/sentrix"
@@ -95,9 +102,12 @@ url = "https://github.com/sentinel-official/swap"
 
 [[repo]]
 url = "https://github.com/sentinel-official/tendermint"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentinel-official/testnets"
 
 [[repo]]
 url = "https://github.com/sentinel-official/website"
+missing = true
+

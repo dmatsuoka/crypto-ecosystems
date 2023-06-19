@@ -3,7 +3,9 @@ title = "Tadpole"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tadpole-finance"]
+github_organizations = [
+  "https://github.com/Tadpole-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Tadpole-finance/tadpole-protocol"
 
 [[repo]]
 url = "https://github.com/Tadpole-finance/TadUniswapLiquidityMining"
+

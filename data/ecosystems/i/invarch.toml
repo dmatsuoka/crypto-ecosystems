@@ -3,7 +3,9 @@ title = "InvArch"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InvArch"]
+github_organizations = [
+  "https://github.com/InvArch",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/InvArch/projects-info"
 
 [[repo]]
 url = "https://github.com/InvArch/release-note-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/InvArch/saturn-sdk"
@@ -89,3 +92,4 @@ url = "https://github.com/InvArch/Tinkernet-UI"
 
 [[repo]]
 url = "https://github.com/InvArch/wallet_collector"
+

@@ -3,7 +3,9 @@ title = "Strata Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StrataFoundation"]
+github_organizations = [
+  "https://github.com/StrataFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/StrataFoundation/strata-terraform"
 
 [[repo]]
 url = "https://github.com/StrataFoundation/wumbo"
+

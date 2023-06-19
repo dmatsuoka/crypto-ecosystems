@@ -3,7 +3,9 @@ title = "Logion Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/logion-network"]
+github_organizations = [
+  "https://github.com/logion-network",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/logion-network/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/logion-network/jsonrpc-proxy"
+missing = true
 
 [[repo]]
 url = "https://github.com/logion-network/logion-api"
@@ -122,3 +125,4 @@ url = "https://github.com/logion-network/substrate-api-sidecar"
 
 [[repo]]
 url = "https://github.com/logion-network/substrate-validator-set"
+

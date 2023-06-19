@@ -3,11 +3,14 @@ title = "PirateCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/piratecash"]
+github_organizations = [
+  "https://github.com/piratecash",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/piratecash/dash"
+missing = true
 
 [[repo]]
 url = "https://github.com/piratecash/market-kit-android"
@@ -38,12 +41,15 @@ url = "https://github.com/piratecash/slips"
 
 [[repo]]
 url = "https://github.com/piratecash/terminal-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/piratecash/trustwallet-assets"
 
 [[repo]]
 url = "https://github.com/piratecash/trustwallet_assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/piratecash/WalletGenerator.net"
+

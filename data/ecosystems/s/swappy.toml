@@ -3,8 +3,11 @@ title = "Swappy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swappy-so"]
+github_organizations = [
+  "https://github.com/swappy-so",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/swappy-so/swap-kit"
+

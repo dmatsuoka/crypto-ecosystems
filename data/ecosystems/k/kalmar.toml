@@ -3,7 +3,9 @@ title = "Kalmar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kalmar-io"]
+github_organizations = [
+  "https://github.com/kalmar-io",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/kalmar-io/pancake-subgraph"
 
 [[repo]]
 url = "https://github.com/kalmar-io/uikit"
+

@@ -3,7 +3,9 @@ title = "Dingocoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dingocoin"]
+github_organizations = [
+  "https://github.com/dingocoin",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/dingocoin/android-wallet"
 
 [[repo]]
 url = "https://github.com/dingocoin/dingo-rpc-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dingocoin/dingobrowserwallet"
@@ -77,3 +80,4 @@ url = "https://github.com/dingocoin/wdingocoin-sol"
 
 [[repo]]
 url = "https://github.com/dingocoin/wdingocoin.github.io"
+

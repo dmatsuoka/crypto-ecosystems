@@ -3,7 +3,9 @@ title = "Useless"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UselessCrypto"]
+github_organizations = [
+  "https://github.com/UselessCrypto",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/UselessCrypto/walletconnect-v2-ethers-signer"
 
 [[repo]]
 url = "https://github.com/UselessCrypto/website"
+

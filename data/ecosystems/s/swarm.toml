@@ -3,7 +3,9 @@ title = "Swarm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swarmfund"]
+github_organizations = [
+  "https://github.com/swarmfund",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/swarmfund/barnswallow"
 
 [[repo]]
 url = "https://github.com/swarmfund/dirk"
+missing = true
 
 [[repo]]
 url = "https://github.com/swarmfund/eth-contract-metadata"
@@ -116,3 +119,4 @@ url = "https://github.com/swarmfund/vue-i18n-extract"
 
 [[repo]]
 url = "https://github.com/swarmfund/wallet-js"
+

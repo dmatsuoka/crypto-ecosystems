@@ -3,11 +3,14 @@ title = "Lethean"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LetheanMovement"]
+github_organizations = [
+  "https://github.com/LetheanMovement",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/LetheanMovement/Community-Relaunch"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/How-We-Operate"
@@ -17,15 +20,18 @@ url = "https://github.com/LetheanMovement/lethean-gui-miner"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/lethean-pool-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/lethean_exiplorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/LTHN-BuyBack"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/os-domain-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/Project-News-Updates"
@@ -113,3 +119,4 @@ url = "https://github.com/letheanVPN/lthn-cryptonote-util"
 
 [[repo]]
 url = "https://github.com/Snider/DNP_IPFS"
+

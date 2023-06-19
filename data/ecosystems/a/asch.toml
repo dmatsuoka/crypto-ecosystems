@@ -3,7 +3,9 @@ title = "Asch"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AschPlatform"]
+github_organizations = [
+  "https://github.com/AschPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/AschPlatform/AschLink"
 
 [[repo]]
 url = "https://github.com/AschPlatform/AschWeb"
+missing = true
 
 [[repo]]
 url = "https://github.com/AschPlatform/bignumber"
@@ -164,3 +167,4 @@ url = "https://github.com/AschPlatform/wallet-loader"
 
 [[repo]]
 url = "https://github.com/AschPlatform/z-schema"
+

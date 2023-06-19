@@ -3,7 +3,9 @@ title = "Pickle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pickle-finance"]
+github_organizations = [
+  "https://github.com/pickle-finance",
+]
 
 # Repositories
 [[repo]]
@@ -53,6 +55,7 @@ url = "https://github.com/pickle-finance/protocol"
 
 [[repo]]
 url = "https://github.com/pickle-finance/protocol-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/pickle-finance/saviour-scripts"
@@ -68,3 +71,4 @@ url = "https://github.com/pickle-finance/user-analytics"
 
 [[repo]]
 url = "https://github.com/pickle-finance/utility-contracts"
+

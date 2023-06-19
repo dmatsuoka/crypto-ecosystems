@@ -3,7 +3,9 @@ title = "Sqwid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sqwid-app"]
+github_organizations = [
+  "https://github.com/sqwid-app",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/sqwid-app/sqwid-docs"
 
 [[repo]]
 url = "https://github.com/sqwid-app/sqwid-metadata-sample"
+

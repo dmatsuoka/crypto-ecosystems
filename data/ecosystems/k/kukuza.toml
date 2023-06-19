@@ -3,7 +3,9 @@ title = "Kukuza"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kukuza"]
+github_organizations = [
+  "https://github.com/Kukuza",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Kukuza/sargo-smart-contracts"
 
 [[repo]]
 url = "https://github.com/Kukuza/wallet"
+

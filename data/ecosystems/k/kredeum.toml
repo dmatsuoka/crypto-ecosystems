@@ -3,7 +3,9 @@ title = "Kredeum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kredeum"]
+github_organizations = [
+  "https://github.com/Kredeum",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/Kredeum/TheRelay"
 
 [[repo]]
 url = "https://github.com/Kredeum/www.kredeum.com"
+

@@ -3,7 +3,9 @@ title = "1sol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/1sol-io"]
+github_organizations = [
+  "https://github.com/1sol-io",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/1sol-io/token-list"
 
 [[repo]]
 url = "https://github.com/1sol-io/token-list-1"
+

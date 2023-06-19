@@ -3,7 +3,9 @@ title = "Pact Fi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pactfi"]
+github_organizations = [
+  "https://github.com/pactfi",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/pactfi/pact-js-sdk"
 
 [[repo]]
 url = "https://github.com/pactfi/pact-py-sdk"
+

@@ -3,7 +3,9 @@ title = "Mirror World"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mirrorworld-universe"]
+github_organizations = [
+  "https://github.com/mirrorworld-universe",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/mirrorworld-universe/two-party-eddsa"
 
 [[repo]]
 url = "https://github.com/mirrorworld-universe/ui-component-library"
+

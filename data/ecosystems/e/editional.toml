@@ -3,7 +3,9 @@ title = "Editional"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Vaultio"]
+github_organizations = [
+  "https://github.com/Vaultio",
+]
 
 # Repositories
 [[repo]]
@@ -32,9 +34,12 @@ url = "https://github.com/KintabaHQ/web3x"
 
 [[repo]]
 url = "https://github.com/Vaultio/swift-style-guide"
+missing = true
 
 [[repo]]
 url = "https://github.com/vaultio/vaultio_backend"
 
 [[repo]]
 url = "https://github.com/Vaultio/web3x-built"
+missing = true
+

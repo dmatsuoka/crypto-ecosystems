@@ -3,7 +3,9 @@ title = "CryptoLeek 韭菜兄弟"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptoleek-team"]
+github_organizations = [
+  "https://github.com/cryptoleek-team",
+]
 
 # Repositories
 [[repo]]
@@ -260,3 +262,4 @@ url = "https://github.com/cryptoleek-team/wyvern-js"
 
 [[repo]]
 url = "https://github.com/cryptoleek-team/zkp-course"
+

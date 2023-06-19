@@ -3,7 +3,9 @@ title = "Panther Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pantherprotocol"]
+github_organizations = [
+  "https://github.com/pantherprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/pantherprotocol/preZKPceremony"
 
 [[repo]]
 url = "https://github.com/pantherprotocol/simulations"
+

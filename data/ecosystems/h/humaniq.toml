@@ -3,7 +3,9 @@ title = "Humaniq"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/humaniq"]
+github_organizations = [
+  "https://github.com/humaniq",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/humaniq/atticlab-stellar-php"
 
 [[repo]]
 url = "https://github.com/humaniq/controllers"
+missing = true
 
 [[repo]]
 url = "https://github.com/humaniq/d3widget"
@@ -62,6 +65,7 @@ url = "https://github.com/humaniq/emoji-auth"
 
 [[repo]]
 url = "https://github.com/humaniq/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/humaniq/findface"
@@ -83,9 +87,11 @@ url = "https://github.com/humaniq/humaniq-android"
 
 [[repo]]
 url = "https://github.com/humaniq/humaniq-android-chat"
+missing = true
 
 [[repo]]
 url = "https://github.com/humaniq/humaniq-android-lite"
+missing = true
 
 [[repo]]
 url = "https://github.com/humaniq/humaniq-dapps-home"
@@ -125,6 +131,7 @@ url = "https://github.com/humaniq/kairgo"
 
 [[repo]]
 url = "https://github.com/humaniq/KeyringController"
+missing = true
 
 [[repo]]
 url = "https://github.com/humaniq/LoadingButtonAndroid"
@@ -161,3 +168,4 @@ url = "https://github.com/humaniq/validator"
 
 [[repo]]
 url = "https://github.com/humaniq/xorm-inflector-mapper"
+

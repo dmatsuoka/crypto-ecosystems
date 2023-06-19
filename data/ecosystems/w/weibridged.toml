@@ -3,7 +3,9 @@ title = "WeiBridged"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WeiBridged"]
+github_organizations = [
+  "https://github.com/WeiBridged",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/WeiBridged/Frontend"
 
 [[repo]]
 url = "https://github.com/WeiBridged/NodeGoerliMerge"
+

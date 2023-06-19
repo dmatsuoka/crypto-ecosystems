@@ -3,7 +3,9 @@ title = "Huckleberry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HuckleberryDex"]
+github_organizations = [
+  "https://github.com/HuckleberryDex",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/HuckleberryDex/huckleberry-sdk"
 
 [[repo]]
 url = "https://github.com/HuckleberryDex/vfat-tools"
+

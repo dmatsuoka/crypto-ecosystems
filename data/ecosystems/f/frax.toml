@@ -3,7 +3,9 @@ title = "Frax"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FraxFinance"]
+github_organizations = [
+  "https://github.com/FraxFinance",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/FraxFinance/frax-standard-solidity"
 
 [[repo]]
 url = "https://github.com/FraxFinance/frax-truffle"
+missing = true
 
 [[repo]]
 url = "https://github.com/FraxFinance/frax-vefpis"
@@ -119,3 +122,4 @@ url = "https://github.com/FraxFinance/uniswap-interface"
 
 [[repo]]
 url = "https://github.com/FraxFinance/YieldSpaceAMO"
+

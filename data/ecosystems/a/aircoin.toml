@@ -3,7 +3,9 @@ title = "AirCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Aircoin-official"]
+github_organizations = [
+  "https://github.com/Aircoin-official",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/Aircoin-official/tokens"
 
 [[repo]]
 url = "https://github.com/Aircoin-official/v3-core"
+

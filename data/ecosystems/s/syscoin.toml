@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Syscoin"
 
-sub_ecosystems = ["Pegasys Finance"]
+sub_ecosystems = [
+  "Pegasys Finance",
+]
 
-github_organizations = ["https://github.com/syscoin"]
+github_organizations = [
+  "https://github.com/syscoin",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +45,7 @@ url = "https://github.com/syscoin/bls-signatures"
 
 [[repo]]
 url = "https://github.com/syscoin/blue-app-btc"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/btcd"
@@ -200,6 +205,7 @@ url = "https://github.com/syscoin/rollux-event-proxy"
 
 [[repo]]
 url = "https://github.com/syscoin/rosetta-sdk-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/rosetta-syscoin"
@@ -338,6 +344,7 @@ url = "https://github.com/syscoin/syshub-api"
 
 [[repo]]
 url = "https://github.com/syscoin/syshub-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/syswallet-interface"
@@ -362,3 +369,4 @@ url = "https://github.com/syscoin/Wiki-Resources"
 
 [[repo]]
 url = "https://github.com/syscoin/zmqsocket"
+

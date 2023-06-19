@@ -3,7 +3,9 @@ title = "Space-ID (SID)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Space-ID"]
+github_organizations = [
+  "https://github.com/Space-ID",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Space-ID/ui"
 
 [[repo]]
 url = "https://github.com/Space-ID/web3modal"
+

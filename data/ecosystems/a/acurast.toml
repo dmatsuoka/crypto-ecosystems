@@ -3,7 +3,9 @@ title = "Acurast"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Acurast"]
+github_organizations = [
+  "https://github.com/Acurast",
+]
 
 # Repositories
 [[repo]]
@@ -48,3 +50,4 @@ url = "https://github.com/Acurast/projects-info"
 
 [[repo]]
 url = "https://github.com/Acurast/xcm-emulator"
+

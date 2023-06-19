@@ -3,7 +3,9 @@ title = "Open World Vision"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OpenWorldVision"]
+github_organizations = [
+  "https://github.com/OpenWorldVision",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/OpenWorldVision/www.cryptowar.network"
 
 [[repo]]
 url = "https://github.com/OpenWorldVision/www.openworld.vision"
+

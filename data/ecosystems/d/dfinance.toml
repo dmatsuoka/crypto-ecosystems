@@ -3,7 +3,9 @@ title = "Dfinance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dfinance"]
+github_organizations = [
+  "https://github.com/dfinance",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/pontem-network/sp-move-vm"
 
 [[repo]]
 url = "https://github.com/pontem-network/vscode-move-ide"
+

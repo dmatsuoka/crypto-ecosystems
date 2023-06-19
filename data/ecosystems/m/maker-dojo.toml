@@ -3,7 +3,9 @@ title = "Maker Dojo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MakerDojoInc"]
+github_organizations = [
+  "https://github.com/MakerDojoInc",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/MakerDojoInc/blog.makerdojo.io"
 
 [[repo]]
 url = "https://github.com/MakerDojoInc/promptly-docs"
+

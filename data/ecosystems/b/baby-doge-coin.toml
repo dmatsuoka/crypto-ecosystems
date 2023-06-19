@@ -3,7 +3,9 @@ title = "Baby Doge Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Baby-doge"]
+github_organizations = [
+  "https://github.com/Baby-doge",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/babydogecoingg/babydoge_multisender"
 
 [[repo]]
 url = "https://github.com/babydogecoingg/babydoge_swap"
+

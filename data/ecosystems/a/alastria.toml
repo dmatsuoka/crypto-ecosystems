@@ -3,7 +3,9 @@ title = "Alastria"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alastria"]
+github_organizations = [
+  "https://github.com/alastria",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/alastria/waltid-ssikit"
 
 [[repo]]
 url = "https://github.com/alastria/web3js-11552120"
+

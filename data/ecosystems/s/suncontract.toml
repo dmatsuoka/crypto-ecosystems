@@ -3,7 +3,9 @@ title = "SunContract"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SunContract"]
+github_organizations = [
+  "https://github.com/SunContract",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/SunContract/suncontract.github.io"
 
 [[repo]]
 url = "https://github.com/SunContract/wiki"
+

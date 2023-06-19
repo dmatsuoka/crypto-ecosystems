@@ -9,3 +9,4 @@ github_organizations = []
 [[repo]]
 url = "https://github.com/centrehq/centre-tokens"
 tags = ["Protocol"]
+

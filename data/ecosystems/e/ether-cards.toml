@@ -3,7 +3,9 @@ title = "Ether Cards"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethercards"]
+github_organizations = [
+  "https://github.com/ethercards",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/ethercards/ec-br"
 
 [[repo]]
 url = "https://github.com/ethercards/ec-chain-batch-execute"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethercards/ec-commons"
@@ -68,3 +71,4 @@ url = "https://github.com/ethercards/traits"
 
 [[repo]]
 url = "https://github.com/ethercards/wallet-connect-common"
+

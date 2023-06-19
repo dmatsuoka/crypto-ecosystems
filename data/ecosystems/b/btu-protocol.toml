@@ -3,7 +3,9 @@ title = "BTU Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/btuprotocol"]
+github_organizations = [
+  "https://github.com/btuprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/btuprotocol/uniswap-frontend"
 
 [[repo]]
 url = "https://github.com/btuprotocol/web3-provider-engine"
+

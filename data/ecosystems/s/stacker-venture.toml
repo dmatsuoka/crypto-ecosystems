@@ -3,7 +3,9 @@ title = "Stacker Venture"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stacker-ventures"]
+github_organizations = [
+  "https://github.com/stacker-ventures",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/stacker-ventures/funds-info"
 
 [[repo]]
 url = "https://github.com/stacker-ventures/smart-contracts"
+

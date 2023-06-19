@@ -3,7 +3,9 @@ title = "Nuts Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nutsfinance"]
+github_organizations = [
+  "https://github.com/nutsfinance",
+]
 
 # Repositories
 [[repo]]
@@ -122,12 +124,14 @@ url = "https://github.com/nutsfinance/stable-asset-subql"
 
 [[repo]]
 url = "https://github.com/nutsfinance/taiga-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/nutsfinance/taiga-event"
 
 [[repo]]
 url = "https://github.com/nutsfinance/tapio-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/nutsfinance/token-profile"
@@ -137,3 +141,4 @@ url = "https://github.com/nutsfinance/tokenbridge"
 
 [[repo]]
 url = "https://github.com/nutsfinance/yield-server"
+

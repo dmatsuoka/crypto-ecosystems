@@ -3,7 +3,9 @@ title = "Coinsult"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Coinsult"]
+github_organizations = [
+  "https://github.com/Coinsult",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Coinsult/Coinsult"
 
 [[repo]]
 url = "https://github.com/Coinsult/solidity"
+

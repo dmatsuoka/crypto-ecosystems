@@ -3,7 +3,9 @@ title = "Scorum Coins"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scorum"]
+github_organizations = [
+  "https://github.com/scorum",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/scorum/scorum-side-js"
 
 [[repo]]
 url = "https://github.com/scorum/scorumapi-py"
+

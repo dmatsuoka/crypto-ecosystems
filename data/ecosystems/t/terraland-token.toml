@@ -3,11 +3,14 @@ title = "TerraLand Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/terraland-code"]
+github_organizations = [
+  "https://github.com/terraland-code",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/terraland-code/tland-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/tland-code/assets"
@@ -17,3 +20,4 @@ url = "https://github.com/tland-code/fcq-smart-contracts"
 
 [[repo]]
 url = "https://github.com/tland-code/terraswap-graph"
+

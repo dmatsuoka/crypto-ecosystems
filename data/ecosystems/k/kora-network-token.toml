@@ -3,7 +3,9 @@ title = "Kora Network Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KoraNetwork"]
+github_organizations = [
+  "https://github.com/KoraNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/KoraNetwork/sms_simulator"
 
 [[repo]]
 url = "https://github.com/KoraNetwork/token_sale_frontend"
+

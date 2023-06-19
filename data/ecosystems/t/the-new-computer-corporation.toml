@@ -3,7 +3,9 @@ title = "The New Computer Corporation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thencc"]
+github_organizations = [
+  "https://github.com/thencc",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/thencc/ncc-apidoc-swagger-3"
 
 [[repo]]
 url = "https://github.com/thencc/TealishVSCLangServer"
+

@@ -3,7 +3,9 @@ title = "Counterfactual"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/counterfactual"]
+github_organizations = [
+  "https://github.com/counterfactual",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/counterfactual/Waffle"
 
 [[repo]]
 url = "https://github.com/statechannels/website"
+

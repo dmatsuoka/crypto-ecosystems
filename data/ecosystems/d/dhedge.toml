@@ -3,7 +3,9 @@ title = "dHEDGE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dhedge"]
+github_organizations = [
+  "https://github.com/dhedge",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,11 @@ url = "https://github.com/dhedge/assets"
 
 [[repo]]
 url = "https://github.com/dhedge/balancer-forked-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/buyback-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/contract-metadata"
@@ -95,6 +99,7 @@ url = "https://github.com/dhedge/frontend-widget"
 
 [[repo]]
 url = "https://github.com/dhedge/kwenta-forked-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/kwenta-subgraph"
@@ -131,6 +136,7 @@ url = "https://github.com/dhedge/tokenlists-org"
 
 [[repo]]
 url = "https://github.com/dhedge/useDApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/useDApp-fork"
@@ -140,3 +146,4 @@ url = "https://github.com/dhedge/V2-Public"
 
 [[repo]]
 url = "https://github.com/dhedge/yield-server"
+

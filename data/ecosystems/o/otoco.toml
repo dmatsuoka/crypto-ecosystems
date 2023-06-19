@@ -3,7 +3,9 @@ title = "Otoco"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/otoco-io"]
+github_organizations = [
+  "https://github.com/otoco-io",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/otoco-io/trezor-web3-subprovider"
 
 [[repo]]
 url = "https://github.com/otoco-io/WebClient_ERC20"
+

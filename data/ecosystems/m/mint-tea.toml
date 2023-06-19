@@ -3,8 +3,12 @@ title = "Mint Tea"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mint-Tea-ETHOnline"]
+github_organizations = [
+  "https://github.com/Mint-Tea-ETHOnline",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Mint-Tea-ETHOnline/mint-tea"
+missing = true
+

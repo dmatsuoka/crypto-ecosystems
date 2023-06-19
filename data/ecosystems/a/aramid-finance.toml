@@ -3,7 +3,9 @@ title = "Aramid Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AramidFinance"]
+github_organizations = [
+  "https://github.com/AramidFinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/AramidFinance/aramid-zerobridge-docs"
 
 [[repo]]
 url = "https://github.com/AramidFinance/indexer"
+

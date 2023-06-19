@@ -3,7 +3,9 @@ title = "PalletOne"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/palletone"]
+github_organizations = [
+  "https://github.com/palletone",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/palletone/token-profile"
 
 [[repo]]
 url = "https://github.com/palletone/wallet"
+

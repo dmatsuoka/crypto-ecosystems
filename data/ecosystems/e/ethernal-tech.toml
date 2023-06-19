@@ -3,7 +3,9 @@ title = "Ethernal-Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ethernal-Tech"]
+github_organizations = [
+  "https://github.com/Ethernal-Tech",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/Ethernal-Tech/EthernalSenius"
 
 [[repo]]
 url = "https://github.com/Ethernal-Tech/filecoin-actor-library"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ethernal-Tech/filecoin-playground"
@@ -53,3 +56,4 @@ url = "https://github.com/Ethernal-Tech/stride"
 
 [[repo]]
 url = "https://github.com/Ethernal-Tech/supernets-faculty"
+

@@ -3,7 +3,9 @@ title = "Proxy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Proxy-Protocol"]
+github_organizations = [
+  "https://github.com/Proxy-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Proxy-Protocol/hummingbot-polygon"
 
 [[repo]]
 url = "https://github.com/Proxy-Protocol/PRXY"
+

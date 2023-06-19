@@ -3,7 +3,9 @@ title = "Bao Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/baofinance"]
+github_organizations = [
+  "https://github.com/baofinance",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/baofinance/bao-subgraph"
 
 [[repo]]
 url = "https://github.com/baofinance/bao-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/baofinance/bao-treasury-reporting"
@@ -92,3 +95,4 @@ url = "https://github.com/baofinance/ui"
 
 [[repo]]
 url = "https://github.com/baofinance/ui-panda-farms"
+

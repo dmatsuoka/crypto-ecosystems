@@ -3,7 +3,9 @@ title = "Tarot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tarot-finance"]
+github_organizations = [
+  "https://github.com/tarot-finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/tarot-finance/tarot-token"
 
 [[repo]]
 url = "https://github.com/tarot-finance/tarot-vault"
+

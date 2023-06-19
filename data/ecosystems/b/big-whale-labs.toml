@@ -3,7 +3,9 @@ title = "Big Whale Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BigWhaleLabs"]
+github_organizations = [
+  "https://github.com/BigWhaleLabs",
+]
 
 # Repositories
 [[repo]]
@@ -191,6 +193,7 @@ url = "https://github.com/BigWhaleLabs/seal-hub-prover"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-solidity-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-verifier-template"
@@ -212,3 +215,4 @@ url = "https://github.com/BigWhaleLabs/ui-kit"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/versioned-contract"
+

@@ -3,7 +3,9 @@ title = "Starname"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/iov-one"]
+github_organizations = [
+  "https://github.com/iov-one",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/iov-one/certificate-parser"
 
 [[repo]]
 url = "https://github.com/iov-one/certifiers-listing"
+missing = true
 
 [[repo]]
 url = "https://github.com/iov-one/chatbot"
@@ -212,6 +215,7 @@ url = "https://github.com/iov-one/transaction-size-fee"
 
 [[repo]]
 url = "https://github.com/iov-one/ts-relayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/iov-one/tutorial"
@@ -242,3 +246,4 @@ url = "https://github.com/iov-one/weave-starter-kit"
 
 [[repo]]
 url = "https://github.com/iov-one/white-paper"
+

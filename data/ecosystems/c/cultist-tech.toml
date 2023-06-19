@@ -3,7 +3,9 @@ title = "Cultist Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cultist-tech"]
+github_organizations = [
+  "https://github.com/cultist-tech",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/cultist-tech/react-near"
 
 [[repo]]
 url = "https://github.com/cultist-tech/smarthub-sdk"
+

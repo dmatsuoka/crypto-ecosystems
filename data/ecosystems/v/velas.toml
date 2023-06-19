@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Velas"
 
-sub_ecosystems = ["WagyuSwap"]
+sub_ecosystems = [
+  "WagyuSwap",
+]
 
-github_organizations = ["https://github.com/velas"]
+github_organizations = [
+  "https://github.com/velas",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +30,7 @@ url = "https://github.com/velas/check-pull-request-title"
 
 [[repo]]
 url = "https://github.com/velas/detoxer"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/ethabi"
@@ -59,6 +64,7 @@ url = "https://github.com/velas/GoVelas"
 
 [[repo]]
 url = "https://github.com/velas/jest-html-reporters"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/jest-os-detection"
@@ -74,6 +80,7 @@ url = "https://github.com/velas/JsWalletDesktop"
 
 [[repo]]
 url = "https://github.com/velas/JsWalletDesktop_Old"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/JVelas"
@@ -95,6 +102,7 @@ url = "https://github.com/velas/native-explorer"
 
 [[repo]]
 url = "https://github.com/velas/NVelas"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/parity-common"
@@ -173,6 +181,7 @@ url = "https://github.com/velas/velas-account-sponsor"
 
 [[repo]]
 url = "https://github.com/velas/velas-address-lib-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/velas-chain"
@@ -200,6 +209,7 @@ url = "https://github.com/velas/Velas-Sphere-Node"
 
 [[repo]]
 url = "https://github.com/velas/Velas-Wallet-Service"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/velas-web3"
@@ -212,6 +222,7 @@ url = "https://github.com/velas/VelasGod"
 
 [[repo]]
 url = "https://github.com/velas/wagyuswap-performance-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/velas/walet-embed-example"
@@ -224,3 +235,4 @@ url = "https://github.com/velas/web3.js"
 
 [[repo]]
 url = "https://github.com/velas/web3t"
+

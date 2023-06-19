@@ -3,7 +3,9 @@ title = "Thales"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thales-markets"]
+github_organizations = [
+  "https://github.com/thales-markets",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,8 @@ url = "https://github.com/thales-markets/thales-subgraph"
 
 [[repo]]
 url = "https://github.com/thales-markets/TIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/thales-markets/vault-bots"
+

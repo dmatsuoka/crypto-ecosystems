@@ -3,7 +3,9 @@ title = "Olyseum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/olyseum"]
+github_organizations = [
+  "https://github.com/olyseum",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/olyseum/assets"
 
 [[repo]]
 url = "https://github.com/olyseum/smart-contracts"
+

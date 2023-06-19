@@ -3,7 +3,9 @@ title = "CoinSpace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoinSpace"]
+github_organizations = [
+  "https://github.com/CoinSpace",
+]
 
 # Repositories
 [[repo]]
@@ -173,3 +175,4 @@ url = "https://github.com/CoinSpace/walletsrecovery.org"
 
 [[repo]]
 url = "https://github.com/CoinSpace/wuc-new"
+

@@ -3,7 +3,9 @@ title = "Freename"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FreenameDomains"]
+github_organizations = [
+  "https://github.com/FreenameDomains",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/FreenameDomains/freename-extension-assets"
 
 [[repo]]
 url = "https://github.com/FreenameDomains/web3-domain-resolver"
+

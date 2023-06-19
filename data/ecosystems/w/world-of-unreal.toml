@@ -3,7 +3,9 @@ title = "World of Unreal"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WorldOfUnreal"]
+github_organizations = [
+  "https://github.com/WorldOfUnreal",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/WorldOfUnreal/chatsdk"
 
 [[repo]]
 url = "https://github.com/WorldOfUnreal/IC-Hub-React"
+

@@ -3,7 +3,9 @@ title = "PeckShield"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/peckshield"]
+github_organizations = [
+  "https://github.com/peckshield",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/peckshield/publications"
 
 [[repo]]
 url = "https://github.com/peckshield/vuln_disclosure"
+

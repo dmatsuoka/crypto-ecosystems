@@ -3,11 +3,14 @@ title = "Amun Tokens"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amun"]
+github_organizations = [
+  "https://github.com/amun",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/amun/candidates-home-assignments"
+missing = true
 
 [[repo]]
 url = "https://github.com/amun/CMTAT"
@@ -68,3 +71,4 @@ url = "https://github.com/amun/web3-onboard"
 
 [[repo]]
 url = "https://github.com/amun/Whitepapers"
+

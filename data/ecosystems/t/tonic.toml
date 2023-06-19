@@ -3,7 +3,9 @@ title = "Tonic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tonic-foundation"]
+github_organizations = [
+  "https://github.com/tonic-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/tonic-foundation/tonic-ui-example"
 
 [[repo]]
 url = "https://github.com/tonic-foundation/trading-bot-example"
+

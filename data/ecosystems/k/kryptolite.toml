@@ -3,7 +3,9 @@ title = "Kryptolite"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KRYPTOLITE"]
+github_organizations = [
+  "https://github.com/KRYPTOLITE",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/KRYPTOLITE/kryptolite-frontend-v2"
 
 [[repo]]
 url = "https://github.com/KRYPTOLITE/whitepaper"
+

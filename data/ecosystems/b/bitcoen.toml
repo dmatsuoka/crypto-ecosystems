@@ -3,7 +3,9 @@ title = "BitCoen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitCoen"]
+github_organizations = [
+  "https://github.com/BitCoen",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/BitCoen/BlockExplorer"
 
 [[repo]]
 url = "https://github.com/BitCoen/Trc20"
+

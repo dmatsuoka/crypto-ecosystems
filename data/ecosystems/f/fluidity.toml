@@ -3,7 +3,9 @@ title = "Fluidity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fluidity"]
+github_organizations = [
+  "https://github.com/fluidity",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/fluidity/fluidity-truffle-box"
 
 [[repo]]
 url = "https://github.com/fluidity/tbillrate"
+

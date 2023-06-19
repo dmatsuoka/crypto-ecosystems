@@ -3,7 +3,9 @@ title = "Particl"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/particl"]
+github_organizations = [
+  "https://github.com/particl",
+]
 
 # Repositories
 [[repo]]
@@ -167,3 +169,4 @@ url = "https://github.com/particl/WalletGenerator.net"
 
 [[repo]]
 url = "https://github.com/particl/whitepaper"
+

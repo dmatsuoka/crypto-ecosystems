@@ -3,7 +3,9 @@ title = "1Hive"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/1Hive"]
+github_organizations = [
+  "https://github.com/1Hive",
+]
 
 # Repositories
 [[repo]]
@@ -401,6 +403,7 @@ url = "https://github.com/1Hive/sourcecred-airdrop"
 
 [[repo]]
 url = "https://github.com/1Hive/staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/1Hive/standards"
@@ -509,3 +512,4 @@ url = "https://github.com/1Hive/xpollinate"
 
 [[repo]]
 url = "https://github.com/BlossomLabs/fluid-proposals"
+

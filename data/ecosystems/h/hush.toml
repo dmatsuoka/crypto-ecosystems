@@ -3,7 +3,9 @@ title = "Hush"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MyHush"]
+github_organizations = [
+  "https://github.com/MyHush",
+]
 
 # Repositories
 [[repo]]
@@ -236,6 +238,8 @@ url = "https://github.com/MyHush/welcome"
 
 [[repo]]
 url = "https://github.com/MyHush/zcash"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyHush/zcash-seeder"
+

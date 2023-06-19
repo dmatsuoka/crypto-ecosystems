@@ -3,7 +3,9 @@ title = "PieFi Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pieFi-platform"]
+github_organizations = [
+  "https://github.com/pieFi-platform",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/pieFi-platform/piefi-connect-sdk"
 
 [[repo]]
 url = "https://github.com/pieFi-platform/simple-dao"
+

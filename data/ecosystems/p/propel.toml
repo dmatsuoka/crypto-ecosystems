@@ -3,7 +3,10 @@ title = "Propel"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/payrue", "https://github.com/PayRueOrg"]
+github_organizations = [
+  "https://github.com/payrue",
+  "https://github.com/PayRueOrg",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +17,4 @@ url = "https://github.com/PayRueOrg/mercury-staking-contracts"
 
 [[repo]]
 url = "https://github.com/PayRueOrg/payrue-staking-contracts"
+

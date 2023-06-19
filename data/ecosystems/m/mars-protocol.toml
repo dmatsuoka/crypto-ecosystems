@@ -3,7 +3,9 @@ title = "Mars Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mars-protocol"]
+github_organizations = [
+  "https://github.com/mars-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -116,6 +118,7 @@ url = "https://github.com/mars-protocol/red-bank"
 
 [[repo]]
 url = "https://github.com/mars-protocol/red-bank-NMO"
+missing = true
 
 [[repo]]
 url = "https://github.com/mars-protocol/slips"
@@ -143,3 +146,4 @@ url = "https://github.com/mars-protocol/wallet-connector"
 
 [[repo]]
 url = "https://github.com/mars-protocol/whitepaper"
+

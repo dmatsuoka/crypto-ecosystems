@@ -3,7 +3,9 @@ title = "Shapeshift"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shapeshift"]
+github_organizations = [
+  "https://github.com/shapeshift",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/shapeshift/airdrop-merkle"
 
 [[repo]]
 url = "https://github.com/shapeshift/alpha"
+missing = true
 
 [[repo]]
 url = "https://github.com/shapeshift/bip32"
@@ -131,3 +134,4 @@ url = "https://github.com/shapeshift/yieldies"
 
 [[repo]]
 url = "https://github.com/shapeshift/yieldy-bot"
+

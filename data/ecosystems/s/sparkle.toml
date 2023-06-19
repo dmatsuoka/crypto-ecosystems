@@ -3,7 +3,9 @@ title = "Sparkle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sparklemobile"]
+github_organizations = [
+  "https://github.com/Sparklemobile",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,5 @@ url = "https://github.com/Sparkleloyalty/Sparkle-Token"
 
 [[repo]]
 url = "https://github.com/Sparklemobile/Sparkle-WWW"
+missing = true
+

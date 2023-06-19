@@ -3,7 +3,9 @@ title = "My DeFi Pet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mydefipet"]
+github_organizations = [
+  "https://github.com/mydefipet",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/mydefipet/my-defi-pet"
 
 [[repo]]
 url = "https://github.com/mydefipet/pet-staking"
+

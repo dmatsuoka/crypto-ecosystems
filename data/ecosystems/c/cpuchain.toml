@@ -3,7 +3,9 @@ title = "CPUchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cpuchain"]
+github_organizations = [
+  "https://github.com/cpuchain",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/cpuchain/web-explorer"
 
 [[repo]]
 url = "https://github.com/cpuchain/web-wallet"
+

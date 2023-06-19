@@ -3,7 +3,9 @@ title = "Polaris Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polarisfinance"]
+github_organizations = [
+  "https://github.com/polarisfinance",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/polarisfinance/studio"
 
 [[repo]]
 url = "https://github.com/polarisfinance/tokens"
+

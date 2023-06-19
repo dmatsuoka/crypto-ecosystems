@@ -3,7 +3,9 @@ title = "Shroom Kingdom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Shroom-Kingdom"]
+github_organizations = [
+  "https://github.com/Shroom-Kingdom",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/Shroom-Kingdom/usn"
 
 [[repo]]
 url = "https://github.com/Shroom-Kingdom/whitepaper"
+

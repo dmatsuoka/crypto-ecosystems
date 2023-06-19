@@ -3,7 +3,9 @@ title = "sentio.xyz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sentioxyz"]
+github_organizations = [
+  "https://github.com/sentioxyz",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/sentioxyz/CLI-MSafe"
 
 [[repo]]
 url = "https://github.com/sentioxyz/console-log-json"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentioxyz/demo-cbeth"
@@ -47,6 +50,7 @@ url = "https://github.com/sentioxyz/go-gecko"
 
 [[repo]]
 url = "https://github.com/sentioxyz/go-lucene"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentioxyz/go-querystring-parser"
@@ -104,6 +108,7 @@ url = "https://github.com/sentioxyz/solana-go"
 
 [[repo]]
 url = "https://github.com/sentioxyz/sui"
+missing = true
 
 [[repo]]
 url = "https://github.com/sentioxyz/timescaledb-kubernetes"
@@ -122,3 +127,4 @@ url = "https://github.com/sentioxyz/TypeChain"
 
 [[repo]]
 url = "https://github.com/sentioxyz/wasmer-go"
+

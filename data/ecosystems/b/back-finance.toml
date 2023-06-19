@@ -3,7 +3,9 @@ title = "Back Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/back-finance"]
+github_organizations = [
+  "https://github.com/back-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/back-finance/Contract"
 
 [[repo]]
 url = "https://github.com/back-finance/Guide"
+

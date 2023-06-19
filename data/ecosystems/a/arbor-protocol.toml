@@ -3,7 +3,9 @@ title = "Arbor Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arbor-protocol"]
+github_organizations = [
+  "https://github.com/arbor-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/arbor-protocol/audio-merger"
 
 [[repo]]
 url = "https://github.com/arbor-protocol/ui"
+

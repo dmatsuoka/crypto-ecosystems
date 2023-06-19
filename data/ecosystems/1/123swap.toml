@@ -3,7 +3,9 @@ title = "123swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/123swapProject"]
+github_organizations = [
+  "https://github.com/123swapProject",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/123swapProject/123swap-uikit"
 
 [[repo]]
 url = "https://github.com/123swapProject/sdk-v2"
+

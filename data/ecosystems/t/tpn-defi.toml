@@ -3,7 +3,9 @@ title = "TPN Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TPN-Token"]
+github_organizations = [
+  "https://github.com/TPN-Token",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/TPN-Token/TPN-Defi"
 
 [[repo]]
 url = "https://github.com/TPN-Token/TRC20"
+

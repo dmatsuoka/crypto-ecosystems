@@ -3,7 +3,9 @@ title = "Molecule Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moleculeprotocol"]
+github_organizations = [
+  "https://github.com/moleculeprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,5 @@ url = "https://github.com/moleculeprotocol/token-vesting-contract"
 
 [[repo]]
 url = "https://github.com/moleculeprotocol/whitepaper"
+missing = true
+

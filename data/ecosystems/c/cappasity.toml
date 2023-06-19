@@ -3,7 +3,9 @@ title = "Cappasity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CappasityTech"]
+github_organizations = [
+  "https://github.com/CappasityTech",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/CappasityTech/API"
 
 [[repo]]
 url = "https://github.com/CappasityTech/ARToken"
+missing = true
 
 [[repo]]
 url = "https://github.com/CappasityTech/Cappasity-PHP-SDK"
@@ -26,6 +29,7 @@ url = "https://github.com/CappasityTech/CappasityiOSSwiftUI"
 
 [[repo]]
 url = "https://github.com/CappasityTech/CAPPToken"
+missing = true
 
 [[repo]]
 url = "https://github.com/CappasityTech/MertsySDKAndroid"
@@ -38,3 +42,4 @@ url = "https://github.com/CappasityTech/PrestaShop3D"
 
 [[repo]]
 url = "https://github.com/CappasityTech/sunrise-spa"
+

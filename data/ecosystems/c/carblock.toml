@@ -3,7 +3,9 @@ title = "CarBlock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/carblock-io"]
+github_organizations = [
+  "https://github.com/carblock-io",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/carblock-io/zerodb"
 
 [[repo]]
 url = "https://github.com/carblock-io/zerodb-afgh-pre"
+

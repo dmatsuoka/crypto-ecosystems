@@ -3,7 +3,9 @@ title = "Coin Lion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coin-lion"]
+github_organizations = [
+  "https://github.com/coin-lion",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,12 @@ url = "https://github.com/coin-lion/nats-streaming-operator"
 
 [[repo]]
 url = "https://github.com/coin-lion/nats-streaming-operator-ARCHIVE"
+missing = true
 
 [[repo]]
 url = "https://github.com/coin-lion/open_social"
+missing = true
 
 [[repo]]
 url = "https://github.com/coin-lion/quickfix"
+

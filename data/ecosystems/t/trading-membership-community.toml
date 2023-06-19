@@ -3,8 +3,11 @@ title = "Trading Membership Community"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TMC-Official"]
+github_organizations = [
+  "https://github.com/TMC-Official",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/TMC-Official/ERC20-Contract"
+

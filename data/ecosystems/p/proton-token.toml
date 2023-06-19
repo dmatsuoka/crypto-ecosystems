@@ -3,7 +3,9 @@ title = "Proton Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProtonNetwork"]
+github_organizations = [
+  "https://github.com/ProtonNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/ProtonNetwork/ptt_ums"
 
 [[repo]]
 url = "https://github.com/ProtonNetwork/wxpy"
+

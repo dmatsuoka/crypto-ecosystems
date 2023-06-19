@@ -3,7 +3,9 @@ title = "SundaeSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SundaeSwap-finance"]
+github_organizations = [
+  "https://github.com/SundaeSwap-finance",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/SundaeSwap-finance/sundae-yield-v2"
 
 [[repo]]
 url = "https://github.com/SundaeSwap-finance/toolkit-for-cardano"
+

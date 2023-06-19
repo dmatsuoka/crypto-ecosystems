@@ -3,7 +3,9 @@ title = "dymensionxyz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dymensionxyz"]
+github_organizations = [
+  "https://github.com/dymensionxyz",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/dymensionxyz/testnets"
 
 [[repo]]
 url = "https://github.com/dymensionxyz/wasm"
+

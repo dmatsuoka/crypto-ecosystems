@@ -3,7 +3,9 @@ title = "DipDup"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dipdup-net"]
+github_organizations = [
+  "https://github.com/dipdup-net",
+]
 
 # Repositories
 [[repo]]
@@ -74,9 +76,12 @@ url = "https://github.com/dipdup-net/reorg-tracker"
 
 [[repo]]
 url = "https://github.com/dipdup-net/tezos-profiles"
+missing = true
 
 [[repo]]
 url = "https://github.com/dipdup-net/tzprofiles"
 
 [[repo]]
 url = "https://github.com/dipdup-net/wiki.tezos.com"
+missing = true
+

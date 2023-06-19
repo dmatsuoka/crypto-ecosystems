@@ -3,7 +3,9 @@ title = "Tierion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tierion"]
+github_organizations = [
+  "https://github.com/Tierion",
+]
 
 # Repositories
 [[repo]]
@@ -32,12 +34,14 @@ url = "https://github.com/Tierion/btcec"
 
 [[repo]]
 url = "https://github.com/Tierion/chainpoint-node-src"
+missing = true
 
 [[repo]]
 url = "https://github.com/Tierion/exp-leader-election"
 
 [[repo]]
 url = "https://github.com/Tierion/hashapi-lib-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/Tierion/js-macaroon"
@@ -86,3 +90,4 @@ url = "https://github.com/Tierion/tierion-erc20-smart-contract"
 
 [[repo]]
 url = "https://github.com/Tierion/uuid"
+

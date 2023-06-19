@@ -3,7 +3,9 @@ title = "Ditto Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ditto-research"]
+github_organizations = [
+  "https://github.com/ditto-research",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ditto-research/ditto-interface"
 
 [[repo]]
 url = "https://github.com/ditto-research/ditto-staking-sdk"
+

@@ -3,11 +3,14 @@ title = "0xSplits"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xSplits"]
+github_organizations = [
+  "https://github.com/0xSplits",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/0xSplits/0xsplits-distributor-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xSplits/brand"
@@ -62,3 +65,4 @@ url = "https://github.com/0xSplits/splits-vesting"
 
 [[repo]]
 url = "https://github.com/0xSplits/splits-waterfall"
+

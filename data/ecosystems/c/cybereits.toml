@@ -3,11 +3,14 @@ title = "Cybereits"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cybereits"]
+github_organizations = [
+  "https://github.com/Cybereits",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Cybereits/fe-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cybereits/fe-token"
@@ -17,3 +20,4 @@ url = "https://github.com/Cybereits/ms-token"
 
 [[repo]]
 url = "https://github.com/Cybereits/token-service"
+

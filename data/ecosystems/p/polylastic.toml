@@ -3,8 +3,11 @@ title = "Polylastic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polylastic"]
+github_organizations = [
+  "https://github.com/polylastic",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/polylastic/smart-contracts"
+

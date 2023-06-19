@@ -3,7 +3,9 @@ title = "MidasProtocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Midas-Protocol"]
+github_organizations = [
+  "https://github.com/Midas-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Midas-Protocol/yield-server"
 
 [[repo]]
 url = "https://github.com/Midas-Protocol/zapper-fi"
+

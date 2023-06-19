@@ -3,7 +3,9 @@ title = "Li.Fi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lifinance"]
+github_organizations = [
+  "https://github.com/lifinance",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/lifinance/lizard-merkle-script"
 
 [[repo]]
 url = "https://github.com/lifinance/lizard-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/lifinance/nxtp"
@@ -74,3 +77,4 @@ url = "https://github.com/lifinance/types"
 
 [[repo]]
 url = "https://github.com/lifinance/widget"
+

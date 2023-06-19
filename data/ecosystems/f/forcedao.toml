@@ -3,7 +3,9 @@ title = "ForceDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ForceDAO"]
+github_organizations = [
+  "https://github.com/ForceDAO",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/ForceDAO/zeal"
 
 [[repo]]
 url = "https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon"
+

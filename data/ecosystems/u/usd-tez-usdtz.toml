@@ -3,7 +3,9 @@ title = "USD Tez (USDtz)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/USDtz"]
+github_organizations = [
+  "https://github.com/USDtz",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/USDtz/initial-deployment"
 
 [[repo]]
 url = "https://github.com/USDtz/USDtz"
+

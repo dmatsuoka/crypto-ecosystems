@@ -3,7 +3,9 @@ title = "Roll"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TuringAdvisoryGroup"]
+github_organizations = [
+  "https://github.com/TuringAdvisoryGroup",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/TuringAdvisoryGroup/tryrolljs"
 
 [[repo]]
 url = "https://github.com/TuringAdvisoryGroup/uniswap-frontend"
+

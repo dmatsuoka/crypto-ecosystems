@@ -3,11 +3,14 @@ title = "Rentberry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Rentberry"]
+github_organizations = [
+  "https://github.com/Rentberry",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Rentberry/BerryToken"
+missing = true
 
 [[repo]]
 url = "https://github.com/Rentberry/coinmarketcap-api-php"
@@ -20,6 +23,7 @@ url = "https://github.com/Rentberry/geocoder"
 
 [[repo]]
 url = "https://github.com/Rentberry/IcoPromo"
+missing = true
 
 [[repo]]
 url = "https://github.com/Rentberry/lambda-images-resizer"
@@ -35,3 +39,4 @@ url = "https://github.com/Rentberry/ngx-gallery"
 
 [[repo]]
 url = "https://github.com/Rentberry/twilio-prometheus-exporter"
+

@@ -3,7 +3,9 @@ title = "Module Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xmodule"]
+github_organizations = [
+  "https://github.com/0xmodule",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/0xmodule/aptos-core"
 
 [[repo]]
 url = "https://github.com/0xmodule/proton-architecture"
+

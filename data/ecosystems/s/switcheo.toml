@@ -3,7 +3,9 @@ title = "Switcheo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Switcheo"]
+github_organizations = [
+  "https://github.com/Switcheo",
+]
 
 # Repositories
 [[repo]]
@@ -143,6 +145,7 @@ url = "https://github.com/Switcheo/NeoModules"
 
 [[repo]]
 url = "https://github.com/Switcheo/ontology-crypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/Switcheo/ping-pub-explorer"
@@ -245,3 +248,4 @@ url = "https://github.com/Switcheo/Zion"
 
 [[repo]]
 url = "https://github.com/Switcheo/zwap-token"
+

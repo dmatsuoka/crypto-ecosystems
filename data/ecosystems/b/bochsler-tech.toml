@@ -3,7 +3,9 @@ title = "Bochsler Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bochslertech"]
+github_organizations = [
+  "https://github.com/Bochslertech",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Bochslertech/YUMI_EVM_TOKEN"
 
 [[repo]]
 url = "https://github.com/Bochslertech/yumi_nft_standard_example"
+

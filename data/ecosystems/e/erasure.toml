@@ -3,7 +3,9 @@ title = "Erasure"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/erasureprotocol"]
+github_organizations = [
+  "https://github.com/erasureprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/erasureprotocol/NMR"
 
 [[repo]]
 url = "https://github.com/erasureprotocol/world-of-tomorrow"
+

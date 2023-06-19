@@ -3,7 +3,9 @@ title = "UTRUST"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/utrustdev"]
+github_organizations = [
+  "https://github.com/utrustdev",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/utrustdev/analytics-elixir"
 
 [[repo]]
 url = "https://github.com/utrustdev/aws-ecr-orb"
+missing = true
 
 [[repo]]
 url = "https://github.com/utrustdev/axios-vcr"
@@ -62,15 +65,18 @@ url = "https://github.com/utrustdev/git-https-push-action"
 
 [[repo]]
 url = "https://github.com/utrustdev/heroku-buildpack-phoenix-static"
+missing = true
 
 [[repo]]
 url = "https://github.com/utrustdev/jsonrpc2-elixir"
 
 [[repo]]
 url = "https://github.com/utrustdev/live_view_experiment"
+missing = true
 
 [[repo]]
 url = "https://github.com/utrustdev/localstack"
+missing = true
 
 [[repo]]
 url = "https://github.com/utrustdev/merchant-api-spec"
@@ -92,6 +98,7 @@ url = "https://github.com/utrustdev/release-drafter"
 
 [[repo]]
 url = "https://github.com/utrustdev/speedtracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/utrustdev/sss-node"
@@ -128,3 +135,4 @@ url = "https://github.com/utrustdev/utrust-php"
 
 [[repo]]
 url = "https://github.com/utrustdev/utrust-ts-library"
+

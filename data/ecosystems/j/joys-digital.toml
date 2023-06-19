@@ -3,7 +3,9 @@ title = "Joys Digital"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Joys-digital"]
+github_organizations = [
+  "https://github.com/Joys-digital",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/Joys-digital/reticule.settings"
 
 [[repo]]
 url = "https://github.com/Joys-digital/staking-contract"
+

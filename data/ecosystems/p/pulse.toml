@@ -3,7 +3,9 @@ title = "Pulse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pulse-Market"]
+github_organizations = [
+  "https://github.com/Pulse-Market",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Pulse-Market/app"
 
 [[repo]]
 url = "https://github.com/Pulse-Market/beta"
+

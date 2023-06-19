@@ -3,7 +3,9 @@ title = "Eyeseek"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Eyeseek-org"]
+github_organizations = [
+  "https://github.com/Eyeseek-org",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Eyeseek-org/parse"
 
 [[repo]]
 url = "https://github.com/Eyeseek-org/streaming"
+

@@ -3,7 +3,9 @@ title = "Asura Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/asuracoin"]
+github_organizations = [
+  "https://github.com/asuracoin",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/asuracoin/smart-contract"
 
 [[repo]]
 url = "https://github.com/asuracoin/whitepaper"
+

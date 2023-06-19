@@ -3,7 +3,9 @@ title = "HashKeyHub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HashKeyHub"]
+github_organizations = [
+  "https://github.com/HashKeyHub",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/HashKeyHub/wallet-mobile-sdk"
 
 [[repo]]
 url = "https://github.com/HashKeyHub/walletconnect-monorepo"
+

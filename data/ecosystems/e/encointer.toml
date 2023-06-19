@@ -3,7 +3,9 @@ title = "Encointer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/encointer"]
+github_organizations = [
+  "https://github.com/encointer",
+]
 
 # Repositories
 [[repo]]
@@ -125,3 +127,4 @@ url = "https://github.com/encointer/typenum"
 
 [[repo]]
 url = "https://github.com/encointer/whitepaper"
+

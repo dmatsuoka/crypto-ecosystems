@@ -3,8 +3,11 @@ title = "Sustainable Bitcoin Standard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sustainablebtc"]
+github_organizations = [
+  "https://github.com/sustainablebtc",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/sustainablebtc/sbc-stacks-contract"
+

@@ -3,7 +3,9 @@ title = "Consensus Networks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/consensusnetworks"]
+github_organizations = [
+  "https://github.com/consensusnetworks",
+]
 
 # Repositories
 [[repo]]
@@ -134,3 +136,4 @@ url = "https://github.com/consensusnetworks/token-starter"
 
 [[repo]]
 url = "https://github.com/consensusnetworks/tsheets-cli"
+

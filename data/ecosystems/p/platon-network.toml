@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "PlatON Network"
 
-sub_ecosystems = ["Alaya Network"]
+sub_ecosystems = [
+  "Alaya Network",
+]
 
-github_organizations = ["https://github.com/PlatONnetwork"]
+github_organizations = [
+  "https://github.com/PlatONnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +105,7 @@ url = "https://github.com/PlatONnetwork/docs"
 
 [[repo]]
 url = "https://github.com/PlatONnetwork/docs-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/PlatONnetwork/downloads"
@@ -326,3 +331,4 @@ url = "https://github.com/PlatONnetwork/wiki"
 
 [[repo]]
 url = "https://github.com/PlatONnetwork/Zokrates"
+

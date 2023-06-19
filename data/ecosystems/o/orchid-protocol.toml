@@ -3,7 +3,9 @@ title = "Orchid Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OrchidTechnologies"]
+github_organizations = [
+  "https://github.com/OrchidTechnologies",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/OrchidTechnologies/orchid"
 
 [[repo]]
 url = "https://github.com/OrchidTechnologies/quickjs"
+

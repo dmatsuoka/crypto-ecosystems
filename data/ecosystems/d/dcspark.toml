@@ -3,7 +3,9 @@ title = "dcSpark"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dcSpark"]
+github_organizations = [
+  "https://github.com/dcSpark",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/dcSpark/codegen"
 
 [[repo]]
 url = "https://github.com/dcSpark/compound-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/dcSpark/cordova-plugin-inappbrowser"
@@ -92,6 +95,7 @@ url = "https://github.com/dcSpark/currency-symbol-map"
 
 [[repo]]
 url = "https://github.com/dcSpark/data-pile"
+missing = true
 
 [[repo]]
 url = "https://github.com/dcSpark/data-signing-webpage"
@@ -113,6 +117,7 @@ url = "https://github.com/dcSpark/eth-gas-subgraph"
 
 [[repo]]
 url = "https://github.com/dcSpark/ethereum-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dcSpark/ethermint"
@@ -128,6 +133,7 @@ url = "https://github.com/dcSpark/flint-monitoring-uptime"
 
 [[repo]]
 url = "https://github.com/dcSpark/flint-uptime-monitoring"
+missing = true
 
 [[repo]]
 url = "https://github.com/dcSpark/fracada"
@@ -158,6 +164,7 @@ url = "https://github.com/dcSpark/lovefield-bin"
 
 [[repo]]
 url = "https://github.com/dcSpark/lucid-wsc-safe-namespace"
+missing = true
 
 [[repo]]
 url = "https://github.com/dcSpark/markdown-gen-rs"
@@ -296,3 +303,4 @@ url = "https://github.com/dcSpark/webpack-monorepo-translations-plugin"
 
 [[repo]]
 url = "https://github.com/dcSpark/zkapp-nonogram"
+

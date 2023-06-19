@@ -3,7 +3,9 @@ title = "Censo Custody"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CensoCustody"]
+github_organizations = [
+  "https://github.com/CensoCustody",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/CensoCustody/serum-dex-ui"
 
 [[repo]]
 url = "https://github.com/CensoCustody/wallet-adapter"
+

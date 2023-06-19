@@ -3,7 +3,9 @@ title = "MimbleWimbleCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mwcproject"]
+github_organizations = [
+  "https://github.com/mwcproject",
+]
 
 # Repositories
 [[repo]]
@@ -122,9 +124,11 @@ url = "https://github.com/mwcproject/secp256k1-zkp"
 
 [[repo]]
 url = "https://github.com/mwcproject/swapsite"
+missing = true
 
 [[repo]]
 url = "https://github.com/mwcproject/test"
+missing = true
 
 [[repo]]
 url = "https://github.com/mwcproject/tor_android_builds"
@@ -134,3 +138,4 @@ url = "https://github.com/mwcproject/wagyu-ethereum"
 
 [[repo]]
 url = "https://github.com/mwcproject/wagyu-model"
+

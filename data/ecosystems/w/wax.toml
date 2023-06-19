@@ -1,9 +1,14 @@
 # Ecosystem Level Information
 title = "WAX"
 
-sub_ecosystems = ["Alien Worlds", "AtomicHub"]
+sub_ecosystems = [
+  "Alien Worlds",
+  "AtomicHub",
+]
 
-github_organizations = ["https://github.com/worldwide-asset-exchange"]
+github_organizations = [
+  "https://github.com/worldwide-asset-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +151,4 @@ url = "https://github.com/worldwide-asset-exchange/waxunit"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/whitepaper"
+

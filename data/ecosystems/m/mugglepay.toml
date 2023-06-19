@@ -3,7 +3,9 @@ title = "MugglePay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MugglePay"]
+github_organizations = [
+  "https://github.com/MugglePay",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/MugglePay/REST-Node.js-demo"
 
 [[repo]]
 url = "https://github.com/MugglePay/v2board"
+

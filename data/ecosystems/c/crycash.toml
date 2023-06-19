@@ -3,7 +3,9 @@ title = "CryCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CRYCASH"]
+github_organizations = [
+  "https://github.com/CRYCASH",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/CRYCASH/crycash-smartcontract"
 
 [[repo]]
 url = "https://github.com/CRYCASH/react-static"
+

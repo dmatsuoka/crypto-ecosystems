@@ -3,7 +3,9 @@ title = "Masa Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/masa-finance"]
+github_organizations = [
+  "https://github.com/masa-finance",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,5 @@ url = "https://github.com/masa-finance/whitepaper"
 
 [[repo]]
 url = "https://github.com/masa-finance/zkSBT-cookie-api"
+missing = true
+

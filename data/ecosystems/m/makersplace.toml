@@ -3,7 +3,9 @@ title = "MakersPlace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MakersPlace"]
+github_organizations = [
+  "https://github.com/MakersPlace",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/MakersPlace/civic-python"
 
 [[repo]]
 url = "https://github.com/MakersPlace/royalty-registry-client"
+

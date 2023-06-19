@@ -3,7 +3,9 @@ title = "3XR.SPACE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/3xr-space"]
+github_organizations = [
+  "https://github.com/3xr-space",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/3xr-space/docs"
 
 [[repo]]
 url = "https://github.com/3xr-space/makeglb"
+

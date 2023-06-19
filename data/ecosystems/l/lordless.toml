@@ -3,7 +3,9 @@ title = "LORDLESS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lordlessio"]
+github_organizations = [
+  "https://github.com/lordlessio",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/lordlessio/tokens"
 
 [[repo]]
 url = "https://github.com/lordlessio/truffle-contract"
+

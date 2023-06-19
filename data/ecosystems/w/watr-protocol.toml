@@ -3,7 +3,9 @@ title = "Watr Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Watr-Protocol"]
+github_organizations = [
+  "https://github.com/Watr-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,5 @@ url = "https://github.com/Watr-Protocol/watr-faucet"
 
 [[repo]]
 url = "https://github.com/Watr-Protocol/watr.org"
+missing = true
+

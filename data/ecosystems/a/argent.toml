@@ -3,7 +3,9 @@ title = "Argent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/argentlabs"]
+github_organizations = [
+  "https://github.com/argentlabs",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/argentlabs/application"
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-connect"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-contracts"
@@ -29,6 +32,7 @@ url = "https://github.com/argentlabs/argent-js"
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-mask"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-starknet-recover"
@@ -77,9 +81,11 @@ url = "https://github.com/argentlabs/hardhat-kms-signer"
 
 [[repo]]
 url = "https://github.com/argentlabs/hopper"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/hopper-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/hunt"
@@ -176,6 +182,8 @@ url = "https://github.com/argentlabs/web3modal"
 
 [[repo]]
 url = "https://github.com/argentlabs/zk2-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/zksync-swift"
+

@@ -3,7 +3,9 @@ title = "Aleph.im"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aleph-im"]
+github_organizations = [
+  "https://github.com/aleph-im",
+]
 
 # Repositories
 [[repo]]
@@ -209,3 +211,4 @@ url = "https://github.com/aleph-im/token-list"
 
 [[repo]]
 url = "https://github.com/aleph-im/uniswap-info"
+

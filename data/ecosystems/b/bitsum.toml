@@ -3,7 +3,9 @@ title = "Bitsum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitsumFoundation"]
+github_organizations = [
+  "https://github.com/BitsumFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/BitsumFoundation/node_cryptonote_util"
 
 [[repo]]
 url = "https://github.com/BitsumFoundation/node_multi_hashing"
+

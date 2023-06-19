@@ -3,7 +3,9 @@ title = "Pixura"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pixura"]
+github_organizations = [
+  "https://github.com/Pixura",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Pixura/buildtezos"
 
 [[repo]]
 url = "https://github.com/Pixura/candidate-code-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/Pixura/chanterelle"
@@ -134,3 +137,4 @@ url = "https://github.com/superrare/pixura-contracts"
 
 [[repo]]
 url = "https://github.com/superrare/rarest-token"
+

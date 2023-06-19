@@ -3,7 +3,9 @@ title = "Penta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pentaglobal"]
+github_organizations = [
+  "https://github.com/pentaglobal",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/pentaglobal/solc-js"
 
 [[repo]]
 url = "https://github.com/pentaglobal/solidity"
+

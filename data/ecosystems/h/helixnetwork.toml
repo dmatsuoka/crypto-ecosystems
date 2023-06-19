@@ -3,7 +3,9 @@ title = "HelixNetwork"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HelixNetwork"]
+github_organizations = [
+  "https://github.com/HelixNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/HelixNetwork/pendulum-explorer"
 
 [[repo]]
 url = "https://github.com/HelixNetwork/pendulum-sdk"
+

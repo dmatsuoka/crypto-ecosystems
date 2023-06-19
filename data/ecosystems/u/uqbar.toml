@@ -3,7 +3,9 @@ title = "Uqbar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/uqbar-dao"]
+github_organizations = [
+  "https://github.com/uqbar-dao",
+]
 
 # Repositories
 [[repo]]
@@ -89,9 +91,11 @@ url = "https://github.com/uqbar-dao/wallet-ui"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/zere"
+missing = true
 
 [[repo]]
 url = "https://github.com/uqbar-dao/zig-dev"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/ziggurat-ui"
+

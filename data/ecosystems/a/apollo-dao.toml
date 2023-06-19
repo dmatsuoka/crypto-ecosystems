@@ -3,7 +3,9 @@ title = "Apollo DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/apollodao"]
+github_organizations = [
+  "https://github.com/apollodao",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/apollodao/wallet-provider"
 
 [[repo]]
 url = "https://github.com/apollodao/yield-server"
+

@@ -3,7 +3,9 @@ title = "The global index chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tgichain"]
+github_organizations = [
+  "https://github.com/tgichain",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/tgichain/core-docker"
 
 [[repo]]
 url = "https://github.com/tgichain/explorer"
+

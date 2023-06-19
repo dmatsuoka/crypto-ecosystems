@@ -3,7 +3,9 @@ title = "DEER Market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeerMarket"]
+github_organizations = [
+  "https://github.com/DeerMarket",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/DeerMarket/frontend"
 
 [[repo]]
 url = "https://github.com/DeerMarket/subgraph"
+

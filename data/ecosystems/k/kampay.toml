@@ -3,7 +3,9 @@ title = "Kampay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kampay-io"]
+github_organizations = [
+  "https://github.com/Kampay-io",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Kampay-io/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/Kampay-io/uniswap-v2-periphery"
+

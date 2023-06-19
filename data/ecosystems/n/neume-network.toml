@@ -3,7 +3,9 @@ title = "Neume Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neume-network"]
+github_organizations = [
+  "https://github.com/neume-network",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/neume-network/web3-music-subgraph"
 
 [[repo]]
 url = "https://github.com/neume-network/website"
+

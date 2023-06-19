@@ -3,7 +3,9 @@ title = "NumisMe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NumisMe"]
+github_organizations = [
+  "https://github.com/NumisMe",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,5 @@ url = "https://github.com/NumisMe/Frontend"
 
 [[repo]]
 url = "https://github.com/NumisMe/NumisMe-Ethereum"
+missing = true
+

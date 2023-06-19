@@ -3,7 +3,9 @@ title = "STK"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/STKtoken"]
+github_organizations = [
+  "https://github.com/STKtoken",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/STKtoken/ETH-smart-contracts"
 
 [[repo]]
 url = "https://github.com/STKtoken/Multi-Token-smart-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/STKtoken/smart-contract-tips"
 
 [[repo]]
 url = "https://github.com/STKtoken/STK-smart-contracts"
+

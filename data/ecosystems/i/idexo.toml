@@ -3,7 +3,9 @@ title = "Idexo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idexo"]
+github_organizations = [
+  "https://github.com/idexo",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/idexo/app.charmverse.io"
 
 [[repo]]
 url = "https://github.com/idexo/idexo-engine-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/idexo/idexo-sdk"
@@ -26,3 +29,4 @@ url = "https://github.com/idexo/token-directory"
 
 [[repo]]
 url = "https://github.com/idexo/tutorials"
+

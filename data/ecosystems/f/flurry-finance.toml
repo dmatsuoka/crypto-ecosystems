@@ -3,7 +3,9 @@ title = "Flurry Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FlurryFinance"]
+github_organizations = [
+  "https://github.com/FlurryFinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/FlurryFinance/docs"
 
 [[repo]]
 url = "https://github.com/FlurryFinance/web3modal"
+

@@ -3,7 +3,9 @@ title = "biswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/biswap-org"]
+github_organizations = [
+  "https://github.com/biswap-org",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/biswap-org/staking"
 
 [[repo]]
 url = "https://github.com/biswap-org/swap-fee-reward"
+

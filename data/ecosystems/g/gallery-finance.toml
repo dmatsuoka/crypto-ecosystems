@@ -3,7 +3,9 @@ title = "Gallery Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gallery-finance"]
+github_organizations = [
+  "https://github.com/gallery-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/gallery-finance/gallery-finance-html"
 
 [[repo]]
 url = "https://github.com/gallery-finance/Open-Grants-Program"
+

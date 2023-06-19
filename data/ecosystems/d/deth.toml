@@ -3,7 +3,9 @@ title = "Deth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dethcrypto"]
+github_organizations = [
+  "https://github.com/dethcrypto",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/dethcrypto/TypeChain"
 
 [[repo]]
 url = "https://github.com/dethcrypto/vscode-vyper"
+

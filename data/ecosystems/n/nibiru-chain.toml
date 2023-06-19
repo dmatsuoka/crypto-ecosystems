@@ -3,7 +3,9 @@ title = "Nibiru Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NibiruChain"]
+github_organizations = [
+  "https://github.com/NibiruChain",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/NibiruChain/cw-nibiru"
 
 [[repo]]
 url = "https://github.com/NibiruChain/docs-nibiru"
+missing = true
 
 [[repo]]
 url = "https://github.com/NibiruChain/explorer"
@@ -32,6 +35,7 @@ url = "https://github.com/NibiruChain/faucet"
 
 [[repo]]
 url = "https://github.com/NibiruChain/goreleaser-sysroot"
+missing = true
 
 [[repo]]
 url = "https://github.com/NibiruChain/gorocksdb"
@@ -50,6 +54,7 @@ url = "https://github.com/NibiruChain/localnet-action"
 
 [[repo]]
 url = "https://github.com/NibiruChain/marketing"
+missing = true
 
 [[repo]]
 url = "https://github.com/NibiruChain/nibiru"
@@ -68,6 +73,7 @@ url = "https://github.com/NibiruChain/py-sdk"
 
 [[repo]]
 url = "https://github.com/NibiruChain/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/NibiruChain/sdk-proto-gen"
@@ -89,3 +95,4 @@ url = "https://github.com/NibiruChain/ui-nibi"
 
 [[repo]]
 url = "https://github.com/NibiruChain/wasmvm"
+

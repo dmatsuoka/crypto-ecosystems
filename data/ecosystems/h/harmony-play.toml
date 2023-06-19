@@ -3,8 +3,11 @@ title = "Harmony Play"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Harmony-Play"]
+github_organizations = [
+  "https://github.com/Harmony-Play",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/innvo-digital/dex-backend"
+

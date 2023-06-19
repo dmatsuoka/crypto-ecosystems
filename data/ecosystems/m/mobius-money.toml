@@ -3,7 +3,9 @@ title = "Mobius-money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mobiusAMM"]
+github_organizations = [
+  "https://github.com/mobiusAMM",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/mobiusAMM/Community-Incentive-Contracts"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/compound-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/contracts"
@@ -29,6 +32,7 @@ url = "https://github.com/mobiusAMM/gitbooks"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/KleinBottle"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/kresko-v1-deployment"
@@ -38,6 +42,7 @@ url = "https://github.com/mobiusAMM/mobi-dao-contracts"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobi.money"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobius-common"
@@ -47,6 +52,7 @@ url = "https://github.com/mobiusAMM/mobius-config-registry"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobius-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobius-frontend-deprecated"
@@ -71,6 +77,7 @@ url = "https://github.com/mobiusAMM/mobius-sdk"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobius-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/mobiusV1"
@@ -95,6 +102,7 @@ url = "https://github.com/mobiusAMM/swappa"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/tokenbridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobiusAMM/tokenbridge-frontend"
@@ -110,3 +118,4 @@ url = "https://github.com/mobiusAMM/vfat-tools"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/web3modal"
+

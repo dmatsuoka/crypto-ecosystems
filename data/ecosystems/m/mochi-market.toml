@@ -3,7 +3,9 @@ title = "Mochi Market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mochi-Lab"]
+github_organizations = [
+  "https://github.com/Mochi-Lab",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/Mochi-Lab/NFT-Campaign"
 
 [[repo]]
 url = "https://github.com/Mochi-Lab/safe-contracts"
+

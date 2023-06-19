@@ -3,7 +3,9 @@ title = "Mentat"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MentatHQ"]
+github_organizations = [
+  "https://github.com/MentatHQ",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/MentatHQ/SmartContract"
 
 [[repo]]
 url = "https://github.com/MentatHQ/web"
+

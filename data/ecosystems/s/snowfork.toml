@@ -3,7 +3,9 @@ title = "Snowfork"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Snowfork"]
+github_organizations = [
+  "https://github.com/Snowfork",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,5 @@ url = "https://github.com/Snowfork/substrate"
 
 [[repo]]
 url = "https://github.com/Snowfork/substrate-ui"
+missing = true
+

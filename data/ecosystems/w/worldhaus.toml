@@ -3,7 +3,9 @@ title = "Worldhaus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NomadHouse"]
+github_organizations = [
+  "https://github.com/NomadHouse",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/NomadHouse/node-quickbooks"
 
 [[repo]]
 url = "https://github.com/NomadHouse/smart-contracts"
+

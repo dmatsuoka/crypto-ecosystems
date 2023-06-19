@@ -3,7 +3,9 @@ title = "Muzika"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MuzikaFoundation"]
+github_organizations = [
+  "https://github.com/MuzikaFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/MuzikaFoundation/zcash-bitcore-lib"
 
 [[repo]]
 url = "https://github.com/MuzikaFoundation/zeppelin-solidity"
+

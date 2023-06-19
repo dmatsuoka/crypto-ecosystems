@@ -3,7 +3,9 @@ title = "Decent DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/decent-dao"]
+github_organizations = [
+  "https://github.com/decent-dao",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/decent-dao/wallet-provider"
 
 [[repo]]
 url = "https://github.com/decent-dao/zk-playground"
+

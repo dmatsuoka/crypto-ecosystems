@@ -3,7 +3,9 @@ title = "Rune"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RuneFarm"]
+github_organizations = [
+  "https://github.com/RuneFarm",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/RuneFarm/contracts"
 
 [[repo]]
 url = "https://github.com/RuneFarm/vfat-tools"
+

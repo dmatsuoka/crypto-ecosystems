@@ -3,7 +3,9 @@ title = "Alcibiades Capital"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Alcibiades-Capital"]
+github_organizations = [
+  "https://github.com/Alcibiades-Capital",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Alcibiades-Capital/multi-sig"
 
 [[repo]]
 url = "https://github.com/Alcibiades-Capital/quay"
+

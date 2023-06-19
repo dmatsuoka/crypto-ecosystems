@@ -3,7 +3,9 @@ title = "OpenWeb Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openweb-network"]
+github_organizations = [
+  "https://github.com/openweb-network",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/openweb-network/specialcode.ow"
 
 [[repo]]
 url = "https://github.com/openweb-network/token-contract"
+

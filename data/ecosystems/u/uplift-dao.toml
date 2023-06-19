@@ -3,7 +3,9 @@ title = "UpLift DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UpliftDAO"]
+github_organizations = [
+  "https://github.com/UpliftDAO",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/UpliftDAO/uplift-docs"
 
 [[repo]]
 url = "https://github.com/UpliftDAO/uplift-refunds"
+

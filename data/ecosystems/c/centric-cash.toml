@@ -3,7 +3,9 @@ title = "Centric Cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Centric-Org"]
+github_organizations = [
+  "https://github.com/Centric-Org",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,8 @@ url = "https://github.com/Centric-Org/assets"
 
 [[repo]]
 url = "https://github.com/Centric-Org/centric-swap"
+missing = true
 
 [[repo]]
 url = "https://github.com/Centric-Org/contracts"
+

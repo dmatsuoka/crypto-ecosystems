@@ -3,7 +3,9 @@ title = "Idriss"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idriss-crypto"]
+github_organizations = [
+  "https://github.com/idriss-crypto",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/idriss-crypto/ts-library"
 
 [[repo]]
 url = "https://github.com/idriss-crypto/twitterSpacesTool"
+

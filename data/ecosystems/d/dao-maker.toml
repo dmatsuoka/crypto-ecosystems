@@ -3,7 +3,9 @@ title = "DAO Maker"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/daomaker"]
+github_organizations = [
+  "https://github.com/daomaker",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/daomaker/toll-bridge-subgraph"
 
 [[repo]]
 url = "https://github.com/daomaker/usdr-token"
+

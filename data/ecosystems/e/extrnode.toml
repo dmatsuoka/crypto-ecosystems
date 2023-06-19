@@ -3,7 +3,9 @@ title = "extrnode"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/extrnode"]
+github_organizations = [
+  "https://github.com/extrnode",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/extrnode/solana-geyser-zmq"
 
 [[repo]]
 url = "https://github.com/extrnode/solana-lb"
+

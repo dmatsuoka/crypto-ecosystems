@@ -3,7 +3,9 @@ title = "Orbital Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orbitalswap"]
+github_organizations = [
+  "https://github.com/orbitalswap",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/orbitalswap/orbitalswap-sdk"
 
 [[repo]]
 url = "https://github.com/orbitalswap/snapshot-strategies"
+

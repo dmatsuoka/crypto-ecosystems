@@ -3,7 +3,9 @@ title = "PDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/postech-dao"]
+github_organizations = [
+  "https://github.com/postech-dao",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/postech-dao/zkp-poc"
 
 [[repo]]
 url = "https://github.com/postech-dao/zodiac-module-simperby"
+

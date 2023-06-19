@@ -3,7 +3,9 @@ title = "WELL"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/joinwell"]
+github_organizations = [
+  "https://github.com/joinwell",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/joinwell/contracts"
 
 [[repo]]
 url = "https://github.com/joinwell/factom"
+

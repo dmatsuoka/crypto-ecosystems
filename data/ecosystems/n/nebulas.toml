@@ -3,7 +3,9 @@ title = "Nebulas"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nebulasio"]
+github_organizations = [
+  "https://github.com/nebulasio",
+]
 
 # Repositories
 [[repo]]
@@ -131,6 +133,7 @@ url = "https://github.com/nebulasio/nebpay_service"
 
 [[repo]]
 url = "https://github.com/nebulasio/nextdao_website"
+missing = true
 
 [[repo]]
 url = "https://github.com/nebulasio/NIPs"
@@ -173,3 +176,4 @@ url = "https://github.com/nebulasio/whitepaper"
 
 [[repo]]
 url = "https://github.com/nebulasio/wiki"
+

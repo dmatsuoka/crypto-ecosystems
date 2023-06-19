@@ -3,7 +3,9 @@ title = "Atlendis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Atlendis"]
+github_organizations = [
+  "https://github.com/Atlendis",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Atlendis/whitepaper-v1"
 
 [[repo]]
 url = "https://github.com/Atlendis/whitepaper-v2"
+

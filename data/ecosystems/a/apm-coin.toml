@@ -3,7 +3,9 @@ title = "apM Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/apmcoin"]
+github_organizations = [
+  "https://github.com/apmcoin",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/apmcoin/apmcoin-contract"
 
 [[repo]]
 url = "https://github.com/apmcoin/apmon-contract"
+

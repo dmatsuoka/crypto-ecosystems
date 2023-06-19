@@ -3,7 +3,9 @@ title = "zkMove"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/young-rocks"]
+github_organizations = [
+  "https://github.com/young-rocks",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/young-rocks/zkmove"
 
 [[repo]]
 url = "https://github.com/young-rocks/zkmove-lite"
+

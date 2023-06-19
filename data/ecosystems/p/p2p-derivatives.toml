@@ -3,7 +3,9 @@ title = "P2P Derivatives"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/p2pderivatives"]
+github_organizations = [
+  "https://github.com/p2pderivatives",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/p2pderivatives/rust-secp256k1"
 
 [[repo]]
 url = "https://github.com/p2pderivatives/rust-secp256k1-zkp"
+

@@ -3,7 +3,9 @@ title = "Learn NEAR Club"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Learn-NEAR-Club"]
+github_organizations = [
+  "https://github.com/Learn-NEAR-Club",
+]
 
 # Repositories
 [[repo]]
@@ -326,3 +328,4 @@ url = "https://github.com/Learn-NEAR-Club/trustless-PnL-statement"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/washkart"
+

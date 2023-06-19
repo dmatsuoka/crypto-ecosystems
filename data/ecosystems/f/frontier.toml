@@ -3,7 +3,10 @@ title = "Frontier"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/frontierdotxyz", "https://github.com/frontierwallet"]
+github_organizations = [
+  "https://github.com/frontierdotxyz",
+  "https://github.com/frontierwallet",
+]
 
 # Repositories
 [[repo]]
@@ -83,3 +86,4 @@ url = "https://github.com/frontierdotxyz/xlab-portal-bridge-ui"
 
 [[repo]]
 url = "https://github.com/frontierwallet/hello"
+

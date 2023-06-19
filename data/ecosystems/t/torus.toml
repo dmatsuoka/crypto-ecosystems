@@ -3,7 +3,9 @@ title = "Torus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/torusresearch"]
+github_organizations = [
+  "https://github.com/torusresearch",
+]
 
 # Repositories
 [[repo]]
@@ -272,6 +274,7 @@ url = "https://github.com/torusresearch/msg-editor"
 
 [[repo]]
 url = "https://github.com/torusresearch/multi-party-ecdsa"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/nft-dapp"
@@ -314,6 +317,7 @@ url = "https://github.com/torusresearch/openlogin-expo-bare-sample"
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-expo-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-expo-sdk-bare-demo-2"
@@ -365,6 +369,7 @@ url = "https://github.com/torusresearch/rss-client"
 
 [[repo]]
 url = "https://github.com/torusresearch/rust-paillier"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/saber-common"
@@ -419,6 +424,7 @@ url = "https://github.com/torusresearch/substrate-contracts-node"
 
 [[repo]]
 url = "https://github.com/torusresearch/substrate-node-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/tendermint"
@@ -467,6 +473,7 @@ url = "https://github.com/torusresearch/torus-documentation"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-e2e-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-ed25519key-swift"
@@ -479,6 +486,7 @@ url = "https://github.com/torusresearch/torus-extension"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-fetch-node-details-swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-matic"
@@ -584,3 +592,4 @@ url = "https://github.com/Web3Auth/web3auth-react-native-sdk"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-swift-sdk"
+

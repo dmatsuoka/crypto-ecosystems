@@ -3,7 +3,9 @@ title = "Xank"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xankmoney"]
+github_organizations = [
+  "https://github.com/xankmoney",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/xankmoney/xank-erc-20-token"
 
 [[repo]]
 url = "https://github.com/xankmoney/xank-ios-wallet"
+

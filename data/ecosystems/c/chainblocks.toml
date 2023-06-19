@@ -3,7 +3,9 @@ title = "Chainblocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainblocks"]
+github_organizations = [
+  "https://github.com/chainblocks",
+]
 
 # Repositories
 [[repo]]
@@ -314,3 +316,4 @@ url = "https://github.com/shards-lang/yas"
 
 [[repo]]
 url = "https://github.com/shards-lang/zep"
+

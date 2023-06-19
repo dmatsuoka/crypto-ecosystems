@@ -3,7 +3,9 @@ title = "alexgo-io"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alexgo-io"]
+github_organizations = [
+  "https://github.com/alexgo-io",
+]
 
 # Repositories
 [[repo]]
@@ -32,9 +34,11 @@ url = "https://github.com/alexgo-io/alex-v1-docs"
 
 [[repo]]
 url = "https://github.com/alexgo-io/alex-v2-orderbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/alexgo-io/alex.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/alexgo-io/alexgo.io"
@@ -83,3 +87,4 @@ url = "https://github.com/alexgo-io/stacks.js"
 
 [[repo]]
 url = "https://github.com/alexgo-io/stx-atomic-swap"
+

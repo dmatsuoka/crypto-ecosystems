@@ -3,7 +3,9 @@ title = "SUPERNET"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SuperNETorg"]
+github_organizations = [
+  "https://github.com/SuperNETorg",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/SuperNETorg/supernetorg.github.io"
 
 [[repo]]
 url = "https://github.com/SuperNETorg/wwwsupernetorg"
+

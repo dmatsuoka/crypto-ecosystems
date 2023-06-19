@@ -3,7 +3,9 @@ title = "Joint Ventures"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/JointVentures"]
+github_organizations = [
+  "https://github.com/JointVentures",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,5 @@ url = "https://github.com/JointVentures/jv-comments"
 
 [[repo]]
 url = "https://github.com/JointVentures/preview"
+missing = true
+

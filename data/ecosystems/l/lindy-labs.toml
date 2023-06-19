@@ -3,7 +3,9 @@ title = "Lindy Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lindy-labs"]
+github_organizations = [
+  "https://github.com/lindy-labs",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/lindy-labs/sc_solidity-contracts"
 
 [[repo]]
 url = "https://github.com/lindy-labs/yield-server"
+

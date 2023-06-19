@@ -3,8 +3,11 @@ title = "Ecomi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ecomi-Ecosystem"]
+github_organizations = [
+  "https://github.com/Ecomi-Ecosystem",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Ecomi-Ecosystem/tge-contract"
+

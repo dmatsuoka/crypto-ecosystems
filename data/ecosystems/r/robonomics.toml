@@ -3,7 +3,9 @@ title = "Robonomics"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/airalab"]
+github_organizations = [
+  "https://github.com/airalab",
+]
 
 # Repositories
 [[repo]]
@@ -191,12 +193,14 @@ url = "https://github.com/airalab/robonomics-1"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-3"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-4"
+missing = true
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-5"
@@ -338,3 +342,4 @@ url = "https://github.com/DistributedSky/drone_passport_agent"
 
 [[repo]]
 url = "https://github.com/Multi-Agent-io/gaka-chu.online"
+

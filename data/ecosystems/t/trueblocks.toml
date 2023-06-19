@@ -3,7 +3,9 @@ title = "TrueBlocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrueBlocks"]
+github_organizations = [
+  "https://github.com/TrueBlocks",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/TrueBlocks/trueblocks-luz"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-rpc"
@@ -101,3 +104,4 @@ url = "https://github.com/TrueBlocks/trueblocks-unchained"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/vraniml"
+

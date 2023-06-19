@@ -3,7 +3,9 @@ title = "Grape Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/The-Great-Ape"]
+github_organizations = [
+  "https://github.com/The-Great-Ape",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/The-Great-Ape/unlimitedgrapes.com"
 
 [[repo]]
 url = "https://github.com/The-Great-Ape/wallet-adapter"
+

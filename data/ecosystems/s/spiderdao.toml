@@ -3,7 +3,9 @@ title = "SpiderDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpiderDAO"]
+github_organizations = [
+  "https://github.com/SpiderDAO",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/SpiderDAO/substrate"
 
 [[repo]]
 url = "https://github.com/SpiderDAO/substrate-telemetry"
+

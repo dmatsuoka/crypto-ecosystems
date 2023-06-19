@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Flexa"
 
-sub_ecosystems = ["Amp"]
+sub_ecosystems = [
+  "Amp",
+]
 
-github_organizations = ["https://github.com/flexahq"]
+github_organizations = [
+  "https://github.com/flexahq",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +15,4 @@ url = "https://github.com/flexahq/capacity-smart-contracts"
 
 [[repo]]
 url = "https://github.com/flexahq/flexa-collateral-manager"
+

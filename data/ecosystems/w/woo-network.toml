@@ -3,7 +3,9 @@ title = "WOO Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/woonetwork"]
+github_organizations = [
+  "https://github.com/woonetwork",
+]
 
 # Repositories
 [[repo]]
@@ -38,9 +40,11 @@ url = "https://github.com/woonetwork/WooPoolV2"
 
 [[repo]]
 url = "https://github.com/woonetwork/WooPoolV2_zkSync"
+missing = true
 
 [[repo]]
 url = "https://github.com/woonetwork/WooStakingV2"
 
 [[repo]]
 url = "https://github.com/woonetwork/yield-server"
+

@@ -3,7 +3,9 @@ title = "Covalent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/covalenthq"]
+github_organizations = [
+  "https://github.com/covalenthq",
+]
 
 # Repositories
 [[repo]]
@@ -35,21 +37,25 @@ url = "https://github.com/covalenthq/dex-ticker-widget"
 
 [[repo]]
 url = "https://github.com/covalenthq/dex-widget-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/dex-widget-react-library"
 
 [[repo]]
 url = "https://github.com/covalenthq/erc20Transfers"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/erigon"
 
 [[repo]]
 url = "https://github.com/covalenthq/erigon-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/go-ethereum-fork"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/GoLLRB"
@@ -74,9 +80,11 @@ url = "https://github.com/covalenthq/marcidus"
 
 [[repo]]
 url = "https://github.com/covalenthq/mix-release-ingestor"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/mix-release-ingestor-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/multisender"
@@ -86,12 +94,14 @@ url = "https://github.com/covalenthq/nft-dashboard-template"
 
 [[repo]]
 url = "https://github.com/covalenthq/nft-market-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/orbital"
 
 [[repo]]
 url = "https://github.com/covalenthq/pgadmin-chart"
+missing = true
 
 [[repo]]
 url = "https://github.com/covalenthq/pgmp"
@@ -131,3 +141,4 @@ url = "https://github.com/covalenthq/web3-trivia-template"
 
 [[repo]]
 url = "https://github.com/covalenthq/x-frontend"
+

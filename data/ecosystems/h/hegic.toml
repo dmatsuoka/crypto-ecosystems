@@ -3,7 +3,9 @@ title = "Hegic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hegic"]
+github_organizations = [
+  "https://github.com/hegic",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/hegic/contracts-v1"
 
 [[repo]]
 url = "https://github.com/hegic/contracts-v888"
+missing = true
 
 [[repo]]
 url = "https://github.com/hegic/contracts-v888.0.1"
@@ -71,3 +74,4 @@ url = "https://github.com/hegic/whiteheart-front"
 
 [[repo]]
 url = "https://github.com/hegic/whitepaper"
+

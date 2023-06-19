@@ -3,7 +3,9 @@ title = "Mantle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mantlefi"]
+github_organizations = [
+  "https://github.com/mantlefi",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/mantlefi/contract-flow-token-lending"
 
 [[repo]]
 url = "https://github.com/mantlefi/flow-transactions"
+

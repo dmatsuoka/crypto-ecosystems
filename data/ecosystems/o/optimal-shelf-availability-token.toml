@@ -3,7 +3,9 @@ title = "Optimal Shelf Availability Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/osa-decentralized"]
+github_organizations = [
+  "https://github.com/osa-decentralized",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/osa-decentralized/forecastonishing"
 
 [[repo]]
 url = "https://github.com/osa-decentralized/pyspark_db_utils"
+

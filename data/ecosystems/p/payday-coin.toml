@@ -3,7 +3,9 @@ title = "PayDay Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PayDayCoinIo"]
+github_organizations = [
+  "https://github.com/PayDayCoinIo",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/PayDayCoinIo/PayDayExplorer"
 
 [[repo]]
 url = "https://github.com/PayDayCoinIo/PayDayLinuxNode"
+

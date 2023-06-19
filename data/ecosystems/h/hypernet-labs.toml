@@ -3,7 +3,9 @@ title = "Hypernet Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GoHypernet"]
+github_organizations = [
+  "https://github.com/GoHypernet",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/GoHypernet/vector"
 
 [[repo]]
 url = "https://github.com/GoHypernet/wormhole"
+

@@ -3,7 +3,9 @@ title = "Beluga Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/belugaprotocol"]
+github_organizations = [
+  "https://github.com/belugaprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/belugaprotocol/vfat-tools"
 
 [[repo]]
 url = "https://github.com/belugaprotocol/xcm"
+

@@ -3,7 +3,9 @@ title = "Societal"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sctllabs"]
+github_organizations = [
+  "https://github.com/sctllabs",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/sctllabs/UI"
 
 [[repo]]
 url = "https://github.com/sctllabs/website"
+

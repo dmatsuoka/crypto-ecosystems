@@ -3,7 +3,9 @@ title = "Xum (XRPL Labs)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/XRPL-Labs"]
+github_organizations = [
+  "https://github.com/XRPL-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -143,6 +145,7 @@ url = "https://github.com/XRPL-Labs/XRPL-Webhooks"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/xrpl.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/xrpld-hooks"
@@ -203,3 +206,4 @@ url = "https://github.com/XRPL-Labs/XummPkce"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/XummSDK-React-Demo"
+

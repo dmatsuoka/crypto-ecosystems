@@ -3,7 +3,9 @@ title = "Insights Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InsightsNetwork"]
+github_organizations = [
+  "https://github.com/InsightsNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/InsightsNetwork/Desktop-Client"
 
 [[repo]]
 url = "https://github.com/InsightsNetwork/insights.network"
+

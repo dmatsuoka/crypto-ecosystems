@@ -3,7 +3,9 @@ title = "Konomi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/konomi-network"]
+github_organizations = [
+  "https://github.com/konomi-network",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/konomi-network/substrate-archive"
 
 [[repo]]
 url = "https://github.com/konomi-network/typescript-common"
+

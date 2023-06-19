@@ -12,3 +12,7 @@
 .DS_Store
 .DS_Store?
 .gitsigners
+
+insert_missing_repos.py
+deleted_repos.csv
+venv

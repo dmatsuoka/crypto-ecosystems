@@ -8,6 +8,8 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/opdev3/LendTez"
+missing = true
 
 [[repo]]
 url = "https://github.com/opdev3/opd"
+

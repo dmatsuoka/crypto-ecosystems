@@ -3,7 +3,9 @@ title = "Kenshi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KenshiTech"]
+github_organizations = [
+  "https://github.com/KenshiTech",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/KenshiTech/iot-sdk"
 
 [[repo]]
 url = "https://github.com/KenshiTech/landscape"
+missing = true
 
 [[repo]]
 url = "https://github.com/KenshiTech/locker-interface"
@@ -95,3 +98,4 @@ url = "https://github.com/KenshiTech/wiki"
 
 [[repo]]
 url = "https://github.com/KenshiTech/www"
+

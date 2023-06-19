@@ -3,7 +3,9 @@ title = "czodiac"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chinese-zodiac"]
+github_organizations = [
+  "https://github.com/chinese-zodiac",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/chinese-zodiac/tyborg-notes"
 
 [[repo]]
 url = "https://github.com/chinese-zodiac/vfat-tools-czfarm"
+

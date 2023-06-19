@@ -3,7 +3,9 @@ title = "YottaChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yottachain"]
+github_organizations = [
+  "https://github.com/yottachain",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/yottachain/mena"
 
 [[repo]]
 url = "https://github.com/yottachain/MongoShake"
+missing = true
 
 [[repo]]
 url = "https://github.com/yottachain/MsgDef"
@@ -140,3 +143,4 @@ url = "https://github.com/yottachain/YTSN"
 
 [[repo]]
 url = "https://github.com/yottachain/YTTaskDistribute"
+

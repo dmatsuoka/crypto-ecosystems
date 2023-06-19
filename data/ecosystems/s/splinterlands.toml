@@ -3,7 +3,9 @@ title = "Splinterlands"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/steem-monsters"]
+github_organizations = [
+  "https://github.com/steem-monsters",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/steem-monsters/hive-key-master"
 
 [[repo]]
 url = "https://github.com/steem-monsters/hive-keychain"
+missing = true
 
 [[repo]]
 url = "https://github.com/steem-monsters/pg-querybuilder"
@@ -89,3 +92,4 @@ url = "https://github.com/steem-monsters/validator-contracts"
 
 [[repo]]
 url = "https://github.com/steem-monsters/whe-backend"
+

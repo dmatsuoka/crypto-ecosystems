@@ -3,7 +3,9 @@ title = "Clearmatics"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clearmatics"]
+github_organizations = [
+  "https://github.com/clearmatics",
+]
 
 # Repositories
 [[repo]]
@@ -24,6 +26,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/clearmatics/autonity-helm"
+missing = true
 
 [[repo]]
 url = "https://github.com/clearmatics/autonity-init"
@@ -156,9 +159,11 @@ url = "https://github.com/clearmatics/smart-contract-upgrade"
 
 [[repo]]
 url = "https://github.com/clearmatics/sushiswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/clearmatics/uniswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/clearmatics/zecale"
@@ -174,3 +179,4 @@ url = "https://github.com/clearmatics/zion"
 
 [[repo]]
 url = "https://github.com/clearmatics/ZPIPs"
+

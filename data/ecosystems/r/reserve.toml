@@ -3,7 +3,9 @@ title = "Reserve"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/reserve-protocol"]
+github_organizations = [
+  "https://github.com/reserve-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/reserve-protocol/0x-monorepo"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/basiscash-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/reserve-protocol/brownie"
@@ -122,3 +125,4 @@ url = "https://github.com/reserve-protocol/Vulcan"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/zapper-studio"
+

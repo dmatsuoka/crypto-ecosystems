@@ -3,7 +3,9 @@ title = "Ferum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ferum-dex"]
+github_organizations = [
+  "https://github.com/ferum-dex",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/ferum-dex/move-docgen"
 
 [[repo]]
 url = "https://github.com/ferum-dex/wallet-adapter"
+

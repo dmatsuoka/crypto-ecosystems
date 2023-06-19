@@ -3,23 +3,28 @@ title = "Muon Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/muon-protocol"]
+github_organizations = [
+  "https://github.com/muon-protocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/muon-protocol/ExampleMuonApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/feargame-muon-app"
 
 [[repo]]
 url = "https://github.com/muon-protocol/graphql-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/light-shield-node"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-app-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-apps"
@@ -41,15 +46,18 @@ url = "https://github.com/muon-protocol/muon-cosmos-sample"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-data-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-events-subscriber"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-explorer-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-fees-backend"
@@ -59,6 +67,7 @@ url = "https://github.com/muon-protocol/muon-node-js"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-presale-contracts"
@@ -68,6 +77,7 @@ url = "https://github.com/muon-protocol/muon-solana"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-solidity-sample"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-subgraphs"
@@ -83,9 +93,12 @@ url = "https://github.com/muon-protocol/muon-tron"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/muon-protocol/remote-method-caller"
 
 [[repo]]
 url = "https://github.com/muon-protocol/solana-tests"
+missing = true
+

@@ -3,7 +3,9 @@ title = "Dexalot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Dexalot"]
+github_organizations = [
+  "https://github.com/Dexalot",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Dexalot/vscode-solidity-comments"
 
 [[repo]]
 url = "https://github.com/Dexalot/vuepress-theme-hope"
+

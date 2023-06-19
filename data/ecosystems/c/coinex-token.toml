@@ -3,7 +3,9 @@ title = "CoinEx Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coinexcom"]
+github_organizations = [
+  "https://github.com/coinexcom",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/coinexcom/lucky_number"
 
 [[repo]]
 url = "https://github.com/coinexcom/proof-of-reserves"
+

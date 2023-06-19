@@ -3,8 +3,11 @@ title = "Ethlyte Crypto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethlyte-crypto"]
+github_organizations = [
+  "https://github.com/ethlyte-crypto",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ethlyte-crypto/EtLyteT"
+

@@ -3,11 +3,14 @@ title = "Gamma Strategies"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GammaStrategies"]
+github_organizations = [
+  "https://github.com/GammaStrategies",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/GammaStrategies/active-strategy-framework"
+missing = true
 
 [[repo]]
 url = "https://github.com/GammaStrategies/asset"
@@ -80,3 +83,4 @@ url = "https://github.com/GammaStrategies/xGamma"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/zyberswap-arbitrum"
+

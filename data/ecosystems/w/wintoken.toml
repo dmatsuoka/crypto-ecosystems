@@ -3,7 +3,9 @@ title = "WinToken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WinchainOS"]
+github_organizations = [
+  "https://github.com/WinchainOS",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/WinchainOS/Winchain"
 
 [[repo]]
 url = "https://github.com/WinchainOS/WinToken"
+

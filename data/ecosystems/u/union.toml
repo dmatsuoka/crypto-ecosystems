@@ -3,7 +3,9 @@ title = "Union"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unioncredit"]
+github_organizations = [
+  "https://github.com/unioncredit",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/unioncredit/union-vouchers"
 
 [[repo]]
 url = "https://github.com/unioncredit/union-zerion-adapters"
+

@@ -3,7 +3,9 @@ title = "Rango Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rango-exchange"]
+github_organizations = [
+  "https://github.com/rango-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/rango-exchange/rango-types"
 
 [[repo]]
 url = "https://github.com/rango-exchange/widget-examples"
+

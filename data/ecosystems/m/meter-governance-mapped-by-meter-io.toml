@@ -3,7 +3,9 @@ title = "Meter Governance mapped by Meter.io"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/meterio"]
+github_organizations = [
+  "https://github.com/meterio",
+]
 
 # Repositories
 [[repo]]
@@ -122,6 +124,7 @@ url = "https://github.com/meterio/gmx-subgraph"
 
 [[repo]]
 url = "https://github.com/meterio/gnosis-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/hackathon-demo"
@@ -131,6 +134,7 @@ url = "https://github.com/meterio/hackathon-demo-react"
 
 [[repo]]
 url = "https://github.com/meterio/ldb_util"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/liquidity-mining-report"
@@ -278,6 +282,7 @@ url = "https://github.com/meterio/solidly-subgraph"
 
 [[repo]]
 url = "https://github.com/meterio/solidly.exchange"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/sourcify"
@@ -338,3 +343,4 @@ url = "https://github.com/meterio/voltswapv2-sdk"
 
 [[repo]]
 url = "https://github.com/meterio/WarringStakes"
+

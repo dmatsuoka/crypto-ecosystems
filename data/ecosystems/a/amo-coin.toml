@@ -3,7 +3,9 @@ title = "AMO Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amolabs"]
+github_organizations = [
+  "https://github.com/amolabs",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/amolabs/tendermint-amo"
 
 [[repo]]
 url = "https://github.com/amolabs/testnet"
+

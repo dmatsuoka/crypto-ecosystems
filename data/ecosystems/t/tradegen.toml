@@ -3,7 +3,9 @@ title = "Tradegen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tradegen"]
+github_organizations = [
+  "https://github.com/Tradegen",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/Tradegen/virtual-trading-environments"
 
 [[repo]]
 url = "https://github.com/Tradegen/vte-subgraph"
+

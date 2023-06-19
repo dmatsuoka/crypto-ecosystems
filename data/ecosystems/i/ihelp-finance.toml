@@ -3,7 +3,9 @@ title = "iHelp Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ihelp-finance"]
+github_organizations = [
+  "https://github.com/ihelp-finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/ihelp-finance/ihelp-services"
 
 [[repo]]
 url = "https://github.com/ihelp-finance/ihelp-splash"
+

@@ -3,7 +3,9 @@ title = "Aditus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aditus"]
+github_organizations = [
+  "https://github.com/aditus",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/aditus/MultiSigWallet"
 
 [[repo]]
 url = "https://github.com/aditus/zeppelin-solidity"
+

@@ -3,7 +3,9 @@ title = "Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swap-dev"]
+github_organizations = [
+  "https://github.com/swap-dev",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/swap-dev/swap-gui"
 
 [[repo]]
 url = "https://github.com/swap-dev/swap-ios-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/swap-dev/swap-javascript"
@@ -107,6 +110,7 @@ url = "https://github.com/swap-dev/swap-paperwallet-generator"
 
 [[repo]]
 url = "https://github.com/swap-dev/swap_kitty"
+missing = true
 
 [[repo]]
 url = "https://github.com/swap-dev/SwapReferenceMiner"
@@ -116,3 +120,4 @@ url = "https://github.com/swap-dev/swapweb"
 
 [[repo]]
 url = "https://github.com/swap-dev/xmregcore"
+

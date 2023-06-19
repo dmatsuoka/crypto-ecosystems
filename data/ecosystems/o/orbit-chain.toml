@@ -3,7 +3,9 @@ title = "Orbit Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orbit-chain"]
+github_organizations = [
+  "https://github.com/orbit-chain",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/orbit-chain/bridge-token-image"
 
 [[repo]]
 url = "https://github.com/orbit-chain/ethereum-orbit-dai"
+

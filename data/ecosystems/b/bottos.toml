@@ -3,7 +3,9 @@ title = "Bottos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bottos-project"]
+github_organizations = [
+  "https://github.com/bottos-project",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/bottos-project/utils"
 
 [[repo]]
 url = "https://github.com/bottos-project/vault"
+

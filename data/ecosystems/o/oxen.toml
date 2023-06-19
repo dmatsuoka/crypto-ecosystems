@@ -3,7 +3,9 @@ title = "Oxen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oxen-io"]
+github_organizations = [
+  "https://github.com/oxen-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/oxen-io/curve25519-js"
 
 [[repo]]
 url = "https://github.com/oxen-io/hashlist"
+missing = true
 
 [[repo]]
 url = "https://github.com/oxen-io/libsession-util"
@@ -227,3 +230,4 @@ url = "https://github.com/oxen-io/session-pysogs"
 
 [[repo]]
 url = "https://github.com/oxen-io/session-website"
+

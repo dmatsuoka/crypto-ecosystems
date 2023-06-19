@@ -3,7 +3,9 @@ title = "RightMesh"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RightMesh"]
+github_organizations = [
+  "https://github.com/RightMesh",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/RightMesh/vagrant-eth-env"
 
 [[repo]]
 url = "https://github.com/RightMesh/Whitepapers"
+

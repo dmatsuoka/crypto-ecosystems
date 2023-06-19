@@ -3,7 +3,9 @@ title = "Populous"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitpopulous"]
+github_organizations = [
+  "https://github.com/bitpopulous",
+]
 
 # Repositories
 [[repo]]
@@ -42,3 +44,4 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/bitpopulous/streamer"
+

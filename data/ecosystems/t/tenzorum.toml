@@ -3,7 +3,9 @@ title = "Tenzorum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tenzorum"]
+github_organizations = [
+  "https://github.com/Tenzorum",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Tenzorum/tenzorum-mobile"
 
 [[repo]]
 url = "https://github.com/Tenzorum/whitepaper-draft1"
+

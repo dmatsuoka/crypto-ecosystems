@@ -3,7 +3,9 @@ title = "Popsicle Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Popsicle-Finance"]
+github_organizations = [
+  "https://github.com/Popsicle-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/Popsicle-Finance/subgraph"
 
 [[repo]]
 url = "https://github.com/Popsicle-Finance/uniswap-v3-core"
+

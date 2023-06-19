@@ -3,7 +3,9 @@ title = "demianDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/demianDAO"]
+github_organizations = [
+  "https://github.com/demianDAO",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/demianDAO/hellokk"
 
 [[repo]]
 url = "https://github.com/demianDAO/icpsub.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/demianDAO/internetcomputer.guide"
@@ -41,3 +44,4 @@ url = "https://github.com/demianDAO/motoko_course"
 
 [[repo]]
 url = "https://github.com/demianDAO/nakomoto-coefficient-calculator"
+

@@ -3,7 +3,9 @@ title = "Internet Computer Education"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DFINITY-Education"]
+github_organizations = [
+  "https://github.com/DFINITY-Education",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/DFINITY-Education/protocol-design"
 
 [[repo]]
 url = "https://github.com/DFINITY-Education/web-development"
+

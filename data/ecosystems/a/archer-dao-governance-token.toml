@@ -3,7 +3,9 @@ title = "Archer DAO Governance Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/archerdao"]
+github_organizations = [
+  "https://github.com/archerdao",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/archerdao/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/archerdao/sushiswap-interface"
+

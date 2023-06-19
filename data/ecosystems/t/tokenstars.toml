@@ -3,8 +3,11 @@ title = "TokenStars"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/token-stars"]
+github_organizations = [
+  "https://github.com/token-stars",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/token-stars/ace-token"
+

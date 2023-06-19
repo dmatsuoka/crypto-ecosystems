@@ -3,7 +3,9 @@ title = "O3 Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/O3Labs"]
+github_organizations = [
+  "https://github.com/O3Labs",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/O3Labs/transaction-log"
 
 [[repo]]
 url = "https://github.com/O3Labs/utxo-splitter"
+

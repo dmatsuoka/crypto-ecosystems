@@ -3,7 +3,9 @@ title = "Gaj Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PolyGaj"]
+github_organizations = [
+  "https://github.com/PolyGaj",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/PolyGaj/polygaj-uikit"
 
 [[repo]]
 url = "https://github.com/PolyGaj/smartcontracts"
+

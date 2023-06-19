@@ -3,7 +3,9 @@ title = "Market Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MARKETProtocol"]
+github_organizations = [
+  "https://github.com/MARKETProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/MARKETProtocol/ethereum-bridge"
 
 [[repo]]
 url = "https://github.com/MARKETProtocol/market-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/MARKETProtocol/MARKETProtocol"
@@ -44,3 +47,4 @@ url = "https://github.com/MARKETProtocol/solidity-coverage-bug"
 
 [[repo]]
 url = "https://github.com/MARKETProtocol/types"
+

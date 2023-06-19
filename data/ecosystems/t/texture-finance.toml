@@ -3,7 +3,9 @@ title = "texture-finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/texture-finance"]
+github_organizations = [
+  "https://github.com/texture-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/texture-finance/flash-loan-sdk-rust"
 
 [[repo]]
 url = "https://github.com/texture-finance/flash-loan-sdk-ts"
+

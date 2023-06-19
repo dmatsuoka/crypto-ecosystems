@@ -3,7 +3,9 @@ title = "BuidlGuidl"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BuidlGuidl"]
+github_organizations = [
+  "https://github.com/BuidlGuidl",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/BuidlGuidl/signatorio"
 
 [[repo]]
 url = "https://github.com/BuidlGuidl/SpeedRunEthereum"
+

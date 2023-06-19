@@ -3,8 +3,11 @@ title = "Premint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/premint"]
+github_organizations = [
+  "https://github.com/premint",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/premint/premintbot"
+

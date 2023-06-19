@@ -3,7 +3,9 @@ title = "EpiK Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EpiK-Protocol"]
+github_organizations = [
+  "https://github.com/EpiK-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -32,9 +34,11 @@ url = "https://github.com/EpiK-Protocol/epik-explorer-frontend"
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/epik-gateway-binlog-encoder"
+missing = true
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/epik-gateway-binlog-replayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/EpiK-KG"
@@ -101,3 +105,4 @@ url = "https://github.com/EpiK-Protocol/tokens"
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/Utils"
+

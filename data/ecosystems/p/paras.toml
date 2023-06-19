@@ -3,7 +3,9 @@ title = "Paras"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ParasHQ"]
+github_organizations = [
+  "https://github.com/ParasHQ",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/ParasHQ/paras-claim-rewards-contract"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-contract"
@@ -41,6 +44,7 @@ url = "https://github.com/ParasHQ/paras-comic-frontend"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-indexer-worker"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-ink-marketplace"
@@ -89,3 +93,4 @@ url = "https://github.com/ParasHQ/Summer-HackaDOT-2023"
 
 [[repo]]
 url = "https://github.com/ParasHQ/team-website"
+

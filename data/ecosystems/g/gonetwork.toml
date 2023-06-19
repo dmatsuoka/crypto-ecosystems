@@ -3,7 +3,9 @@ title = "GoNetwork"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gonetwork-project"]
+github_organizations = [
+  "https://github.com/gonetwork-project",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/gonetwork-project/RNFastSecp256k1"
 
 [[repo]]
 url = "https://github.com/gonetwork-project/types-ethereumjs-util"
+

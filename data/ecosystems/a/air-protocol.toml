@@ -3,7 +3,9 @@ title = "Air Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/air-protocol"]
+github_organizations = [
+  "https://github.com/air-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/air-protocol/nitrogen"
 
 [[repo]]
 url = "https://github.com/air-protocol/tssWrapper"
+

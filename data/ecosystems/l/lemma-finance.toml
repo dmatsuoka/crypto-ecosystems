@@ -3,7 +3,9 @@ title = "Lemma Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lemma-finance"]
+github_organizations = [
+  "https://github.com/lemma-finance",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/lemma-finance/studio"
 
 [[repo]]
 url = "https://github.com/lemma-finance/usdl-arbitrageur"
+

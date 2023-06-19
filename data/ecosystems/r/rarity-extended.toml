@@ -3,7 +3,9 @@ title = "Rarity Extended"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Rarity-Extended"]
+github_organizations = [
+  "https://github.com/Rarity-Extended",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Rarity-Extended/rarity_skins_drop"
 
 [[repo]]
 url = "https://github.com/Rarity-Extended/RarityExtended"
+

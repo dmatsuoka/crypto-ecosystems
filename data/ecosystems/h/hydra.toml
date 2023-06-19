@@ -3,7 +3,9 @@ title = "Hydra"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Hydra-Chain"]
+github_organizations = [
+  "https://github.com/Hydra-Chain",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Hydra-Chain/safe-react"
 
 [[repo]]
 url = "https://github.com/Hydra-Chain/slips"
+

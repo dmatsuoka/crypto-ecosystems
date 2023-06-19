@@ -3,7 +3,9 @@ title = "ArcBlock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArcBlock"]
+github_organizations = [
+  "https://github.com/ArcBlock",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/ArcBlock/apollo-ios"
 
 [[repo]]
 url = "https://github.com/ArcBlock/arc-bridge-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/arc-wallet-js-api"
@@ -125,6 +128,7 @@ url = "https://github.com/ArcBlock/code-coverage-assistant"
 
 [[repo]]
 url = "https://github.com/ArcBlock/colorcore"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/community-plugin-didlogo"
@@ -140,6 +144,7 @@ url = "https://github.com/ArcBlock/dappideas"
 
 [[repo]]
 url = "https://github.com/ArcBlock/dappsys"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/devcon-2020"
@@ -176,6 +181,7 @@ url = "https://github.com/ArcBlock/drivelist"
 
 [[repo]]
 url = "https://github.com/ArcBlock/ds-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/DSBridge-IOS"
@@ -242,6 +248,7 @@ url = "https://github.com/ArcBlock/forge-java-starter"
 
 [[repo]]
 url = "https://github.com/ArcBlock/forge-javascript-starters"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/forge-js"
@@ -341,6 +348,7 @@ url = "https://github.com/ArcBlock/ocap-javascript-sdk"
 
 [[repo]]
 url = "https://github.com/ArcBlock/ocap-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/ocap-react-native-starter"
@@ -356,6 +364,7 @@ url = "https://github.com/ArcBlock/ocap-vue-starter"
 
 [[repo]]
 url = "https://github.com/ArcBlock/open-assets-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/parity-ethereum"
@@ -452,3 +461,4 @@ url = "https://github.com/ArcBlock/www-docs"
 
 [[repo]]
 url = "https://github.com/blocklet/did-connect-v2-demo"
+

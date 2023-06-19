@@ -3,7 +3,9 @@ title = "Stratos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stratosnet"]
+github_organizations = [
+  "https://github.com/stratosnet",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/stratosnet/stratosnet.github.io"
 
 [[repo]]
 url = "https://github.com/stratosnet/token-lists"
+

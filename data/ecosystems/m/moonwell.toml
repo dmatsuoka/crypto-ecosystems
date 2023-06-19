@@ -3,7 +3,9 @@ title = "Moonwell"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonwell-fi"]
+github_organizations = [
+  "https://github.com/moonwell-fi",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,8 @@ url = "https://github.com/moonwell-fi/moonwell.js"
 
 [[repo]]
 url = "https://github.com/moonwell-fi/nomad-agents"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonwell-fi/proposal-verification"
+

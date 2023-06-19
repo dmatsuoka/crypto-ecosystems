@@ -3,7 +3,9 @@ title = "Ethereum Push Notification Service - EPNS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethereum-push-notification-service"]
+github_organizations = [
+  "https://github.com/ethereum-push-notification-service",
+]
 
 # Repositories
 [[repo]]
@@ -152,6 +154,7 @@ url = "https://github.com/ethereum-push-notification-service/push-opt-demo"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-protocol-snaps"
@@ -212,6 +215,8 @@ url = "https://github.com/ethereum-push-notification-service/showrunners-hellowo
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/showrunners-stress-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/snapshot-strategies"
+

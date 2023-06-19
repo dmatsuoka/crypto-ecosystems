@@ -3,7 +3,9 @@ title = "Only Dust"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/onlydustxyz"]
+github_organizations = [
+  "https://github.com/onlydustxyz",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/onlydustxyz/wait-on-action"
 
 [[repo]]
 url = "https://github.com/open-dust/cairo-foundry"
+

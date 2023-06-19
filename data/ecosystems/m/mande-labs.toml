@@ -3,7 +3,9 @@ title = "Mande Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mande-labs"]
+github_organizations = [
+  "https://github.com/mande-labs",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/mande-labs/testnet-2"
 
 [[repo]]
 url = "https://github.com/mande-labs/wasmd"
+

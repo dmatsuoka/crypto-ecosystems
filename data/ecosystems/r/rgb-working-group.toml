@@ -3,7 +3,9 @@ title = "RGB Working Group"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RGB-WG"]
+github_organizations = [
+  "https://github.com/RGB-WG",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/RGB-WG/uml"
 
 [[repo]]
 url = "https://github.com/RGB-WG/yellowpaper"
+

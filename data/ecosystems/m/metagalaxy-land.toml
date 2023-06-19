@@ -3,8 +3,11 @@ title = "Metagalaxy Land"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Metagalaxy-Land"]
+github_organizations = [
+  "https://github.com/Metagalaxy-Land",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Metagalaxy-Land/landing-page"
+

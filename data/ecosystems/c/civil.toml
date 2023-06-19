@@ -3,7 +3,9 @@ title = "Civil"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/joincivil"]
+github_organizations = [
+  "https://github.com/joincivil",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/joincivil/web3studio-sojourn"
 
 [[repo]]
 url = "https://github.com/joincivil/whitepaper"
+

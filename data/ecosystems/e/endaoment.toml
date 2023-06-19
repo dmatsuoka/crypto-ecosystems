@@ -3,7 +3,9 @@ title = "Endaoment"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/endaoment"]
+github_organizations = [
+  "https://github.com/endaoment",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/endaoment/gallery-for-good"
 
 [[repo]]
 url = "https://github.com/endaoment/meadow"
+

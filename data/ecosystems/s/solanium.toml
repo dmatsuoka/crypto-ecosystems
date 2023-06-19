@@ -3,7 +3,9 @@ title = "Solanium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solanium-io"]
+github_organizations = [
+  "https://github.com/solanium-io",
+]
 
 # Repositories
 [[repo]]
@@ -26,9 +28,11 @@ url = "https://github.com/solanium-io/solana-py"
 
 [[repo]]
 url = "https://github.com/solanium-io/streamflow-js-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/solanium-io/token-list"
 
 [[repo]]
 url = "https://github.com/solanium-io/wallet-adapter"
+

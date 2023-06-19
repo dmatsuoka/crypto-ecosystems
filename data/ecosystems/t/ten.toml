@@ -3,7 +3,9 @@ title = "TEN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tenfinance"]
+github_organizations = [
+  "https://github.com/tenfinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/tenfinance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/tenfinance/tenXimmunefi_YIELDEX"
+

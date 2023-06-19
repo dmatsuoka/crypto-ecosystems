@@ -3,7 +3,9 @@ title = "Bitchemical Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bitchemicaldefi"]
+github_organizations = [
+  "https://github.com/Bitchemicaldefi",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Bitchemicaldefi/Bitchemical-Token-BCHEC-"
 
 [[repo]]
 url = "https://github.com/Bitchemicaldefi/subgraphs"
+

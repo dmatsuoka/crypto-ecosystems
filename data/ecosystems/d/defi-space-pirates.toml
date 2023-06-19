@@ -3,7 +3,9 @@ title = "DeFi-Space-Pirates"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeFi-Space-Pirates"]
+github_organizations = [
+  "https://github.com/DeFi-Space-Pirates",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/DeFi-Space-Pirates/space-pirates-frontend"
 
 [[repo]]
 url = "https://github.com/DeFi-Space-Pirates/space-pirates-frontend-tron"
+

@@ -3,7 +3,9 @@ title = "HeroFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HeroFi"]
+github_organizations = [
+  "https://github.com/HeroFi",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/HeroFi/tokens"
 
 [[repo]]
 url = "https://github.com/rofi-platform/smart-contracts"
+

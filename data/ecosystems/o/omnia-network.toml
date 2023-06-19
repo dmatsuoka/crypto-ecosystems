@@ -3,7 +3,9 @@ title = "Omnia Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omnia-network"]
+github_organizations = [
+  "https://github.com/omnia-network",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/omnia-network/omnia_lighting_app"
 
 [[repo]]
 url = "https://github.com/omnia-network/OmniaManager"
+

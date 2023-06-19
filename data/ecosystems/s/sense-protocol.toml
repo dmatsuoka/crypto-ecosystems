@@ -3,7 +3,9 @@ title = "Sense Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sense-finance"]
+github_organizations = [
+  "https://github.com/sense-finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/sense-finance/space-v1"
 
 [[repo]]
 url = "https://github.com/sense-finance/yield-server"
+

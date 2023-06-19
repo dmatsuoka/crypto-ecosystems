@@ -3,7 +3,9 @@ title = "Bank of Staked"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EOSLaoMao"]
+github_organizations = [
+  "https://github.com/EOSLaoMao",
+]
 
 # Repositories
 [[repo]]
@@ -209,3 +211,4 @@ url = "https://github.com/EOSLaoMao/tropical-example-web-app"
 
 [[repo]]
 url = "https://github.com/EOSLaoMao/watchdog"
+

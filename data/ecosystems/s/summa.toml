@@ -3,7 +3,9 @@ title = "Summa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/summa-tx"]
+github_organizations = [
+  "https://github.com/summa-tx",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/summa-tx/riemann-workshop"
 
 [[repo]]
 url = "https://github.com/summa-tx/riemann-zeta"
+missing = true
 
 [[repo]]
 url = "https://github.com/summa-tx/SatMask"
@@ -77,3 +80,4 @@ url = "https://github.com/summa-tx/tbtc-workshop"
 
 [[repo]]
 url = "https://github.com/summa-tx/vue-cli"
+

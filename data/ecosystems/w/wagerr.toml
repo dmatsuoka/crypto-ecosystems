@@ -3,7 +3,9 @@ title = "Wagerr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wagerr"]
+github_organizations = [
+  "https://github.com/wagerr",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/wagerr/app-wgr-new"
 
 [[repo]]
 url = "https://github.com/wagerr/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/BetLikeANinjaAssets"
@@ -65,6 +68,7 @@ url = "https://github.com/wagerr/leveldb"
 
 [[repo]]
 url = "https://github.com/wagerr/mediapack"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/mnchecker"
@@ -86,6 +90,7 @@ url = "https://github.com/wagerr/wagerr-binance-bridge"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr-blockchain-snapshot-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/Wagerr-Blockchain-Snapshots"
@@ -182,3 +187,4 @@ url = "https://github.com/wagerr/web3modal"
 
 [[repo]]
 url = "https://github.com/wagerr/WindowsElectronTEMP"
+

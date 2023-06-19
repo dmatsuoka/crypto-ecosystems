@@ -3,7 +3,9 @@ title = "Keystone of Opportunity & Knowledge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KOK-Foundation"]
+github_organizations = [
+  "https://github.com/KOK-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,8 @@ url = "https://github.com/KOK-Foundation/ERC-20"
 
 [[repo]]
 url = "https://github.com/KOK-Foundation/KOK-Chain"
+missing = true
 
 [[repo]]
 url = "https://github.com/KOK-Foundation/solidity"
+

@@ -3,7 +3,9 @@ title = "NEX Market"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NEX-market"]
+github_organizations = [
+  "https://github.com/NEX-market",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/NEX-market/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/NEX-market/nex-contracts"
+

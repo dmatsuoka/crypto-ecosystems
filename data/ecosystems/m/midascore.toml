@@ -3,7 +3,9 @@ title = "MidasCore"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MidasCore"]
+github_organizations = [
+  "https://github.com/MidasCore",
+]
 
 # Repositories
 [[repo]]
@@ -71,6 +73,7 @@ url = "https://github.com/MidasCore/midasdollar-protocol"
 
 [[repo]]
 url = "https://github.com/MidasCore/midasgold-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/MidasCore/slips"
@@ -80,3 +83,4 @@ url = "https://github.com/MidasCore/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/MidasCore/solidity"
+

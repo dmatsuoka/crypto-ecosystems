@@ -3,7 +3,9 @@ title = "reNFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/re-nft"]
+github_organizations = [
+  "https://github.com/re-nft",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/re-nft/example-stop-rent-bot"
 
 [[repo]]
 url = "https://github.com/re-nft/front"
+missing = true
 
 [[repo]]
 url = "https://github.com/re-nft/landing-page"
@@ -83,3 +86,4 @@ url = "https://github.com/re-nft/white-elephant-contracts"
 
 [[repo]]
 url = "https://github.com/re-nft/white-elephant-front"
+

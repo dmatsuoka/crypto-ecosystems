@@ -3,7 +3,9 @@ title = "Gravity Bridge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Gravity-Bridge"]
+github_organizations = [
+  "https://github.com/Gravity-Bridge",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Gravity-Bridge/Gravity-Docs"
 
 [[repo]]
 url = "https://github.com/Gravity-Bridge/gravity-info-api"
+

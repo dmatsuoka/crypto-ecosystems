@@ -3,7 +3,9 @@ title = "Pandora Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pandora-Finance"]
+github_organizations = [
+  "https://github.com/Pandora-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Pandora-Finance/Paper"
 
 [[repo]]
 url = "https://github.com/Pandora-Finance/TokenContract"
+

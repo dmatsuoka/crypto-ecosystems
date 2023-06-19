@@ -3,7 +3,9 @@ title = "Glif"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/glifio"]
+github_organizations = [
+  "https://github.com/glifio",
+]
 
 # Repositories
 [[repo]]
@@ -185,3 +187,4 @@ url = "https://github.com/glifio/wfil"
 
 [[repo]]
 url = "https://github.com/glifio/wfil_reference"
+

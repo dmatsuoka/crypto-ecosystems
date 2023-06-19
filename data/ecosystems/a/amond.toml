@@ -3,7 +3,9 @@ title = "AmonD"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amond-project"]
+github_organizations = [
+  "https://github.com/amond-project",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/amond-project/plugins"
 
 [[repo]]
 url = "https://github.com/amond-project/Rocket.Chat"
+

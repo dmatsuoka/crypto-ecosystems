@@ -3,7 +3,9 @@ title = "EvitaDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EvitaDAO"]
+github_organizations = [
+  "https://github.com/EvitaDAO",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/EvitaDAO/tokenomics"
 
 [[repo]]
 url = "https://github.com/EvitaDAO/web2-to-web3-Solidity-dev"
+

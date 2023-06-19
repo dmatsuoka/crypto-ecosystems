@@ -3,11 +3,14 @@ title = "Kukai Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kukai-wallet"]
+github_organizations = [
+  "https://github.com/kukai-wallet",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/kukai-wallet/alphanet"
+missing = true
 
 [[repo]]
 url = "https://github.com/kukai-wallet/angular-cli"
@@ -89,3 +92,4 @@ url = "https://github.com/kukai-wallet/testnet"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/wallet"
+

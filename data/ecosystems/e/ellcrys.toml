@@ -3,7 +3,9 @@ title = "Ellcrys"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ellcrys"]
+github_organizations = [
+  "https://github.com/ellcrys",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/ellcrys/util"
 
 [[repo]]
 url = "https://github.com/ellcrys/vm-dockerfile"
+

@@ -3,7 +3,9 @@ title = "Cover Compared"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoverCompared"]
+github_organizations = [
+  "https://github.com/CoverCompared",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/CoverCompared/PolkaCover-MoonBeam-Chain"
 
 [[repo]]
 url = "https://github.com/CoverCompared/PolkaCover-Substrate-Chain"
+

@@ -3,7 +3,9 @@ title = "En-Tan-Mo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/entanmo"]
+github_organizations = [
+  "https://github.com/entanmo",
+]
 
 # Repositories
 [[repo]]
@@ -74,6 +76,7 @@ url = "https://github.com/entanmo/etm-wallet"
 
 [[repo]]
 url = "https://github.com/entanmo/etm-wallet-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/entanmo/etm-website"
@@ -98,3 +101,4 @@ url = "https://github.com/entanmo/node-sodium"
 
 [[repo]]
 url = "https://github.com/entanmo/z-schema"
+

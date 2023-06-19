@@ -3,7 +3,9 @@ title = "OFCOIN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ofproject"]
+github_organizations = [
+  "https://github.com/ofproject",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,5 @@ url = "https://github.com/ofproject/ofwallet"
 
 [[repo]]
 url = "https://github.com/ofproject/testA"
+missing = true
+

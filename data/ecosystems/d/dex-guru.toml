@@ -3,7 +3,9 @@ title = "Dex Guru"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dex-guru"]
+github_organizations = [
+  "https://github.com/dex-guru",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/dex-guru/assets"
 
 [[repo]]
 url = "https://github.com/dex-guru/block-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dex-guru/burning-tokens-list"
@@ -47,3 +50,4 @@ url = "https://github.com/dex-guru/tags"
 
 [[repo]]
 url = "https://github.com/dex-guru/tokens-with-fees"
+

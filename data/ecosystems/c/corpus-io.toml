@@ -3,7 +3,9 @@ title = "corpus.io"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/corpus-io"]
+github_organizations = [
+  "https://github.com/corpus-io",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/corpus-io/tokenize.it-smart-contracts"
 
 [[repo]]
 url = "https://github.com/corpus-io/web3auth-recovery"
+

@@ -3,7 +3,9 @@ title = "Constellation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Constellation-Labs"]
+github_organizations = [
+  "https://github.com/Constellation-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/Constellation-Labs/whitepaper-business"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/whitepaper-technical"
+

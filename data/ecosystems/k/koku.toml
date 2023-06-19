@@ -3,8 +3,11 @@ title = "Koku"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Koku-Stacks"]
+github_organizations = [
+  "https://github.com/Koku-Stacks",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Koku-Stacks/contracts"
+

@@ -3,7 +3,9 @@ title = "Pacoca"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pacoca-io"]
+github_organizations = [
+  "https://github.com/Pacoca-io",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,8 @@ url = "https://github.com/Pacoca-io/pacoca-pools-subgraph"
 
 [[repo]]
 url = "https://github.com/Pacoca-io/utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/Pacoca-io/voting-power-subgraph"
+

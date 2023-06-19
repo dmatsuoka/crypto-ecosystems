@@ -3,7 +3,9 @@ title = "alphagen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alpha-sol"]
+github_organizations = [
+  "https://github.com/alpha-sol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/alpha-sol/alpha-frontend"
 
 [[repo]]
 url = "https://github.com/alpha-sol/token-list"
+

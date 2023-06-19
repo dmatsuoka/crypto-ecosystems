@@ -3,7 +3,9 @@ title = "Unlock Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unlock-protocol"]
+github_organizations = [
+  "https://github.com/unlock-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/unlock-protocol/alphatweet"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/alphatwt"
+missing = true
 
 [[repo]]
 url = "https://github.com/unlock-protocol/awesome-unlock"
@@ -197,3 +200,4 @@ url = "https://github.com/unlock-protocol/webtorrent"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/writers-guild-dao"
+

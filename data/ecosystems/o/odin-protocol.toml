@@ -3,7 +3,9 @@ title = "Odin Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ODIN-PROTOCOL"]
+github_organizations = [
+  "https://github.com/ODIN-PROTOCOL",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/ODIN-PROTOCOL/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/ODIN-PROTOCOL/slips"
+

@@ -3,7 +3,9 @@ title = "Bloceducare"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bloceducare"]
+github_organizations = [
+  "https://github.com/Bloceducare",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/Bloceducare/eth-todo"
 
 [[repo]]
 url = "https://github.com/Bloceducare/fractional-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bloceducare/frontend-v3"
@@ -116,6 +119,7 @@ url = "https://github.com/Bloceducare/split_swap"
 
 [[repo]]
 url = "https://github.com/Bloceducare/SplitSwap_contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bloceducare/Ticketing"
@@ -167,3 +171,4 @@ url = "https://github.com/Bloceducare/WKDLaunchPad"
 
 [[repo]]
 url = "https://github.com/Bloceducare/wkdswap-frontend"
+

@@ -3,7 +3,9 @@ title = "TrueBit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TrueBitFoundation"]
+github_organizations = [
+  "https://github.com/TrueBitFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/TrueBitFoundation/incentive-layer"
 
 [[repo]]
 url = "https://github.com/TrueBitFoundation/jit-runner"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrueBitFoundation/ocaml-offchain"
@@ -53,6 +56,7 @@ url = "https://github.com/TrueBitFoundation/truebit-toolchain"
 
 [[repo]]
 url = "https://github.com/TrueBitFoundation/truebit-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrueBitFoundation/wasm-computation-layer"
@@ -71,3 +75,4 @@ url = "https://github.com/TruebitProtocol/interactive-coin-offerings"
 
 [[repo]]
 url = "https://github.com/TruebitProtocol/wiki"
+

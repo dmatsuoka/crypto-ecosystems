@@ -3,7 +3,9 @@ title = "Paralink Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paralink-network"]
+github_organizations = [
+  "https://github.com/paralink-network",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/paralink-network/paralink-ui"
 
 [[repo]]
 url = "https://github.com/paralink-network/solidity-contracts"
+

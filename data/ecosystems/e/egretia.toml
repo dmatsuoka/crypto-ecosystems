@@ -3,7 +3,9 @@ title = "Egretia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Egretia"]
+github_organizations = [
+  "https://github.com/Egretia",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/Egretia/ethService"
 
 [[repo]]
 url = "https://github.com/Egretia/whitepaper"
+

@@ -3,7 +3,9 @@ title = "Nyanswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nyanswap"]
+github_organizations = [
+  "https://github.com/Nyanswap",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Nyanswap/nyanswap-sdk"
 
 [[repo]]
 url = "https://github.com/Nyanswap/subgraph"
+

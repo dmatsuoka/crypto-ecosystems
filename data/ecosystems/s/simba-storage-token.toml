@@ -3,7 +3,9 @@ title = "SIMBA Storage Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SIMBAstorage"]
+github_organizations = [
+  "https://github.com/SIMBAstorage",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/SIMBAstorage/SIMBA-Stablecoin"
 
 [[repo]]
 url = "https://github.com/SIMBAstorage/SIMBA-Storage-Token"
+

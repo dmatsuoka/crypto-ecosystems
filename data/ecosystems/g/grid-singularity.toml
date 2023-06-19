@@ -3,23 +3,29 @@ title = "Grid Singularity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gridsingularity"]
+github_organizations = [
+  "https://github.com/gridsingularity",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/gridsingularity/canvas-node-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/d3a"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/devops_challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/DEX-Grants-Program"
 
 [[repo]]
 url = "https://github.com/gridsingularity/fun-with-graphs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/gsy-dex"
@@ -41,18 +47,22 @@ url = "https://github.com/gridsingularity/gsy-myco-sdk"
 
 [[repo]]
 url = "https://github.com/gridsingularity/gsy-parachain"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/hackathon_uniswap_model"
 
 [[repo]]
 url = "https://github.com/gridsingularity/interview_tasks"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/myco_client_rust"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/open-sustainable-technology"
 
 [[repo]]
 url = "https://github.com/gridsingularity/py-substrate-interface"
+

@@ -3,7 +3,9 @@ title = "Graate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Graate-Org"]
+github_organizations = [
+  "https://github.com/Graate-Org",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Graate-Org/NEAR-rock-paper-scissors"
 
 [[repo]]
 url = "https://github.com/Graate-Org/NEAR-rock-paper-scissors-II"
+

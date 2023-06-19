@@ -3,7 +3,9 @@ title = "ETC Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/etcswap"]
+github_organizations = [
+  "https://github.com/etcswap",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/etcswap/v2-sdk"
 
 [[repo]]
 url = "https://github.com/etcswap/v2-subgraph"
+

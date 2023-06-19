@@ -3,7 +3,9 @@ title = "HYCON"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Team-Hycon"]
+github_organizations = [
+  "https://github.com/Team-Hycon",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/Team-Hycon/xmrig-amd"
 
 [[repo]]
 url = "https://github.com/Team-Hycon/xmrig-nvidia"
+

@@ -3,7 +3,9 @@ title = "Across Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/across-protocol"]
+github_organizations = [
+  "https://github.com/across-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/across-protocol/scraper-api"
 
 [[repo]]
 url = "https://github.com/across-protocol/sdk-v2"
+

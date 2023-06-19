@@ -3,8 +3,11 @@ title = "Solana Playground"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solana-playground"]
+github_organizations = [
+  "https://github.com/solana-playground",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/solana-playground/solana-playground"
+

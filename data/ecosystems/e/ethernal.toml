@@ -3,7 +3,9 @@ title = "Ethernal"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tryethernal"]
+github_organizations = [
+  "https://github.com/tryethernal",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,5 @@ url = "https://github.com/tryethernal/scripts"
 
 [[repo]]
 url = "https://github.com/tryethernal/ssl-root-cas.js"
+missing = true
+

@@ -3,7 +3,9 @@ title = "Twilight"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/twilight-project"]
+github_organizations = [
+  "https://github.com/twilight-project",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,9 @@ url = "https://github.com/twilight-project/nyks-explorer"
 
 [[repo]]
 url = "https://github.com/twilight-project/twilight"
+missing = true
 
 [[repo]]
 url = "https://github.com/twilight-project/validity-gadget"
+missing = true
+

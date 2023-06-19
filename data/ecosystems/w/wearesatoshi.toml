@@ -3,7 +3,9 @@ title = "WeAreSatoshi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WeAreSatoshi"]
+github_organizations = [
+  "https://github.com/WeAreSatoshi",
+]
 
 # Repositories
 [[repo]]
@@ -11,12 +13,15 @@ url = "https://github.com/WeAreSatoshi/WeAreSatoshi"
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi-Archives"
+missing = true
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi-Binaries"
+missing = true
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi2"
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/Webpage"
+

@@ -3,7 +3,9 @@ title = "Ultiledger"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ultiledger"]
+github_organizations = [
+  "https://github.com/ultiledger",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/ultiledger/utoken"
 
 [[repo]]
 url = "https://github.com/ultiledger/utoken.cash"
+

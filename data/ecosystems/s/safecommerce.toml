@@ -3,7 +3,9 @@ title = "SafeCommerce"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/safecommerce"]
+github_organizations = [
+  "https://github.com/safecommerce",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/safecommerce/uniswap-v2-subgraph"
 
 [[repo]]
 url = "https://github.com/safecommerce/zksnark-verifier-standard"
+

@@ -3,7 +3,9 @@ title = "Fluidity Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fluidity-money"]
+github_organizations = [
+  "https://github.com/fluidity-money",
+]
 
 # Repositories
 [[repo]]
@@ -32,9 +34,11 @@ url = "https://github.com/fluidity-money/solana-token-wrapping-contract"
 
 [[repo]]
 url = "https://github.com/fluidity-money/status.fluidity.money"
+missing = true
 
 [[repo]]
 url = "https://github.com/fluidity-money/talks"
 
 [[repo]]
 url = "https://github.com/fluidity-money/whitepapers"
+

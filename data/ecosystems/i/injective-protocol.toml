@@ -3,7 +3,9 @@ title = "Injective Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InjectiveLabs"]
+github_organizations = [
+  "https://github.com/InjectiveLabs",
+]
 
 # Repositories
 [[repo]]
@@ -89,6 +91,7 @@ url = "https://github.com/InjectiveLabs/explorer-core-plugins"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/fe-components-library"
+missing = true
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/firehose-cosmos"
@@ -167,6 +170,7 @@ url = "https://github.com/InjectiveLabs/injective-evm-explorer"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-explorer-legacy"
@@ -200,6 +204,7 @@ url = "https://github.com/InjectiveLabs/injective-protocol-specification"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-sdk-ts-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-simple-sc-counter-ui"
@@ -224,6 +229,7 @@ url = "https://github.com/InjectiveLabs/injective-ui"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-ui-components"
+missing = true
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/jsonc"
@@ -269,6 +275,7 @@ url = "https://github.com/InjectiveLabs/peggo"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/peggy"
+missing = true
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/relayer"
@@ -326,3 +333,5 @@ url = "https://github.com/InjectiveLabs/wasmd"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/website"
+missing = true
+

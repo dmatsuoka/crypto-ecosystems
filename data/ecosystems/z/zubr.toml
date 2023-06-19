@@ -3,7 +3,9 @@ title = "ZUBR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zubr-exchange"]
+github_organizations = [
+  "https://github.com/zubr-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/zubr-exchange/solana"
 
 [[repo]]
 url = "https://github.com/zubr-exchange/wormhole-networks"
+

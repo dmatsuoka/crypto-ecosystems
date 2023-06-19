@@ -3,7 +3,9 @@ title = "CarbonPath"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/carbonpathio"]
+github_organizations = [
+  "https://github.com/carbonpathio",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,8 @@ url = "https://github.com/carbonpathio/carbonpath-smart-contract"
 
 [[repo]]
 url = "https://github.com/carbonpathio/smart-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/carbonpathio/web-app"
+

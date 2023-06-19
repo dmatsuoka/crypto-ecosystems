@@ -3,7 +3,9 @@ title = "Blocks."
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Blocks-Editor"]
+github_organizations = [
+  "https://github.com/Blocks-Editor",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Blocks-Editor/motoko-playground"
 
 [[repo]]
 url = "https://github.com/Blocks-Editor/react-blocks-editor"
+

@@ -3,7 +3,9 @@ title = "Terraswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/terraswap"]
+github_organizations = [
+  "https://github.com/terraswap",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/terraswap/terraswap-service"
 
 [[repo]]
 url = "https://github.com/terraswap/terraswap-web-app"
+

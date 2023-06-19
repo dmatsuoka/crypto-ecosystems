@@ -3,7 +3,9 @@ title = "Thesis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thesis"]
+github_organizations = [
+  "https://github.com/thesis",
+]
 
 # Repositories
 [[repo]]
@@ -224,3 +226,4 @@ url = "https://github.com/thesis/zcash-proposal"
 
 [[repo]]
 url = "https://github.com/thesis/zendesk"
+

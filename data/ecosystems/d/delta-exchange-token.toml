@@ -3,7 +3,9 @@ title = "Delta Exchange Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/delta-exchange"]
+github_organizations = [
+  "https://github.com/delta-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/delta-exchange/tron-wallet-hd"
 
 [[repo]]
 url = "https://github.com/delta-exchange/user-guide"
+

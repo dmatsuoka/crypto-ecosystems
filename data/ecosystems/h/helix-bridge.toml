@@ -3,7 +3,9 @@ title = "Helix Bridge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/helix-bridge"]
+github_organizations = [
+  "https://github.com/helix-bridge",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/helix-bridge/relayer"
 
 [[repo]]
 url = "https://github.com/helix-bridge/wormhole-ui"
+

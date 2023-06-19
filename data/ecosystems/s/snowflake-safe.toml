@@ -3,7 +3,9 @@ title = "Snowflake Safe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/snowflake-so"]
+github_organizations = [
+  "https://github.com/snowflake-so",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/snowflake-so/snowflake-sdk"
 
 [[repo]]
 url = "https://github.com/snowflake-so/token-list"
+

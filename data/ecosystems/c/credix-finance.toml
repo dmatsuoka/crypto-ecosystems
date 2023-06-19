@@ -3,7 +3,9 @@ title = "Credix Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/credix-finance"]
+github_organizations = [
+  "https://github.com/credix-finance",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/credix-finance/token-list"
 
 [[repo]]
 url = "https://github.com/credix-finance/yield-server"
+

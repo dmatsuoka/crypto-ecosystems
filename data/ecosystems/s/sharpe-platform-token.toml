@@ -3,7 +3,9 @@ title = "Sharpe Platform Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sharpe-capital"]
+github_organizations = [
+  "https://github.com/sharpe-capital",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/sharpe-capital/XChange"
 
 [[repo]]
 url = "https://github.com/sharpe-capital/xchange-stream"
+

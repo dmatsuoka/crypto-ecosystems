@@ -3,11 +3,14 @@ title = "SteakBank Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/steakbankfinance"]
+github_organizations = [
+  "https://github.com/steakbankfinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/steakbankfinance/avalanche-staking-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/steakbankfinance/compound-protocol"
@@ -17,15 +20,21 @@ url = "https://github.com/steakbankfinance/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/steakbankfinance/snapshot-stake-lp"
+missing = true
 
 [[repo]]
 url = "https://github.com/steakbankfinance/steakbank-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/steakbankfinance/steakbank-lottery"
+missing = true
 
 [[repo]]
 url = "https://github.com/steakbankfinance/steakbank-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/steakbankfinance/token-economy-v2"
+missing = true
+

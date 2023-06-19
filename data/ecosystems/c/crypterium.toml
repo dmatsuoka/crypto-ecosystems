@@ -3,7 +3,9 @@ title = "Crypterium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptiumlabs"]
+github_organizations = [
+  "https://github.com/cryptiumlabs",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/cryptiumlabs/tezos-governance"
 
 [[repo]]
 url = "https://github.com/cryptiumlabs/validator-profiles"
+

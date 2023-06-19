@@ -3,7 +3,9 @@ title = "CoinFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coinfi"]
+github_organizations = [
+  "https://github.com/coinfi",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/coinfi/tectonicdb"
 
 [[repo]]
 url = "https://github.com/coinfi/token-launch"
+

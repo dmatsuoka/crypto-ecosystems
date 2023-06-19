@@ -3,7 +3,9 @@ title = "blockmountain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bmresearch"]
+github_organizations = [
+  "https://github.com/bmresearch",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/bmresearch/Solnet.Zeta"
 
 [[repo]]
 url = "https://github.com/bmresearch/TradingView"
+

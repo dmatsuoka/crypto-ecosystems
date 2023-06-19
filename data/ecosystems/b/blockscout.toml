@@ -3,7 +3,9 @@ title = "Blockscout"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockscout"]
+github_organizations = [
+  "https://github.com/blockscout",
+]
 
 # Repositories
 [[repo]]
@@ -74,9 +76,11 @@ url = "https://github.com/blockscout/transaction-decoder"
 
 [[repo]]
 url = "https://github.com/blockscout/verification"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockscout/verified-smart-contracts"
 
 [[repo]]
 url = "https://github.com/blockscout/websocket_client"
+

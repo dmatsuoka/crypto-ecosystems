@@ -3,7 +3,9 @@ title = "Porta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/porta-network"]
+github_organizations = [
+  "https://github.com/porta-network",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/porta-network/substrate-parachain-template"
 
 [[repo]]
 url = "https://github.com/porta-network/time-lock-wallets"
+

@@ -3,7 +3,9 @@ title = "Aphelion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aphtoken"]
+github_organizations = [
+  "https://github.com/aphtoken",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/aphtoken/proposals"
 
 [[repo]]
 url = "https://github.com/aphtoken/WebSite"
+

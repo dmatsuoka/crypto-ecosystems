@@ -3,7 +3,9 @@ title = "RRChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RRNCIO"]
+github_organizations = [
+  "https://github.com/RRNCIO",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/RRNCIO/RRCloud"
 
 [[repo]]
 url = "https://github.com/RRNCIO/RRMinerPool"
+

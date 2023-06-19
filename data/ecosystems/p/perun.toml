@@ -3,7 +3,9 @@ title = "Perun"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/perun-network"]
+github_organizations = [
+  "https://github.com/perun-network",
+]
 
 # Repositories
 [[repo]]
@@ -155,6 +157,7 @@ url = "https://github.com/perun-network/perun-proposals"
 
 [[repo]]
 url = "https://github.com/perun-network/perun-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/perun-network/poly-go"
@@ -164,3 +167,4 @@ url = "https://github.com/perun-network/slate"
 
 [[repo]]
 url = "https://github.com/perun-network/static"
+

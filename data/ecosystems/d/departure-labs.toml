@@ -3,7 +3,9 @@ title = "Departure Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DepartureLabsIC"]
+github_organizations = [
+  "https://github.com/DepartureLabsIC",
+]
 
 # Repositories
 [[repo]]
@@ -77,6 +79,8 @@ url = "https://github.com/DepartureLabsIC/revo"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/rs_quark"
+missing = true
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/Standards"
+

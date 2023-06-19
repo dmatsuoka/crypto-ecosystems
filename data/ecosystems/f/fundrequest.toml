@@ -3,7 +3,9 @@ title = "FundRequest"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FundRequest"]
+github_organizations = [
+  "https://github.com/FundRequest",
+]
 
 # Repositories
 [[repo]]
@@ -107,9 +109,11 @@ url = "https://github.com/FundRequest/vesting-wallets"
 
 [[repo]]
 url = "https://github.com/FundRequest/website"
+missing = true
 
 [[repo]]
 url = "https://github.com/FundRequest/website2.0"
 
 [[repo]]
 url = "https://github.com/FundRequest/Whitepaper"
+

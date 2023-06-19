@@ -3,7 +3,9 @@ title = "UTU Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/utu-protocol"]
+github_organizations = [
+  "https://github.com/utu-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/utu-protocol/utu-trust-token-listener"
 
 [[repo]]
 url = "https://github.com/utu-protocol/utu-trust-token-solidity"
+

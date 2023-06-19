@@ -3,7 +3,9 @@ title = "Vyper"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vyperlang"]
+github_organizations = [
+  "https://github.com/vyperlang",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/vyperlang/vyper-test-durations"
 
 [[repo]]
 url = "https://github.com/vyperlang/vyperlang.github.io"
+

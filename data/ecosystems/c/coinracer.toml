@@ -3,7 +3,9 @@ title = "Coinracer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Coinracer-io"]
+github_organizations = [
+  "https://github.com/Coinracer-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Coinracer-io/assets"
 
 [[repo]]
 url = "https://github.com/Coinracer-io/CRACE-contracts"
+

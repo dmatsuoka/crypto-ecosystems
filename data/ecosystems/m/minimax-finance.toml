@@ -3,7 +3,10 @@ title = "Minimax Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/minimaxdefi", "https://github.com/minimaxfinance"]
+github_organizations = [
+  "https://github.com/minimaxdefi",
+  "https://github.com/minimaxfinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +14,4 @@ url = "https://github.com/minimaxdefi/contracts"
 
 [[repo]]
 url = "https://github.com/minimaxfinance/contracts"
+

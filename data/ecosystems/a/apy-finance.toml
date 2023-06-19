@@ -3,7 +3,9 @@ title = "APY.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/apy-finance"]
+github_organizations = [
+  "https://github.com/apy-finance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/apy-finance/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/apy-finance/Unipool"
+

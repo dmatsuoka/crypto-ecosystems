@@ -3,7 +3,9 @@ title = "Espresso Systems"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EspressoSystems"]
+github_organizations = [
+  "https://github.com/EspressoSystems",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/EspressoSystems/tide-disco"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/veri-zexe"
+

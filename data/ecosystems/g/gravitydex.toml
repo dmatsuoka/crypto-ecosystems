@@ -3,7 +3,9 @@ title = "GravityDEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/b-harvest"]
+github_organizations = [
+  "https://github.com/b-harvest",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/b-harvest/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/b-harvest/cre_telegram_bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/crescent"
@@ -263,6 +266,7 @@ url = "https://github.com/b-harvest/random-price-oracle"
 
 [[repo]]
 url = "https://github.com/b-harvest/randombot"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/relayer"
@@ -338,6 +342,7 @@ url = "https://github.com/b-harvest/tx_race"
 
 [[repo]]
 url = "https://github.com/b-harvest/umee-autod"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/umee-networks-to-be-deleted"
@@ -359,3 +364,4 @@ url = "https://github.com/b-harvest/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/b-harvest/zk-rollup-module-for-Cosmos-SDK"
+

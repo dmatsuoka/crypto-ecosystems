@@ -3,8 +3,11 @@ title = "Voter Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/voterFinance"]
+github_organizations = [
+  "https://github.com/voterFinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/voterFinance/voterfinance-contract"
+

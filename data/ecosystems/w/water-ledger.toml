@@ -3,7 +3,9 @@ title = "Water Ledger"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/civicledger"]
+github_organizations = [
+  "https://github.com/civicledger",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/civicledger/A-NZ-PEPPOL-BIS-3.0"
 
 [[repo]]
 url = "https://github.com/civicledger/aud-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/civicledger/aud-infra"
@@ -56,6 +59,8 @@ url = "https://github.com/civicledger/waterledger-infra"
 
 [[repo]]
 url = "https://github.com/civicledger/waterledger-landing2"
+missing = true
 
 [[repo]]
 url = "https://github.com/civicledger/waterledger-whitepaper"
+

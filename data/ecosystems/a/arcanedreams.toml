@@ -3,7 +3,9 @@ title = "ArcaneDreams"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArcaneDreams"]
+github_organizations = [
+  "https://github.com/ArcaneDreams",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/ArcaneDreams/ArcaneManagedFbx"
 
 [[repo]]
 url = "https://github.com/ArcaneDreams/SharpDX"
+

@@ -3,7 +3,9 @@ title = "Elision"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/elision-io"]
+github_organizations = [
+  "https://github.com/elision-io",
+]
 
 # Repositories
 [[repo]]
@@ -24,9 +26,11 @@ url = "https://github.com/elision-labs/docs"
 
 [[repo]]
 url = "https://github.com/elision-labs/elision-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/elision-labs/nearcore"
 
 [[repo]]
 url = "https://github.com/elision-labs/webapp"
+

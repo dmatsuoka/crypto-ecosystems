@@ -3,7 +3,9 @@ title = "Ravencoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RavenProject"]
+github_organizations = [
+  "https://github.com/RavenProject",
+]
 
 # Repositories
 [[repo]]
@@ -39,3 +41,4 @@ url = "https://github.com/RavenProject/seed-node-fallback-domain-config"
 
 [[repo]]
 url = "https://github.com/RavenProject/SPV"
+

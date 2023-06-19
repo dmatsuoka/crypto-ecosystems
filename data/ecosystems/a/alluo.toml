@@ -3,7 +3,9 @@ title = "Alluo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GetAlluo"]
+github_organizations = [
+  "https://github.com/GetAlluo",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/GetAlluo/React95"
 
 [[repo]]
 url = "https://github.com/GetAlluo/yield-booster"
+

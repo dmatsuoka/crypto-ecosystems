@@ -3,7 +3,9 @@ title = "Oya Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oya-protocol"]
+github_organizations = [
+  "https://github.com/oya-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/oya-protocol/hackfs"
 
 [[repo]]
 url = "https://github.com/oya-protocol/oya-market"
+

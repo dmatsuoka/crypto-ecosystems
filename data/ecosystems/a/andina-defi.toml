@@ -3,7 +3,9 @@ title = "Andina Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AndinaDeFi"]
+github_organizations = [
+  "https://github.com/AndinaDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/AndinaDeFi/wallet-connect-swift"
 
 [[repo]]
 url = "https://github.com/AndinaDeFi/walletconnect-dart-sdk"
+

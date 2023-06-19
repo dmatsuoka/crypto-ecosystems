@@ -3,7 +3,9 @@ title = "BOTLabs Trusted Entity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BTE-Trusted-Entity"]
+github_organizations = [
+  "https://github.com/BTE-Trusted-Entity",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/BTE-Trusted-Entity/stakeboard"
 
 [[repo]]
 url = "https://github.com/BTE-Trusted-Entity/txd-example-clients"
+

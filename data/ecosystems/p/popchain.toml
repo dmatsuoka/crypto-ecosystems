@@ -3,7 +3,9 @@ title = "POPCHAIN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PopchainOrg"]
+github_organizations = [
+  "https://github.com/PopchainOrg",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/PopchainOrg/poprig"
 
 [[repo]]
 url = "https://github.com/PopchainOrg/poprig-deps"
+

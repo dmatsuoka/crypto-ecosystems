@@ -3,7 +3,9 @@ title = "Palomachain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/palomachain"]
+github_organizations = [
+  "https://github.com/palomachain",
+]
 
 # Repositories
 [[repo]]
@@ -50,18 +52,22 @@ url = "https://github.com/palomachain/go-ethereum"
 
 [[repo]]
 url = "https://github.com/palomachain/kitchen.utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/ledger-paloma-js"
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-cosmwasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-uni-v2-cosmwasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-vyper"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/log-finder-ruleset"
@@ -143,3 +149,4 @@ url = "https://github.com/palomachain/website"
 
 [[repo]]
 url = "https://github.com/palomachain/wormhole"
+

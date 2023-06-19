@@ -3,7 +3,9 @@ title = "PAID Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PAIDNetwork"]
+github_organizations = [
+  "https://github.com/PAIDNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -29,9 +31,11 @@ url = "https://github.com/PAIDNetwork/dnssec-oracle"
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/ethsingapore-zk-dai"
+missing = true
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/frontier"
+missing = true
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/General-Grants-Program"
@@ -89,15 +93,18 @@ url = "https://github.com/PAIDNetwork/pallet-did"
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/polkadot"
+missing = true
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/Protocol"
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/react-components-library-boilerplate"
+missing = true
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/react-mustache-template-component"
+missing = true
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/soli-forms"
@@ -158,3 +165,4 @@ url = "https://github.com/PAIDNetwork/vuex-solido"
 
 [[repo]]
 url = "https://github.com/PAIDNetwork/ZAP-Tech"
+

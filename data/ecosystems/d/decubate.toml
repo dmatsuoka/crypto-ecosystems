@@ -3,7 +3,9 @@ title = "Decubate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Decubate-com"]
+github_organizations = [
+  "https://github.com/Decubate-com",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Decubate-com/public-repository"
 
 [[repo]]
 url = "https://github.com/Decubate-com/synpress"
+

@@ -3,7 +3,9 @@ title = "OIN Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oinfinance"]
+github_organizations = [
+  "https://github.com/oinfinance",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/oinfinance/Old-Website"
 
 [[repo]]
 url = "https://github.com/oinfinance/STPT-USTP-LPToken-Stake"
+

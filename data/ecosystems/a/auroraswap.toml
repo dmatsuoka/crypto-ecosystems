@@ -3,7 +3,9 @@ title = "AuroraSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AuroraSwap"]
+github_organizations = [
+  "https://github.com/AuroraSwap",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/AuroraSwap/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/AuroraSwap/sdk"
+

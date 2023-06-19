@@ -3,7 +3,9 @@ title = "Giveth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Giveth"]
+github_organizations = [
+  "https://github.com/Giveth",
+]
 
 # Repositories
 [[repo]]
@@ -323,9 +325,11 @@ url = "https://github.com/Giveth/solcpiler"
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred-instance"
@@ -338,6 +342,7 @@ url = "https://github.com/Giveth/thegraph-gatsby-example"
 
 [[repo]]
 url = "https://github.com/Giveth/tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/twitter-analytics-dashboard"
@@ -380,3 +385,4 @@ url = "https://github.com/Giveth/yogatoken"
 
 [[repo]]
 url = "https://github.com/Giveth/youtube-video-backup"
+

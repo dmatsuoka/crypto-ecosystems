@@ -3,7 +3,9 @@ title = "Cover"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoverProtocol"]
+github_organizations = [
+  "https://github.com/CoverProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/CoverProtocol/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/CoverProtocol/yGift-frontend"
+

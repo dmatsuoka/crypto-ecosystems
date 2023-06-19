@@ -3,7 +3,9 @@ title = "Paint Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PaintSwap"]
+github_organizations = [
+  "https://github.com/PaintSwap",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/PaintSwap/paintswap-marketplace-listener"
 
 [[repo]]
 url = "https://github.com/PaintSwap/paintswap-subgraph"
+

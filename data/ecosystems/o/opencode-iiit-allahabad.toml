@@ -3,7 +3,9 @@ title = "OpenCode IIIT Allahabad"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opencodeiiita"]
+github_organizations = [
+  "https://github.com/opencodeiiita",
+]
 
 # Repositories
 [[repo]]
@@ -239,3 +241,4 @@ url = "https://github.com/opencodeiiita/WorkWise"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/ZoombieMania-"
+

@@ -3,7 +3,9 @@ title = "Spaceranch DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpaceRanchDAO"]
+github_organizations = [
+  "https://github.com/SpaceRanchDAO",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/SpaceRanchDAO/space-ranch-nft-contract"
 
 [[repo]]
 url = "https://github.com/SpaceRanchDAO/Website"
+

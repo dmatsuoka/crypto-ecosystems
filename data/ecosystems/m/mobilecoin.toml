@@ -3,7 +3,9 @@ title = "MobileCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mobilecoinofficial"]
+github_organizations = [
+  "https://github.com/mobilecoinofficial",
+]
 
 # Repositories
 [[repo]]
@@ -146,6 +148,7 @@ url = "https://github.com/mobilecoinofficial/json"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/kube-leader-election"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/ledger-mob"
@@ -257,6 +260,7 @@ url = "https://github.com/mobilecoinofficial/serde"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/Signal-Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/Signal-Pods"
@@ -269,6 +273,7 @@ url = "https://github.com/mobilecoinofficial/slog"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/tf-mc-testnet-consensus-network"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/thrift"
@@ -278,3 +283,4 @@ url = "https://github.com/mobilecoinofficial/traits"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/trezor-agent"
+

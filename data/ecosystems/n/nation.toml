@@ -3,7 +3,9 @@ title = "NATION"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nation-io"]
+github_organizations = [
+  "https://github.com/nation-io",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/nation-io/oyster"
 
 [[repo]]
 url = "https://github.com/nation-io/prima_tracing.rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/nation-io/solana-dao-sdk"
@@ -41,3 +44,4 @@ url = "https://github.com/nation-io/vellum-contracts"
 
 [[repo]]
 url = "https://github.com/nation-io/wl-luck-shopify-docs"
+

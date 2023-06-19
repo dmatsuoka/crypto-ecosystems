@@ -3,7 +3,9 @@ title = "Protea"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProteaNetwork"]
+github_organizations = [
+  "https://github.com/ProteaNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/ProteaNetwork/ProteaMeetup"
 
 [[repo]]
 url = "https://github.com/ProteaNetwork/Uport-Proof-of-Attendance"
+

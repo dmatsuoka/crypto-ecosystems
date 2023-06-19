@@ -3,7 +3,9 @@ title = "Sound Money Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/soundmoneycoin"]
+github_organizations = [
+  "https://github.com/soundmoneycoin",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/soundmoneycoin/SovWallet-Browser_Extension"
 
 [[repo]]
 url = "https://github.com/soundmoneycoin/web-minter-v2"
+

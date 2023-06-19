@@ -3,7 +3,9 @@ title = "Toucan Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ToucanProtocol"]
+github_organizations = [
+  "https://github.com/ToucanProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/ToucanProtocol/toucan-sdk"
 
 [[repo]]
 url = "https://github.com/ToucanProtocol/web3-react"
+

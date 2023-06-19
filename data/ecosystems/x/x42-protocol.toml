@@ -3,7 +3,9 @@ title = "x42 Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/x42protocol"]
+github_organizations = [
+  "https://github.com/x42protocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/x42protocol/xServer"
 
 [[repo]]
 url = "https://github.com/x42protocol/xTumbler"
+

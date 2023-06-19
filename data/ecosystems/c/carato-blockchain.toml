@@ -3,7 +3,9 @@ title = "Carato Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/carato-blockchain"]
+github_organizations = [
+  "https://github.com/carato-blockchain",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/carato-dao/wallet"
 
 [[repo]]
 url = "https://github.com/carato-dao/website"
+

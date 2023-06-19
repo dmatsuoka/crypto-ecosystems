@@ -3,7 +3,9 @@ title = "Dafi Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DAFIProtocol"]
+github_organizations = [
+  "https://github.com/DAFIProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/DAFIProtocol/DFY"
 
 [[repo]]
 url = "https://github.com/DAFIProtocol/DFYServer"
+

@@ -3,7 +3,9 @@ title = "Apeworx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ApeWorX"]
+github_organizations = [
+  "https://github.com/ApeWorX",
+]
 
 # Repositories
 [[repo]]
@@ -155,6 +157,7 @@ url = "https://github.com/ApeWorX/iroh"
 
 [[repo]]
 url = "https://github.com/ApeWorX/lazyasd"
+missing = true
 
 [[repo]]
 url = "https://github.com/ApeWorX/medici-contracts-demo"
@@ -191,6 +194,8 @@ url = "https://github.com/ApeWorX/revm"
 
 [[repo]]
 url = "https://github.com/ApeWorX/simple-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/ApeWorX/walletconnect-py"
+

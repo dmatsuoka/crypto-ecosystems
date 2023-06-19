@@ -3,7 +3,9 @@ title = "Piconbello"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/piconbello"]
+github_organizations = [
+  "https://github.com/piconbello",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/piconbello/pb"
 
 [[repo]]
 url = "https://github.com/piconbello/web"
+

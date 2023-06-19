@@ -3,7 +3,9 @@ title = "BSN Spartan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BSN-Spartan"]
+github_organizations = [
+  "https://github.com/BSN-Spartan",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/BSN-Spartan/Persistent-Storage-Contract"
 
 [[repo]]
 url = "https://github.com/BSN-Spartan/Simple-Storage-Contract"
+

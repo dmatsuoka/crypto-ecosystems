@@ -3,7 +3,9 @@ title = "Credit Capital"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CreditCapital-io"]
+github_organizations = [
+  "https://github.com/CreditCapital-io",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/CreditCapital-io/creditcapital-docs"
 
 [[repo]]
 url = "https://github.com/CreditCapital-io/solana"
+

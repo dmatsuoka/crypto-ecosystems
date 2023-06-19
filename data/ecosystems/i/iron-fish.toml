@@ -3,7 +3,9 @@ title = "Iron Fish"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/iron-fish"]
+github_organizations = [
+  "https://github.com/iron-fish",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,5 @@ url = "https://github.com/iron-fish/website-testnet"
 
 [[repo]]
 url = "https://github.com/iron-fish/website-testnet-v2"
+missing = true
+

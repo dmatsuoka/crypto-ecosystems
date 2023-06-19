@@ -3,7 +3,9 @@ title = "Annex Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/annexfinance"]
+github_organizations = [
+  "https://github.com/annexfinance",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/annexfinance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/annexfinance/saddle"
+

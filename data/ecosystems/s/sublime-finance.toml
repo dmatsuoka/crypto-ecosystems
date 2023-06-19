@@ -3,7 +3,9 @@ title = "Sublime Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sublime-finance"]
+github_organizations = [
+  "https://github.com/sublime-finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,12 +19,17 @@ url = "https://github.com/sublime-finance/sublime-v1"
 
 [[repo]]
 url = "https://github.com/sublime-finance/sybil-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/sublime-finance/sybil-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/sublime-finance/sybil-verifier-worker"
+missing = true
 
 [[repo]]
 url = "https://github.com/sublime-finance/user-activity"
+missing = true
+

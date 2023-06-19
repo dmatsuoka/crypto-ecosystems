@@ -3,7 +3,10 @@ title = "ZestBloom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zestbloom", "https://github.com/ZestBloom"]
+github_organizations = [
+  "https://github.com/zestbloom",
+  "https://github.com/ZestBloom",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +92,4 @@ url = "https://github.com/ZestBloom/vesting"
 
 [[repo]]
 url = "https://github.com/ZestBloom/voting"
+

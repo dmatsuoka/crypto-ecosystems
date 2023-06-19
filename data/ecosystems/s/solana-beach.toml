@@ -3,7 +3,9 @@ title = "Solana Beach"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solana-beach"]
+github_organizations = [
+  "https://github.com/solana-beach",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/solana-beach/ecosystem"
 
 [[repo]]
 url = "https://github.com/solana-beach/issue-tracker"
+

@@ -3,7 +3,9 @@ title = "Comdex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/comdex-official"]
+github_organizations = [
+  "https://github.com/comdex-official",
+]
 
 # Repositories
 [[repo]]
@@ -89,6 +91,7 @@ url = "https://github.com/comdex-official/docs"
 
 [[repo]]
 url = "https://github.com/comdex-official/faucet_test_temp"
+missing = true
 
 [[repo]]
 url = "https://github.com/comdex-official/gov-contracts"
@@ -161,3 +164,4 @@ url = "https://github.com/comdex-official/wasmd"
 
 [[repo]]
 url = "https://github.com/comdex-official/wordex"
+

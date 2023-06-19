@@ -3,7 +3,9 @@ title = "Permafacts"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/permafacts"]
+github_organizations = [
+  "https://github.com/permafacts",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/permafacts/aura-ui"
 
 [[repo]]
 url = "https://github.com/permafacts/contract-kit"
+missing = true
 
 [[repo]]
 url = "https://github.com/permafacts/demand-modulated-markets"
@@ -32,6 +35,7 @@ url = "https://github.com/permafacts/el-cap"
 
 [[repo]]
 url = "https://github.com/permafacts/facts-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/permafacts/facts-kit"
@@ -41,9 +45,11 @@ url = "https://github.com/permafacts/facts-protocol"
 
 [[repo]]
 url = "https://github.com/permafacts/facts-wiki"
+missing = true
 
 [[repo]]
 url = "https://github.com/permafacts/permafacts-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/permafacts/permaweb-cookbook"
@@ -59,3 +65,4 @@ url = "https://github.com/permafacts/warp"
 
 [[repo]]
 url = "https://github.com/permafacts/wordpress-plugin"
+

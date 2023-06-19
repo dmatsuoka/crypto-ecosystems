@@ -3,7 +3,9 @@ title = "Ink"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/inklabsfoundation"]
+github_organizations = [
+  "https://github.com/inklabsfoundation",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/inklabsfoundation/qtum-insight-docker"
 
 [[repo]]
 url = "https://github.com/inklabsfoundation/token-profile"
+

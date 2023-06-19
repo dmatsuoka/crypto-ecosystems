@@ -3,7 +3,9 @@ title = "OmniBTC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OmniBTC"]
+github_organizations = [
+  "https://github.com/OmniBTC",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/OmniBTC/sui-demo-day-hk"
 
 [[repo]]
 url = "https://github.com/OmniBTC/wormhole"
+

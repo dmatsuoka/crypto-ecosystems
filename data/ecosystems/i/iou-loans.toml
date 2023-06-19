@@ -3,7 +3,9 @@ title = "IOU Loans"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IOUnet"]
+github_organizations = [
+  "https://github.com/IOUnet",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/IOUnet/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/IOUnet/uniswap-v2-periphery"
+

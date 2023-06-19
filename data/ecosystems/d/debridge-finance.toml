@@ -3,7 +3,9 @@ title = "deBridge.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/debridge-finance"]
+github_organizations = [
+  "https://github.com/debridge-finance",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/debridge-finance/ts-anchor-fork"
 
 [[repo]]
 url = "https://github.com/debridge-finance/uniswap-multibridge"
+

@@ -3,7 +3,9 @@ title = "Ripio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ripio"]
+github_organizations = [
+  "https://github.com/ripio",
+]
 
 # Repositories
 [[repo]]
@@ -173,3 +175,4 @@ url = "https://github.com/ripio/wagmi"
 
 [[repo]]
 url = "https://github.com/ripio/web3modal"
+

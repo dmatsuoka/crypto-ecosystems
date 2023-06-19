@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Lisk"
 
-sub_ecosystems = ["Histopia"]
+sub_ecosystems = [
+  "Histopia",
+]
 
-github_organizations = ["https://github.com/LiskHQ"]
+github_organizations = [
+  "https://github.com/LiskHQ",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +15,7 @@ url = "https://github.com/AndrewBarba/lisk-swift"
 
 [[repo]]
 url = "https://github.com/BlueDragon555/awesome-lisk"
+missing = true
 
 [[repo]]
 url = "https://github.com/cb0/LiskPHP"
@@ -146,6 +151,7 @@ url = "https://github.com/LiskHQ/lisk-core"
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-core-qa-external"
+missing = true
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-db"
@@ -194,3 +200,4 @@ url = "https://github.com/simonmorgenthaler/Lisk-fundsDistributor"
 
 [[repo]]
 url = "https://github.com/simonmorgenthaler/Lisk-multiSigner"
+

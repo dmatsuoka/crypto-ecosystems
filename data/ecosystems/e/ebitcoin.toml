@@ -3,8 +3,11 @@ title = "eBitcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eBTCCommunityTrustToken"]
+github_organizations = [
+  "https://github.com/eBTCCommunityTrustToken",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/eBTCCommunityTrustToken/eBTC"
+

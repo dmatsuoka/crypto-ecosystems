@@ -3,7 +3,9 @@ title = "Ki Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KiFoundation"]
+github_organizations = [
+  "https://github.com/KiFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/KiFoundation/ki-explorer"
 
 [[repo]]
 url = "https://github.com/KiFoundation/ki-foundation"
+missing = true
 
 [[repo]]
 url = "https://github.com/KiFoundation/ki-monitor"
@@ -125,3 +128,4 @@ url = "https://github.com/KiFoundation/wasmd"
 
 [[repo]]
 url = "https://github.com/KiFoundation/wasmx"
+

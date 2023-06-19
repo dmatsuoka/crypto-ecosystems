@@ -3,7 +3,9 @@ title = "Orochi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orochi-network"]
+github_organizations = [
+  "https://github.com/orochi-network",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/orochi-network/orochi-multicast.ts"
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-network.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-observer"
@@ -101,3 +104,4 @@ url = "https://github.com/orochi-network/zkwasm-ideas"
 
 [[repo]]
 url = "https://github.com/orochi-network/zkWASM-specs"
+

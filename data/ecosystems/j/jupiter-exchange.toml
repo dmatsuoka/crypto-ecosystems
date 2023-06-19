@@ -3,7 +3,9 @@ title = "Jupiter Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jup-ag"]
+github_organizations = [
+  "https://github.com/jup-ag",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/jup-ag/widgets"
 
 [[repo]]
 url = "https://github.com/jup-ag/yellowstone-grpc"
+

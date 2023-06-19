@@ -3,7 +3,9 @@ title = "Rift Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/recursive-research"]
+github_organizations = [
+  "https://github.com/recursive-research",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,11 @@ url = "https://github.com/recursive-research/neptune"
 
 [[repo]]
 url = "https://github.com/recursive-research/rift-cairo-sandbox"
+missing = true
 
 [[repo]]
 url = "https://github.com/recursive-research/rift-protocol"
 
 [[repo]]
 url = "https://github.com/recursive-research/rift-subgraph"
+

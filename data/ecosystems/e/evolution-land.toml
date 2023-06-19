@@ -3,7 +3,9 @@ title = "Evolution Land"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/evolutionlandorg"]
+github_organizations = [
+  "https://github.com/evolutionlandorg",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/evolutionlandorg/block-scan"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/block-scan-"
+missing = true
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/BUIDL-NFT"
@@ -98,6 +101,7 @@ url = "https://github.com/evolutionlandorg/governance-web"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/grpc-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/hpb-contracts"
@@ -194,3 +198,4 @@ url = "https://github.com/evolutionlandorg/voxel-engine"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/zapper"
+

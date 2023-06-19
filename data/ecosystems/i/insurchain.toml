@@ -3,7 +3,9 @@ title = "InsurChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InsurChain"]
+github_organizations = [
+  "https://github.com/InsurChain",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/InsurChain/vm"
 
 [[repo]]
 url = "https://github.com/InsurChain/whitepaper"
+

@@ -3,7 +3,9 @@ title = "Omomo Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omomo-finance"]
+github_organizations = [
+  "https://github.com/omomo-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/omomo-finance/omomo-landing"
 
 [[repo]]
 url = "https://github.com/omomo-finance/omomo-protocol"
+

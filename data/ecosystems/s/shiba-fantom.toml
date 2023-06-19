@@ -3,7 +3,9 @@ title = "Shiba Fantom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Shiba-Fantom"]
+github_organizations = [
+  "https://github.com/Shiba-Fantom",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Shiba-Fantom/shibaswap-tokenlist"
 
 [[repo]]
 url = "https://github.com/Shiba-Fantom/shibaswap-toolkit"
+

@@ -3,7 +3,9 @@ title = "Kirobo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kiroboio"]
+github_organizations = [
+  "https://github.com/kiroboio",
+]
 
 # Repositories
 [[repo]]
@@ -20,18 +22,22 @@ url = "https://github.com/kiroboio/ki-activator-visualization-lib"
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-fct-provider-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-nft-truffle"
+missing = true
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-token"
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-vault-translations"
@@ -80,6 +86,7 @@ url = "https://github.com/kiroboio/web3-discord-bot"
 
 [[repo]]
 url = "https://github.com/kiroboio/web3-discord-nodejs-metamask-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/kiroboio/web3-react"
@@ -92,3 +99,4 @@ url = "https://github.com/kiroboio/web3-react-native"
 
 [[repo]]
 url = "https://github.com/kiroboio/web3-react-native-safe-transfer"
+

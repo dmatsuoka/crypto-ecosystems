@@ -20,6 +20,7 @@ url = "https://github.com/SlopeFinance/slope-wallet-adaptation-demo"
 
 [[repo]]
 url = "https://github.com/SlopeFinance/SlopeWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/SlopeFinance/solana-pay"
@@ -29,3 +30,4 @@ url = "https://github.com/SlopeFinance/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/SlopeFinance/walletkit"
+

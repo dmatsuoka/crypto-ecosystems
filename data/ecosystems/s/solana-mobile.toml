@@ -3,7 +3,9 @@ title = "Solana Mobile"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solana-mobile"]
+github_organizations = [
+  "https://github.com/solana-mobile",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/solana-mobile/SolanaMobileDAppScaffold"
 
 [[repo]]
 url = "https://github.com/solana-mobile/tutorial-apps"
+

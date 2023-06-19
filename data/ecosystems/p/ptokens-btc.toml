@@ -3,7 +3,9 @@ title = "pTokens BTC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/provable-things"]
+github_organizations = [
+  "https://github.com/provable-things",
+]
 
 # Repositories
 [[repo]]
@@ -176,6 +178,7 @@ url = "https://github.com/provable-things/ptokens-core"
 
 [[repo]]
 url = "https://github.com/provable-things/ptokens-eos-smart-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/provable-things/ptokens-erc20-vault"
@@ -245,3 +248,4 @@ url = "https://github.com/provable-things/truffle-starter"
 
 [[repo]]
 url = "https://github.com/provable-things/trufflecon2018-demo"
+

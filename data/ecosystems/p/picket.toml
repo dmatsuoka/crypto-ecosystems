@@ -3,7 +3,9 @@ title = "Picket"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/picketapi"]
+github_organizations = [
+  "https://github.com/picketapi",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,5 @@ url = "https://github.com/picketapi/picket-supabase-auth-example"
 
 [[repo]]
 url = "https://github.com/picketapi/supabase"
+missing = true
+

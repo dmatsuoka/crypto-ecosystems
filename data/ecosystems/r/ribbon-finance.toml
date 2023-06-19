@@ -3,7 +3,9 @@ title = "Ribbon Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ribbon-finance"]
+github_organizations = [
+  "https://github.com/ribbon-finance",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/ribbon-finance/strangles-frontend"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/telegram-auction-bot"
+

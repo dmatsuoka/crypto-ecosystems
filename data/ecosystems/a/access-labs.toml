@@ -3,7 +3,9 @@ title = "Access Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Access-Labs-Inc"]
+github_organizations = [
+  "https://github.com/Access-Labs-Inc",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Access-Labs-Inc/node-js-examples"
 
 [[repo]]
 url = "https://github.com/Access-Labs-Inc/widget"
+

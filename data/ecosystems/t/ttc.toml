@@ -3,7 +3,9 @@ title = "TTC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TTCECO"]
+github_organizations = [
+  "https://github.com/TTCECO",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/TTCECO/TTCPay_iOS"
 
 [[repo]]
 url = "https://github.com/TTCECO/web3j"
+

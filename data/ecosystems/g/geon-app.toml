@@ -3,7 +3,9 @@ title = "Geon App"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GeonNetwork"]
+github_organizations = [
+  "https://github.com/GeonNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/GeonNetwork/geon-ethereum"
 
 [[repo]]
 url = "https://github.com/GeonNetwork/tokens"
+

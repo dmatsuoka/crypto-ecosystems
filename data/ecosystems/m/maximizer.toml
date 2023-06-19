@@ -3,7 +3,9 @@ title = "Maximizer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/maxixyz"]
+github_organizations = [
+  "https://github.com/maxixyz",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/maxixyz/tokenlists"
 
 [[repo]]
 url = "https://github.com/maxixyz/tokens"
+

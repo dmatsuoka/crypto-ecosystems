@@ -3,7 +3,9 @@ title = "ic rocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ic-rocks"]
+github_organizations = [
+  "https://github.com/ic-rocks",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ic-rocks/metrics"
 
 [[repo]]
 url = "https://github.com/ic-rocks/opencan"
+

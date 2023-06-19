@@ -3,7 +3,9 @@ title = "Yield Yak"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yieldyak"]
+github_organizations = [
+  "https://github.com/yieldyak",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,5 @@ url = "https://github.com/yieldyak/yak-aggregator"
 
 [[repo]]
 url = "https://github.com/yieldyak/yieldyak.github.io"
+missing = true
+

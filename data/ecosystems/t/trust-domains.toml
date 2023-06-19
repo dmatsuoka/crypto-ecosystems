@@ -3,7 +3,9 @@ title = "Trust Domains"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/trustdomains"]
+github_organizations = [
+  "https://github.com/trustdomains",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/trustdomains/trust-browser-extension"
 
 [[repo]]
 url = "https://github.com/trustdomains/trust-domains-contracts"
+

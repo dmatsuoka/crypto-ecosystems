@@ -3,7 +3,9 @@ title = "Nominex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nominex"]
+github_organizations = [
+  "https://github.com/nominex",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/nominex/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/nominex/stableswap-contracts"
+

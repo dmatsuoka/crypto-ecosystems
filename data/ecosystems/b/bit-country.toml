@@ -3,7 +3,9 @@ title = "Bit.Country"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bit-country"]
+github_organizations = [
+  "https://github.com/bit-country",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/bit-country/bench-bot"
 
 [[repo]]
 url = "https://github.com/bit-country/Bit-Country-Dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/bit-country/Bit-Country-Dapp-Testing"
@@ -53,3 +56,4 @@ url = "https://github.com/bit-country/open-runtime-module-library"
 
 [[repo]]
 url = "https://github.com/bit-country/sprint1-challenges"
+

@@ -3,7 +3,9 @@ title = "BrightID"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BrightID"]
+github_organizations = [
+  "https://github.com/BrightID",
+]
 
 # Repositories
 [[repo]]
@@ -176,3 +178,4 @@ url = "https://github.com/IDChain-eth/uniswap-sdk"
 
 [[repo]]
 url = "https://github.com/IDChain-eth/uniswap-v2-subgraph"
+

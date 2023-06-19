@@ -3,7 +3,9 @@ title = "Wonderland"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Wonderland-Money"]
+github_organizations = [
+  "https://github.com/Wonderland-Money",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/Wonderland-Money/contracts"
 
 [[repo]]
 url = "https://github.com/Wonderland-Money/merkle-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/Wonderland-Money/multi-reward-distribution"
@@ -23,3 +26,4 @@ url = "https://github.com/Wonderland-Money/wonderland-frontend"
 
 [[repo]]
 url = "https://github.com/Wonderland-Money/wonderland-landing"
+

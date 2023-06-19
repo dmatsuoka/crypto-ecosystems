@@ -3,7 +3,9 @@ title = "Flamincome"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flamincome"]
+github_organizations = [
+  "https://github.com/flamincome",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/flamincome/tlv-pubsub"
 
 [[repo]]
 url = "https://github.com/flamincome/vote-notifier"
+

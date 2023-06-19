@@ -3,7 +3,9 @@ title = "Betoken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Betoken"]
+github_organizations = [
+  "https://github.com/Betoken",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Betoken/portal-staging"
 
 [[repo]]
 url = "https://github.com/Betoken/Whitepaper"
+

@@ -3,7 +3,9 @@ title = "Sisu Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sisu-network"]
+github_organizations = [
+  "https://github.com/sisu-network",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/sisu-network/transfer-examples"
 
 [[repo]]
 url = "https://github.com/sisu-network/tss-lib"
+

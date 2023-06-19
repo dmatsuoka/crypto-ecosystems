@@ -3,7 +3,9 @@ title = "Onai"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/onai"]
+github_organizations = [
+  "https://github.com/onai",
+]
 
 # Repositories
 [[repo]]
@@ -134,3 +136,4 @@ url = "https://github.com/onai/z3-sys"
 
 [[repo]]
 url = "https://github.com/onai/z3.rs"
+

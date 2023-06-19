@@ -3,7 +3,9 @@ title = "Reef Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/reef-defi"]
+github_organizations = [
+  "https://github.com/reef-defi",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/reef-defi/ui-examples"
 
 [[repo]]
 url = "https://github.com/reef-defi/utils.js"
+

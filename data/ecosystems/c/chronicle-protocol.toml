@@ -3,7 +3,9 @@ title = "Chronicle Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chronicleprotocol"]
+github_organizations = [
+  "https://github.com/chronicleprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/chronicleprotocol/.github"
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/archiver"
+missing = true
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/charts"
@@ -20,9 +23,11 @@ url = "https://github.com/chronicleprotocol/chronicle-std"
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/chronicleprotocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/fastrelay"
+missing = true
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/infestor"
@@ -65,3 +70,4 @@ url = "https://github.com/chronicleprotocol/terraform-aws-eks-blueprints"
 
 [[repo]]
 url = "https://github.com/chronicleprotocol/TweetBot"
+

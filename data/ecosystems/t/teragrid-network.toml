@@ -3,8 +3,11 @@ title = "Teragrid Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Teragrid-network"]
+github_organizations = [
+  "https://github.com/Teragrid-network",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Teragrid-network/olympic-launchpad-smartcontract"
+

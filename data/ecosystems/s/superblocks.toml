@@ -3,7 +3,9 @@ title = "Superblocks"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SuperblocksHQ"]
+github_organizations = [
+  "https://github.com/SuperblocksHQ",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/SuperblocksHQ/tinlake"
 
 [[repo]]
 url = "https://github.com/SuperblocksHQ/truffle-reference-project"
+

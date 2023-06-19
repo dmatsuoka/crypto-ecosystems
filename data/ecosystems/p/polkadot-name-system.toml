@@ -3,7 +3,9 @@ title = "Polkadot Name System"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pnsproject"]
+github_organizations = [
+  "https://github.com/pnsproject",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/pnsproject/blockscout"
 
 [[repo]]
 url = "https://github.com/pnsproject/ddns_ruby"
+missing = true
 
 [[repo]]
 url = "https://github.com/pnsproject/ens-indexing"
@@ -101,3 +104,4 @@ url = "https://github.com/pnsproject/web3-profile-web-v2"
 
 [[repo]]
 url = "https://github.com/pnsproject/whitepaper"
+

@@ -1,7 +1,9 @@
 # Ecosystem Level Information
 title = "Plasma"
 
-sub_ecosystems = ["Plasma Group"]
+sub_ecosystems = [
+  "Plasma Group",
+]
 
 github_organizations = []
 
@@ -23,3 +25,4 @@ url = "https://github.com/omgnetwork/plasma-mvp"
 
 [[repo]]
 url = "https://github.com/voltairelabs/plasma"
+

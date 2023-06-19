@@ -3,7 +3,9 @@ title = "Polkastarter"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polkastarter"]
+github_organizations = [
+  "https://github.com/polkastarter",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/polkastarter/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/polkastarter/owners-manual"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkastarter/polkastarter-crowdloan"
@@ -50,3 +53,4 @@ url = "https://github.com/polkastarter/staking-pols"
 
 [[repo]]
 url = "https://github.com/polkastarter/staking-pols-v2"
+

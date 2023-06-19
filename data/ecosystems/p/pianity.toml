@@ -3,7 +3,9 @@ title = "Pianity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pianity"]
+github_organizations = [
+  "https://github.com/pianity",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/pianity/warp"
 
 [[repo]]
 url = "https://github.com/pianity/wrc"
+

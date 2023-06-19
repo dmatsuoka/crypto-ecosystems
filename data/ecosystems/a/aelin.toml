@@ -3,7 +3,9 @@ title = "Aelin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AelinXYZ"]
+github_organizations = [
+  "https://github.com/AelinXYZ",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/AelinXYZ/og-subgraph"
 
 [[repo]]
 url = "https://github.com/AelinXYZ/tokenvest"
+

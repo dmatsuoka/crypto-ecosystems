@@ -3,7 +3,9 @@ title = "THORSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thorswap"]
+github_organizations = [
+  "https://github.com/thorswap",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/thorswap/ledger-thorchain-js"
 
 [[repo]]
 url = "https://github.com/thorswap/midgard-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/thorswap/midgard-sdk-old"
@@ -62,3 +65,4 @@ url = "https://github.com/thorswap/thorswap-xchainjs"
 
 [[repo]]
 url = "https://github.com/thorswap/xchainjs-lib"
+

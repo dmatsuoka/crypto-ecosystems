@@ -3,7 +3,9 @@ title = "go-bazzinga"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/go-bazzinga"]
+github_organizations = [
+  "https://github.com/go-bazzinga",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/go-bazzinga/hot-or-not-dapp"
 
 [[repo]]
 url = "https://github.com/go-bazzinga/video-moderation-dapp"
+

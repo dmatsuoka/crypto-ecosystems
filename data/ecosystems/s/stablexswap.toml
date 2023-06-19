@@ -3,7 +3,9 @@ title = "StableXswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stablexlabs"]
+github_organizations = [
+  "https://github.com/stablexlabs",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/stablexlabs/stablex-farm"
 
 [[repo]]
 url = "https://github.com/stablexlabs/stablex-front"
+missing = true
 
 [[repo]]
 url = "https://github.com/stablexlabs/stablex-learn"
@@ -38,6 +41,7 @@ url = "https://github.com/stablexlabs/stablex-sdk"
 
 [[repo]]
 url = "https://github.com/stablexlabs/stablex-swap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/stablexlabs/stablexswap-core"
@@ -50,3 +54,4 @@ url = "https://github.com/stablexlabs/StableXSwap_Audit_Contract_Review_Attic_La
 
 [[repo]]
 url = "https://github.com/stablexlabs/stakingrepo"
+

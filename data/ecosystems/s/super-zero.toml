@@ -3,7 +3,9 @@ title = "Super Zero"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sero-cash"]
+github_organizations = [
+  "https://github.com/sero-cash",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/sero-cash/js-sero-client"
 
 [[repo]]
 url = "https://github.com/sero-cash/js-sero-light"
+missing = true
 
 [[repo]]
 url = "https://github.com/sero-cash/mine-pool"
@@ -56,6 +59,7 @@ url = "https://github.com/sero-cash/popup"
 
 [[repo]]
 url = "https://github.com/sero-cash/popup-js-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/sero-cash/popup-service"
@@ -95,3 +99,4 @@ url = "https://github.com/sero-cash/website"
 
 [[repo]]
 url = "https://github.com/sero-cash/wiki"
+

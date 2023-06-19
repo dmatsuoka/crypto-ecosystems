@@ -3,8 +3,11 @@ title = "Team Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/team-finance"]
+github_organizations = [
+  "https://github.com/team-finance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/team-finance/team-finance-interface"
+

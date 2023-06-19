@@ -3,7 +3,9 @@ title = "Starboard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/starboard-ventures"]
+github_organizations = [
+  "https://github.com/starboard-ventures",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/starboard-ventures/workflows"
 
 [[repo]]
 url = "https://github.com/starboard-ventures/yapi"
+

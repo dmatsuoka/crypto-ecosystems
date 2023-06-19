@@ -3,7 +3,9 @@ title = "Smartlink"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Smartlinkhub"]
+github_organizations = [
+  "https://github.com/Smartlinkhub",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Smartlinkhub/templewallet-dapp"
 
 [[repo]]
 url = "https://github.com/Smartlinkhub/whitepaper"
+

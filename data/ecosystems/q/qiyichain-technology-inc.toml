@@ -3,7 +3,9 @@ title = "QiyiChain Technology Inc."
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/qiyichain"]
+github_organizations = [
+  "https://github.com/qiyichain",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/qiyichain/standard-contracts"
 
 [[repo]]
 url = "https://github.com/qiyichain/wallet-core"
+

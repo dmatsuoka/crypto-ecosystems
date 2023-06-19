@@ -3,7 +3,9 @@ title = "Mincoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mincoin"]
+github_organizations = [
+  "https://github.com/mincoin",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,8 @@ url = "https://github.com/mincoin/mincoinpool"
 
 [[repo]]
 url = "https://github.com/mincoin/p2pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/xieta/mincoin"
+

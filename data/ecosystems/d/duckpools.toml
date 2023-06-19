@@ -3,8 +3,11 @@ title = "Duckpools"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/duckpools"]
+github_organizations = [
+  "https://github.com/duckpools",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/duckpools/lend-protocol-contracts"
+

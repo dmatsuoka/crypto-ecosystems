@@ -3,7 +3,9 @@ title = "Cypherock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cypherock"]
+github_organizations = [
+  "https://github.com/Cypherock",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/Cypherock/x1_wallet_firmware"
 
 [[repo]]
 url = "https://github.com/Cypherock/x1_wallet_hal_stm32"
+

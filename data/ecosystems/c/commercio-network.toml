@@ -3,7 +3,9 @@ title = "commercio.network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/commercionetwork"]
+github_organizations = [
+  "https://github.com/commercionetwork",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/commercionetwork/universal-resolver"
 
 [[repo]]
 url = "https://github.com/commercionetwork/vue-commercio-ui"
+

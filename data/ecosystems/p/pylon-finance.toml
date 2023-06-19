@@ -3,7 +3,9 @@ title = "Pylon Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pylon-protocol"]
+github_organizations = [
+  "https://github.com/pylon-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/pylon-protocol/pylon-util-contracts"
 
 [[repo]]
 url = "https://github.com/pylon-protocol/twd-refund"
+

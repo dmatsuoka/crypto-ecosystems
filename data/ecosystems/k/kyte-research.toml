@@ -3,8 +3,11 @@ title = "Kyte Research"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kyte-Research"]
+github_organizations = [
+  "https://github.com/Kyte-Research",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Kyte-Research/kyte-core-contracts"
+

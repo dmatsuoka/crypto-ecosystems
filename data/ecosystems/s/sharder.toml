@@ -3,7 +3,9 @@ title = "Sharder"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sharders"]
+github_organizations = [
+  "https://github.com/Sharders",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Sharders/taskhall"
 
 [[repo]]
 url = "https://github.com/Sharders/whitepaper"
+

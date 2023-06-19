@@ -3,7 +3,9 @@ title = "PageDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PageDAO"]
+github_organizations = [
+  "https://github.com/PageDAO",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/PageDAO/SP-Minting-dAPP"
 
 [[repo]]
 url = "https://github.com/PageDAO/SPHIL-Minting-dAPP"
+missing = true
 
 [[repo]]
 url = "https://github.com/PageDAO/stakeholder-survey"
@@ -119,3 +122,4 @@ url = "https://github.com/PageDAO/Wordler-Minting-dAPP"
 
 [[repo]]
 url = "https://github.com/PageDAO/Wordler-Minting-DApp-2"
+

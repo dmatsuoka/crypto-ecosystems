@@ -3,7 +3,9 @@ title = "Tomb Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tombfinance"]
+github_organizations = [
+  "https://github.com/tombfinance",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,9 @@ url = "https://github.com/tombfinance/tombfinance-assets"
 
 [[repo]]
 url = "https://github.com/tombfinance/tombfinance-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/tombfinance/tombfinance-frontend"
+missing = true
+

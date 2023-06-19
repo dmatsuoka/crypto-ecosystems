@@ -3,7 +3,9 @@ title = "Better"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/better-feedback"]
+github_organizations = [
+  "https://github.com/better-feedback",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/better-feedback/better-dopex"
 
 [[repo]]
 url = "https://github.com/better-feedback/better-dune"
+missing = true
 
 [[repo]]
 url = "https://github.com/better-feedback/better-fil"
@@ -47,6 +50,7 @@ url = "https://github.com/better-feedback/better-lens"
 
 [[repo]]
 url = "https://github.com/better-feedback/better-lenster"
+missing = true
 
 [[repo]]
 url = "https://github.com/better-feedback/better-lido"
@@ -83,3 +87,4 @@ url = "https://github.com/better-feedback/roadmap"
 
 [[repo]]
 url = "https://github.com/better-feedback/web"
+

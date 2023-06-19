@@ -3,7 +3,9 @@ title = "Audius"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AudiusProject"]
+github_organizations = [
+  "https://github.com/AudiusProject",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/AudiusProject/audius-mobile-client"
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-org-public-site"
+missing = true
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-poc-contract"
@@ -44,6 +47,7 @@ url = "https://github.com/AudiusProject/audius-protocol-zellic"
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-public-site"
+missing = true
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-subgraph"
@@ -137,6 +141,7 @@ url = "https://github.com/AudiusProject/solana-web3.js"
 
 [[repo]]
 url = "https://github.com/AudiusProject/sshuttle"
+missing = true
 
 [[repo]]
 url = "https://github.com/AudiusProject/stems"
@@ -149,3 +154,4 @@ url = "https://github.com/AudiusProject/web3-provider-proxy"
 
 [[repo]]
 url = "https://github.com/AudiusProject/wormhole"
+

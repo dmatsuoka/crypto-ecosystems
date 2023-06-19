@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Ark"
 
-sub_ecosystems = ["Ardent"]
+sub_ecosystems = [
+  "Ardent",
+]
 
-github_organizations = ["https://github.com/ArkEcosystem"]
+github_organizations = [
+  "https://github.com/ArkEcosystem",
+]
 
 # Repositories
 [[repo]]
@@ -14,18 +18,22 @@ url = "https://github.com/ArkEcosystem/AIPs"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/ARK-Development-Guidelines"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/ark-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/ark-net"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/arklauncher"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/arky"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/bearmint"
@@ -38,9 +46,11 @@ url = "https://github.com/ArkEcosystem/bearmint-railway"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/boilerplate"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/commitlint"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/common"
@@ -68,9 +78,11 @@ url = "https://github.com/ArkEcosystem/desktop-wallet"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/development-guidelines"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/discuss"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/docs"
@@ -119,6 +131,7 @@ url = "https://github.com/ArkEcosystem/paper-wallet"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/payvo-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/peers"
@@ -131,6 +144,7 @@ url = "https://github.com/ArkEcosystem/php-crypto"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/pythark"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/python-client"
@@ -140,6 +154,7 @@ url = "https://github.com/ArkEcosystem/python-crypto"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/react-electron-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/security-vulnerabilities"
@@ -149,6 +164,7 @@ url = "https://github.com/ArkEcosystem/typescript-client"
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/typescript-crypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkEcosystem/typescript-crypto-identities"
@@ -377,3 +393,4 @@ url = "https://github.com/ArkEcosystemArchive/tier-0-program"
 
 [[repo]]
 url = "https://github.com/ArkEcosystemArchive/wiki"
+

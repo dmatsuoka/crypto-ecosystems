@@ -3,8 +3,11 @@ title = "NFTSoul"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nftsoul"]
+github_organizations = [
+  "https://github.com/nftsoul",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/nftsoul/frontend"
+

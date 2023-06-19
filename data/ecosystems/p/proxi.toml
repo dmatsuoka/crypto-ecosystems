@@ -3,8 +3,11 @@ title = "PROXI"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProxideFi"]
+github_organizations = [
+  "https://github.com/ProxideFi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ProxideFi/peggy"
+

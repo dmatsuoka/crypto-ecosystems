@@ -3,7 +3,9 @@ title = "Scipr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scipr-lab"]
+github_organizations = [
+  "https://github.com/scipr-lab",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/scipr-lab/libiop"
 
 [[repo]]
 url = "https://github.com/scipr-lab/libsnark"
+

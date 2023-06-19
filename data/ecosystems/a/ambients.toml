@@ -3,7 +3,9 @@ title = "Ambients"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ambientsprotocol"]
+github_organizations = [
+  "https://github.com/ambientsprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/ambientsprotocol/welcome"
 
 [[repo]]
 url = "https://github.com/ambientsprotocol/whitepaper"
+

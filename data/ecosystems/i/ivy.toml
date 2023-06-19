@@ -3,7 +3,9 @@ title = "Ivy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ivy-project"]
+github_organizations = [
+  "https://github.com/ivy-project",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/ivy-project/website-marketing"
 
 [[repo]]
 url = "https://github.com/ivy-project/white-papers"
+

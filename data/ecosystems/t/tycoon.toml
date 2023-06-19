@@ -3,7 +3,9 @@ title = "Tycoon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tycoon"]
+github_organizations = [
+  "https://github.com/tycoon",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/tycoon/asset-profile"
 
 [[repo]]
 url = "https://github.com/tycoon/assets"
+

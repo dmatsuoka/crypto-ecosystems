@@ -3,7 +3,9 @@ title = "Eight Hours"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlokParty"]
+github_organizations = [
+  "https://github.com/BlokParty",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/BlokParty/vechain-token-transfer"
 
 [[repo]]
 url = "https://github.com/BlokParty/WarGame"
+

@@ -3,7 +3,9 @@ title = "mstable"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mstable"]
+github_organizations = [
+  "https://github.com/mstable",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/mstable/mStable-contracts"
 
 [[repo]]
 url = "https://github.com/mstable/mStable-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/mstable/mStable-dev-grants"
@@ -89,3 +92,5 @@ url = "https://github.com/mstable/pooltogether-mstable"
 
 [[repo]]
 url = "https://github.com/mstable/snapshot-spaces"
+missing = true
+

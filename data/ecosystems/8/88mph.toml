@@ -3,7 +3,9 @@ title = "88mph"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/88mphapp"]
+github_organizations = [
+  "https://github.com/88mphapp",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/88mphapp/88mph-twitter-bot"
 
 [[repo]]
 url = "https://github.com/88mphapp/88mph-twitter-bot-depositooor"
+missing = true
 
 [[repo]]
 url = "https://github.com/88mphapp/88mphapp.github.io"
@@ -92,3 +95,4 @@ url = "https://github.com/88mphapp/v1"
 
 [[repo]]
 url = "https://github.com/88mphapp/v2"
+

@@ -3,7 +3,9 @@ title = "Helena"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/helena-network"]
+github_organizations = [
+  "https://github.com/helena-network",
+]
 
 # Repositories
 [[repo]]
@@ -74,9 +76,11 @@ url = "https://github.com/helena-network/tokensubscription.com"
 
 [[repo]]
 url = "https://github.com/helena-network/TRL"
+missing = true
 
 [[repo]]
 url = "https://github.com/helena-network/xProton-bridge-contracts"
 
 [[repo]]
 url = "https://github.com/helena-network/ZapContracts"
+

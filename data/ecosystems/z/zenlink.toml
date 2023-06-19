@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Zenlink"
 
-sub_ecosystems = ["Bifrost"]
+sub_ecosystems = [
+  "Bifrost",
+]
 
-github_organizations = ["https://github.com/zenlinkpro"]
+github_organizations = [
+  "https://github.com/zenlinkpro",
+]
 
 # Repositories
 [[repo]]
@@ -104,6 +108,7 @@ url = "https://github.com/zenlinkpro/zenlink-exchange-subquery"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-integral"
+missing = true
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-interface"
@@ -122,3 +127,4 @@ url = "https://github.com/zenlinkpro/zenlink-security-audit"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-wasm-v1"
+

@@ -3,7 +3,9 @@ title = "LHT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/usdx-wallet"]
+github_organizations = [
+  "https://github.com/usdx-wallet",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/usdx-wallet/graphenej"
 
 [[repo]]
 url = "https://github.com/usdx-wallet/react-native-contacts"
+

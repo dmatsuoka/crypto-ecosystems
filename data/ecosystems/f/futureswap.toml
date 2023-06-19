@@ -3,11 +3,14 @@ title = "Futureswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/futureswap"]
+github_organizations = [
+  "https://github.com/futureswap",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/futureswap/celer-bridge-messaging"
+missing = true
 
 [[repo]]
 url = "https://github.com/futureswap/DeFi-Pulse-Adapters"
@@ -26,12 +29,14 @@ url = "https://github.com/futureswap/fs-examples"
 
 [[repo]]
 url = "https://github.com/futureswap/fs-graph-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/futureswap/fs-graph-v2-beta"
 
 [[repo]]
 url = "https://github.com/futureswap/fs_graph"
+missing = true
 
 [[repo]]
 url = "https://github.com/futureswap/futureswap-public"
@@ -56,3 +61,4 @@ url = "https://github.com/futureswap/slither"
 
 [[repo]]
 url = "https://github.com/futureswap/trade-cli"
+

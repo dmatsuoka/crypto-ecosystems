@@ -3,7 +3,9 @@ title = "Prim Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PrimLabs"]
+github_organizations = [
+  "https://github.com/PrimLabs",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/PrimLabs/picture-bed"
 
 [[repo]]
 url = "https://github.com/PrimLabs/vessel-package-set"
+

@@ -3,7 +3,9 @@ title = "Autofarm Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/autofarmnetwork"]
+github_organizations = [
+  "https://github.com/autofarmnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/autofarmnetwork/frontend-config"
 
 [[repo]]
 url = "https://github.com/autofarmnetwork/hardhat"
+

@@ -3,7 +3,9 @@ title = "Gamma Swap Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gammaswap"]
+github_organizations = [
+  "https://github.com/gammaswap",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/gammaswap/v1-sdk"
 
 [[repo]]
 url = "https://github.com/gammaswap/v1-subgraph"
+

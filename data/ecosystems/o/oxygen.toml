@@ -3,8 +3,11 @@ title = "Oxygen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oxygen-protocol"]
+github_organizations = [
+  "https://github.com/oxygen-protocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/oxygen-protocol/oxygen-js"
+

@@ -3,7 +3,9 @@ title = "Multisig Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/multisig-labs"]
+github_organizations = [
+  "https://github.com/multisig-labs",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/multisig-labs/stable-daofusion"
 
 [[repo]]
 url = "https://github.com/multisig-labs/subnet-evm"
+

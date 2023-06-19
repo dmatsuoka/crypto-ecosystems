@@ -3,8 +3,11 @@ title = "InnerMind"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InnerMindDAO"]
+github_organizations = [
+  "https://github.com/InnerMindDAO",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/lukejmann/MintUI"
+

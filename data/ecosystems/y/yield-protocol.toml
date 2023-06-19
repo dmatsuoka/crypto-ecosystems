@@ -3,7 +3,9 @@ title = "Yield Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yieldprotocol"]
+github_organizations = [
+  "https://github.com/yieldprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/yieldprotocol/strategy-v2"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/TA02"
+missing = true
 
 [[repo]]
 url = "https://github.com/yieldprotocol/vault-interfaces-DEPRECATED"
@@ -122,3 +125,4 @@ url = "https://github.com/yieldprotocol/yvarb"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/zapper-studio"
+

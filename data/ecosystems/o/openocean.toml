@@ -3,7 +3,9 @@ title = "OpenOcean"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openocean-finance"]
+github_organizations = [
+  "https://github.com/openocean-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/openocean-finance/ecosystem-projects"
 
 [[repo]]
 url = "https://github.com/openocean-finance/farming"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/hummingbot"
@@ -44,12 +47,14 @@ url = "https://github.com/openocean-finance/OepnOcean-swap-periphery"
 
 [[repo]]
 url = "https://github.com/openocean-finance/ooe-polygon"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/openocean-api"
 
 [[repo]]
 url = "https://github.com/openocean-finance/openocean-api-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOcean-DAO-treasury-for-Arbitrum"
@@ -74,6 +79,7 @@ url = "https://github.com/openocean-finance/OpenOcean_Cross_Chain_Contract"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanAPI"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanExchange"
@@ -83,9 +89,11 @@ url = "https://github.com/openocean-finance/OpenOceanExchangeV2"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanFed"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/Security-Audit-Report"
 
 [[repo]]
 url = "https://github.com/openocean-finance/Widget"
+

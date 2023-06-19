@@ -3,7 +3,9 @@ title = "YFII"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yfii"]
+github_organizations = [
+  "https://github.com/yfii",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/yfii/YIPS"
 
 [[repo]]
 url = "https://github.com/yfii/yvault"
+

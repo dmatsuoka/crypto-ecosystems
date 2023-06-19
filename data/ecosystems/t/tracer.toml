@@ -3,7 +3,9 @@ title = "Tracer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tracer-protocol"]
+github_organizations = [
+  "https://github.com/tracer-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/tracer-protocol/vesting"
 
 [[repo]]
 url = "https://github.com/tracer-protocol/vesting-contracts"
+

@@ -3,7 +3,9 @@ title = "Ferrum Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ferrumnet"]
+github_organizations = [
+  "https://github.com/ferrumnet",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/ferrumnet/apeswap-swap-core"
 
 [[repo]]
 url = "https://github.com/ferrumnet/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/authenticator"
@@ -32,6 +35,7 @@ url = "https://github.com/ferrumnet/aws-lambda-helper"
 
 [[repo]]
 url = "https://github.com/ferrumnet/bignumber.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/bip39"
@@ -59,6 +63,7 @@ url = "https://github.com/ferrumnet/casper_staking"
 
 [[repo]]
 url = "https://github.com/ferrumnet/crypto-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/desktop-components-library"
@@ -71,9 +76,11 @@ url = "https://github.com/ferrumnet/elliptic"
 
 [[repo]]
 url = "https://github.com/ferrumnet/eth-contract-metadata"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/ethereumj"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/fdslite"
@@ -113,6 +120,7 @@ url = "https://github.com/ferrumnet/ferrum-network-whitepaper"
 
 [[repo]]
 url = "https://github.com/ferrumnet/ferrum-node-images"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/ferrum-plumbing"
@@ -146,18 +154,22 @@ url = "https://github.com/ferrumnet/gateway-backend"
 
 [[repo]]
 url = "https://github.com/ferrumnet/gateway-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/go-ethereum"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/hdkey"
 
 [[repo]]
 url = "https://github.com/ferrumnet/iotavisualization"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/iri"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/joe-tokenlists"
@@ -188,6 +200,7 @@ url = "https://github.com/ferrumnet/new-host"
 
 [[repo]]
 url = "https://github.com/ferrumnet/PearlDiver"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/pocket-core"
@@ -221,9 +234,11 @@ url = "https://github.com/ferrumnet/snapshot"
 
 [[repo]]
 url = "https://github.com/ferrumnet/solc-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/solidity.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/staking"
@@ -290,9 +305,11 @@ url = "https://github.com/ferrumnet/wallet"
 
 [[repo]]
 url = "https://github.com/ferrumnet/web3.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ferrumnet/website"
 
 [[repo]]
 url = "https://github.com/ferrumnet/yellowpaper"
+

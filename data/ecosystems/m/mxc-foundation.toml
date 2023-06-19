@@ -3,11 +3,14 @@ title = "MXC Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mxc-foundation"]
+github_organizations = [
+  "https://github.com/mxc-foundation",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/mxc-foundation/campaign-statics"
+missing = true
 
 [[repo]]
 url = "https://github.com/mxc-foundation/chirpstack-application-server"
@@ -59,6 +62,7 @@ url = "https://github.com/mxc-foundation/mxc-mapper-flutter"
 
 [[repo]]
 url = "https://github.com/mxc-foundation/mxc-shared-flutter"
+missing = true
 
 [[repo]]
 url = "https://github.com/mxc-foundation/mxc-wallet"
@@ -101,3 +105,4 @@ url = "https://github.com/mxc-foundation/supernode-list"
 
 [[repo]]
 url = "https://github.com/mxc-foundation/whatislpwan"
+

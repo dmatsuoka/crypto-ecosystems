@@ -3,7 +3,9 @@ title = "prediction coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/predictcoin"]
+github_organizations = [
+  "https://github.com/predictcoin",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/predictcoin/Prediction-Pools"
 
 [[repo]]
 url = "https://github.com/predictcoin/Predictionv1"
+

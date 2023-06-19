@@ -3,7 +3,9 @@ title = "simplefi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SimpleFi-finance"]
+github_organizations = [
+  "https://github.com/SimpleFi-finance",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/SimpleFi-finance/subgraphs-general"
 
 [[repo]]
 url = "https://github.com/SimpleFi-finance/thegraph-interfaces"
+

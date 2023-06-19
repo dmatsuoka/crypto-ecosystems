@@ -3,7 +3,9 @@ title = "Ergo Names"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ergonames"]
+github_organizations = [
+  "https://github.com/ergonames",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/ergonames/transaction-builder"
 
 [[repo]]
 url = "https://github.com/ergonames/transaction-utils"
+

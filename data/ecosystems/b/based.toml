@@ -3,7 +3,9 @@ title = "Based"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptoghoulz"]
+github_organizations = [
+  "https://github.com/cryptoghoulz",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/cryptoghoulz/rovers"
 
 [[repo]]
 url = "https://github.com/cryptoghoulz/snapshot"
+

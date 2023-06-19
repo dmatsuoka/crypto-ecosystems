@@ -3,8 +3,11 @@ title = "Yield Optimization Platform & Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yopfi"]
+github_organizations = [
+  "https://github.com/yopfi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/yopfi/yop-docs"
+

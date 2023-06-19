@@ -3,7 +3,9 @@ title = "Influence Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InfluenceChain"]
+github_organizations = [
+  "https://github.com/InfluenceChain",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/InfluenceChain/influencechain-web"
 
 [[repo]]
 url = "https://github.com/InfluenceChain/influencechain-whitepaper"
+

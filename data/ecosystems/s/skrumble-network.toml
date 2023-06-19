@@ -3,7 +3,9 @@ title = "Skrumble Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Skrumble"]
+github_organizations = [
+  "https://github.com/Skrumble",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/Skrumble/Smile-Lock"
 
 [[repo]]
 url = "https://github.com/Skrumble/voxbone-provisioning-node"
+

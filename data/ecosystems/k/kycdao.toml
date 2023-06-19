@@ -3,7 +3,9 @@ title = "kycDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kycdao"]
+github_organizations = [
+  "https://github.com/kycdao",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/kycdao/widget"
 
 [[repo]]
 url = "https://github.com/kycdao/xdeployer"
+

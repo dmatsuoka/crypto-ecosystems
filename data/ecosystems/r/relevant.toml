@@ -8,3 +8,5 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/relevant-community/relevant"
+missing = true
+

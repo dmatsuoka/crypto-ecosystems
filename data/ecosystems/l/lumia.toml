@@ -3,8 +3,12 @@ title = "Lumia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lumiaonline"]
+github_organizations = [
+  "https://github.com/lumiaonline",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/lumiaonline/lumiaonline"
+missing = true
+

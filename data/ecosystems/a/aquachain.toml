@@ -3,7 +3,9 @@ title = "Aquachain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aquachain"]
+github_organizations = [
+  "https://github.com/aquachain",
+]
 
 # Repositories
 [[repo]]
@@ -92,6 +94,7 @@ url = "https://github.com/aquachain/explorer-nodejs"
 
 [[repo]]
 url = "https://github.com/aquachain/explorer2"
+missing = true
 
 [[repo]]
 url = "https://github.com/aquachain/geth-aquachain"
@@ -119,6 +122,7 @@ url = "https://github.com/aquachain/MyEtherWallet"
 
 [[repo]]
 url = "https://github.com/aquachain/nightfall"
+missing = true
 
 [[repo]]
 url = "https://github.com/aquachain/open-aquachain-pool"
@@ -137,3 +141,4 @@ url = "https://github.com/aquachain/x"
 
 [[repo]]
 url = "https://github.com/aquachain/xgo"
+

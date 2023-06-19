@@ -3,11 +3,14 @@ title = "Wagmi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wagmi-dev"]
+github_organizations = [
+  "https://github.com/wagmi-dev",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/gabrieldemian/wagmi-solid"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagmi-dev/.github"
@@ -35,3 +38,4 @@ url = "https://github.com/wagmi-dev/vitepress-plugin-shiki-twoslash"
 
 [[repo]]
 url = "https://github.com/wagmi-dev/wagmi"
+

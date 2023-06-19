@@ -3,7 +3,9 @@ title = "AliceNet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alicenet"]
+github_organizations = [
+  "https://github.com/alicenet",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/alicenet/wallet"
 
 [[repo]]
 url = "https://github.com/alicenet/whitepaper"
+

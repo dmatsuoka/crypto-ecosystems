@@ -3,7 +3,9 @@ title = "Golem Factory"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/golemfactory"]
+github_organizations = [
+  "https://github.com/golemfactory",
+]
 
 # Repositories
 [[repo]]
@@ -128,6 +130,7 @@ url = "https://github.com/golemfactory/dapp-store"
 
 [[repo]]
 url = "https://github.com/golemfactory/dapp-webapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/devops-ansible-playbook-template"
@@ -347,6 +350,7 @@ url = "https://github.com/golemfactory/golemrpc"
 
 [[repo]]
 url = "https://github.com/golemfactory/golemstats-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/goth"
@@ -500,6 +504,7 @@ url = "https://github.com/golemfactory/pydevp2p"
 
 [[repo]]
 url = "https://github.com/golemfactory/Rendering-on-Golem-4-Reality-NFT"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/reputation-aggregator-mock"
@@ -530,6 +535,7 @@ url = "https://github.com/golemfactory/stats-api-docs"
 
 [[repo]]
 url = "https://github.com/golemfactory/stats-deploy"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/styleguide"
@@ -698,3 +704,4 @@ url = "https://github.com/golemfactory/zksync"
 
 [[repo]]
 url = "https://github.com/golemfactory/zmqpoc"
+

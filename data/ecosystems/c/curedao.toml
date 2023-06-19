@@ -3,7 +3,9 @@ title = "CureDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/curedao"]
+github_organizations = [
+  "https://github.com/curedao",
+]
 
 # Repositories
 [[repo]]
@@ -104,6 +106,7 @@ url = "https://github.com/curedao/floating-embed-widget-button"
 
 [[repo]]
 url = "https://github.com/curedao/health-admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/curedao/health-data-storage-basic"
@@ -152,6 +155,7 @@ url = "https://github.com/curedao/root-cause-analysis"
 
 [[repo]]
 url = "https://github.com/curedao/rudder-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/curedao/TheGame"
@@ -167,3 +171,4 @@ url = "https://github.com/curedao/unified-health-api"
 
 [[repo]]
 url = "https://github.com/mikepsinn/docker-php-8.1-apache-buster-xdebug-opcache-composer-pgsql"
+

@@ -3,7 +3,9 @@ title = "Casper Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CasperDeFi"]
+github_organizations = [
+  "https://github.com/CasperDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/CasperDeFi/casper-farms"
 
 [[repo]]
 url = "https://github.com/CasperDeFi/vfat-tools"
+

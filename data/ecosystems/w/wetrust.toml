@@ -3,7 +3,9 @@ title = "WeTrust"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WeTrustPlatform"]
+github_organizations = [
+  "https://github.com/WeTrustPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/WeTrustPlatform/rosca-contracts"
 
 [[repo]]
 url = "https://github.com/WeTrustPlatform/rosca-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/WeTrustPlatform/secure-signing-serv"
@@ -107,3 +110,4 @@ url = "https://github.com/WeTrustPlatform/UI-UX-survey"
 
 [[repo]]
 url = "https://github.com/WeTrustPlatform/wetrust-ui"
+

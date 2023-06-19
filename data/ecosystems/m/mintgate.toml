@@ -3,7 +3,9 @@ title = "MintGate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MintKudos"]
+github_organizations = [
+  "https://github.com/MintKudos",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/MintKudos/protocol-contracts"
 
 [[repo]]
 url = "https://github.com/MintKudos/react-custom-properties"
+

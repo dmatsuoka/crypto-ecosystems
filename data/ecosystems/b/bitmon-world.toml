@@ -3,7 +3,9 @@ title = "Bitmon World"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitmon-world"]
+github_organizations = [
+  "https://github.com/bitmon-world",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/bitmon-world/staking-app"
 
 [[repo]]
 url = "https://github.com/bitmon-world/website"
+

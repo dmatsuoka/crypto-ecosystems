@@ -3,7 +3,9 @@ title = "Hopr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hoprnet"]
+github_organizations = [
+  "https://github.com/hoprnet",
+]
 
 # Repositories
 [[repo]]
@@ -113,6 +115,7 @@ url = "https://github.com/hoprnet/hopr-demo-seeds"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-devops"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-devrel"
@@ -143,6 +146,7 @@ url = "https://github.com/hoprnet/hopr-genesis"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-ground0"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-leaderboard"
@@ -215,12 +219,14 @@ url = "https://github.com/hoprnet/hoprnet"
 
 [[repo]]
 url = "https://github.com/hoprnet/hoprnet-org"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hoprsim"
 
 [[repo]]
 url = "https://github.com/hoprnet/interface-datastore"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/it-length-prefixed"
@@ -341,3 +347,5 @@ url = "https://github.com/hoprnet/website-hoprnet-org"
 
 [[repo]]
 url = "https://github.com/hoprnet/website-token-page"
+missing = true
+

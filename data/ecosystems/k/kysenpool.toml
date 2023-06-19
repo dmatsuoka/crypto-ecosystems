@@ -3,7 +3,9 @@ title = "KysenPool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kysenpool"]
+github_organizations = [
+  "https://github.com/kysenpool",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/kysenpool/validator-logos"
 
 [[repo]]
 url = "https://github.com/kysenpool/validator-profiles"
+

@@ -3,7 +3,9 @@ title = "Creator (Substrate)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/creator-rs"]
+github_organizations = [
+  "https://github.com/creator-rs",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/dodorare/crossbow"
 
 [[repo]]
 url = "https://github.com/dodorare/crossbundle-templates"
+

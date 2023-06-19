@@ -3,7 +3,9 @@ title = "New Order"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/new-order-network"]
+github_organizations = [
+  "https://github.com/new-order-network",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,5 @@ url = "https://github.com/new-order-network/voting-power-staking"
 
 [[repo]]
 url = "https://github.com/new-order-network/wynd-backend"
+missing = true
+

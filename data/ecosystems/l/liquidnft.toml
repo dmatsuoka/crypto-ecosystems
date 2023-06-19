@@ -3,8 +3,11 @@ title = "liquidnft"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/liquidnft"]
+github_organizations = [
+  "https://github.com/liquidnft",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/liquidnft/lnft"
+

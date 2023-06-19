@@ -3,7 +3,9 @@ title = "Blockpass"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockpass-org"]
+github_organizations = [
+  "https://github.com/blockpass-org",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/blockpass-org/smart_contracts"
 
 [[repo]]
 url = "https://github.com/blockpass-org/zeppelin-solidity"
+

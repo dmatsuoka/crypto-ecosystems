@@ -3,7 +3,9 @@ title = "Volentix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Volentix"]
+github_organizations = [
+  "https://github.com/Volentix",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Volentix/volentixevm"
 
 [[repo]]
 url = "https://github.com/Volentix/volentixwork"
+

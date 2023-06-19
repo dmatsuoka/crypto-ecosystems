@@ -3,7 +3,9 @@ title = "Derivable Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/derivable-io"]
+github_organizations = [
+  "https://github.com/derivable-io",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/derivable-io/Univ3Pool"
 
 [[repo]]
 url = "https://github.com/derivable-io/utr"
+

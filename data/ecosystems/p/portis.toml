@@ -3,7 +3,9 @@ title = "Portis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/portis-project"]
+github_organizations = [
+  "https://github.com/portis-project",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/portis-project/starkware-controller"
 
 [[repo]]
 url = "https://github.com/portis-project/web-sdk"
+

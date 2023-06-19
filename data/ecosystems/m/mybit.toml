@@ -3,7 +3,9 @@ title = "MyBit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MyBitFoundation"]
+github_organizations = [
+  "https://github.com/MyBitFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -179,3 +181,4 @@ url = "https://github.com/MyBitFoundation/tokensale-original"
 
 [[repo]]
 url = "https://github.com/MyBitFoundation/tokensale-server"
+

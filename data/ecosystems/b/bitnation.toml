@@ -3,7 +3,9 @@ title = "Bitnation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bit-Nation"]
+github_organizations = [
+  "https://github.com/Bit-Nation",
+]
 
 # Repositories
 [[repo]]
@@ -311,3 +313,4 @@ url = "https://github.com/Bit-Nation/World-Citizenship"
 
 [[repo]]
 url = "https://github.com/Bit-Nation/x3dh"
+

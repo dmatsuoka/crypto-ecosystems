@@ -3,7 +3,9 @@ title = "EXOTHIUM"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/exothium"]
+github_organizations = [
+  "https://github.com/exothium",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/exothium/phaser-starknet"
 
 [[repo]]
 url = "https://github.com/exothium/phaser-starknet-boilerplate"
+

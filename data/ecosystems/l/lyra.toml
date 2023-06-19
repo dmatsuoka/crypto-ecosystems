@@ -3,7 +3,9 @@ title = "Lyra"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lyra-finance"]
+github_organizations = [
+  "https://github.com/lyra-finance",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/lyra-finance/lyra-scripts"
 
 [[repo]]
 url = "https://github.com/lyra-finance/lyra-share"
+missing = true
 
 [[repo]]
 url = "https://github.com/lyra-finance/lyra-ui-challenge"
@@ -71,6 +74,7 @@ url = "https://github.com/lyra-finance/reward-distribution"
 
 [[repo]]
 url = "https://github.com/lyra-finance/stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/lyra-finance/stkLyra-subgraph"
@@ -80,3 +84,4 @@ url = "https://github.com/lyra-finance/subgraph"
 
 [[repo]]
 url = "https://github.com/lyra-finance/transfers-subgraph"
+

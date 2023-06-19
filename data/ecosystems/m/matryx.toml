@@ -3,7 +3,9 @@ title = "Matryx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/matryx"]
+github_organizations = [
+  "https://github.com/matryx",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/matryx/nanobabel"
 
 [[repo]]
 url = "https://github.com/matryx/nanome-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/matryx/NanoPro-Atom-Bond-Render-Demo"
@@ -71,3 +74,4 @@ url = "https://github.com/matryx/vuethereum"
 
 [[repo]]
 url = "https://github.com/nanome-ai/nanome-docs"
+

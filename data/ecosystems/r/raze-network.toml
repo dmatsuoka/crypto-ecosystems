@@ -3,7 +3,9 @@ title = "Raze Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Raze-Net"]
+github_organizations = [
+  "https://github.com/Raze-Net",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,15 @@ url = "https://github.com/Raze-Net/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/Raze-Net/Raze_frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/Raze-Net/raze_full"
+missing = true
 
 [[repo]]
 url = "https://github.com/Raze-Net/Raze_protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/Raze-Net/Raze_website"
@@ -35,3 +40,4 @@ url = "https://github.com/Raze-Net/zero-chain"
 
 [[repo]]
 url = "https://github.com/Raze-Net/zether_rust"
+

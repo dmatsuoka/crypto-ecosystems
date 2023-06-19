@@ -3,7 +3,9 @@ title = "Embers"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TheEmbermine"]
+github_organizations = [
+  "https://github.com/TheEmbermine",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/TheEmbermine/SlipstreamAlpha"
 
 [[repo]]
 url = "https://github.com/TheEmbermine/solidity-workshop"
+

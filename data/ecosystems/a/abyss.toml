@@ -3,7 +3,9 @@ title = "Abyss"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/abyssfinance"]
+github_organizations = [
+  "https://github.com/abyssfinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/abyssfinance/abyss-eth2depositor"
 
 [[repo]]
 url = "https://github.com/abyssfinance/abyss-lockup"
+

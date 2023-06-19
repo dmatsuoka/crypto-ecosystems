@@ -3,7 +3,9 @@ title = "Maple"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/maple-labs"]
+github_organizations = [
+  "https://github.com/maple-labs",
+]
 
 # Repositories
 [[repo]]
@@ -212,3 +214,4 @@ url = "https://github.com/maple-labs/xMPL"
 
 [[repo]]
 url = "https://github.com/maple-labs/xmpl-simulations"
+

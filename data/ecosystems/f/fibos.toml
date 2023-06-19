@@ -3,7 +3,9 @@ title = "FIBOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FIBOSIO"]
+github_organizations = [
+  "https://github.com/FIBOSIO",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,8 @@ url = "https://github.com/FIBOSIO/ibo.fo"
 
 [[repo]]
 url = "https://github.com/FIBOSIO/OIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/FIBOSIO/samples"
+

@@ -3,7 +3,9 @@ title = "OoolongSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OolongSwap"]
+github_organizations = [
+  "https://github.com/OolongSwap",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/OolongSwap/OolongSwap.github.io"
 
 [[repo]]
 url = "https://github.com/OolongSwap/token-logos"
+

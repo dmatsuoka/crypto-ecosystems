@@ -3,7 +3,10 @@ title = "HoloREA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/h-REA", "https://github.com/holo-rea"]
+github_organizations = [
+  "https://github.com/h-REA",
+  "https://github.com/holo-rea",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +41,4 @@ url = "https://github.com/h-REA/mkdocs"
 
 [[repo]]
 url = "https://github.com/h-REA/valueflows-project-metarepo"
+

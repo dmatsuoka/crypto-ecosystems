@@ -3,7 +3,9 @@ title = "ParaSpell"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paraspell"]
+github_organizations = [
+  "https://github.com/paraspell",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/paraspell/ui-v2"
 
 [[repo]]
 url = "https://github.com/paraspell/xcm-sdk"
+

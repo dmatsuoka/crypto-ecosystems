@@ -3,7 +3,9 @@ title = "Flower Power DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flowerpowerdao"]
+github_organizations = [
+  "https://github.com/flowerpowerdao",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/flowerpowerdao/power-equalizer"
 
 [[repo]]
 url = "https://github.com/flowerpowerdao/punks-generation-scripts"
+

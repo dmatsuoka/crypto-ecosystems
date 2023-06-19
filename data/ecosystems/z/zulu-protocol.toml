@@ -3,7 +3,9 @@ title = "Zulu Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zuluprotocol"]
+github_organizations = [
+  "https://github.com/zuluprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -365,3 +367,4 @@ url = "https://github.com/zuluprotocol/zuluwallet-ui"
 
 [[repo]]
 url = "https://github.com/zuluprotocol/ZUSD_Test_Token"
+

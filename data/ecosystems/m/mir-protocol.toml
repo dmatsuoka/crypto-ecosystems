@@ -3,7 +3,9 @@ title = "Mir Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mir-protocol"]
+github_organizations = [
+  "https://github.com/mir-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/mir-protocol/system-zero"
 
 [[repo]]
 url = "https://github.com/mir-protocol/yultsur"
+

@@ -3,11 +3,14 @@ title = "Mercury"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SigwoTechnologies"]
+github_organizations = [
+  "https://github.com/SigwoTechnologies",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/SigwoTechnologies/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/SigwoTechnologies/jupiter"
@@ -29,6 +32,7 @@ url = "https://github.com/SigwoTechnologies/leda-web"
 
 [[repo]]
 url = "https://github.com/SigwoTechnologies/metis-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/SigwoTechnologies/metis-web"
@@ -38,3 +42,4 @@ url = "https://github.com/SigwoTechnologies/obsr-explorer"
 
 [[repo]]
 url = "https://github.com/SigwoTechnologies/wagerr-explorer"
+

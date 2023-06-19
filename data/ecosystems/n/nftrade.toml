@@ -3,7 +3,9 @@ title = "NFTrade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NFTrade"]
+github_organizations = [
+  "https://github.com/NFTrade",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/NFTrade/tinygraphs"
 
 [[repo]]
 url = "https://github.com/NFTrade/uauth"
+

@@ -3,7 +3,9 @@ title = "Solace Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solace-fi"]
+github_organizations = [
+  "https://github.com/solace-fi",
+]
 
 # Repositories
 [[repo]]
@@ -143,3 +145,4 @@ url = "https://github.com/solace-fi/webflow-scripts"
 
 [[repo]]
 url = "https://github.com/solace-fi/zapper-studio"
+

@@ -3,7 +3,9 @@ title = "IC4J"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ic4j"]
+github_organizations = [
+  "https://github.com/ic4j",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/ic4j/ic4j-maven-plugin"
 
 [[repo]]
 url = "https://github.com/ic4j/samples"
+

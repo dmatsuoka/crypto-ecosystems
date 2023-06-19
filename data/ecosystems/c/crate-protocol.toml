@@ -3,7 +3,9 @@ title = "Crate Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CrateProtocol"]
+github_organizations = [
+  "https://github.com/CrateProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/CrateProtocol/solana-program-registry"
 
 [[repo]]
 url = "https://github.com/CrateProtocol/yi"
+

@@ -3,7 +3,9 @@ title = "Aloe Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aloelabs"]
+github_organizations = [
+  "https://github.com/aloelabs",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/aloelabs/tap-thegraph"
 
 [[repo]]
 url = "https://github.com/aloelabs/uniswap-simulator"
+

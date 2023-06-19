@@ -3,7 +3,9 @@ title = "Zora"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ourzora"]
+github_organizations = [
+  "https://github.com/ourzora",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/ourzora/doge-nft"
 
 [[repo]]
 url = "https://github.com/ourzora/dropsite"
+missing = true
 
 [[repo]]
 url = "https://github.com/ourzora/excluded-uni-airdrop-users"
@@ -62,6 +65,7 @@ url = "https://github.com/ourzora/hollyplus-minting-contract"
 
 [[repo]]
 url = "https://github.com/ourzora/indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ourzora/jimmy-auction-house"
@@ -131,6 +135,7 @@ url = "https://github.com/ourzora/openzeppelin-contracts-upgradeable"
 
 [[repo]]
 url = "https://github.com/ourzora/pipeline_test"
+missing = true
 
 [[repo]]
 url = "https://github.com/ourzora/recovery-protocol"
@@ -200,6 +205,7 @@ url = "https://github.com/ourzora/zora-drops-extensions"
 
 [[repo]]
 url = "https://github.com/ourzora/zora-frontend-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/ourzora/zora-token-factory-deprecated-"
@@ -218,3 +224,4 @@ url = "https://github.com/ourzora/zorb"
 
 [[repo]]
 url = "https://github.com/ourzora/zorb-zenerator"
+

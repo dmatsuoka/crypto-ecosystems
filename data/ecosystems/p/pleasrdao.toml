@@ -3,7 +3,9 @@ title = "PleasrDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PleasrDAO"]
+github_organizations = [
+  "https://github.com/PleasrDAO",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/PleasrDAO/staking-ui"
 
 [[repo]]
 url = "https://github.com/PleasrDAO/stream-chat-react"
+

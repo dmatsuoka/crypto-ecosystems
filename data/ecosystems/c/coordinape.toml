@@ -3,7 +3,9 @@ title = "coordinape"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coordinape"]
+github_organizations = [
+  "https://github.com/coordinape",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,5 @@ url = "https://github.com/coordinape/scaffold-eth"
 
 [[repo]]
 url = "https://github.com/coordinape/scaffold-ui"
+missing = true
+

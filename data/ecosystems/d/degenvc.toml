@@ -3,7 +3,9 @@ title = "DegenVC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/degen-vc"]
+github_organizations = [
+  "https://github.com/degen-vc",
+]
 
 # Repositories
 [[repo]]
@@ -143,3 +145,4 @@ url = "https://github.com/degen-vc/unbox-art-nft-erc20"
 
 [[repo]]
 url = "https://github.com/degen-vc/unbox-art-vaults"
+

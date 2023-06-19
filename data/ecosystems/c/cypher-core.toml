@@ -3,7 +3,9 @@ title = "Cypher Core"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cyphercore-dev"]
+github_organizations = [
+  "https://github.com/cyphercore-dev",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/cyphercore-dev/umee"
 
 [[repo]]
 url = "https://github.com/neworldorder/braveneworld"
+

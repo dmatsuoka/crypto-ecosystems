@@ -3,7 +3,9 @@ title = "Ellaism"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ellaism"]
+github_organizations = [
+  "https://github.com/ellaism",
+]
 
 # Repositories
 [[repo]]
@@ -143,3 +145,4 @@ url = "https://github.com/ellaism/wiki"
 
 [[repo]]
 url = "https://github.com/multi-geth/multi-geth"
+

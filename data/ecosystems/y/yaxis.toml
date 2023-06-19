@@ -3,7 +3,9 @@ title = "yAxis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yaxis-project"]
+github_organizations = [
+  "https://github.com/yaxis-project",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/yaxis-project/yaxis-frontend"
 
 [[repo]]
 url = "https://github.com/yaxis-project/yaxis-subgraph"
+

@@ -3,7 +3,9 @@ title = "XChainJS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xchainjs"]
+github_organizations = [
+  "https://github.com/xchainjs",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/xchainjs/xchainjs.github.io"
 
 [[repo]]
 url = "https://github.com/xchainjs/xchainpy-lib"
+

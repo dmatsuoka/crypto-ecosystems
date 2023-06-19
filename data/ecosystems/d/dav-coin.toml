@@ -3,7 +3,9 @@ title = "DAV Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DAVFoundation"]
+github_organizations = [
+  "https://github.com/DAVFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -80,6 +82,7 @@ url = "https://github.com/DAVFoundation/mooving-flow"
 
 [[repo]]
 url = "https://github.com/DAVFoundation/mooving-iot-ee"
+missing = true
 
 [[repo]]
 url = "https://github.com/DAVFoundation/n3m0"
@@ -89,3 +92,4 @@ url = "https://github.com/DAVFoundation/organization-contributors"
 
 [[repo]]
 url = "https://github.com/DAVFoundation/xplore"
+

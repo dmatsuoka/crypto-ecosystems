@@ -3,7 +3,9 @@ title = "FolmCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/folm"]
+github_organizations = [
+  "https://github.com/folm",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/folm/Version-2"
 
 [[repo]]
 url = "https://github.com/folm/Version-II"
+

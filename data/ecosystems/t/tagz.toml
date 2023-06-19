@@ -3,8 +3,11 @@ title = "TAGZ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tagzexchange"]
+github_organizations = [
+  "https://github.com/tagzexchange",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/tagzexchange/mobileapp"
+

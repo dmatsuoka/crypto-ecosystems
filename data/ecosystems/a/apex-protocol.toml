@@ -3,7 +3,9 @@ title = "ApeX Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ApeX-Protocol"]
+github_organizations = [
+  "https://github.com/ApeX-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/ApeX-Protocol/periphery"
 
 [[repo]]
 url = "https://github.com/ApeX-Protocol/treasury"
+

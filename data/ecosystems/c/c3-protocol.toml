@@ -3,7 +3,9 @@ title = "C3 Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/C3-Protocol"]
+github_organizations = [
+  "https://github.com/C3-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/C3-Protocol/Wrapped-ICP"
 
 [[repo]]
 url = "https://github.com/C3-Protocol/ZombieNft"
+

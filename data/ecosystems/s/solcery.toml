@@ -3,7 +3,9 @@ title = "Solcery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solcery"]
+github_organizations = [
+  "https://github.com/solcery",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/solcery/degen_apes_stealer"
 
 [[repo]]
 url = "https://github.com/solcery/ecosystem"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/on-chain"
@@ -20,24 +23,31 @@ url = "https://github.com/solcery/slice-rbtree"
 
 [[repo]]
 url = "https://github.com/solcery/solcery-crud"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-engine"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-game"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-object"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-project"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-storage"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery_client_bricks_interpretation_system"
@@ -50,6 +60,7 @@ url = "https://github.com/solcery/solcery_cms"
 
 [[repo]]
 url = "https://github.com/solcery/solcery_dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery_engine"
@@ -59,9 +70,11 @@ url = "https://github.com/solcery/solcery_server"
 
 [[repo]]
 url = "https://github.com/solcery/solcery_unity"
+missing = true
 
 [[repo]]
 url = "https://github.com/solcery/solcery_web"
 
 [[repo]]
 url = "https://github.com/solcery/soulcery-landing"
+

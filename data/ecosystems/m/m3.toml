@@ -3,7 +3,9 @@ title = "M3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/M3-org"]
+github_organizations = [
+  "https://github.com/M3-org",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/M3-org/website"
 
 [[repo]]
 url = "https://github.com/M3-org/webxr-lobby"
+

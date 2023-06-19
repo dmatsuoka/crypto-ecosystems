@@ -3,7 +3,9 @@ title = "Kyoko Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kyoko-finance"]
+github_organizations = [
+  "https://github.com/kyoko-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/kyoko-finance/pawn-redeem-fe"
 
 [[repo]]
 url = "https://github.com/kyoko-finance/telegraf"
+

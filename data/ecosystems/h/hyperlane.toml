@@ -3,7 +3,9 @@ title = "Hyperlane"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hyperlane-xyz"]
+github_organizations = [
+  "https://github.com/hyperlane-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/hyperlane-xyz/coingecko-rs"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/config-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/docs"
@@ -80,3 +83,4 @@ url = "https://github.com/hyperlane-xyz/hyperlane-widgets"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hypermint-warp-ui"
+

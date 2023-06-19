@@ -3,7 +3,9 @@ title = "Muon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/muoncore"]
+github_organizations = [
+  "https://github.com/muoncore",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/muoncore/test-event-stores"
 
 [[repo]]
 url = "https://github.com/muoncore/transport-tcp"
+

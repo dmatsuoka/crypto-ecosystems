@@ -3,7 +3,9 @@ title = "LearnWeb3 DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LearnWeb3DAO"]
+github_organizations = [
+  "https://github.com/LearnWeb3DAO",
+]
 
 # Repositories
 [[repo]]
@@ -107,6 +109,7 @@ url = "https://github.com/LearnWeb3DAO/hasura-graphql-blueprint"
 
 [[repo]]
 url = "https://github.com/LearnWeb3DAO/helios"
+missing = true
 
 [[repo]]
 url = "https://github.com/LearnWeb3DAO/ICO"
@@ -230,3 +233,4 @@ url = "https://github.com/LearnWeb3DAO/What-is-Web3"
 
 [[repo]]
 url = "https://github.com/LearnWeb3DAO/Whitelist-Dapp"
+

@@ -3,7 +3,9 @@ title = "Teddy Cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/teddy-cash"]
+github_organizations = [
+  "https://github.com/teddy-cash",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/teddy-cash/dsa-connectors"
 
 [[repo]]
 url = "https://github.com/teddy-cash/founders-club"
+missing = true
 
 [[repo]]
 url = "https://github.com/teddy-cash/frontend-registry"
@@ -32,3 +35,4 @@ url = "https://github.com/teddy-cash/tokens"
 
 [[repo]]
 url = "https://github.com/teddy-cash/website"
+

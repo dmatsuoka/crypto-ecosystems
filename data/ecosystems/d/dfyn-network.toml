@@ -3,7 +3,9 @@ title = "Dfyn Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dfyn"]
+github_organizations = [
+  "https://github.com/dfyn",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/dfyn/dfyn-analytics"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-byof-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-ecosystem"
@@ -38,12 +41,14 @@ url = "https://github.com/dfyn/dfyn-farms-info"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-sdk"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-token"
@@ -71,3 +76,5 @@ url = "https://github.com/dfyn/prediction-market-data"
 
 [[repo]]
 url = "https://github.com/dfyn/snapshot-strategies"
+missing = true
+

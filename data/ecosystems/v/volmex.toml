@@ -3,7 +3,9 @@ title = "Volmex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/volmexfinance"]
+github_organizations = [
+  "https://github.com/volmexfinance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/volmexfinance/volmex-core"
 
 [[repo]]
 url = "https://github.com/volmexfinance/volmex-wiki"
+

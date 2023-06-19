@@ -3,7 +3,9 @@ title = "SpankChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpankChain"]
+github_organizations = [
+  "https://github.com/SpankChain",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/SpankChain/chainsaw"
 
 [[repo]]
 url = "https://github.com/SpankChain/community"
+missing = true
 
 [[repo]]
 url = "https://github.com/SpankChain/community-hub"
@@ -62,3 +65,4 @@ url = "https://github.com/SpankChain/uniprice"
 
 [[repo]]
 url = "https://github.com/SpankChain/virtual-channels"
+

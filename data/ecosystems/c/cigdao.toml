@@ -3,7 +3,9 @@ title = "CigDao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CigDao"]
+github_organizations = [
+  "https://github.com/CigDao",
+]
 
 # Repositories
 [[repo]]
@@ -20,18 +22,22 @@ url = "https://github.com/CigDao/canisters"
 
 [[repo]]
 url = "https://github.com/CigDao/cig20"
+missing = true
 
 [[repo]]
 url = "https://github.com/CigDao/Cig721_UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/CigDao/Cig_721"
+missing = true
 
 [[repo]]
 url = "https://github.com/CigDao/Cig_Profile"
 
 [[repo]]
 url = "https://github.com/CigDao/Cig_Social"
+missing = true
 
 [[repo]]
 url = "https://github.com/CigDao/cigdao-components"
@@ -83,3 +89,4 @@ url = "https://github.com/CigDao/wallet"
 
 [[repo]]
 url = "https://github.com/CigDao/Your-Coin"
+

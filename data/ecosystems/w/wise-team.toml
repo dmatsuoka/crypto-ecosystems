@@ -3,7 +3,9 @@ title = "Wise Team"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wise-team"]
+github_organizations = [
+  "https://github.com/wise-team",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/wise-team/wise-tslint-configuration"
 
 [[repo]]
 url = "https://github.com/wise-team/wise-vault"
+

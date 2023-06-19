@@ -3,7 +3,9 @@ title = "leapdao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/leapdao"]
+github_organizations = [
+  "https://github.com/leapdao",
+]
 
 # Repositories
 [[repo]]
@@ -245,3 +247,5 @@ url = "https://github.com/leapdao/web3-webpack-config-example"
 
 [[repo]]
 url = "https://github.com/WhiteRabbitTheWorldIsYours/mad-hatter"
+missing = true
+

@@ -3,7 +3,9 @@ title = "HEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitcoinHEX"]
+github_organizations = [
+  "https://github.com/BitcoinHEX",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/BitcoinHEX/wallet-utils"
 
 [[repo]]
 url = "https://github.com/BitcoinHEX/website"
+

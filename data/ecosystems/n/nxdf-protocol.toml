@@ -3,7 +3,9 @@ title = "NXDF Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DAIOSFoundation"]
+github_organizations = [
+  "https://github.com/DAIOSFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/DAIOSFoundation/nxdf-workspace"
 
 [[repo]]
 url = "https://github.com/DAIOSFoundation/nxdf_airdrop"
+

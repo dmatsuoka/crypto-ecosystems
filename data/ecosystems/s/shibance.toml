@@ -3,8 +3,11 @@ title = "Shibance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shibance"]
+github_organizations = [
+  "https://github.com/shibance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/shibance/vfat-tools"
+

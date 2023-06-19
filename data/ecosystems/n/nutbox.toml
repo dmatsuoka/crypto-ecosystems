@@ -3,7 +3,9 @@ title = "Nutbox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nutbox-dao"]
+github_organizations = [
+  "https://github.com/nutbox-dao",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/nutbox-dao/wormhole3-official-website"
 
 [[repo]]
 url = "https://github.com/nutbox-dao/wormhole3-register"
+

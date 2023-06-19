@@ -3,7 +3,9 @@ title = "Firo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/firoorg"]
+github_organizations = [
+  "https://github.com/firoorg",
+]
 
 # Repositories
 [[repo]]
@@ -59,9 +61,11 @@ url = "https://github.com/firoorg/ccminer-msvc2015"
 
 [[repo]]
 url = "https://github.com/firoorg/ccs-back"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/ccs-front"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/community"
@@ -251,6 +255,7 @@ url = "https://github.com/firoorg/spats-paper"
 
 [[repo]]
 url = "https://github.com/firoorg/trezor-firmware"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/trezor-mcu"
@@ -329,3 +334,4 @@ url = "https://github.com/firoorg/ZTipBot"
 
 [[repo]]
 url = "https://github.com/firoorg/ztm"
+

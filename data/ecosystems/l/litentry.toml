@@ -3,7 +3,9 @@ title = "Litentry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/litentry"]
+github_organizations = [
+  "https://github.com/litentry",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/litentry/.github"
 
 [[repo]]
 url = "https://github.com/litentry/admeta-hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/akropolis-polkadot"
@@ -47,6 +50,7 @@ url = "https://github.com/litentry/europa"
 
 [[repo]]
 url = "https://github.com/litentry/evm-processor"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/extension"
@@ -209,6 +213,7 @@ url = "https://github.com/litentry/squid-archives"
 
 [[repo]]
 url = "https://github.com/litentry/squid-balances-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/ss58-registry"
@@ -248,3 +253,4 @@ url = "https://github.com/litentry/xcm-demo"
 
 [[repo]]
 url = "https://github.com/litentry/xcm-simulator"
+

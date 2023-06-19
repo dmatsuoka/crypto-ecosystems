@@ -3,7 +3,9 @@ title = "Run On Flux"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RunOnFlux"]
+github_organizations = [
+  "https://github.com/RunOnFlux",
+]
 
 # Repositories
 [[repo]]
@@ -155,6 +157,7 @@ url = "https://github.com/RunOnFlux/flux-trx-legacy"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-uniswap-interface"
@@ -251,6 +254,7 @@ url = "https://github.com/RunOnFlux/nat-upnp"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/nat-upnp-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/RunOnFlux/node-stratum-pool"
@@ -284,3 +288,4 @@ url = "https://github.com/RunOnFlux/wp-nginx"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/ZelHash-reference-miner"
+

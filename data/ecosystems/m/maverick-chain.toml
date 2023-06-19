@@ -3,7 +3,9 @@ title = "Maverick Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mvchain"]
+github_organizations = [
+  "https://github.com/mvchain",
+]
 
 # Repositories
 [[repo]]
@@ -125,3 +127,4 @@ url = "https://github.com/mvchain/wallet-shell-websocket-demo-php"
 
 [[repo]]
 url = "https://github.com/mvchain/website"
+

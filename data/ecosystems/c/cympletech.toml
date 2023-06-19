@@ -3,7 +3,9 @@ title = "CympleTech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CympleTech"]
+github_organizations = [
+  "https://github.com/CympleTech",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/CympleTech/website"
 
 [[repo]]
 url = "https://github.com/CympleTech/x25519-dalek"
+

@@ -3,8 +3,11 @@ title = "Mindtrix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mindtrix-dao"]
+github_organizations = [
+  "https://github.com/mindtrix-dao",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/mindtrix-dao/mindtrix-flow-contracts"
+

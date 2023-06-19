@@ -3,7 +3,9 @@ title = "contentflydapp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/contentflydapp"]
+github_organizations = [
+  "https://github.com/contentflydapp",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/contentflydapp/nftpojc"
 
 [[repo]]
 url = "https://github.com/contentflydapp/nftpown"
+

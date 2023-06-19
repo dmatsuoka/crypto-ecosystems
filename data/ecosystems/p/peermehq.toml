@@ -3,7 +3,9 @@ title = "PeerMeHQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PeerMeHQ"]
+github_organizations = [
+  "https://github.com/PeerMeHQ",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/PeerMeHQ/snippets"
 
 [[repo]]
 url = "https://github.com/PeerMeHQ/tokensale-sc"
+

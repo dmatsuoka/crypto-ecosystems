@@ -3,7 +3,9 @@ title = "Phoenix Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Phoenix-Finance"]
+github_organizations = [
+  "https://github.com/Phoenix-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/Phoenix-Finance/wan-hdwallet-provider"
 
 [[repo]]
 url = "https://github.com/Phoenix-Finance/wandora-box-smart-contracts"
+

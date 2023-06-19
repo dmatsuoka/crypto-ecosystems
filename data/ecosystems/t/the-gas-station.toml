@@ -3,7 +3,9 @@ title = "The Gas Station"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/The-Gas-Station"]
+github_organizations = [
+  "https://github.com/The-Gas-Station",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/The-Gas-Station/Solidity-WebUI"
 
 [[repo]]
 url = "https://github.com/The-Gas-Station/vfat-tools"
+

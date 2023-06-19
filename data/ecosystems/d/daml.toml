@@ -3,7 +3,9 @@ title = "DAML"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/digital-asset"]
+github_organizations = [
+  "https://github.com/digital-asset",
+]
 
 # Repositories
 [[repo]]
@@ -278,3 +280,4 @@ url = "https://github.com/digital-asset/trigger-failure"
 
 [[repo]]
 url = "https://github.com/digital-asset/wallet-sample-app"
+

@@ -3,7 +3,9 @@ title = "PDC Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PDC-Finance"]
+github_organizations = [
+  "https://github.com/PDC-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,11 @@ url = "https://github.com/PDC-Finance/.github"
 
 [[repo]]
 url = "https://github.com/PDC-Finance/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/PDC-Finance/frontend"
 
 [[repo]]
 url = "https://github.com/PDC-Finance/Utilities"
+

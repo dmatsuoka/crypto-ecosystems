@@ -3,7 +3,9 @@ title = "Olive Cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/olive-cash"]
+github_organizations = [
+  "https://github.com/olive-cash",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/olive-cash/olive-utilities"
 
 [[repo]]
 url = "https://github.com/olive-cash/vfat-tools"
+

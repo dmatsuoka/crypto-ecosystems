@@ -3,7 +3,9 @@ title = "PIVX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PIVX-Project"]
+github_organizations = [
+  "https://github.com/PIVX-Project",
+]
 
 # Repositories
 [[repo]]
@@ -93,3 +95,4 @@ url = "https://github.com/PIVX-Project/PIVX-Wiki"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/PIVXj"
+

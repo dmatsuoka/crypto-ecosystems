@@ -3,7 +3,9 @@ title = "Fission"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fission-suite"]
+github_organizations = [
+  "https://github.com/fission-suite",
+]
 
 # Repositories
 [[repo]]
@@ -332,15 +334,19 @@ url = "https://github.com/fission-codes/zerowallet-poc"
 
 [[repo]]
 url = "https://github.com/fission-suite/fission-sharing-public-files"
+missing = true
 
 [[repo]]
 url = "https://github.com/fission-suite/go-redirects"
+missing = true
 
 [[repo]]
 url = "https://github.com/fission-suite/roam-research-discourse-sync"
+missing = true
 
 [[repo]]
 url = "https://github.com/fission-suite/ts-ucan"
+missing = true
 
 [[repo]]
 url = "https://github.com/ucan-wg/ts-ucan"
@@ -362,3 +368,4 @@ url = "https://github.com/webnative-examples/webnative-app-template"
 
 [[repo]]
 url = "https://github.com/wnfs-wg/rs-wnfs"
+

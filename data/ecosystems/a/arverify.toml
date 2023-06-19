@@ -3,7 +3,9 @@ title = "ArVerify"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArVerify"]
+github_organizations = [
+  "https://github.com/ArVerify",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/ArVerify/authnode-serverless"
 
 [[repo]]
 url = "https://github.com/ArVerify/trust"
+

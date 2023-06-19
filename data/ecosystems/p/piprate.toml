@@ -3,7 +3,9 @@ title = "Piprate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/piprate"]
+github_organizations = [
+  "https://github.com/piprate",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/piprate/sequel-app"
 
 [[repo]]
 url = "https://github.com/piprate/sequel-flow-contracts"
+

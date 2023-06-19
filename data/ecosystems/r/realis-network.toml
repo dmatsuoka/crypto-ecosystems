@@ -3,7 +3,9 @@ title = "Realis Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RealisNetwork"]
+github_organizations = [
+  "https://github.com/RealisNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/RealisNetwork/eth-contract-metadata"
 
 [[repo]]
 url = "https://github.com/RealisNetwork/ethereum-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/RealisNetwork/game-network"
@@ -71,3 +74,4 @@ url = "https://github.com/RealisNetwork/substrate-debug-kit"
 
 [[repo]]
 url = "https://github.com/RealisNetwork/substrate-parachain-template"
+

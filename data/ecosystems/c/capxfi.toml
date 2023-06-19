@@ -3,7 +3,9 @@ title = "CapxFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Capx-Fi"]
+github_organizations = [
+  "https://github.com/Capx-Fi",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Capx-Fi/Solana-P2P-Dex"
 
 [[repo]]
 url = "https://github.com/Capx-Fi/Wormhole"
+

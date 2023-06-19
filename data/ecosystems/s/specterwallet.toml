@@ -3,7 +3,9 @@ title = "SpecterWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptoadvance"]
+github_organizations = [
+  "https://github.com/cryptoadvance",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/cryptoadvance/spectrum"
 
 [[repo]]
 url = "https://github.com/cryptoadvance/umbrel"
+

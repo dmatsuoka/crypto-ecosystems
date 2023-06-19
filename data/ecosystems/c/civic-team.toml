@@ -3,7 +3,9 @@ title = "Civic Team"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/civicteam"]
+github_organizations = [
+  "https://github.com/civicteam",
+]
 
 # Repositories
 [[repo]]
@@ -257,3 +259,4 @@ url = "https://github.com/civicteam/workshop-solana-lottery"
 
 [[repo]]
 url = "https://github.com/civicteam/zendesk-theme"
+

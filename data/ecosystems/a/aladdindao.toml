@@ -3,7 +3,9 @@ title = "AladdinDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AladdinDAO"]
+github_organizations = [
+  "https://github.com/AladdinDAO",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/AladdinDAO/token-negotiator-examples"
 
 [[repo]]
 url = "https://github.com/AladdinDAO/yield-server"
+

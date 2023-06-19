@@ -3,9 +3,12 @@ title = "RankRadarICP"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RankRadarICP"]
+github_organizations = [
+  "https://github.com/RankRadarICP",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/RankRadarICP/Website"
 missing = true
+

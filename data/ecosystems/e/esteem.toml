@@ -3,7 +3,9 @@ title = "eSteem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/esteemapp"]
+github_organizations = [
+  "https://github.com/esteemapp",
+]
 
 # Repositories
 [[repo]]
@@ -140,12 +142,17 @@ url = "https://github.com/ecency/steempoll"
 
 [[repo]]
 url = "https://github.com/esteem8app/esteem8app.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/esteemapp/api.steemjs.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/esteemapp/esteem-mobile-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/esteemapp/imagehoster"
+missing = true
+

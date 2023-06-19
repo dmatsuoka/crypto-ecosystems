@@ -3,7 +3,9 @@ title = "Kine Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kine-Technology"]
+github_organizations = [
+  "https://github.com/Kine-Technology",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Kine-Technology/flutter_styled_toast-2.1.3"
 
 [[repo]]
 url = "https://github.com/Kine-Technology/kine-ios-test-download"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kine-Technology/kine-oracle"
@@ -26,3 +29,4 @@ url = "https://github.com/Kine-Technology/kine-protocol"
 
 [[repo]]
 url = "https://github.com/Kine-Technology/kine-public-config"
+

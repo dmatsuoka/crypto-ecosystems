@@ -3,7 +3,9 @@ title = "Deploy DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeployDAO"]
+github_organizations = [
+  "https://github.com/DeployDAO",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/DeployDAO/verified-program-artifacts"
 
 [[repo]]
 url = "https://github.com/DeployDAO/verified-programs-builder"
+

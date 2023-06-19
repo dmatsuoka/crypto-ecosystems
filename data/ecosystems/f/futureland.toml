@@ -3,7 +3,9 @@ title = "Futureland"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Futureland-live"]
+github_organizations = [
+  "https://github.com/Futureland-live",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Futureland-live/fl-token"
 
 [[repo]]
 url = "https://github.com/Futureland-live/futureland-core"
+

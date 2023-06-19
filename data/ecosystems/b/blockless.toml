@@ -3,7 +3,9 @@ title = "Blockless"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blocklessnetwork"]
+github_organizations = [
+  "https://github.com/blocklessnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/blocklessnetwork/sdk-rust"
 
 [[repo]]
 url = "https://github.com/blocklessnetwork/ssh-one-click-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocklessnetwork/starter-npm-assemblyscript"
@@ -113,3 +116,4 @@ url = "https://github.com/blocklessnetwork/template-assemblyscript-price-oracle"
 
 [[repo]]
 url = "https://github.com/blocklessnetwork/template-rust-hello-world"
+

@@ -3,7 +3,9 @@ title = "Cow Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cowprotocol"]
+github_organizations = [
+  "https://github.com/cowprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -215,3 +217,4 @@ url = "https://github.com/cowprotocol/validator-utils"
 
 [[repo]]
 url = "https://github.com/cowprotocol/web-sandbox"
+

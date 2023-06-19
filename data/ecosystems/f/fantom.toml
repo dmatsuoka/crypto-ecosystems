@@ -63,7 +63,9 @@ sub_ecosystems = [
   "ZooCoin",
 ]
 
-github_organizations = ["https://github.com/Fantom-foundation"]
+github_organizations = [
+  "https://github.com/Fantom-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -297,6 +299,7 @@ url = "https://github.com/Fantom-foundation/Fantom-PWA-Explorer"
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/Fantom-PWA-Wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/fantom-research"
@@ -381,6 +384,7 @@ url = "https://github.com/Fantom-foundation/fns-gui"
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/fns-homepage"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/FNS-SCs"
@@ -402,6 +406,7 @@ url = "https://github.com/Fantom-foundation/fusdswap"
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/fWallet-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/geth-indexer"
@@ -654,6 +659,7 @@ url = "https://github.com/Fantom-foundation/tokensale"
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/tokio"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fantom-foundation/tower-grpc"
@@ -717,3 +723,4 @@ url = "https://github.com/Warkanlock/rarity-visualizer-ui"
 
 [[repo]]
 url = "https://github.com/web3brasil/web3brasil"
+

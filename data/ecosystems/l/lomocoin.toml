@@ -3,7 +3,9 @@ title = "LoMoCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lomocoin"]
+github_organizations = [
+  "https://github.com/lomocoin",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/lomocoin/lomocoin-qt"
 
 [[repo]]
 url = "https://github.com/lomocoin/mobx-state-jungle-survival-guide"
+missing = true
 
 [[repo]]
 url = "https://github.com/lomocoin/multicoin"
@@ -125,3 +128,4 @@ url = "https://github.com/lomocoin/react-native-udp"
 
 [[repo]]
 url = "https://github.com/lomocoin/stellar-go"
+

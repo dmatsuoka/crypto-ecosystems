@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Axelar Network"
 
-sub_ecosystems = ["Squid"]
+sub_ecosystems = [
+  "Squid",
+]
 
-github_organizations = ["https://github.com/axelarnetwork"]
+github_organizations = [
+  "https://github.com/axelarnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -110,12 +114,15 @@ url = "https://github.com/axelarnetwork/evm-cosmos-relayer"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-caching-aws"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-caching-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-caching-nodejs"
@@ -123,9 +130,11 @@ missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-crawler"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-express"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-forecaller"
@@ -181,6 +190,7 @@ url = "https://github.com/axelarnetwork/token-linker"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/token-linker-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/axelarnetwork/unknown_order"
@@ -196,3 +206,4 @@ url = "https://github.com/axelarnetwork/webdocs"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/whitepaper"
+

@@ -3,7 +3,9 @@ title = "Tally"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/withtally"]
+github_organizations = [
+  "https://github.com/withtally",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/withtally/tally-zero"
 
 [[repo]]
 url = "https://github.com/withtally/Tutorial-Deploy-Governance"
+

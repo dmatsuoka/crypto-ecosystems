@@ -3,8 +3,11 @@ title = "PureBlock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pure-block"]
+github_organizations = [
+  "https://github.com/pure-block",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/purecube/purecube-near-contracts"
+

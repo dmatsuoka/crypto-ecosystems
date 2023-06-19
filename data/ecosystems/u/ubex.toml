@@ -3,7 +3,9 @@ title = "Ubex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ubex-ai"]
+github_organizations = [
+  "https://github.com/ubex-ai",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/ubex-ai/slot-client"
 
 [[repo]]
 url = "https://github.com/ubex-ai/ubex-blockchain-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/ubex-ai/ubex-crowdsale-api"
@@ -35,3 +38,4 @@ url = "https://github.com/ubex-ai/ubex-smart-contracts"
 
 [[repo]]
 url = "https://github.com/ubex-ai/ubex-web-gui"
+

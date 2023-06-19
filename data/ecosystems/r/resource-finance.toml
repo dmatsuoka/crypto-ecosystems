@@ -3,7 +3,9 @@ title = "ReSource Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ReSource-Network"]
+github_organizations = [
+  "https://github.com/ReSource-Network",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/ReSource-Network/pohlig-hellman"
 
 [[repo]]
 url = "https://github.com/ReSource-Network/resource-blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/ReSource-Network/ReSource-contracts"
@@ -98,12 +101,15 @@ url = "https://github.com/ReSource-Network/stable-credit-dapp"
 
 [[repo]]
 url = "https://github.com/ReSource-Network/stable-credit-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/ReSource-Network/stable-credits-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/ReSource-Network/vesting-dapp"
 
 [[repo]]
 url = "https://github.com/ReSource-Network/whitepaper"
+

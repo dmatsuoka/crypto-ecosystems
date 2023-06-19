@@ -3,7 +3,9 @@ title = "EthVM"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EthVM"]
+github_organizations = [
+  "https://github.com/EthVM",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/EthVM/EthVM"
 
 [[repo]]
 url = "https://github.com/EthVM/ethvm-extension-pack"
+missing = true
 
 [[repo]]
 url = "https://github.com/EthVM/evm-source-verification"
@@ -50,3 +53,4 @@ url = "https://github.com/EthVM/pgbackrest"
 
 [[repo]]
 url = "https://github.com/EthVM/remix-project"
+

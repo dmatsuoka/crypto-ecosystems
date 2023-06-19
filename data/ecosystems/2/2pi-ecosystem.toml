@@ -3,7 +3,9 @@ title = "2PI Ecosystem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/2pinetwork"]
+github_organizations = [
+  "https://github.com/2pinetwork",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/2pinetwork/UMA_KPI_API"
 
 [[repo]]
 url = "https://github.com/2pinetwork/web-archived"
+

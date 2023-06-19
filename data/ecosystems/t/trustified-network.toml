@@ -3,7 +3,9 @@ title = "Trustified Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Trustified-Network"]
+github_organizations = [
+  "https://github.com/Trustified-Network",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Trustified-Network/TN-Harmony"
 
 [[repo]]
 url = "https://github.com/Trustified-Network/TN-Tron-submit"
+

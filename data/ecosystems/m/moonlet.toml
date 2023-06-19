@@ -3,7 +3,9 @@ title = "Moonlet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Moonlet"]
+github_organizations = [
+  "https://github.com/Moonlet",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/Moonlet/zilpeg"
 
 [[repo]]
 url = "https://github.com/Moonlet/ZIP"
+

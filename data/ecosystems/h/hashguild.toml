@@ -3,8 +3,11 @@ title = "HashGuild"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HashGuild"]
+github_organizations = [
+  "https://github.com/HashGuild",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/HashGuild/hedera-minting"
+

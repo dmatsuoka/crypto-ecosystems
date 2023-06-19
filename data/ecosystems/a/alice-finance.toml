@@ -3,7 +3,9 @@ title = "Alice Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alice-finance"]
+github_organizations = [
+  "https://github.com/alice-finance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/alice-finance/staking"
 
 [[repo]]
 url = "https://github.com/alice-finance/token"
+

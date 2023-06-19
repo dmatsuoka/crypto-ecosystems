@@ -3,7 +3,9 @@ title = "Particle Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Particle-Network"]
+github_organizations = [
+  "https://github.com/Particle-Network",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/Particle-Network/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/Particle-Network/web3.js"
+

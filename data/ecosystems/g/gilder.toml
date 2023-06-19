@@ -3,7 +3,9 @@ title = "Gilder"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Gilder-Labs"]
+github_organizations = [
+  "https://github.com/Gilder-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Gilder-Labs/gilder-app"
 
 [[repo]]
 url = "https://github.com/Gilder-Labs/gilder-wallet"
+

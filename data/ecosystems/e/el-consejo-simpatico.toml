@@ -3,7 +3,9 @@ title = "El Consejo Simpatico"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ElConsejoSimpatico"]
+github_organizations = [
+  "https://github.com/ElConsejoSimpatico",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/ElConsejoSimpatico/ElConsejoSimpatico"
 
 [[repo]]
 url = "https://github.com/ElConsejoSimpatico/elconsejosimpatico.github.io"
+

@@ -3,7 +3,9 @@ title = "Meso Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MesoFinance"]
+github_organizations = [
+  "https://github.com/MesoFinance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/MesoFinance/polygon-vault-contracts"
 
 [[repo]]
 url = "https://github.com/MesoFinance/presale-factory"
+

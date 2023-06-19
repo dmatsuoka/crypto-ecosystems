@@ -3,7 +3,9 @@ title = "MakerX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MakerXStudio"]
+github_organizations = [
+  "https://github.com/MakerXStudio",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/MakerXStudio/ts-dossier"
 
 [[repo]]
 url = "https://github.com/MakerXStudio/ts-toolkit"
+

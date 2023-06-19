@@ -3,7 +3,9 @@ title = "Exactly"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/exactly"]
+github_organizations = [
+  "https://github.com/exactly",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/exactly/tenderly-actions"
 
 [[repo]]
 url = "https://github.com/exactly/zapper-studio"
+

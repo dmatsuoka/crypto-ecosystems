@@ -3,7 +3,9 @@ title = "CRYPTO20"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptotwenty"]
+github_organizations = [
+  "https://github.com/cryptotwenty",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/cryptotwenty/c20-withdraw-dapp"
 
 [[repo]]
 url = "https://github.com/cryptotwenty/smartcontracts"
+

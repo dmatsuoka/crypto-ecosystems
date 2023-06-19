@@ -3,7 +3,9 @@ title = "Bitcoin Diamond"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eveybcd"]
+github_organizations = [
+  "https://github.com/eveybcd",
+]
 
 # Repositories
 [[repo]]
@@ -69,3 +71,4 @@ url = "https://github.com/eveybcd/x13bcd_hash"
 
 [[repo]]
 url = "https://github.com/lozimski/bitcoindiamond"
+

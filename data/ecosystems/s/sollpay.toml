@@ -3,7 +3,9 @@ title = "Sollpay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sollpay"]
+github_organizations = [
+  "https://github.com/sollpay",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/sollpay/sollpay-frontend"
 
 [[repo]]
 url = "https://github.com/sollpay/sollpay-programs"
+

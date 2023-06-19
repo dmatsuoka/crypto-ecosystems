@@ -3,7 +3,9 @@ title = "Bundlr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bundlr-Network"]
+github_organizations = [
+  "https://github.com/Bundlr-Network",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/Bundlr-Network/bundler-balancer"
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/bundler-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/bundlr-basics"
@@ -50,12 +53,14 @@ url = "https://github.com/Bundlr-Network/ChattAR"
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/cli-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/compression-tests"
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/contracts"
@@ -89,6 +94,7 @@ url = "https://github.com/Bundlr-Network/myalgo-connect"
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/preweave-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/pybundlr"
@@ -116,3 +122,4 @@ url = "https://github.com/Bundlr-Network/vartex"
 
 [[repo]]
 url = "https://github.com/Bundlr-Network/webbundlr-basics"
+

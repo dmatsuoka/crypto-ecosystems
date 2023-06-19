@@ -3,7 +3,9 @@ title = "Spores Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Spores-Labs"]
+github_organizations = [
+  "https://github.com/Spores-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Spores-Labs/stake"
 
 [[repo]]
 url = "https://github.com/Spores-Labs/TicketSale"
+

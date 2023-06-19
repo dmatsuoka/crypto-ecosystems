@@ -3,7 +3,9 @@ title = "NEST Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NEST-Protocol"]
+github_organizations = [
+  "https://github.com/NEST-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/NEST-Protocol/kusTokenList"
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/NEST-ABC-Web"
+missing = true
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/NEST-announcement"
@@ -119,3 +122,5 @@ url = "https://github.com/NEST-Protocol/NESTRedEnvelopesBot"
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/oracle-kline-demo"
+missing = true
+

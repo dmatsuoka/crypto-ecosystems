@@ -3,7 +3,9 @@ title = "Mimo Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mimoprotocol"]
+github_organizations = [
+  "https://github.com/mimoprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/mimoprotocol/pancake-toolkit"
 
 [[repo]]
 url = "https://github.com/mimoprotocol/snapshot"
+

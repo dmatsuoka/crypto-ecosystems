@@ -3,7 +3,9 @@ title = "Aigang"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AigangNetwork"]
+github_organizations = [
+  "https://github.com/AigangNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -23,12 +25,14 @@ url = "https://github.com/AigangNetwork/aigang-docs"
 
 [[repo]]
 url = "https://github.com/AigangNetwork/aigang-forwarder"
+missing = true
 
 [[repo]]
 url = "https://github.com/AigangNetwork/aigang-insurance-app"
 
 [[repo]]
 url = "https://github.com/AigangNetwork/aigang-investment-dashboard-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/AigangNetwork/aigang-platform-contracts-insurance"
@@ -50,3 +54,4 @@ url = "https://github.com/AigangNetwork/aigangnetwork.github.io"
 
 [[repo]]
 url = "https://github.com/AigangNetwork/testaix"
+

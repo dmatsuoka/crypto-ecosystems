@@ -3,7 +3,9 @@ title = "Stride Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Stride-Labs"]
+github_organizations = [
+  "https://github.com/Stride-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/Stride-Labs/stridejs"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/yield-server"
+

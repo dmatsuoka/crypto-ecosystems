@@ -3,7 +3,9 @@ title = "Pinata.cloud"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PinataCloud"]
+github_organizations = [
+  "https://github.com/PinataCloud",
+]
 
 # Repositories
 [[repo]]
@@ -68,9 +70,11 @@ url = "https://github.com/PinataCloud/slingshot"
 
 [[repo]]
 url = "https://github.com/PinataCloud/submarine-me"
+missing = true
 
 [[repo]]
 url = "https://github.com/PinataCloud/Vue-IPFS-Example"
 
 [[repo]]
 url = "https://github.com/PinataCloud/zapier-pinata"
+

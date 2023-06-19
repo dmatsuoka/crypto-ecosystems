@@ -3,7 +3,9 @@ title = "Orne"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orne-io"]
+github_organizations = [
+  "https://github.com/orne-io",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,5 @@ url = "https://github.com/orne-io/contracts"
 
 [[repo]]
 url = "https://github.com/orne-io/www"
+missing = true
+

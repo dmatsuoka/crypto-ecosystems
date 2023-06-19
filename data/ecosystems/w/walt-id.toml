@@ -3,7 +3,9 @@ title = "Walt.ID"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/walt-id"]
+github_organizations = [
+  "https://github.com/walt-id",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/walt-id/waltid-web-wallet"
 
 [[repo]]
 url = "https://github.com/walt-id/waltid-xyzkit"
+

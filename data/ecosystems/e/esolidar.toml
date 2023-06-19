@@ -3,7 +3,9 @@ title = "Esolidar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/esolidar"]
+github_organizations = [
+  "https://github.com/esolidar",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/esolidar/valora-celo-dapp"
 
 [[repo]]
 url = "https://github.com/esolidar/web3"
+

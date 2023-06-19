@@ -3,7 +3,9 @@ title = "SentientFoundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SentientFoundation"]
+github_organizations = [
+  "https://github.com/SentientFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/SentientFoundation/SentientPitchDeck"
 
 [[repo]]
 url = "https://github.com/SentientFoundation/SENTWebsite"
+

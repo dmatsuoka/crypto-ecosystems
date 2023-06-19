@@ -3,7 +3,9 @@ title = "Sismo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sismo-core"]
+github_organizations = [
+  "https://github.com/sismo-core",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/sismo-core/zksub"
 
 [[repo]]
 url = "https://github.com/sismo-core/zksub-next"
+

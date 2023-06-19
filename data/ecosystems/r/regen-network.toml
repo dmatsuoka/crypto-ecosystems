@@ -3,7 +3,9 @@ title = "Regen Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/regen-network"]
+github_organizations = [
+  "https://github.com/regen-network",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/regen-network/canonical-proto3"
 
 [[repo]]
 url = "https://github.com/regen-network/carbonplus-grasslands-methodology"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/ceres"
@@ -107,6 +110,7 @@ url = "https://github.com/regen-network/governance"
 
 [[repo]]
 url = "https://github.com/regen-network/grasslands-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/groups-ui"
@@ -251,6 +255,7 @@ url = "https://github.com/regen-network/toucan-bridge"
 
 [[repo]]
 url = "https://github.com/regen-network/toucan-bridge-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/toucan-contracts"
@@ -269,3 +274,4 @@ url = "https://github.com/regen-network/wasmd"
 
 [[repo]]
 url = "https://github.com/regen-network/web-www"
+

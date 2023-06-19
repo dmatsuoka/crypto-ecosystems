@@ -3,7 +3,9 @@ title = "The Sandbox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thesandboxgame"]
+github_organizations = [
+  "https://github.com/thesandboxgame",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/thesandboxgame/jenkins-trigger"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/sandbox-collection-configurator"
+missing = true
 
 [[repo]]
 url = "https://github.com/thesandboxgame/sandbox-smart-contracts"
@@ -53,3 +56,4 @@ url = "https://github.com/thesandboxgame/steve-aoki-subgraph"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/thesandbox-contracts"
+

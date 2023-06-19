@@ -3,7 +3,9 @@ title = "SCV.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scv-finance"]
+github_organizations = [
+  "https://github.com/scv-finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/scv-finance/portfolio"
 
 [[repo]]
 url = "https://github.com/scv-finance/scvbot-collab"
+

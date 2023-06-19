@@ -3,7 +3,9 @@ title = "SpaceBudz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spacebudz"]
+github_organizations = [
+  "https://github.com/spacebudz",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/spacebudz/wasmbuild"
 
 [[repo]]
 url = "https://github.com/spacebudz/wormhole"
+

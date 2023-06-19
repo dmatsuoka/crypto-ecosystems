@@ -3,7 +3,9 @@ title = "Sunrise Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sunriseprotocol"]
+github_organizations = [
+  "https://github.com/sunriseprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/sunriseprotocol/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/sunriseprotocol/wiki"
+

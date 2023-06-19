@@ -3,7 +3,9 @@ title = "Valkyrie Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/valkyrieprotocol"]
+github_organizations = [
+  "https://github.com/valkyrieprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/valkyrieprotocol/qualifier-template"
 
 [[repo]]
 url = "https://github.com/valkyrieprotocol/terraswap-web-app"
+

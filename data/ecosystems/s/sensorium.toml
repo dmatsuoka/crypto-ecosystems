@@ -14,9 +14,11 @@ url = "https://github.com/sensoriumxr/flutter_screen_recording"
 
 [[repo]]
 url = "https://github.com/sensoriumxr/MultiSigWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/sensoriumxr/spotify-dart"
 
 [[repo]]
 url = "https://github.com/sensoriumxr/spotify_sdk"
+

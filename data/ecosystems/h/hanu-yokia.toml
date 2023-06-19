@@ -3,7 +3,9 @@ title = "Hanu Yokia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Goji-Crypto"]
+github_organizations = [
+  "https://github.com/Goji-Crypto",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Goji-Crypto/services"
 
 [[repo]]
 url = "https://github.com/Goji-Crypto/swap-token-list"
+

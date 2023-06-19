@@ -3,7 +3,9 @@ title = "SugarFunge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SugarFunge"]
+github_organizations = [
+  "https://github.com/SugarFunge",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/SugarFunge/sugarfunge-test"
 
 [[repo]]
 url = "https://github.com/SugarFunge/veloren"
+

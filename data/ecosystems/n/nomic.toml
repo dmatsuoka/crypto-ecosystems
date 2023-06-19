@@ -3,7 +3,9 @@ title = "Nomic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nomic-io"]
+github_organizations = [
+  "https://github.com/nomic-io",
+]
 
 # Repositories
 [[repo]]
@@ -80,6 +82,7 @@ url = "https://github.com/nomic-io/nomic"
 
 [[repo]]
 url = "https://github.com/nomic-io/nomic-telegram-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/nomic-io/nomic-testnet"
@@ -113,3 +116,4 @@ url = "https://github.com/nomic-io/testnets"
 
 [[repo]]
 url = "https://github.com/nomic-io/webcoin-regtest"
+

@@ -1,6 +1,13 @@
+# Ecosystem Level Information
 title = "Shiku Labs"
+
 sub_ecosystems = []
-github_organizations = ["https://github.com/ShikuLabs"]
+
+github_organizations = [
+  "https://github.com/ShikuLabs",
+]
+
+# Repositories
 [[repo]]
 url = "https://github.com/ShikuLabs/agent-unity"
 

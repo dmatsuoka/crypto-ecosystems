@@ -3,7 +3,9 @@ title = "Goose Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/goosedefi"]
+github_organizations = [
+  "https://github.com/goosedefi",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/goosedefi/goose-frontend-farms"
 
 [[repo]]
 url = "https://github.com/goosedefi/goose-uikit"
+

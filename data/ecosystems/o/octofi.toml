@@ -3,7 +3,9 @@ title = "OctoFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OctoFi"]
+github_organizations = [
+  "https://github.com/OctoFi",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/OctoFi/tokens"
 
 [[repo]]
 url = "https://github.com/octofinance/octofinance"
+

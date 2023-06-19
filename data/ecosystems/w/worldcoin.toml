@@ -3,7 +3,9 @@ title = "Worldcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/worldcoin"]
+github_organizations = [
+  "https://github.com/worldcoin",
+]
 
 # Repositories
 [[repo]]
@@ -122,6 +124,7 @@ url = "https://github.com/worldcoin/world-id-example-airdrop"
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-example-airdrop-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-hackathon-template"
@@ -143,6 +146,7 @@ url = "https://github.com/worldcoin/world-id-lens-dapp"
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-mobile-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-nfts"
@@ -176,3 +180,4 @@ url = "https://github.com/worldcoin/zephyr"
 
 [[repo]]
 url = "https://github.com/worldcoin/zk-poseidon-tree-updater"
+

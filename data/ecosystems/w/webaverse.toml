@@ -3,7 +3,9 @@ title = "Webaverse"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/webaverse"]
+github_organizations = [
+  "https://github.com/webaverse",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/webaverse-studios/StableDiffusionServer"
 
 [[repo]]
 url = "https://github.com/webaverse/3d-photo-inpainting"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/3D_Photo_Inpainting"
@@ -251,6 +254,7 @@ url = "https://github.com/webaverse/combined-pod"
 
 [[repo]]
 url = "https://github.com/webaverse/compile-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/compiler"
@@ -299,6 +303,7 @@ url = "https://github.com/webaverse/dance"
 
 [[repo]]
 url = "https://github.com/webaverse/dash-effect"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/dashboard"
@@ -608,6 +613,7 @@ url = "https://github.com/webaverse/ipfs-backend"
 
 [[repo]]
 url = "https://github.com/webaverse/Joe_GreenHill"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/katana"
@@ -743,6 +749,7 @@ url = "https://github.com/webaverse/moon-station"
 
 [[repo]]
 url = "https://github.com/webaverse/moonbird"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/morpher"
@@ -1013,6 +1020,7 @@ url = "https://github.com/webaverse/sd-depth"
 
 [[repo]]
 url = "https://github.com/webaverse/season0"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/sfx"
@@ -1022,6 +1030,7 @@ url = "https://github.com/webaverse/shield"
 
 [[repo]]
 url = "https://github.com/webaverse/shishi-voicepack"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/shooting-range"
@@ -1169,6 +1178,7 @@ url = "https://github.com/webaverse/stall"
 
 [[repo]]
 url = "https://github.com/webaverse/storystudio"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/street"
@@ -1340,6 +1350,7 @@ url = "https://github.com/webaverse/weaviate-server"
 
 [[repo]]
 url = "https://github.com/webaverse/weba-site-qr-pdf"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/weba-wallet"
@@ -1436,3 +1447,4 @@ url = "https://github.com/webaverse/zine-runtime"
 
 [[repo]]
 url = "https://github.com/webaverse/zjs"
+

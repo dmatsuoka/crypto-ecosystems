@@ -3,7 +3,9 @@ title = "AthleteX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SportsToken"]
+github_organizations = [
+  "https://github.com/SportsToken",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/SportsToken/UMIPs"
 
 [[repo]]
 url = "https://github.com/SportsToken/uniswap-v2-core"
+

@@ -3,7 +3,9 @@ title = "RadioShack Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/radioshackswap"]
+github_organizations = [
+  "https://github.com/radioshackswap",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/radioshackswap/token-lists"
 
 [[repo]]
 url = "https://github.com/radioshackswap/web3-react-injected-connector"
+

@@ -3,7 +3,9 @@ title = "Semantic Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tidelabs"]
+github_organizations = [
+  "https://github.com/tidelabs",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/tidelabs/tidext"
 
 [[repo]]
 url = "https://github.com/tidelabs/zombienet"
+

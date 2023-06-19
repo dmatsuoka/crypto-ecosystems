@@ -3,7 +3,9 @@ title = "PlayGame"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/playgame-global"]
+github_organizations = [
+  "https://github.com/playgame-global",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/playgame-global/culture"
 
 [[repo]]
 url = "https://github.com/playgame-global/indodax-rx"
+

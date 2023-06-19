@@ -3,7 +3,9 @@ title = "optionroom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OptionRoom"]
+github_organizations = [
+  "https://github.com/OptionRoom",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/OptionRoom/OptionRoom-Protocol"
 
 [[repo]]
 url = "https://github.com/OptionRoom/OptionRoom-Whitepaper"
+

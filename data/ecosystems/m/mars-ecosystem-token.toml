@@ -3,7 +3,9 @@ title = "Mars Ecosystem Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MarsEcosystem"]
+github_organizations = [
+  "https://github.com/MarsEcosystem",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/MarsEcosystem/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/MarsEcosystem/tokens"
+

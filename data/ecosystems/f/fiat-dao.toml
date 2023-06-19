@@ -3,11 +3,14 @@ title = "FIAT DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fiatdao"]
+github_organizations = [
+  "https://github.com/fiatdao",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/fiatdao/actions-i"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/airdrop"
@@ -32,6 +35,7 @@ url = "https://github.com/fiatdao/delphi-i"
 
 [[repo]]
 url = "https://github.com/fiatdao/delphi-ii"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/docs"
@@ -50,9 +54,11 @@ url = "https://github.com/fiatdao/fiat-ui-i-v1"
 
 [[repo]]
 url = "https://github.com/fiatdao/gitcoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/gov-frontend-backup"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/gov-subgraph-i"
@@ -62,18 +68,22 @@ url = "https://github.com/fiatdao/gov-ui-i"
 
 [[repo]]
 url = "https://github.com/fiatdao/guards-i"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/jubilee"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/misc"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/proxy"
 
 [[repo]]
 url = "https://github.com/fiatdao/rewards-sim"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/sdk-i"
@@ -86,9 +96,12 @@ url = "https://github.com/fiatdao/senatus"
 
 [[repo]]
 url = "https://github.com/fiatdao/token-i"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/vaults-i"
+missing = true
 
 [[repo]]
 url = "https://github.com/fiatdao/veToken"
+

@@ -3,7 +3,9 @@ title = "DeFiPie"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DefiPie"]
+github_organizations = [
+  "https://github.com/DefiPie",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,8 @@ url = "https://github.com/DefiPie/pie-bridge-contracts"
 
 [[repo]]
 url = "https://github.com/DefiPie/pie-polygon"
+missing = true
 
 [[repo]]
 url = "https://github.com/DefiPie/token-bridge"
+

@@ -3,7 +3,9 @@ title = "UnlimitedTower"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DevToothCrew"]
+github_organizations = [
+  "https://github.com/DevToothCrew",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/DevToothCrew/SmartContract"
 
 [[repo]]
 url = "https://github.com/DevToothCrew/UnlimitedTower"
+

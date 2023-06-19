@@ -3,7 +3,9 @@ title = "Nord Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nordfinance"]
+github_organizations = [
+  "https://github.com/nordfinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/nordfinance/nord-token-contract"
 
 [[repo]]
 url = "https://github.com/nordfinance/nord-tvl-api"
+

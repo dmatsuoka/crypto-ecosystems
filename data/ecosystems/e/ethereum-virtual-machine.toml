@@ -1,9 +1,15 @@
 # Ecosystem Level Information
 title = "Ethereum Virtual Machine"
 
-sub_ecosystems = ["Merlion", "Particle Network", "The Graph"]
+sub_ecosystems = [
+  "Merlion",
+  "Particle Network",
+  "The Graph",
+]
 
-github_organizations = ["https://github.com/VaultsProtocol"]
+github_organizations = [
+  "https://github.com/VaultsProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +32,4 @@ url = "https://github.com/VaultsProtocol/Vaults"
 
 [[repo]]
 url = "https://github.com/VaultsProtocol/VaultsProtocol"
+

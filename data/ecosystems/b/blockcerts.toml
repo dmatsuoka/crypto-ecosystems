@@ -3,7 +3,9 @@ title = "Blockcerts"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchain-certificates"]
+github_organizations = [
+  "https://github.com/blockchain-certificates",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/blockchain-certificates/wallet-test-resources"
 
 [[repo]]
 url = "https://github.com/blockchain-certificates/wc-sass-render"
+

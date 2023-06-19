@@ -3,7 +3,9 @@ title = "Acuity Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/acuity-social"]
+github_organizations = [
+  "https://github.com/acuity-social",
+]
 
 # Repositories
 [[repo]]
@@ -197,3 +199,4 @@ url = "https://github.com/acuity-social/subxt"
 
 [[repo]]
 url = "https://github.com/acuity-social/web3-mock"
+

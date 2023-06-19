@@ -3,7 +3,9 @@ title = "Passbird"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PassbirdCo"]
+github_organizations = [
+  "https://github.com/PassbirdCo",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/PassbirdCo/MetaKeepSDK"
 
 [[repo]]
 url = "https://github.com/PassbirdCo/PublicGithubActions"
+

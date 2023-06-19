@@ -3,7 +3,9 @@ title = "Sputnik DeFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sputnik-defi"]
+github_organizations = [
+  "https://github.com/sputnik-defi",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/sputnik-defi/bifrost-ava-contracts"
 
 [[repo]]
 url = "https://github.com/sputnik-defi/bifrost-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/sputnik-defi/bifrost-solidity-contracts"
@@ -32,3 +35,4 @@ url = "https://github.com/synswap-labs/heimdallr"
 
 [[repo]]
 url = "https://github.com/synswap-labs/tzs-contracts"
+

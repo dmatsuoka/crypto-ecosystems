@@ -3,7 +3,9 @@ title = "BlockStamp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockStamp"]
+github_organizations = [
+  "https://github.com/BlockStamp",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/BlockStamp/trezor-common"
 
 [[repo]]
 url = "https://github.com/BlockStamp/trezor-firmware"
+

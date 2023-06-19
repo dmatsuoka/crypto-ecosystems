@@ -3,7 +3,9 @@ title = "Valorem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/valorem-labs-inc"]
+github_organizations = [
+  "https://github.com/valorem-labs-inc",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/valorem-labs-inc/valorem-oracles"
 
 [[repo]]
 url = "https://github.com/valorem-labs-inc/valorem-subgraph"
+

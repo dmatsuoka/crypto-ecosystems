@@ -1,6 +1,11 @@
+# Ecosystem Level Information
 title = "Earth Wallet"
+
 sub_ecosystems = []
+
 github_organizations = []
+
+# Repositories
 [[repo]]
 url = "https://github.com/earthwallet/keyring"
 

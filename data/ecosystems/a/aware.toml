@@ -3,11 +3,14 @@ title = "AWARE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AwareFoundation"]
+github_organizations = [
+  "https://github.com/AwareFoundation",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/AwareFoundation/AWARE-iOS"
+missing = true
 
 [[repo]]
 url = "https://github.com/AwareFoundation/contracts"
@@ -20,15 +23,19 @@ url = "https://github.com/AwareFoundation/pyethereum"
 
 [[repo]]
 url = "https://github.com/AwareFoundation/qtum"
+missing = true
 
 [[repo]]
 url = "https://github.com/AwareFoundation/qtum-electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/AwareFoundation/qtumjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/AwareFoundation/solar"
+missing = true
 
 [[repo]]
 url = "https://github.com/AwareFoundation/token-profile"
@@ -41,3 +48,4 @@ url = "https://github.com/AwareFoundation/web3.py"
 
 [[repo]]
 url = "https://github.com/AwareFoundation/zeppelin-solidity"
+

@@ -3,11 +3,14 @@ title = "SDUSD"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Alchemint"]
+github_organizations = [
+  "https://github.com/Alchemint",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Alchemint/accountSolution"
+missing = true
 
 [[repo]]
 url = "https://github.com/Alchemint/Alchemint"
@@ -26,6 +29,7 @@ url = "https://github.com/Alchemint/alchemintToken"
 
 [[repo]]
 url = "https://github.com/Alchemint/blockAPI"
+missing = true
 
 [[repo]]
 url = "https://github.com/Alchemint/businessSolution"
@@ -50,6 +54,7 @@ url = "https://github.com/Alchemint/NEO_Block_API"
 
 [[repo]]
 url = "https://github.com/Alchemint/NeoBlock-Mongo-Storage"
+missing = true
 
 [[repo]]
 url = "https://github.com/Alchemint/OracleContract"
@@ -65,3 +70,4 @@ url = "https://github.com/Alchemint/taskSolution"
 
 [[repo]]
 url = "https://github.com/Alchemint/WebSite"
+

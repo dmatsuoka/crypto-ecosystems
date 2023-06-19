@@ -3,7 +3,9 @@ title = "Novelty"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Novelty-Today"]
+github_organizations = [
+  "https://github.com/Novelty-Today",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,11 @@ url = "https://github.com/Novelty-Today/Hinkal-Demo-App"
 
 [[repo]]
 url = "https://github.com/Novelty-Today/Hinkal-Neo-Protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/Novelty-Today/Hinkal-Protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/Novelty-Today/NFT-Engine"
@@ -32,3 +36,4 @@ url = "https://github.com/Novelty-Today/Novelty-Mobile"
 
 [[repo]]
 url = "https://github.com/Novelty-Today/novelty-today-web"
+

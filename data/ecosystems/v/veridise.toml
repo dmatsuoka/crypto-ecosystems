@@ -3,7 +3,9 @@ title = "Veridise"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Veridise"]
+github_organizations = [
+  "https://github.com/Veridise",
+]
 
 # Repositories
 [[repo]]
@@ -32,9 +34,11 @@ url = "https://github.com/Veridise/Grants-Program"
 
 [[repo]]
 url = "https://github.com/Veridise/halo2-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/ink-vuls"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/InkPreprocessor"
@@ -68,9 +72,11 @@ url = "https://github.com/Veridise/rust"
 
 [[repo]]
 url = "https://github.com/Veridise/RustPreprocessor"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/SolidityPreprocessor"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/SolType"
@@ -80,15 +86,18 @@ url = "https://github.com/Veridise/V"
 
 [[repo]]
 url = "https://github.com/Veridise/Vanguard"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/VInstrumenter"
 
 [[repo]]
 url = "https://github.com/Veridise/yul2llvm"
+missing = true
 
 [[repo]]
 url = "https://github.com/Veridise/zkevm-circuits"
 
 [[repo]]
 url = "https://github.com/Veridise/zkinterface"
+

@@ -3,7 +3,9 @@ title = "Internet Node Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/intfoundation"]
+github_organizations = [
+  "https://github.com/intfoundation",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/intfoundation/test"
 
 [[repo]]
 url = "https://github.com/intfoundation/titansexplorer"
+

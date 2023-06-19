@@ -3,7 +3,9 @@ title = "Gravis Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gravis-finance"]
+github_organizations = [
+  "https://github.com/gravis-finance",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/gravis-finance/t01-metadata"
 
 [[repo]]
 url = "https://github.com/gravis-finance/uikit"
+

@@ -3,7 +3,9 @@ title = "PDX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PDXbaap"]
+github_organizations = [
+  "https://github.com/PDXbaap",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/PDXbaap/wallet"
 
 [[repo]]
 url = "https://github.com/PDXbaap/wasm-chisel"
+

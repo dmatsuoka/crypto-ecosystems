@@ -3,7 +3,9 @@ title = "dArtFlex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dArtFlex"]
+github_organizations = [
+  "https://github.com/dArtFlex",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/dArtFlex/fatmen-airdrop-www"
 
 [[repo]]
 url = "https://github.com/dArtFlex/fatmen-www"
+

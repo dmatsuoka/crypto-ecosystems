@@ -3,7 +3,9 @@ title = "NFTX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NFTX-project"]
+github_organizations = [
+  "https://github.com/NFTX-project",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/NFTX-project/nftx-protocol-v2"
 
 [[repo]]
 url = "https://github.com/NFTX-project/nftx-tokenlist"
+missing = true
 
 [[repo]]
 url = "https://github.com/NFTX-project/nftx-v2-subgraph"
@@ -89,3 +92,4 @@ url = "https://github.com/NFTX-project/x-frontend"
 
 [[repo]]
 url = "https://github.com/NFTX-project/xvault-contracts"
+

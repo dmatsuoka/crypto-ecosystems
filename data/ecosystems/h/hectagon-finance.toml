@@ -3,7 +3,9 @@ title = "Hectagon Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hectagon-finance"]
+github_organizations = [
+  "https://github.com/hectagon-finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/hectagon-finance/tiger-tribe-contract"
 
 [[repo]]
 url = "https://github.com/hectagon-finance/whiteboard"
+

@@ -3,7 +3,9 @@ title = "IZIChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IZIChainLab"]
+github_organizations = [
+  "https://github.com/IZIChainLab",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/IZIChainLab/token-profile"
 
 [[repo]]
 url = "https://github.com/IZIChainLab/tokens"
+

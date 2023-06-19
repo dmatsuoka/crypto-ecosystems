@@ -3,7 +3,9 @@ title = "Fragcolor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fragcolor-xyz"]
+github_organizations = [
+  "https://github.com/fragcolor-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -26,9 +28,11 @@ url = "https://github.com/fragcolor-xyz/clamor-primer"
 
 [[repo]]
 url = "https://github.com/fragcolor-xyz/claymore"
+missing = true
 
 [[repo]]
 url = "https://github.com/fragcolor-xyz/discord-shards"
+missing = true
 
 [[repo]]
 url = "https://github.com/fragcolor-xyz/edn-rs"
@@ -92,3 +96,4 @@ url = "https://github.com/fragcolor-xyz/y-crdt"
 
 [[repo]]
 url = "https://github.com/fragcolor-xyz/YesNoGame_ForGioToInspect"
+

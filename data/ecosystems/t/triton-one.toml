@@ -3,7 +3,9 @@ title = "Triton One"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rpcpool"]
+github_organizations = [
+  "https://github.com/rpcpool",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/rpcpool/go-fil-dataprep"
 
 [[repo]]
 url = "https://github.com/rpcpool/indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/rpcpool/indexer-geyser-plugin"
@@ -95,6 +98,7 @@ url = "https://github.com/rpcpool/solana-geyser-park"
 
 [[repo]]
 url = "https://github.com/rpcpool/solana-geyser-rabbitmq"
+missing = true
 
 [[repo]]
 url = "https://github.com/rpcpool/solana-history"
@@ -134,3 +138,4 @@ url = "https://github.com/rpcpool/yellowstone-faithful"
 
 [[repo]]
 url = "https://github.com/rpcpool/yellowstone-grpc"
+

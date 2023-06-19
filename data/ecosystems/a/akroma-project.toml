@@ -3,7 +3,9 @@ title = "Akroma Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/akroma-project"]
+github_organizations = [
+  "https://github.com/akroma-project",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/akroma-project/website"
 
 [[repo]]
 url = "https://github.com/akroma-project/xgo"
+

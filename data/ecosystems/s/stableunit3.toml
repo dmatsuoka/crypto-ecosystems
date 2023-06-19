@@ -3,7 +3,9 @@ title = "StableUnit3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StableUnit"]
+github_organizations = [
+  "https://github.com/StableUnit",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/StableUnit/veSuDAO-info"
 
 [[repo]]
 url = "https://github.com/StableUnit/volatility_analysis"
+

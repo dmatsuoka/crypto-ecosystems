@@ -3,7 +3,9 @@ title = "LimePay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LimePay"]
+github_organizations = [
+  "https://github.com/LimePay",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/LimePay/sample-project"
 
 [[repo]]
 url = "https://github.com/LimePay/smart-contracts"
+

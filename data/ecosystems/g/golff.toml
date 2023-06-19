@@ -3,7 +3,9 @@ title = "Golff"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/golfffinance"]
+github_organizations = [
+  "https://github.com/golfffinance",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/golfffinance/golfffinance.github.io"
 
 [[repo]]
 url = "https://github.com/golfffinance/tokens"
+

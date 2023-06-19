@@ -3,7 +3,9 @@ title = "Gladius Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gladiusio"]
+github_organizations = [
+  "https://github.com/gladiusio",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/gladiusio/network-gateway-docs"
 
 [[repo]]
 url = "https://github.com/gladiusio/proxygen-env"
+

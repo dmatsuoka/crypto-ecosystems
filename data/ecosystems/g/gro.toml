@@ -3,7 +3,9 @@ title = "Gro"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/groLabs"]
+github_organizations = [
+  "https://github.com/groLabs",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/groLabs/GSquared"
 
 [[repo]]
 url = "https://github.com/groLabs/studio"
+

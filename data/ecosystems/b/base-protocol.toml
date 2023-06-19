@@ -3,7 +3,9 @@ title = "Base Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Base-Protocol"]
+github_organizations = [
+  "https://github.com/Base-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Base-Protocol/assets"
 
 [[repo]]
 url = "https://github.com/Base-Protocol/contracts"
+

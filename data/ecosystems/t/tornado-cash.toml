@@ -3,7 +3,9 @@ title = "Tornado Cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tornadocash"]
+github_organizations = [
+  "https://github.com/tornadocash",
+]
 
 # Repositories
 [[repo]]
@@ -101,6 +103,7 @@ url = "https://github.com/tornadocash/tornado-initiation-ui"
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-instances-UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-nova"
@@ -149,3 +152,4 @@ url = "https://github.com/tornadocash/ui-minified"
 
 [[repo]]
 url = "https://github.com/tornadocash/websnark"
+

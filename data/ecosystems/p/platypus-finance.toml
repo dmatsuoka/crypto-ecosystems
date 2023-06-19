@@ -3,7 +3,9 @@ title = "Platypus Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/platypus-finance"]
+github_organizations = [
+  "https://github.com/platypus-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/platypus-finance/token-vesting-ui"
 
 [[repo]]
 url = "https://github.com/platypus-finance/yield-server"
+

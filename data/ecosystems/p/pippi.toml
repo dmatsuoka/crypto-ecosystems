@@ -3,7 +3,9 @@ title = "Pippi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Shrimp-Labs"]
+github_organizations = [
+  "https://github.com/Shrimp-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Shrimp-Labs/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/Shrimp-Labs/uniswap-v2-periphery"
+

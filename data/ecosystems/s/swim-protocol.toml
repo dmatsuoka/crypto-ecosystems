@@ -3,7 +3,9 @@ title = "Swim Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swim-io"]
+github_organizations = [
+  "https://github.com/swim-io",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/swim-io/wormhole"
 
 [[repo]]
 url = "https://github.com/swim-io/xHack-workshop"
+

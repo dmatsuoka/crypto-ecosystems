@@ -3,7 +3,9 @@ title = "Tranquil Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tranquil-finance"]
+github_organizations = [
+  "https://github.com/tranquil-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/tranquil-finance/core-contracts"
 
 [[repo]]
 url = "https://github.com/tranquil-finance/oracle-contracts"
+

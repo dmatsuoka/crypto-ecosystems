@@ -3,7 +3,9 @@ title = "DeFi Yield Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dypfinance"]
+github_organizations = [
+  "https://github.com/dypfinance",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/dypfinance/v3-tools"
 
 [[repo]]
 url = "https://github.com/dypfinance/Vault-dApp"
+

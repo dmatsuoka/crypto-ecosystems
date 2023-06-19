@@ -3,7 +3,9 @@ title = "PartyBid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PartyDAO"]
+github_organizations = [
+  "https://github.com/PartyDAO",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/PartyDAO/partybuy"
 
 [[repo]]
 url = "https://github.com/PartyDAO/thegrandexchange"
+

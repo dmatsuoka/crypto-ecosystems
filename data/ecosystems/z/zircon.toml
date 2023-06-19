@@ -3,7 +3,9 @@ title = "Zircon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zircon-Finance"]
+github_organizations = [
+  "https://github.com/Zircon-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Zircon-Finance/zircon-subgraph"
 
 [[repo]]
 url = "https://github.com/Zircon-Finance/zircon-tokenlist"
+

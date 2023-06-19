@@ -3,7 +3,9 @@ title = "Umi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/umi-ag"]
+github_organizations = [
+  "https://github.com/umi-ag",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/umi-ag/umi-pool-seoul"
 
 [[repo]]
 url = "https://github.com/umi-ag/umi-sdk"
+

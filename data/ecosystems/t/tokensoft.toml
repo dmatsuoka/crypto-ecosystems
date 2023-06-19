@@ -3,7 +3,9 @@ title = "TokenSoft"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tokensoft"]
+github_organizations = [
+  "https://github.com/tokensoft",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/tokensoft/trading"
 
 [[repo]]
 url = "https://github.com/wrappedfi/wrapped-tokenlist"
+

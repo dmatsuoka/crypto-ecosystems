@@ -3,7 +3,9 @@ title = "Coingecko"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coingecko"]
+github_organizations = [
+  "https://github.com/coingecko",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/coingecko/unobtrusive_flash"
 
 [[repo]]
 url = "https://github.com/coingecko/XChange"
+

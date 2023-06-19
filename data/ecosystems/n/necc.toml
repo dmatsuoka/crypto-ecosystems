@@ -3,7 +3,9 @@ title = "Necc"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neccdao"]
+github_organizations = [
+  "https://github.com/neccdao",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/neccdao/socials"
 
 [[repo]]
 url = "https://github.com/neccdao/subgraph"
+

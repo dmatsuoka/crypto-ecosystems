@@ -3,7 +3,9 @@ title = "Float Capital"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Float-Capital"]
+github_organizations = [
+  "https://github.com/Float-Capital",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/Float-Capital/CSIRT"
 
 [[repo]]
 url = "https://github.com/Float-Capital/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Float-Capital/docs-hosting"
@@ -44,6 +47,7 @@ url = "https://github.com/Float-Capital/envio-greeter-tutorial"
 
 [[repo]]
 url = "https://github.com/Float-Capital/example-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/Float-Capital/float-subgraph-uncrashable"
@@ -98,3 +102,4 @@ url = "https://github.com/Float-Capital/user-feedback"
 
 [[repo]]
 url = "https://github.com/Float-Capital/var-app"
+

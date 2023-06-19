@@ -3,7 +3,9 @@ title = "Signal Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpectivOfficial"]
+github_organizations = [
+  "https://github.com/SpectivOfficial",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/SpectivOfficial/spectiv-boilerplate"
 
 [[repo]]
 url = "https://github.com/SpectivOfficial/wallet"
+

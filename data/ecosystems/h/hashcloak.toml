@@ -3,7 +3,9 @@ title = "HashCloak"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hashcloak"]
+github_organizations = [
+  "https://github.com/hashcloak",
+]
 
 # Repositories
 [[repo]]
@@ -506,3 +508,4 @@ url = "https://github.com/hashcloak/zkveth"
 
 [[repo]]
 url = "https://github.com/hashcloak/zupass"
+

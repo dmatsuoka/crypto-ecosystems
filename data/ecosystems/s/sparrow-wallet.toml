@@ -3,7 +3,9 @@ title = "Sparrow Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sparrowwallet"]
+github_organizations = [
+  "https://github.com/sparrowwallet",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/sparrowwallet/sparrow-planning"
 
 [[repo]]
 url = "https://github.com/sparrowwallet/toucan"
+

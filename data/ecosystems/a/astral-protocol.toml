@@ -3,7 +3,9 @@ title = "Astral Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AstralProtocol"]
+github_organizations = [
+  "https://github.com/AstralProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/AstralProtocol/sprout"
 
 [[repo]]
 url = "https://github.com/AstralProtocol/wrapperTest"
+

@@ -3,7 +3,9 @@ title = "BNB48 Club Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BNB48Club"]
+github_organizations = [
+  "https://github.com/BNB48Club",
+]
 
 # Repositories
 [[repo]]
@@ -53,6 +55,7 @@ url = "https://github.com/48Club/submit20"
 
 [[repo]]
 url = "https://github.com/BNB48Club/48bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/BNB48Club/BEPs"
@@ -98,3 +101,4 @@ url = "https://github.com/BNB48Club/python-binance"
 
 [[repo]]
 url = "https://github.com/BNB48Club/python-binance-chain"
+

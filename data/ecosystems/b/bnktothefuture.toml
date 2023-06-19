@@ -3,7 +3,9 @@ title = "BnkToTheFuture"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BankToTheFuture"]
+github_organizations = [
+  "https://github.com/BankToTheFuture",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/BankToTheFuture/td_critic"
 
 [[repo]]
 url = "https://github.com/BankToTheFuture/veriff_ruby"
+

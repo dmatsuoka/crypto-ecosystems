@@ -3,7 +3,9 @@ title = "CookBook"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Breakthrough-Labs"]
+github_organizations = [
+  "https://github.com/Breakthrough-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Breakthrough-Labs/vscode-cookbook"
 
 [[repo]]
 url = "https://github.com/Breakthrough-Labs/vscode-template"
+

@@ -3,7 +3,9 @@ title = "BambooDeFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bamboo-defi"]
+github_organizations = [
+  "https://github.com/bamboo-defi",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/bamboo-defi/token-list"
 
 [[repo]]
 url = "https://github.com/bamboo-defi/vfat-tools"
+

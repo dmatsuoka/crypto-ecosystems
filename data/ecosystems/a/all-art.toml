@@ -3,7 +3,9 @@ title = "All-Art"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/allartprotocol"]
+github_organizations = [
+  "https://github.com/allartprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/allartprotocol/unity-solana-demo"
 
 [[repo]]
 url = "https://github.com/allartprotocol/unity-solana-wallet"
+

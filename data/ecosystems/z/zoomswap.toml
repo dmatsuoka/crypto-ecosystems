@@ -3,7 +3,9 @@ title = "ZoomSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zoomswap"]
+github_organizations = [
+  "https://github.com/zoomswap",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,5 @@ url = "https://github.com/zoomswap/zoomswap-contracts"
 
 [[repo]]
 url = "https://github.com/zoomswap/zoomswap-frontend-public"
+missing = true
+

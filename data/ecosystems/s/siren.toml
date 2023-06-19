@@ -3,7 +3,9 @@ title = "Siren"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sirenmarkets"]
+github_organizations = [
+  "https://github.com/sirenmarkets",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/sirenmarkets/docs"
 
 [[repo]]
 url = "https://github.com/sirenmarkets/GammaProtocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/sirenmarkets/hardhat-storage-layout"
@@ -32,3 +35,4 @@ url = "https://github.com/sirenmarkets/liquidity-staker"
 
 [[repo]]
 url = "https://github.com/sirenmarkets/SIPs"
+

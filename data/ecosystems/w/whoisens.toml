@@ -3,7 +3,9 @@ title = "WhoisENS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/whoisens"]
+github_organizations = [
+  "https://github.com/whoisens",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/whoisens/whoisens-test-dataset"
 
 [[repo]]
 url = "https://github.com/whoisens/whoisens-website"
+

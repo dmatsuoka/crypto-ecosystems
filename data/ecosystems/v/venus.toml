@@ -3,7 +3,9 @@ title = "Venus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VenusProtocol"]
+github_organizations = [
+  "https://github.com/VenusProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/VenusProtocol/defiprime"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/discourse-ses-email"
+missing = true
 
 [[repo]]
 url = "https://github.com/VenusProtocol/front-end-tech-test"
@@ -80,3 +83,4 @@ url = "https://github.com/VenusProtocol/vips"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/web3-react"
+

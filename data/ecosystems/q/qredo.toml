@@ -3,7 +3,9 @@ title = "Qredo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/qredo"]
+github_organizations = [
+  "https://github.com/qredo",
+]
 
 # Repositories
 [[repo]]
@@ -23,18 +25,22 @@ url = "https://github.com/qredo/calc"
 
 [[repo]]
 url = "https://github.com/qredo/cardano-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/deep"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/Distributed-Paillier-Cryptosystem"
 
 [[repo]]
 url = "https://github.com/qredo/github-ci-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/glewlwyd"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/go-libbitcoinclient"
@@ -53,6 +59,7 @@ url = "https://github.com/qredo/HDWalletKit"
 
 [[repo]]
 url = "https://github.com/qredo/hive"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/incubator"
@@ -71,6 +78,7 @@ url = "https://github.com/qredo/partner-api-sign"
 
 [[repo]]
 url = "https://github.com/qredo/protocol-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/Qredo-Custody-Network-Yellow-Paper"
@@ -83,9 +91,11 @@ url = "https://github.com/qredo/qsign"
 
 [[repo]]
 url = "https://github.com/qredo/raspiblitz"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/RaspiBolt"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/segwittx"
@@ -95,9 +105,11 @@ url = "https://github.com/qredo/signing-agent"
 
 [[repo]]
 url = "https://github.com/qredo/synapse"
+missing = true
 
 [[repo]]
 url = "https://github.com/qredo/tendermint"
 
 [[repo]]
 url = "https://github.com/qredo/Ubuntu-Server-raspi4-unofficial"
+

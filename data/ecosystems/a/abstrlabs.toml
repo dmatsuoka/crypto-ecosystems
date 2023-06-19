@@ -3,7 +3,9 @@ title = "AbstrLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AbstrLabs"]
+github_organizations = [
+  "https://github.com/AbstrLabs",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/AbstrLabs/xjsnark_backend"
 
 [[repo]]
 url = "https://github.com/AbstrLabs/zkphttps"
+

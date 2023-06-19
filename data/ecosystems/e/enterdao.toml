@@ -3,7 +3,9 @@ title = "EnterDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EnterDAO"]
+github_organizations = [
+  "https://github.com/EnterDAO",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/EnterDAO/ENTR-Token"
 
 [[repo]]
 url = "https://github.com/EnterDAO/fractions-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/EnterDAO/LandWorks-FE"
@@ -59,3 +62,4 @@ url = "https://github.com/EnterDAO/ShardedMinds-Contracts"
 
 [[repo]]
 url = "https://github.com/EnterDAO/snapshot-strategies"
+

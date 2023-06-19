@@ -3,7 +3,9 @@ title = "KEY"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bihu-id"]
+github_organizations = [
+  "https://github.com/bihu-id",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/bihu-id/signupeoseos"
 
 [[repo]]
 url = "https://github.com/bihu-id/tokendapppub"
+

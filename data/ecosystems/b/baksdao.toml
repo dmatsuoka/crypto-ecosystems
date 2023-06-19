@@ -3,8 +3,11 @@ title = "BaksDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BaksDAO"]
+github_organizations = [
+  "https://github.com/BaksDAO",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/BaksDAO/contracts-mirror"
+

@@ -3,7 +3,9 @@ title = "Yieldery Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Yieldery"]
+github_organizations = [
+  "https://github.com/Yieldery",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/Yieldery/xdai-omnibridge"
 
 [[repo]]
 url = "https://github.com/Yieldery/yield-contract"
+

@@ -3,7 +3,9 @@ title = "Metrix Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TheLindaProjectInc"]
+github_organizations = [
+  "https://github.com/TheLindaProjectInc",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/TheLindaProjectInc/angular-notifier"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/BackupWalletGuide"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/batm_public"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/bitcoin-seeder"
@@ -32,9 +36,11 @@ url = "https://github.com/TheLindaProjectInc/cpp-eth-metrix"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/docs.metrixcoin.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/ExampleMRC721"
@@ -44,6 +50,7 @@ url = "https://github.com/TheLindaProjectInc/gitian.sigs"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/go-lindax"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/HelpyHelperton"
@@ -53,21 +60,27 @@ url = "https://github.com/TheLindaProjectInc/janus"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Linda-Paper-Wallet-Generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/lindacoin.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/LindaX-Paper-Wallet-Generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/LindaX-Wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/lindax.network"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Media"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/metrilib"
@@ -140,6 +153,7 @@ url = "https://github.com/TheLindaProjectInc/paper.metrixcoin.com"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/PHP-RPC"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/qtumjs"
@@ -158,3 +172,4 @@ url = "https://github.com/TheLindaProjectInc/wiki-heroku"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/wrapped-metrix"
+

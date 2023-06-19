@@ -3,7 +3,9 @@ title = "ForTube"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thefortube"]
+github_organizations = [
+  "https://github.com/thefortube",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/thefortube/token-profile"
 
 [[repo]]
 url = "https://github.com/thefortube/trust-assets"
+

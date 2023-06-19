@@ -3,7 +3,9 @@ title = "Umbrella Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/umbrella-network"]
+github_organizations = [
+  "https://github.com/umbrella-network",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/umbrella-network/shion"
 
 [[repo]]
 url = "https://github.com/umbrella-network/taurus"
+

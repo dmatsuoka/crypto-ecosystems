@@ -3,7 +3,9 @@ title = "Nomic Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nomiclabs"]
+github_organizations = [
+  "https://github.com/nomiclabs",
+]
 
 # Repositories
 [[repo]]
@@ -83,3 +85,5 @@ url = "https://github.com/NomicFoundation/WebSocket-Node"
 
 [[repo]]
 url = "https://github.com/nomiclabs/hardhat-ignition"
+missing = true
+

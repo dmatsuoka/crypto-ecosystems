@@ -3,7 +3,9 @@ title = "Duckounting"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/quack-quack-quads"]
+github_organizations = [
+  "https://github.com/quack-quack-quads",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/quack-quack-quads/duckounting"
 
 [[repo]]
 url = "https://github.com/quack-quack-quads/taskmaster"
+

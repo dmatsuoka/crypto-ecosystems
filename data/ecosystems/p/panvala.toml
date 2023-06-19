@@ -3,7 +3,9 @@ title = "Panvala"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Panvala"]
+github_organizations = [
+  "https://github.com/Panvala",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Panvala/handbook"
 
 [[repo]]
 url = "https://github.com/Panvala/panvala"
+

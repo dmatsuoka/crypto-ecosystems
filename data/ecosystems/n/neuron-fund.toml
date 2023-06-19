@@ -3,7 +3,9 @@ title = "Neuron fund"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neuron-fund"]
+github_organizations = [
+  "https://github.com/neuron-fund",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/neuron-fund/neuron-subgraph"
 
 [[repo]]
 url = "https://github.com/neuron-fund/token-data-shipper"
+

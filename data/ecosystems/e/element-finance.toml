@@ -3,7 +3,9 @@ title = "Element Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/element-fi"]
+github_organizations = [
+  "https://github.com/element-fi",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/element-fi/ape"
 
 [[repo]]
 url = "https://github.com/element-fi/ape-council"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/brand-assets"
@@ -32,6 +35,7 @@ url = "https://github.com/element-fi/council-kit"
 
 [[repo]]
 url = "https://github.com/element-fi/council.sh"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/DeFi-Pulse-Adapters"
@@ -56,6 +60,7 @@ url = "https://github.com/element-fi/elf-contracts-typechain"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-contracts-typechain-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-council-frontend"
@@ -77,6 +82,7 @@ url = "https://github.com/element-fi/elf-deploy"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-frontend-testnet"
@@ -92,12 +98,14 @@ url = "https://github.com/element-fi/elf-sdk"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-sdk-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-simulations"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-tokenlist"
@@ -155,3 +163,4 @@ url = "https://github.com/element-fi/zkp-merkle-airdrop-contracts"
 
 [[repo]]
 url = "https://github.com/element-foundation/construction-paper"
+

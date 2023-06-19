@@ -8,6 +8,8 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/TheKibaInu/kibabackups"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheKibaInu/kibaswap_alpha"
+

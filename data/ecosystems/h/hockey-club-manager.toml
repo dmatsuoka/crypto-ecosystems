@@ -3,7 +3,9 @@ title = "Hockey club manager"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NFT-Hockey"]
+github_organizations = [
+  "https://github.com/NFT-Hockey",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/NFT-Hockey/rewards-indexer"
 
 [[repo]]
 url = "https://github.com/NFT-Hockey/UE4-nft-hockey"
+

@@ -3,8 +3,11 @@ title = "Beat Foundry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/beat-foundry"]
+github_organizations = [
+  "https://github.com/beat-foundry",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/beat-foundry/allowlists"
+

@@ -3,7 +3,9 @@ title = "Glow Yield"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/glow-protocol"]
+github_organizations = [
+  "https://github.com/glow-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/glow-protocol/glow-contracts"
 
 [[repo]]
 url = "https://github.com/glow-protocol/glow-contracts-1"
+

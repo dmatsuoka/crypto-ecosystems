@@ -3,7 +3,9 @@ title = "Mole Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mole-Fi"]
+github_organizations = [
+  "https://github.com/Mole-Fi",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Mole-Fi/sips"
 
 [[repo]]
 url = "https://github.com/Mole-Fi/yield-server"
+

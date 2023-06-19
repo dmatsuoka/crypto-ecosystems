@@ -3,7 +3,9 @@ title = "Ash Avalanche"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AshAvalanche"]
+github_organizations = [
+  "https://github.com/AshAvalanche",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/AshAvalanche/subnet-evm"
 
 [[repo]]
 url = "https://github.com/AshAvalanche/timestampvm"
+

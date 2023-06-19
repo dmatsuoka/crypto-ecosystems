@@ -3,7 +3,9 @@ title = "Teddy Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/teddy-swap"]
+github_organizations = [
+  "https://github.com/teddy-swap",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/teddy-swap/testnet-token-metadata-registry"
 
 [[repo]]
 url = "https://github.com/teddy-swap/token-logos"
+

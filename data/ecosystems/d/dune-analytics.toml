@@ -3,14 +3,18 @@ title = "Dune Analytics"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/duneanalytics"]
+github_organizations = [
+  "https://github.com/duneanalytics",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/duneanalytics/cowizard"
+missing = true
 
 [[repo]]
 url = "https://github.com/duneanalytics/dagster-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/duneanalytics/dbt-docs"
@@ -53,6 +57,8 @@ url = "https://github.com/duneanalytics/prometheus-trusted-advisor-exporter"
 
 [[repo]]
 url = "https://github.com/duneanalytics/prometheus_aws_cost_exporter"
+missing = true
 
 [[repo]]
 url = "https://github.com/duneanalytics/spellbook"
+

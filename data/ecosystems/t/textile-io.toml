@@ -3,7 +3,9 @@ title = "Textile.io"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/textileio"]
+github_organizations = [
+  "https://github.com/textileio",
+]
 
 # Repositories
 [[repo]]
@@ -479,6 +481,7 @@ url = "https://github.com/textileio/team-retreats"
 
 [[repo]]
 url = "https://github.com/textileio/testground"
+missing = true
 
 [[repo]]
 url = "https://github.com/textileio/textile"
@@ -515,3 +518,4 @@ url = "https://github.com/textileio/www.boom.fyi"
 
 [[repo]]
 url = "https://github.com/textileio/xkcd-dapp-demo"
+

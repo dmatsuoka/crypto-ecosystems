@@ -3,7 +3,9 @@ title = "Percent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/percent-finance"]
+github_organizations = [
+  "https://github.com/percent-finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/percent-finance/percent-interface"
 
 [[repo]]
 url = "https://github.com/percent-finance/percent-protocol"
+

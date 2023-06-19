@@ -3,7 +3,9 @@ title = "Bitcoin Cash ABC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bitcoin-ABC"]
+github_organizations = [
+  "https://github.com/Bitcoin-ABC",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Bitcoin-ABC/secp256k1"
 
 [[repo]]
 url = "https://reviews.bitcoinabc.org/source/bitcoin-abc"
+

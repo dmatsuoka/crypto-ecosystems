@@ -3,7 +3,9 @@ title = "TokenBacon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tokenbacon"]
+github_organizations = [
+  "https://github.com/tokenbacon",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/tokenbacon/baconchain-api"
 
 [[repo]]
 url = "https://github.com/tokenbacon/wallet-android-app"
+

@@ -3,7 +3,9 @@ title = "Obscuro"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/obscuronet"]
+github_organizations = [
+  "https://github.com/obscuronet",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/obscuronet/uniswap-smart-order-router"
 
 [[repo]]
 url = "https://github.com/obscuronet/uniswap-testnet-deploy"
+

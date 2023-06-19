@@ -3,11 +3,15 @@ title = "CFXLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CFXLabsInc"]
+github_organizations = [
+  "https://github.com/CFXLabsInc",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/CFXLabsInc/cfx-solana-contexts"
+missing = true
 
 [[repo]]
 url = "https://github.com/CFXLabsInc/Fib"
+

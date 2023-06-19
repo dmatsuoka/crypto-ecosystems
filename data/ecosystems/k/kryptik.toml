@@ -3,7 +3,9 @@ title = "Kryptik"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KryptikApp"]
+github_organizations = [
+  "https://github.com/KryptikApp",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/KryptikApp/sword"
 
 [[repo]]
 url = "https://github.com/KryptikApp/swordExample"
+

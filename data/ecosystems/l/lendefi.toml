@@ -3,7 +3,9 @@ title = "Lendefi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lendefi"]
+github_organizations = [
+  "https://github.com/lendefi",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/lendefi/tradingview-udf-binance-node"
 
 [[repo]]
 url = "https://github.com/lendefi/website-new"
+

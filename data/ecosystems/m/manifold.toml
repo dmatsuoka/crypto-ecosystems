@@ -3,11 +3,14 @@ title = "Manifold"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/manifoldxyz"]
+github_organizations = [
+  "https://github.com/manifoldxyz",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/manifoldxyz/Akutar"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldxyz/cloudflare-cloudinary-proxy"
@@ -44,6 +47,7 @@ url = "https://github.com/manifoldxyz/manifold-templates"
 
 [[repo]]
 url = "https://github.com/manifoldxyz/manifold-tutorials"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldxyz/manifold-widget-wrappers"
@@ -68,3 +72,4 @@ url = "https://github.com/manifoldxyz/token-owned-wallet-solidity"
 
 [[repo]]
 url = "https://github.com/manifoldxyz/widget-wrappers"
+

@@ -3,7 +3,9 @@ title = "CENTRE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/centrehq"]
+github_organizations = [
+  "https://github.com/centrehq",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/centrehq/verite-credential-utils"
 
 [[repo]]
 url = "https://github.com/centrehq/verite-minter-allowlist"
+

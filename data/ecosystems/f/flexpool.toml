@@ -3,7 +3,9 @@ title = "Flexpool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flexpool"]
+github_organizations = [
+  "https://github.com/flexpool",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/flexpool/ui"
 
 [[repo]]
 url = "https://github.com/flexpool/zmp"
+

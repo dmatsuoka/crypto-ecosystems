@@ -3,7 +3,9 @@ title = "socean"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/igneous-labs"]
+github_organizations = [
+  "https://github.com/igneous-labs",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/igneous-labs/use-anchor-account"
 
 [[repo]]
 url = "https://github.com/igneous-labs/use-spl-token"
+

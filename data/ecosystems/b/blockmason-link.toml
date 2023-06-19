@@ -3,7 +3,9 @@ title = "Blockmason Link"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockmason"]
+github_organizations = [
+  "https://github.com/blockmason",
+]
 
 # Repositories
 [[repo]]
@@ -116,6 +118,7 @@ url = "https://github.com/blockmason/microservices-demo"
 
 [[repo]]
 url = "https://github.com/blockmason/mobile-dapp-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockmason/monothereum"
@@ -146,3 +149,4 @@ url = "https://github.com/blockmason/token-test-suite"
 
 [[repo]]
 url = "https://github.com/blockmason/web3-provider-ledger"
+

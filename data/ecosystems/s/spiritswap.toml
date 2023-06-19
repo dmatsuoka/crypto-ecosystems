@@ -3,11 +3,14 @@ title = "SpiritSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Layer3Org"]
+github_organizations = [
+  "https://github.com/Layer3Org",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Layer3Org/analyticsV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/Layer3Org/Spiritswap-Analytics-Subgraph"
@@ -26,3 +29,4 @@ url = "https://github.com/Layer3Org/spiritswap-uikit"
 
 [[repo]]
 url = "https://github.com/Layer3Org/spiritswap-uikit2"
+

@@ -3,8 +3,11 @@ title = "Breezecoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BreezeDeMarUK"]
+github_organizations = [
+  "https://github.com/BreezeDeMarUK",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/BreezeDeMarUK/BreezeCoin"
+

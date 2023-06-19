@@ -3,7 +3,9 @@ title = "Satori"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/satori-hq"]
+github_organizations = [
+  "https://github.com/satori-hq",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/satori-hq/website"
 
 [[repo]]
 url = "https://github.com/satori-hq/widgets"
+

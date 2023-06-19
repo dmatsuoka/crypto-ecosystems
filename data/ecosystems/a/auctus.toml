@@ -3,7 +3,9 @@ title = "Auctus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AuctusProject"]
+github_organizations = [
+  "https://github.com/AuctusProject",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/AuctusProject/SmartAccount"
 
 [[repo]]
 url = "https://github.com/AuctusProject/TelegramBot"
+

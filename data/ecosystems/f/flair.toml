@@ -3,7 +3,9 @@ title = "Flair"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flair-sdk"]
+github_organizations = [
+  "https://github.com/flair-sdk",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/flair-sdk/nft-collection-scaffold"
 
 [[repo]]
 url = "https://github.com/flair-sdk/typescript"
+

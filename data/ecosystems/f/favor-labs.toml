@@ -3,7 +3,9 @@ title = "Favor Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FavorLabs"]
+github_organizations = [
+  "https://github.com/FavorLabs",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/FavorLabs/manifest"
 
 [[repo]]
 url = "https://github.com/FavorLabs/react-native-favor"
+

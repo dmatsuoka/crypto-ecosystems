@@ -3,7 +3,9 @@ title = "Plasma Group"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plasma-group"]
+github_organizations = [
+  "https://github.com/plasma-group",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/plasma-group/research"
 
 [[repo]]
 url = "https://github.com/plasma-group/website"
+

@@ -3,7 +3,9 @@ title = "FuzeX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fuzex"]
+github_organizations = [
+  "https://github.com/fuzex",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/fuzex/slack-invite-automation"
 
 [[repo]]
 url = "https://github.com/fuzex/smart-contracts"
+

@@ -3,7 +3,9 @@ title = "BitCapitalVendor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitcv"]
+github_organizations = [
+  "https://github.com/bitcv",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/bitcv/uniswap-info"
 
 [[repo]]
 url = "https://github.com/bitcv/uniswap-v2-subgraph"
+

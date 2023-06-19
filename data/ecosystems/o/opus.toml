@@ -3,8 +3,11 @@ title = "OPUS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Opus-foundation"]
+github_organizations = [
+  "https://github.com/Opus-foundation",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Opus-foundation/contracts"
+

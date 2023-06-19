@@ -3,7 +3,9 @@ title = "Bender Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bender-labs"]
+github_organizations = [
+  "https://github.com/bender-labs",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/bender-labs/wrap-tz-contracts"
 
 [[repo]]
 url = "https://github.com/bender-labs/wrap-website"
+

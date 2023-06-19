@@ -3,7 +3,9 @@ title = "OpenBook"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openbook-dex"]
+github_organizations = [
+  "https://github.com/openbook-dex",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/openbook-dex/program"
 
 [[repo]]
 url = "https://github.com/openbook-dex/resources"
+

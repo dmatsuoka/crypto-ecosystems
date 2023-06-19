@@ -3,7 +3,9 @@ title = "Butter Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/butternetwork"]
+github_organizations = [
+  "https://github.com/butternetwork",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/butternetwork/butter-server"
 
 [[repo]]
 url = "https://github.com/butternetwork/butter-smart-router"
+missing = true
 
 [[repo]]
 url = "https://github.com/butternetwork/butter-swap-ui"
@@ -41,3 +44,4 @@ url = "https://github.com/butternetwork/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/butternetwork/smart-router"
+

@@ -3,7 +3,9 @@ title = "GIZA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GizaDAO"]
+github_organizations = [
+  "https://github.com/GizaDAO",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/GizaDAO/giza-contracts"
 
 [[repo]]
 url = "https://github.com/GizaDAO/giza-ido-contracts"
+

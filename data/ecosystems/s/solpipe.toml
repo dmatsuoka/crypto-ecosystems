@@ -3,7 +3,9 @@ title = "solpipe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solpipe"]
+github_organizations = [
+  "https://github.com/solpipe",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,8 @@ url = "https://github.com/solpipe/solana-firehose"
 
 [[repo]]
 url = "https://github.com/solpipe/solpipe-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/solpipe/solpipe-util"
+

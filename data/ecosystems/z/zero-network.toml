@@ -3,7 +3,9 @@ title = "zero network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/playzero"]
+github_organizations = [
+  "https://github.com/playzero",
+]
 
 # Repositories
 [[repo]]
@@ -188,3 +190,4 @@ url = "https://github.com/playzero/zero-wallet"
 
 [[repo]]
 url = "https://github.com/playzero/zero.io"
+

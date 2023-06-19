@@ -3,7 +3,9 @@ title = "TalentDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Talent-DAO"]
+github_organizations = [
+  "https://github.com/Talent-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,5 @@ url = "https://github.com/Talent-DAO/talentdao-sourcecred"
 
 [[repo]]
 url = "https://github.com/Talent-DAO/tdao-contracts-foundry"
+missing = true
+

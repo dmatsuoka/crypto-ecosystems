@@ -3,7 +3,9 @@ title = "Junto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/juntofoundation"]
+github_organizations = [
+  "https://github.com/juntofoundation",
+]
 
 # Repositories
 [[repo]]
@@ -95,21 +97,27 @@ url = "https://github.com/holochain-open-dev/holochain-time-index"
 
 [[repo]]
 url = "https://github.com/juntofoundation/Acai-API"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/communities"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/flux"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/HC-Link-Chunking"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/holochain-groups"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/junto-elements"
+missing = true
 
 [[repo]]
 url = "https://github.com/juntofoundation/junto-home-2.0"
@@ -119,3 +127,4 @@ url = "https://github.com/perspect3vism/ad4m"
 
 [[repo]]
 url = "https://github.com/perspect3vism/ad4m-host"
+

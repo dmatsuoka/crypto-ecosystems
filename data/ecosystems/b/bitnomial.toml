@@ -3,7 +3,9 @@ title = "Bitnomial"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitnomial"]
+github_organizations = [
+  "https://github.com/bitnomial",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/bitnomial/wai-middleware-hmac-auth"
 
 [[repo]]
 url = "https://github.com/bitnomial/wireshark-btp"
+

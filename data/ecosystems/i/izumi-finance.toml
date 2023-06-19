@@ -3,7 +3,9 @@ title = "iZUMi.finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/izumiFinance"]
+github_organizations = [
+  "https://github.com/izumiFinance",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/izumiFinance/izumi-swap-periphery"
 
 [[repo]]
 url = "https://github.com/izumiFinance/izumi-swap-periphery-zksync"
+missing = true
 
 [[repo]]
 url = "https://github.com/izumiFinance/izumi-tokenList"
@@ -80,3 +83,4 @@ url = "https://github.com/izumiFinance/token-list"
 
 [[repo]]
 url = "https://github.com/izumiFinance/yield-server"
+

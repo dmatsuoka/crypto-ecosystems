@@ -3,7 +3,9 @@ title = "Risk Harbor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Risk-Harbor"]
+github_organizations = [
+  "https://github.com/Risk-Harbor",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/Risk-Harbor/openzeppelin-contracts-upgradeable"
 
 [[repo]]
 url = "https://github.com/Risk-Harbor/RiskHarbor-Community"
+missing = true
 
 [[repo]]
 url = "https://github.com/Risk-Harbor/RiskHarbor-Docs"
@@ -50,6 +53,8 @@ url = "https://github.com/Risk-Harbor/uniswap-v3-periphery"
 
 [[repo]]
 url = "https://github.com/Risk-Harbor/v1-risk-analysis-sync"
+missing = true
 
 [[repo]]
 url = "https://github.com/Risk-Harbor/web3modal"
+

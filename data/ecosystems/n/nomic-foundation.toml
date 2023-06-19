@@ -3,7 +3,9 @@ title = "Nomic Foundation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NomicFoundation"]
+github_organizations = [
+  "https://github.com/NomicFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/NomicFoundation/vyper-releases-mirror"
 
 [[repo]]
 url = "https://github.com/NomicFoundation/WebSocket-Node"
+

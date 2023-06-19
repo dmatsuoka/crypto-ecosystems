@@ -3,7 +3,9 @@ title = "Toast.finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ToastFinance"]
+github_organizations = [
+  "https://github.com/ToastFinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/ToastFinance/SpaceToast"
 
 [[repo]]
 url = "https://github.com/ToastFinance/Treasury"
+

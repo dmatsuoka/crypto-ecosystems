@@ -3,11 +3,14 @@ title = "Kikimora Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kikimora-Labs"]
+github_organizations = [
+  "https://github.com/Kikimora-Labs",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Kikimora-Labs/go-near-name-pages"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kikimora-Labs/gonear-name"
@@ -56,3 +59,4 @@ url = "https://github.com/roke-to/roketo-dapp-public"
 
 [[repo]]
 url = "https://github.com/roke-to/roketo-test-dapp-public"
+

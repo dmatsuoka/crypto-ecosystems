@@ -3,7 +3,9 @@ title = "Jigstack"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jigstack-dev"]
+github_organizations = [
+  "https://github.com/jigstack-dev",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/jigstack-dev/stakbank-audits"
 
 [[repo]]
 url = "https://github.com/jigstack-dev/theta-tool-ethereum-erc20-snapshot"
+

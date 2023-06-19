@@ -3,7 +3,9 @@ title = "Polymesh"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PolymeshAssociation"]
+github_organizations = [
+  "https://github.com/PolymeshAssociation",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/PolymeshAssociation/typedoc-theme"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/typescript-boilerplate"
+

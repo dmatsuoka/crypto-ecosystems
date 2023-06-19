@@ -3,7 +3,9 @@ title = "BiFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bifrost-platform"]
+github_organizations = [
+  "https://github.com/bifrost-platform",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/bifrost-platform/AssetInfo"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/batch_transfer"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-platform/BIFI"
@@ -86,3 +89,4 @@ url = "https://github.com/bifrost-platform/wyvern-js"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/wyvern-schemas"
+

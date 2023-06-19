@@ -3,7 +3,9 @@ title = "xDollar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xDollar-Finance"]
+github_organizations = [
+  "https://github.com/xDollar-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/xDollar-Finance/xDollar-SDK"
 
 [[repo]]
 url = "https://github.com/xDollar-Finance/xdollar-v2-migration"
+

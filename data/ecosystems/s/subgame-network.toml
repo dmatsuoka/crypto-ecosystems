@@ -3,7 +3,9 @@ title = "SubGame Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SubGame-Network"]
+github_organizations = [
+  "https://github.com/SubGame-Network",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/SubGame-Network/substrate-parachain-template"
 
 [[repo]]
 url = "https://github.com/SubGame-Network/tokens"
+

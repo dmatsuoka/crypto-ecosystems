@@ -3,7 +3,9 @@ title = "Light Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Lightprotocol"]
+github_organizations = [
+  "https://github.com/Lightprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Lightprotocol/solana"
 
 [[repo]]
 url = "https://github.com/Lightprotocol/solana-program-library"
+

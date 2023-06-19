@@ -3,7 +3,9 @@ title = "Incognito Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/incognitochain"]
+github_organizations = [
+  "https://github.com/incognitochain",
+]
 
 # Repositories
 [[repo]]
@@ -200,3 +202,4 @@ url = "https://github.com/incognitochain/solana-bridge"
 
 [[repo]]
 url = "https://github.com/incognitochain/solana-bridge-relayers"
+

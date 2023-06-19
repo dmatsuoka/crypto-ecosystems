@@ -3,11 +3,14 @@ title = "DIA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/diadata-org"]
+github_organizations = [
+  "https://github.com/diadata-org",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/diadata-org/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/diadata-org/astar-docs"
@@ -83,3 +86,4 @@ url = "https://github.com/diadata-org/W3F-Grants-Program"
 
 [[repo]]
 url = "https://github.com/diadata-org/xdai.world"
+

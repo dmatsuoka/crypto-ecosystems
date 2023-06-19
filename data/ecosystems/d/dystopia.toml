@@ -3,7 +3,9 @@ title = "Dystopia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dystopia-exchange"]
+github_organizations = [
+  "https://github.com/dystopia-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/dystopia-exchange/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/dystopia-exchange/paraswap-sdk"
+

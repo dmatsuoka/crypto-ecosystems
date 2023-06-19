@@ -3,7 +3,9 @@ title = "Derace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Derace"]
+github_organizations = [
+  "https://github.com/Derace",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Derace/contract"
 
 [[repo]]
 url = "https://github.com/Derace/staking-contract"
+

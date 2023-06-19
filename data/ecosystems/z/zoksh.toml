@@ -3,7 +3,9 @@ title = "Zoksh"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zokshpay"]
+github_organizations = [
+  "https://github.com/Zokshpay",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Zokshpay/sdk-nodejs"
 
 [[repo]]
 url = "https://github.com/Zokshpay/sdk-react"
+

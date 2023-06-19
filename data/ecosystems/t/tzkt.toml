@@ -3,7 +3,9 @@ title = "TzKT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tzkt"]
+github_organizations = [
+  "https://github.com/tzkt",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/tzkt/api-sdk-ts"
 
 [[repo]]
 url = "https://github.com/tzkt/oazapfts"
+

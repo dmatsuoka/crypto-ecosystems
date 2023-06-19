@@ -3,7 +3,9 @@ title = "PaideiaDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/paideiadao"]
+github_organizations = [
+  "https://github.com/paideiadao",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/paideiadao/paideia-sdk"
 
 [[repo]]
 url = "https://github.com/paideiadao/paideia-state"
+

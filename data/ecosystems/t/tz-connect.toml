@@ -3,7 +3,9 @@ title = "TZ Connect"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tzConnectBerlin"]
+github_organizations = [
+  "https://github.com/tzConnectBerlin",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/tzConnectBerlin/tzconnect-upptime"
 
 [[repo]]
 url = "https://github.com/tzConnectBerlin/veri"
+

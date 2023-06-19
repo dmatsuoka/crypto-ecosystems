@@ -3,7 +3,9 @@ title = "Lendingblock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lendingblock"]
+github_organizations = [
+  "https://github.com/lendingblock",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/quantmind/aio-kong"
 
 [[repo]]
 url = "https://github.com/quantmind/aio-openapi"
+

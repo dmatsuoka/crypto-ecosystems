@@ -3,7 +3,9 @@ title = "Impact Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Impact-Finance"]
+github_organizations = [
+  "https://github.com/Impact-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/Impact-Finance/if-nextjs-site"
 
 [[repo]]
 url = "https://github.com/Impact-Finance/IF-website-build"
+missing = true
 
 [[repo]]
 url = "https://github.com/Impact-Finance/intheory-mobile-nft-mint-celo"
@@ -20,3 +23,4 @@ url = "https://github.com/Impact-Finance/intheory-research"
 
 [[repo]]
 url = "https://github.com/Impact-Finance/intheory-science"
+

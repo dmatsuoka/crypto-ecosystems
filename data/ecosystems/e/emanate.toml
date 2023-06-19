@@ -3,7 +3,9 @@ title = "Emanate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Emanate-official"]
+github_organizations = [
+  "https://github.com/Emanate-official",
+]
 
 # Repositories
 [[repo]]
@@ -11,18 +13,21 @@ url = "https://github.com/Emanate-official/aes-encryption"
 
 [[repo]]
 url = "https://github.com/Emanate-official/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Emanate-official/carousel"
 
 [[repo]]
 url = "https://github.com/Emanate-official/default-token-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/Emanate-official/erc20-emt-token"
 
 [[repo]]
 url = "https://github.com/Emanate-official/market"
+missing = true
 
 [[repo]]
 url = "https://github.com/Emanate-official/miniplayer"
@@ -41,3 +46,4 @@ url = "https://github.com/Emanate-official/universal-toastr"
 
 [[repo]]
 url = "https://github.com/Emanate-official/widget_marquee"
+

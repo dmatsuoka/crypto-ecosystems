@@ -3,7 +3,9 @@ title = "Foxlottery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Foxlottery"]
+github_organizations = [
+  "https://github.com/Foxlottery",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Foxlottery/website-nextjs"
 
 [[repo]]
 url = "https://github.com/Foxlottery/whitepaper-gittbook"
+

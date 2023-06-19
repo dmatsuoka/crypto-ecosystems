@@ -3,7 +3,9 @@ title = "MeshJS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MeshJS"]
+github_organizations = [
+  "https://github.com/MeshJS",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/MeshJS/starter-next-ts-template"
 
 [[repo]]
 url = "https://github.com/MeshJS/whitepaper"
+

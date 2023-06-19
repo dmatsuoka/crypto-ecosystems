@@ -3,7 +3,9 @@ title = "Parrot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gopartyparrot"]
+github_organizations = [
+  "https://github.com/gopartyparrot",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/gopartyparrot/ido-pool"
 
 [[repo]]
 url = "https://github.com/gopartyparrot/invest-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/gopartyparrot/jup-twap"
@@ -62,6 +65,7 @@ url = "https://github.com/gopartyparrot/peggedassets-server"
 
 [[repo]]
 url = "https://github.com/gopartyparrot/png-merkle-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/gopartyparrot/program-bitmap"
@@ -107,3 +111,4 @@ url = "https://github.com/gopartyparrot/stakpool-utilities"
 
 [[repo]]
 url = "https://github.com/gopartyparrot/token-list"
+

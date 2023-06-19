@@ -3,7 +3,9 @@ title = "Entangle Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Entangle-Protocol"]
+github_organizations = [
+  "https://github.com/Entangle-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,9 @@ url = "https://github.com/Entangle-Protocol/polygon-smart-contract"
 
 [[repo]]
 url = "https://github.com/Entangle-Protocol/smart-contracts-open"
+missing = true
 
 [[repo]]
 url = "https://github.com/Entangle-Protocol/smart-contracts-v2"
+missing = true
+

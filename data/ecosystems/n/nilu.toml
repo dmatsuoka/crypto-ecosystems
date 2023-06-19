@@ -3,7 +3,9 @@ title = "Nilu"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NiluPlatform"]
+github_organizations = [
+  "https://github.com/NiluPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/NiluPlatform/Wallet-Android"
 
 [[repo]]
 url = "https://github.com/NiluPlatform/web3j"
+

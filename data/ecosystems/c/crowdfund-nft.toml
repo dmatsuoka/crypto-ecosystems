@@ -3,7 +3,9 @@ title = "Crowdfund NFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CrowdFund-NFT"]
+github_organizations = [
+  "https://github.com/CrowdFund-NFT",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/CrowdFund-NFT/crowdfund-nft"
 
 [[repo]]
 url = "https://github.com/CrowdFund-NFT/escrow_manager"
+

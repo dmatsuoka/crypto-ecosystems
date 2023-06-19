@@ -3,7 +3,9 @@ title = "Decentraland DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Decentraland-DAO"]
+github_organizations = [
+  "https://github.com/Decentraland-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Decentraland-DAO/payments"
 
 [[repo]]
 url = "https://github.com/Decentraland-DAO/transparency"
+

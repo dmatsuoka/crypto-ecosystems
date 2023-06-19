@@ -3,7 +3,9 @@ title = "Golos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GolosChain"]
+github_organizations = [
+  "https://github.com/GolosChain",
+]
 
 # Repositories
 [[repo]]
@@ -83,9 +85,11 @@ url = "https://github.com/GolosChain/cyber-keygen"
 
 [[repo]]
 url = "https://github.com/GolosChain/cybergolos"
+missing = true
 
 [[repo]]
 url = "https://github.com/GolosChain/cyberSwift"
+missing = true
 
 [[repo]]
 url = "https://github.com/GolosChain/cyberway-block-explorer"
@@ -161,6 +165,7 @@ url = "https://github.com/GolosChain/golos.io"
 
 [[repo]]
 url = "https://github.com/GolosChain/Golosdb"
+missing = true
 
 [[repo]]
 url = "https://github.com/GolosChain/golosio-launching"
@@ -269,3 +274,4 @@ url = "https://github.com/GolosChain/wallet-service"
 
 [[repo]]
 url = "https://github.com/GolosChain/wiki"
+

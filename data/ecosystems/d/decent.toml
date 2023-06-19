@@ -3,7 +3,9 @@ title = "DECENT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DECENTfoundation"]
+github_organizations = [
+  "https://github.com/DECENTfoundation",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/DECENTfoundation/updatemanager"
 
 [[repo]]
 url = "https://github.com/DECENTfoundation/websocketpp"
+

@@ -3,7 +3,9 @@ title = "HomeLess Mint NFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HomeLess-Mint-NFT"]
+github_organizations = [
+  "https://github.com/HomeLess-Mint-NFT",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/HomeLess-Mint-NFT/mint_nft"
 
 [[repo]]
 url = "https://github.com/HomeLess-Mint-NFT/mintNFT"
+

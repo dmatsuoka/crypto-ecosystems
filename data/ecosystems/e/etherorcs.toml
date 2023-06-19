@@ -3,8 +3,11 @@ title = "EtherOrcs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EtherOrcsOfficial"]
+github_organizations = [
+  "https://github.com/EtherOrcsOfficial",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/EtherOrcsOfficial/etherOrcs-contracts"
+

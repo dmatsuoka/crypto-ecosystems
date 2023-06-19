@@ -3,7 +3,9 @@ title = "Illuvium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IlluviumGame"]
+github_organizations = [
+  "https://github.com/IlluviumGame",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/IlluviumGame/metamask-contract-metadata"
 
 [[repo]]
 url = "https://github.com/IlluviumGame/nft-disperser"
+

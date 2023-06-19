@@ -3,7 +3,9 @@ title = "Bluzelle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bluzelle"]
+github_organizations = [
+  "https://github.com/bluzelle",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/bluzelle/tmkms-remote-hsm"
 
 [[repo]]
 url = "https://github.com/bluzelle/tokens-info"
+

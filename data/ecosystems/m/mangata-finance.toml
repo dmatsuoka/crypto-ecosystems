@@ -3,7 +3,9 @@ title = "Mangata Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mangata-finance"]
+github_organizations = [
+  "https://github.com/mangata-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/mangata-finance/cumulus"
 
 [[repo]]
 url = "https://github.com/mangata-finance/diagrams"
+missing = true
 
 [[repo]]
 url = "https://github.com/mangata-finance/do-actions-runner"
@@ -116,3 +119,4 @@ url = "https://github.com/mangata-finance/xcm-global-registry"
 
 [[repo]]
 url = "https://github.com/mangata-finance/xcm-simulator"
+

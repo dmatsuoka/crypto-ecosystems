@@ -3,7 +3,9 @@ title = "Impermax Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Impermax-Finance"]
+github_organizations = [
+  "https://github.com/Impermax-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Impermax-Finance/simple-uniswap-oracle"
 
 [[repo]]
 url = "https://github.com/Impermax-Finance/staked-lp-token"
+

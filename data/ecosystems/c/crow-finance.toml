@@ -3,8 +3,11 @@ title = "Crow Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/crowfinance"]
+github_organizations = [
+  "https://github.com/crowfinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/crowfinance/crow-smartcontract"
+

@@ -3,7 +3,9 @@ title = "Barbershop Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BarbershopFinance"]
+github_organizations = [
+  "https://github.com/BarbershopFinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/BarbershopFinance/PresaleContract"
 
 [[repo]]
 url = "https://github.com/BarbershopFinance/vfat-tools"
+

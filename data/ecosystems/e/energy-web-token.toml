@@ -3,7 +3,9 @@ title = "Energy Web Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/energywebfoundation"]
+github_organizations = [
+  "https://github.com/energywebfoundation",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/energywebfoundation/dsb"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/dsb-client-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/energywebfoundation/dsb-client-gateway-helm"
@@ -305,6 +308,7 @@ url = "https://github.com/energywebfoundation/gsn-template"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/iam-cache-server-helm"
+missing = true
 
 [[repo]]
 url = "https://github.com/energywebfoundation/iam-client-examples"
@@ -500,6 +504,7 @@ url = "https://github.com/energywebfoundation/staking-crowdfunding"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/staking-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/energywebfoundation/staking-pool-ui"
@@ -584,3 +589,4 @@ url = "https://github.com/energywebfoundation/zero-api-spec"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/zero-protocol-labs"
+

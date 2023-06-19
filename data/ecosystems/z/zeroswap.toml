@@ -3,7 +3,9 @@ title = "ZeroSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ZeroSwapLabs"]
+github_organizations = [
+  "https://github.com/ZeroSwapLabs",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/ZeroSwapLabs/community-treasury-doc"
 
 [[repo]]
 url = "https://github.com/ZeroSwapLabs/DefiLlama-Adapters"
+

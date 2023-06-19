@@ -3,7 +3,9 @@ title = "Everest Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Everest-Labs"]
+github_organizations = [
+  "https://github.com/Everest-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Everest-Labs/Everest-Options"
 
 [[repo]]
 url = "https://github.com/Everest-Labs/solidity-contracts"
+

@@ -3,7 +3,9 @@ title = "spinamp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spinamp"]
+github_organizations = [
+  "https://github.com/spinamp",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/spinamp/web3-music-pipeline"
 
 [[repo]]
 url = "https://github.com/spinamp/web3-music-subgraph"
+

@@ -3,7 +3,9 @@ title = "Dragonereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dragonereum"]
+github_organizations = [
+  "https://github.com/dragonereum",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/dragonereum/token-profile"
 
 [[repo]]
 url = "https://github.com/dragonereum/tokens"
+

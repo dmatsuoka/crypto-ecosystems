@@ -3,7 +3,9 @@ title = "OmniFlix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OmniFlix"]
+github_organizations = [
+  "https://github.com/OmniFlix",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/OmniFlix/awesome"
 
 [[repo]]
 url = "https://github.com/OmniFlix/chain-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/OmniFlix/chainlist"
@@ -23,6 +26,7 @@ url = "https://github.com/OmniFlix/chainlist-1"
 
 [[repo]]
 url = "https://github.com/OmniFlix/composable-networks"
+missing = true
 
 [[repo]]
 url = "https://github.com/OmniFlix/cosmos-sdk"
@@ -86,6 +90,7 @@ url = "https://github.com/OmniFlix/node"
 
 [[repo]]
 url = "https://github.com/OmniFlix/nolus-networks"
+missing = true
 
 [[repo]]
 url = "https://github.com/OmniFlix/nucleus"
@@ -155,3 +160,4 @@ url = "https://github.com/OmniFlix/validator-registry-3"
 
 [[repo]]
 url = "https://github.com/OmniFlix/validator-registry-4"
+

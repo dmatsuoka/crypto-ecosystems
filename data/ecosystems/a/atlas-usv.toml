@@ -3,8 +3,11 @@ title = "Atlas USV"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AtlasUSV"]
+github_organizations = [
+  "https://github.com/AtlasUSV",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/AtlasUSV/atlas-contracts"
+

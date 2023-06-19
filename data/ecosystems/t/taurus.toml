@@ -3,7 +3,9 @@ title = "Taurus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/taurusgroup"]
+github_organizations = [
+  "https://github.com/taurusgroup",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/taurusgroup/ton"
 
 [[repo]]
 url = "https://github.com/taurusgroup/uniswap-frontend"
+

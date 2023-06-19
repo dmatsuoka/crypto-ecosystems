@@ -3,7 +3,9 @@ title = "Cardstack"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cardstack"]
+github_organizations = [
+  "https://github.com/cardstack",
+]
 
 # Repositories
 [[repo]]
@@ -221,3 +223,4 @@ url = "https://github.com/cardstack/upgrade-manager"
 
 [[repo]]
 url = "https://github.com/cardstack/zodiac"
+

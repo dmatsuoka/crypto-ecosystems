@@ -3,7 +3,9 @@ title = "IBetYou"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IBetYou"]
+github_organizations = [
+  "https://github.com/IBetYou",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/IBetYou/org"
 
 [[repo]]
 url = "https://github.com/IBetYou/starknet-frontend"
+

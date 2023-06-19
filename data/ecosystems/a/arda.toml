@@ -3,7 +3,9 @@ title = "Arda"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arda-org"]
+github_organizations = [
+  "https://github.com/arda-org",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/arda-org/xSuite.js"
 
 [[repo]]
 url = "https://github.com/arda-org/egld-for-ukraine"
+

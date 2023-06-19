@@ -3,7 +3,9 @@ title = "Obyte"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/byteball"]
+github_organizations = [
+  "https://github.com/byteball",
+]
 
 # Repositories
 [[repo]]
@@ -404,3 +406,4 @@ url = "https://github.com/byteball/WCG-distribution"
 
 [[repo]]
 url = "https://github.com/byteball/zip"
+

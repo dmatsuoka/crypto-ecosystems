@@ -3,7 +3,9 @@ title = "Aptosis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aptosis"]
+github_organizations = [
+  "https://github.com/aptosis",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/aptosis/xcoin"
 
 [[repo]]
 url = "https://github.com/aptosis/xcoin-sdk"
+

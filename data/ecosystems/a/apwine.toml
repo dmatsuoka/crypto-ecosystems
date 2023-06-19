@@ -3,7 +3,9 @@ title = "APWine"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/APWine"]
+github_organizations = [
+  "https://github.com/APWine",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/APWine/audits"
 
 [[repo]]
 url = "https://github.com/APWine/frontend-exercise"
+

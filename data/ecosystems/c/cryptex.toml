@@ -3,7 +3,9 @@ title = "Cryptex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cryptexfinance"]
+github_organizations = [
+  "https://github.com/cryptexfinance",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/cryptexfinance/token-list"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/website"
+

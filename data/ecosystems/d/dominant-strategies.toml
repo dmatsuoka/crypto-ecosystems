@@ -3,7 +3,9 @@ title = "Dominant Strategies"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dominant-strategies"]
+github_organizations = [
+  "https://github.com/dominant-strategies",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/dominant-strategies/go-randomx"
 
 [[repo]]
 url = "https://github.com/dominant-strategies/gpu-miner"
+missing = true
 
 [[repo]]
 url = "https://github.com/dominant-strategies/hardhat-example"
@@ -116,3 +119,4 @@ url = "https://github.com/dominant-strategies/synpress-flask"
 
 [[repo]]
 url = "https://github.com/dominant-strategies/tx-spammer"
+

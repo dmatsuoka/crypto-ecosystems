@@ -3,7 +3,9 @@ title = "Materia Dex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/materia-dex"]
+github_organizations = [
+  "https://github.com/materia-dex",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/materia-dex/materia-claim-api"
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-contracts-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-contracts-distributor"
@@ -29,18 +33,21 @@ url = "https://github.com/materia-dex/materia-contracts-proposals"
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-contracts-proxy"
+missing = true
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-info"
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-retroqueries"
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/materia-dex/materia-subgraph"
@@ -50,3 +57,4 @@ url = "https://github.com/materia-dex/materia-token-list"
 
 [[repo]]
 url = "https://github.com/materia-dex/materiadex-com"
+

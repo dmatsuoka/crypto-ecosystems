@@ -3,7 +3,9 @@ title = "Lagrange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Lagrange-fi"]
+github_organizations = [
+  "https://github.com/Lagrange-fi",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Lagrange-fi/serum-ts"
 
 [[repo]]
 url = "https://github.com/Lagrange-fi/Serum_FIX_Server"
+

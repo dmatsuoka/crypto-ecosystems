@@ -3,7 +3,9 @@ title = "Attic Lab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atticlab"]
+github_organizations = [
+  "https://github.com/atticlab",
+]
 
 # Repositories
 [[repo]]
@@ -263,3 +265,4 @@ url = "https://github.com/atticlab/worbli-testnet"
 
 [[repo]]
 url = "https://github.com/atticlab/wormhole"
+

@@ -3,7 +3,9 @@ title = "Mises Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mises-id"]
+github_organizations = [
+  "https://github.com/mises-id",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/mises-id/tm-db"
 
 [[repo]]
 url = "https://github.com/mises-id/truss"
+

@@ -3,7 +3,9 @@ title = "YAY Games"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/YAY-Games"]
+github_organizations = [
+  "https://github.com/YAY-Games",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/YAY-Games/up-or-down-contract"
 
 [[repo]]
 url = "https://github.com/YAY-Games/vesting-contract"
+

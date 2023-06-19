@@ -3,7 +3,9 @@ title = "Bho Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BHONetwork"]
+github_organizations = [
+  "https://github.com/BHONetwork",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/BHONetwork/awesome-substrate"
 
 [[repo]]
 url = "https://github.com/BHONetwork/bho-api-automation-testing"
+missing = true
 
 [[repo]]
 url = "https://github.com/BHONetwork/bho-apps"
@@ -29,6 +32,7 @@ url = "https://github.com/BHONetwork/bho-squids"
 
 [[repo]]
 url = "https://github.com/BHONetwork/bho-ui-automation-testing"
+missing = true
 
 [[repo]]
 url = "https://github.com/BHONetwork/bho.js"
@@ -164,3 +168,4 @@ url = "https://github.com/BHONetwork/wallet-extension"
 
 [[repo]]
 url = "https://github.com/BHONetwork/web3modal"
+

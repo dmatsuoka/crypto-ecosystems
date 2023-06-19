@@ -3,7 +3,9 @@ title = "Arcana Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arcana-network"]
+github_organizations = [
+  "https://github.com/arcana-network",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/arcana-network/website"
 
 [[repo]]
 url = "https://github.com/arcana-network/Your-First-dApp"
+

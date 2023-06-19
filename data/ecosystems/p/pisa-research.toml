@@ -3,7 +3,9 @@ title = "Pisa Research"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PISAresearch"]
+github_organizations = [
+  "https://github.com/PISAresearch",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/PISAresearch/webui"
 
 [[repo]]
 url = "https://github.com/PISAresearch/wt_cli"
+

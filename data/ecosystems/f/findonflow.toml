@@ -3,7 +3,9 @@ title = "Findonflow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/findonflow"]
+github_organizations = [
+  "https://github.com/findonflow",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/findonflow/solarpups"
 
 [[repo]]
 url = "https://github.com/findonflow/tx-lookup"
+

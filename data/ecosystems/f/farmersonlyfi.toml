@@ -3,7 +3,9 @@ title = "FarmersOnlyFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FarmersOnlyFi"]
+github_organizations = [
+  "https://github.com/FarmersOnlyFi",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/FarmersOnlyFi/fox-escrow-contracts"
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/fox-escrow-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/fox-market-contracts"
@@ -65,9 +68,11 @@ url = "https://github.com/FarmersOnlyFi/foxswap-v2"
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/goose-frontend-amm"
+missing = true
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/reverse-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/sdk-widget"
@@ -89,3 +94,4 @@ url = "https://github.com/FarmersOnlyFi/subgraph-blocks"
 
 [[repo]]
 url = "https://github.com/FarmersOnlyFi/vfat-tools"
+

@@ -3,7 +3,9 @@ title = "Curvegrid"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/curvegrid"]
+github_organizations = [
+  "https://github.com/curvegrid",
+]
 
 # Repositories
 [[repo]]
@@ -182,3 +184,4 @@ url = "https://github.com/curvegrid/wait-for"
 
 [[repo]]
 url = "https://github.com/curvegrid/xdaichain-site"
+

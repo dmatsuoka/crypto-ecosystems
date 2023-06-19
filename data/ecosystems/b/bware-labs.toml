@@ -3,7 +3,9 @@ title = "Bware Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bwarelabs"]
+github_organizations = [
+  "https://github.com/bwarelabs",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/bwarelabs/aptos-core"
 
 [[repo]]
 url = "https://github.com/bwarelabs/aptos-delegation-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/bwarelabs/aptos-validator-profiles"
@@ -41,6 +44,7 @@ url = "https://github.com/bwarelabs/casper-launch"
 
 [[repo]]
 url = "https://github.com/bwarelabs/cf-workers-status-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/bwarelabs/chainlist"
@@ -53,6 +57,7 @@ url = "https://github.com/bwarelabs/docs.elrond.com"
 
 [[repo]]
 url = "https://github.com/bwarelabs/fantom-hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/bwarelabs/fast-jsonrpc2"
@@ -110,3 +115,4 @@ url = "https://github.com/bwarelabs/testnets-humansai"
 
 [[repo]]
 url = "https://github.com/bwarelabs/validator-registry"
+

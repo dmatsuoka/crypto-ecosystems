@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Kava.io"
 
-sub_ecosystems = ["Elk Finance"]
+sub_ecosystems = [
+  "Elk Finance",
+]
 
-github_organizations = ["https://github.com/Kava-Labs"]
+github_organizations = [
+  "https://github.com/Kava-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -152,6 +156,7 @@ url = "https://github.com/Kava-Labs/kava-bridge"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-deputy"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-devnet"
@@ -266,3 +271,4 @@ url = "https://github.com/Kava-Labs/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/webflow-scripts"
+

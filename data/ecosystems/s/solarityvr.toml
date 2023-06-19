@@ -3,7 +3,9 @@ title = "SolarityVR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SolarityVR"]
+github_organizations = [
+  "https://github.com/SolarityVR",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/SolarityVR/Solarity-NFT"
 
 [[repo]]
 url = "https://github.com/SolarityVR/solgods"
+

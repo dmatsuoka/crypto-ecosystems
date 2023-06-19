@@ -3,7 +3,9 @@ title = "Avalaunch"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/avalaunch-app"]
+github_organizations = [
+  "https://github.com/avalaunch-app",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/avalaunch-app/tokenlists"
 
 [[repo]]
 url = "https://github.com/avalaunch-app/xava-protocol"
+

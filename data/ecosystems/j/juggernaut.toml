@@ -3,7 +3,9 @@ title = "Juggernaut"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/JGNDeFi"]
+github_organizations = [
+  "https://github.com/JGNDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/JGNDeFi/jXP"
 
 [[repo]]
 url = "https://github.com/JGNDeFi/jxp-bep-audit"
+

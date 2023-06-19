@@ -3,7 +3,9 @@ title = "Notifi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/notifi-network"]
+github_organizations = [
+  "https://github.com/notifi-network",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/notifi-network/notifi-vue-sample"
 
 [[repo]]
 url = "https://github.com/notifi-network/osmosis-frontend"
+

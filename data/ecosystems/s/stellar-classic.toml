@@ -3,7 +3,9 @@ title = "Stellar Classic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Stellarclassics"]
+github_organizations = [
+  "https://github.com/Stellarclassics",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Stellarclassics/assets"
 
 [[repo]]
 url = "https://github.com/Stellarclassics/tokens"
+

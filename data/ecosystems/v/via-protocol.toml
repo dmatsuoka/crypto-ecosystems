@@ -3,7 +3,9 @@ title = "Via Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/viaprotocol"]
+github_organizations = [
+  "https://github.com/viaprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/viaprotocol/web3-wallets"
 
 [[repo]]
 url = "https://github.com/viaprotocol/widget"
+

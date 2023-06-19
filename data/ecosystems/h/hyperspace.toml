@@ -3,7 +3,9 @@ title = "HyperSpace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/synereo"]
+github_organizations = [
+  "https://github.com/synereo",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/synereo/synereo-node"
 
 [[repo]]
 url = "https://github.com/synereo/synereo.github.io"
+

@@ -3,7 +3,9 @@ title = "B58"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/B58-Finance"]
+github_organizations = [
+  "https://github.com/B58-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/B58-Finance/Registration"
 
 [[repo]]
 url = "https://github.com/B58-Finance/use-cardano-wallet"
+

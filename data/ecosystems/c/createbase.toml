@@ -3,8 +3,11 @@ title = "Createbase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Createbase-Community"]
+github_organizations = [
+  "https://github.com/Createbase-Community",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Createbase-Community/telegram-bot"
+

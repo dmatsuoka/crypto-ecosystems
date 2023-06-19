@@ -3,7 +3,9 @@ title = "Krosscoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Krosscoin"]
+github_organizations = [
+  "https://github.com/Krosscoin",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Krosscoin/ts-lib-crypto"
 
 [[repo]]
 url = "https://github.com/Krosscoin/ts-types"
+

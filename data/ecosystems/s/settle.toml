@@ -3,7 +3,9 @@ title = "Settle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SettleFinance"]
+github_organizations = [
+  "https://github.com/SettleFinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/SettleFinance/DEXAG-Checkout"
 
 [[repo]]
 url = "https://github.com/SettleFinance/DEXAG-Proxy"
+missing = true
 
 [[repo]]
 url = "https://github.com/SettleFinance/DEXAG-SDK"
@@ -41,6 +44,7 @@ url = "https://github.com/SettleFinance/geth-cloudformation"
 
 [[repo]]
 url = "https://github.com/SettleFinance/Price-Feed-Examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/SettleFinance/Risk-Check-Tutorial"
@@ -56,3 +60,4 @@ url = "https://github.com/SettleFinance/stack-images"
 
 [[repo]]
 url = "https://github.com/SettleFinance/WhispV2"
+

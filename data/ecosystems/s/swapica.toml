@@ -3,7 +3,9 @@ title = "swapica"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Swapica"]
+github_organizations = [
+  "https://github.com/Swapica",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/Swapica/swapica-svc"
 
 [[repo]]
 url = "https://github.com/Swapica/web-client"
+

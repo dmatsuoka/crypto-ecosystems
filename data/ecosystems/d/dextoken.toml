@@ -3,7 +3,9 @@ title = "Dextoken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flowchain"]
+github_organizations = [
+  "https://github.com/flowchain",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/flowchain/devify-server"
 
 [[repo]]
 url = "https://github.com/flowchain/dextoken-community"
+missing = true
 
 [[repo]]
 url = "https://github.com/flowchain/fb0"
@@ -83,3 +86,4 @@ url = "https://github.com/flowchain/wotcity-wot-framework"
 
 [[repo]]
 url = "https://github.com/flowchain/wwRPC"
+

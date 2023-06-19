@@ -3,7 +3,9 @@ title = "Denota"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/denotalabs"]
+github_organizations = [
+  "https://github.com/denotalabs",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/denotalabs/auto-denota"
 
 [[repo]]
 url = "https://github.com/denotalabs/denota-sdk"
+

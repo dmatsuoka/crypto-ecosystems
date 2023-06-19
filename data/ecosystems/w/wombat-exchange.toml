@@ -3,7 +3,9 @@ title = "Wombat Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wombat-exchange"]
+github_organizations = [
+  "https://github.com/wombat-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/wombat-exchange/v1-core"
 
 [[repo]]
 url = "https://github.com/wombat-exchange/yield-server"
+

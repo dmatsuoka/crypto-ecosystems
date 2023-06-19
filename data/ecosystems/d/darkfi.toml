@@ -3,7 +3,9 @@ title = "darkfi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/darkrenaissance"]
+github_organizations = [
+  "https://github.com/darkrenaissance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/darkrenaissance/mallumo"
 
 [[repo]]
 url = "https://github.com/darkrenaissance/pasta_curves"
+missing = true
 
 [[repo]]
 url = "https://github.com/darkrenaissance/pluggable-transports"
@@ -26,3 +29,4 @@ url = "https://github.com/darkrenaissance/smart-contract"
 
 [[repo]]
 url = "https://github.com/darkrenaissance/whallets"
+

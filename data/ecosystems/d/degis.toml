@@ -3,7 +3,9 @@ title = "Degis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Degis-Insurance"]
+github_organizations = [
+  "https://github.com/Degis-Insurance",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Degis-Insurance/PPReward"
 
 [[repo]]
 url = "https://github.com/Degis-Insurance/SmartContract-StyleGuide"
+

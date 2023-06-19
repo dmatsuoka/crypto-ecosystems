@@ -3,7 +3,9 @@ title = "kvartalo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kvartalo"]
+github_organizations = [
+  "https://github.com/kvartalo",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/kvartalo/web-wallet"
 
 [[repo]]
 url = "https://github.com/kvartalo/website"
+

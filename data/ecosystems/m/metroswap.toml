@@ -3,7 +3,9 @@ title = "Metroswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metroswap"]
+github_organizations = [
+  "https://github.com/metroswap",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/metroswap/uniswap-v3-core"
 
 [[repo]]
 url = "https://github.com/metroswap/universe"
+

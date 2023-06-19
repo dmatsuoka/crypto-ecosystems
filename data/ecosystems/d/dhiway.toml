@@ -3,7 +3,9 @@ title = "Dhiway"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dhiway"]
+github_organizations = [
+  "https://github.com/dhiway",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/dhiway/cord-demo-scripts"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/cord-js"
@@ -116,3 +119,4 @@ url = "https://github.com/dhiway/von-network"
 
 [[repo]]
 url = "https://github.com/dhiway/wallet-issuer"
+

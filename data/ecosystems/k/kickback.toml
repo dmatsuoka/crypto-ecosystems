@@ -3,7 +3,9 @@ title = "Kickback"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wearekickback"]
+github_organizations = [
+  "https://github.com/wearekickback",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/wearekickback/osaka"
 
 [[repo]]
 url = "https://github.com/wearekickback/pocket-moloch"
+missing = true
 
 [[repo]]
 url = "https://github.com/wearekickback/shared"
@@ -47,3 +50,4 @@ url = "https://github.com/wearekickback/solidity-coverage"
 
 [[repo]]
 url = "https://github.com/wearekickback/static-site"
+

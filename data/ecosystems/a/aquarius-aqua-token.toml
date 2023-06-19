@@ -3,7 +3,9 @@ title = "Aquarius (AQUA token)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AquaToken"]
+github_organizations = [
+  "https://github.com/AquaToken",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/AquaToken/aqua-voting-tracker"
 
 [[repo]]
 url = "https://github.com/AquaToken/dao-aquarius"
+

@@ -3,7 +3,9 @@ title = "Geode"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Geodefi"]
+github_organizations = [
+  "https://github.com/Geodefi",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Geodefi/staking-deposit-cli"
 
 [[repo]]
 url = "https://github.com/Geodefi/white_paper"
+

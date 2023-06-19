@@ -3,7 +3,9 @@ title = "Degenerate Ape Academy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Degenerate-Ape-Academy"]
+github_organizations = [
+  "https://github.com/Degenerate-Ape-Academy",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Degenerate-Ape-Academy/metaplex"
 
 [[repo]]
 url = "https://github.com/Degenerate-Ape-Academy/the-daoo"
+

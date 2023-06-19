@@ -3,7 +3,9 @@ title = "Lucky Machines"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LuckyMachines"]
+github_organizations = [
+  "https://github.com/LuckyMachines",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/LuckyMachines/railway"
 
 [[repo]]
 url = "https://github.com/LuckyMachines/web3-starter"
+

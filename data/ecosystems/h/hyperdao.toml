@@ -3,7 +3,9 @@ title = "HyperDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hyperdao"]
+github_organizations = [
+  "https://github.com/hyperdao",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/hyperdao/hdd"
 
 [[repo]]
 url = "https://github.com/hyperdao/stable_coin_python_sdk"
+

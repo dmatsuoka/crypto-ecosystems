@@ -3,7 +3,9 @@ title = "DefiLab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/defilab"]
+github_organizations = [
+  "https://github.com/defilab",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/defilab/secure-postman"
 
 [[repo]]
 url = "https://github.com/defilab/TEE"
+

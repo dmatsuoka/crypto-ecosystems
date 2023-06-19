@@ -3,7 +3,9 @@ title = "Fuji Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fuji-money"]
+github_organizations = [
+  "https://github.com/fuji-money",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/fuji-money/tapscripts"
 
 [[repo]]
 url = "https://github.com/fuji-money/website"
+

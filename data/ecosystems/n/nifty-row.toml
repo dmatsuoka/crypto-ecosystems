@@ -3,7 +3,9 @@ title = "Nifty Row"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nifty-Row"]
+github_organizations = [
+  "https://github.com/Nifty-Row",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Nifty-Row/yasuke"
 
 [[repo]]
 url = "https://github.com/Nifty-Row/yasuke-swap"
+

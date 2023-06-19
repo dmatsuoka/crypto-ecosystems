@@ -3,7 +3,9 @@ title = "MiniSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MiniswapOrg"]
+github_organizations = [
+  "https://github.com/MiniswapOrg",
+]
 
 # Repositories
 [[repo]]
@@ -14,12 +16,15 @@ url = "https://github.com/MiniswapOrg/Miniswap-contract"
 
 [[repo]]
 url = "https://github.com/MiniswapOrg/MiniSwap-DAO"
+missing = true
 
 [[repo]]
 url = "https://github.com/MiniswapOrg/MiniSwap-IEO"
+missing = true
 
 [[repo]]
 url = "https://github.com/MiniswapOrg/miniswap-sdk"
 
 [[repo]]
 url = "https://github.com/MiniswapOrg/Miniswap-Website"
+

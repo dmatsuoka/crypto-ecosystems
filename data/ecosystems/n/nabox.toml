@@ -3,7 +3,9 @@ title = "Nabox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/naboxwallet"]
+github_organizations = [
+  "https://github.com/naboxwallet",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/naboxwallet/nabox-chrome-plugin"
 
 [[repo]]
 url = "https://github.com/naboxwallet/nabox-ios"
+

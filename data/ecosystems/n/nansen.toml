@@ -3,7 +3,9 @@ title = "Nansen"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nansen-ai"]
+github_organizations = [
+  "https://github.com/nansen-ai",
+]
 
 # Repositories
 [[repo]]
@@ -29,9 +31,11 @@ url = "https://github.com/nansen-ai/metabase"
 
 [[repo]]
 url = "https://github.com/nansen-ai/nansen-endpoints-datasync"
+missing = true
 
 [[repo]]
 url = "https://github.com/nansen-ai/nansen-gh-actions-public"
 
 [[repo]]
 url = "https://github.com/nansen-ai/solana-etl-table-definitions"
+

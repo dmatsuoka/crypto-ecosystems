@@ -3,7 +3,9 @@ title = "YMPL"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ympl-protocol"]
+github_organizations = [
+  "https://github.com/ympl-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ympl-protocol/ympl-staking"
 
 [[repo]]
 url = "https://github.com/ympl-protocol/ympl-vesting-contracts"
+

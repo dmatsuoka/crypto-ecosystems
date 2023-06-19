@@ -3,8 +3,11 @@ title = "Landshare"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Landshare-io"]
+github_organizations = [
+  "https://github.com/Landshare-io",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Landshare-io/assets"
+

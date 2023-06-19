@@ -3,7 +3,9 @@ title = "Curio Research"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/curio-research"]
+github_organizations = [
+  "https://github.com/curio-research",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/curio-research/treaty-contracts"
 
 [[repo]]
 url = "https://github.com/curio-research/treaty-vault"
+

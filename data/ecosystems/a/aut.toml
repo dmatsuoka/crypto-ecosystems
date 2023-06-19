@@ -3,7 +3,9 @@ title = "Aut"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Aut-Labs"]
+github_organizations = [
+  "https://github.com/Aut-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/Aut-Labs/query-server"
 
 [[repo]]
 url = "https://github.com/Aut-Labs/try-aut"
+

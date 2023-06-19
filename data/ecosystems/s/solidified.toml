@@ -3,7 +3,9 @@ title = "Solidified"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solidified-platform"]
+github_organizations = [
+  "https://github.com/solidified-platform",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/solidified-platform/oracle-mvp"
 
 [[repo]]
 url = "https://github.com/solidified-platform/smart-contracts"
+

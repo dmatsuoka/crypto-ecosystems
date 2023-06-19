@@ -3,7 +3,9 @@ title = "Bancacy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bancacy"]
+github_organizations = [
+  "https://github.com/bancacy",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/bancacy/Data-Providers"
 
 [[repo]]
 url = "https://github.com/bancacy/XBNY-Smart-Contract"
+

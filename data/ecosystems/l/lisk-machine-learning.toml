@@ -3,7 +3,9 @@ title = "Lisk Machine Learning"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GNYIO"]
+github_organizations = [
+  "https://github.com/GNYIO",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/GNYIO/json-sql"
 
 [[repo]]
 url = "https://github.com/GNYIO/vuepress-plugin-tabs"
+

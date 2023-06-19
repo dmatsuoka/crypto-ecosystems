@@ -3,7 +3,9 @@ title = "Unique"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unqclub"]
+github_organizations = [
+  "https://github.com/unqclub",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/unqclub/unique-program-library"
 
 [[repo]]
 url = "https://github.com/unqclub/wormhole-relayer"
+

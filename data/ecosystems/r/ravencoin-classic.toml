@@ -3,7 +3,9 @@ title = "Ravencoin Classic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ravencoinclassicio"]
+github_organizations = [
+  "https://github.com/ravencoinclassicio",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/ravencoinclassicio/ravencore-lib"
 
 [[repo]]
 url = "https://github.com/ravencoinclassicio/wallet-core"
+

@@ -3,7 +3,9 @@ title = "SnipCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SnipToday"]
+github_organizations = [
+  "https://github.com/SnipToday",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/SnipToday/SnipCoin"
 
 [[repo]]
 url = "https://github.com/SnipToday/telegram-moderator"
+

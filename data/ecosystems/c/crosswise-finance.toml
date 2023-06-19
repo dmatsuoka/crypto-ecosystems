@@ -3,7 +3,9 @@ title = "Crosswise Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/crosswise-finance"]
+github_organizations = [
+  "https://github.com/crosswise-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/crosswise-finance/crosswise-code-review-1.1"
 
 [[repo]]
 url = "https://github.com/crosswise-finance/crosswise-snapshot"
+

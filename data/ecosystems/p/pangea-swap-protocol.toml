@@ -3,7 +3,9 @@ title = "Pangea Swap Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pangea-protocol"]
+github_organizations = [
+  "https://github.com/pangea-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/pangea-protocol/pangea-vesting-stone"
 
 [[repo]]
 url = "https://github.com/pangea-protocol/stone-staking"
+

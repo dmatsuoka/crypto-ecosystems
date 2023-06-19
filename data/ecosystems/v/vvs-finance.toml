@@ -3,7 +3,9 @@ title = "VVS Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vvs-finance"]
+github_organizations = [
+  "https://github.com/vvs-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/vvs-finance/vvs-ui"
 
 [[repo]]
 url = "https://github.com/vvs-finance/vvs-zap"
+

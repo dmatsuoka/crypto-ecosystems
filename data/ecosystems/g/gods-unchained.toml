@@ -3,14 +3,18 @@ title = "Gods Unchained"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fuelgames"]
+github_organizations = [
+  "https://github.com/fuelgames",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/fuelgames/apollo-metadata"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuelgames/gu-game-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/immutable/deckstring"
@@ -23,3 +27,4 @@ url = "https://github.com/immutable/gods-unchained-api"
 
 [[repo]]
 url = "https://github.com/immutable/gu-collectable-solidity"
+

@@ -3,7 +3,9 @@ title = "Bitauth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitauth"]
+github_organizations = [
+  "https://github.com/bitauth",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/bitauth/libauth-secp256k1"
 
 [[repo]]
 url = "https://github.com/bitauth/try.chaingraph.cash"
+

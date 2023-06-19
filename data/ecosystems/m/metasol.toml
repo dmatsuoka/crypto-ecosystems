@@ -3,7 +3,9 @@ title = "MetaSol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metasol"]
+github_organizations = [
+  "https://github.com/metasol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/metasol/metasol-stats"
 
 [[repo]]
 url = "https://github.com/metasol/metasol-website"
+

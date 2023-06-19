@@ -3,7 +3,9 @@ title = "Liquity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/liquity"]
+github_organizations = [
+  "https://github.com/liquity",
+]
 
 # Repositories
 [[repo]]
@@ -92,3 +94,4 @@ url = "https://github.com/liquity/protocol-v2"
 
 [[repo]]
 url = "https://github.com/liquity/uniswapv2-solc0.8"
+

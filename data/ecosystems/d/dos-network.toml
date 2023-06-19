@@ -3,7 +3,9 @@ title = "DOS Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DOSNetwork"]
+github_organizations = [
+  "https://github.com/DOSNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/DOSNetwork/bls"
 
 [[repo]]
 url = "https://github.com/DOSNetwork/Coingecko-Oracle-Wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/DOSNetwork/core"
@@ -59,6 +62,7 @@ url = "https://github.com/DOSNetwork/Stream-UI"
 
 [[repo]]
 url = "https://github.com/DOSNetwork/substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/DOSNetwork/Token-Contracts"
@@ -71,3 +75,4 @@ url = "https://github.com/DOSNetwork/Unipool"
 
 [[repo]]
 url = "https://github.com/DOSNetwork/ZoKrates"
+

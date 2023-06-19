@@ -3,7 +3,9 @@ title = "Econia Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/econia-labs"]
+github_organizations = [
+  "https://github.com/econia-labs",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/econia-labs/optivanity"
 
 [[repo]]
 url = "https://github.com/econia-labs/teach-yourself-move"
+

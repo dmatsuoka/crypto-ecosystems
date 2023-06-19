@@ -3,7 +3,9 @@ title = "Torque"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/contribute-torque"]
+github_organizations = [
+  "https://github.com/contribute-torque",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/scala-network/XTC-Stats"
 
 [[repo]]
 url = "https://github.com/scala-network/xtcandrig"
+

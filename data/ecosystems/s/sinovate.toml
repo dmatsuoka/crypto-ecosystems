@@ -3,7 +3,9 @@ title = "SINOVATE"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SINOVATEblockchain"]
+github_organizations = [
+  "https://github.com/SINOVATEblockchain",
+]
 
 # Repositories
 [[repo]]
@@ -23,15 +25,19 @@ url = "https://github.com/SINOVATEblockchain/bitcore-lib"
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/bitcore-lib-SIN"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/bitcore-lib-sin-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/bitcore-message-SIN"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/bitcore-node-SIN"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/blockbook"
@@ -59,9 +65,11 @@ url = "https://github.com/SINOVATEblockchain/explorer"
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/insight-api-SIN"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/insight-ui-SIN"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/node-multi-hashing-sin"
@@ -80,6 +88,7 @@ url = "https://github.com/SINOVATEblockchain/SIN-core"
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/SIN-Core-Mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/SIN-ElectrumX"
@@ -98,6 +107,7 @@ url = "https://github.com/SINOVATEblockchain/SINWebTool"
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/SUQA-0.17.1-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/SUQA-CORE"
@@ -116,3 +126,4 @@ url = "https://github.com/SINOVATEblockchain/x25x_hash"
 
 [[repo]]
 url = "https://github.com/SINOVATEblockchain/yiimp-sin"
+

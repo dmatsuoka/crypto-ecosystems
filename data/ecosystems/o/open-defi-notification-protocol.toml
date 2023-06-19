@@ -3,7 +3,9 @@ title = "Open Defi Notification Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/open-defi-notification-protocol"]
+github_organizations = [
+  "https://github.com/open-defi-notification-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/open-defi-notification-protocol/projects"
 
 [[repo]]
 url = "https://github.com/open-defi-notification-protocol/widget"
+

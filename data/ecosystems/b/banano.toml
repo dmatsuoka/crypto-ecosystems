@@ -3,7 +3,9 @@ title = "Banano"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BananoCoin"]
+github_organizations = [
+  "https://github.com/BananoCoin",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/BananoCoin/nacl_fah_client"
 
 [[repo]]
 url = "https://github.com/BananoCoin/natrium-android-wallet"
+

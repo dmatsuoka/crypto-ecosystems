@@ -3,11 +3,16 @@ title = "Coffin Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoffinFinance"]
+github_organizations = [
+  "https://github.com/CoffinFinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/CoffinFinance/coffin-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoffinFinance/coffinswap-assets"
+missing = true
+

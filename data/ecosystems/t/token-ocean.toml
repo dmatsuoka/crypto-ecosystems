@@ -3,7 +3,9 @@ title = "Token Ocean"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tokenocean"]
+github_organizations = [
+  "https://github.com/tokenocean",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/tokenocean/tokenocean.io"
 
 [[repo]]
 url = "https://github.com/tokenocean/tosso"
+

@@ -3,7 +3,9 @@ title = "Cubist"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cubist-labs"]
+github_organizations = [
+  "https://github.com/cubist-labs",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/cubist-labs/cubist-node-sdk"
 
 [[repo]]
 url = "https://github.com/cubist-labs/cubist-sdk-templates"
+

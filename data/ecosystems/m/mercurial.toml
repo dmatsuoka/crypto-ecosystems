@@ -3,7 +3,9 @@ title = "Mercurial"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mercurial-finance"]
+github_organizations = [
+  "https://github.com/mercurial-finance",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/mercurial-finance/create-ata-if-missing-program"
 
 [[repo]]
 url = "https://github.com/mercurial-finance/create-jupiter"
+missing = true
 
 [[repo]]
 url = "https://github.com/mercurial-finance/cypher-client-ts-v3"
@@ -149,3 +152,4 @@ url = "https://github.com/mercurial-finance/vault-sdk-node-demo"
 
 [[repo]]
 url = "https://github.com/TeamRaccoons/nft-escrow-sdk"
+

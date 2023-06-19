@@ -3,7 +3,9 @@ title = "Fiat Connect"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fiatconnect"]
+github_organizations = [
+  "https://github.com/fiatconnect",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/fiatconnect/specification"
 
 [[repo]]
 url = "https://github.com/fiatconnect/validate"
+

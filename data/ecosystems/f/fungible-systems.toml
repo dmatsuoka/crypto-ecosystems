@@ -3,7 +3,9 @@ title = "Fungible Systems"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fungible-systems"]
+github_organizations = [
+  "https://github.com/fungible-systems",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/fungible-systems/micro-stacks-svelte-example"
 
 [[repo]]
 url = "https://github.com/fungible-systems/micro-stacks-vue3"
+missing = true
 
 [[repo]]
 url = "https://github.com/fungible-systems/multisafe-ui"
@@ -188,3 +191,4 @@ url = "https://github.com/fungible-systems/webview-crypto"
 
 [[repo]]
 url = "https://github.com/fungible-systems/zora-docs"
+

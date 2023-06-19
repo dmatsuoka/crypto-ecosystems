@@ -3,7 +3,9 @@ title = "Future Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/futurefinance"]
+github_organizations = [
+  "https://github.com/futurefinance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/futurefinance/pgantomizer"
 
 [[repo]]
 url = "https://github.com/futurefinance/swagger2"
+

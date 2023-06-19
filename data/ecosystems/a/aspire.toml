@@ -3,7 +3,9 @@ title = "Aspire"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AspireOrg"]
+github_organizations = [
+  "https://github.com/AspireOrg",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/AspireOrg/federatednode"
 
 [[repo]]
 url = "https://github.com/AspireOrg/gAsp"
+

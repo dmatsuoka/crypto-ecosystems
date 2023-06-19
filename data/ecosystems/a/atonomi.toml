@@ -3,7 +3,9 @@ title = "Atonomi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atonomi"]
+github_organizations = [
+  "https://github.com/atonomi",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/atonomi/docs"
 
 [[repo]]
 url = "https://github.com/atonomi/smart-contracts"
+

@@ -3,7 +3,9 @@ title = "Fantom Starter"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fantomstarterio"]
+github_organizations = [
+  "https://github.com/fantomstarterio",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,5 @@ url = "https://github.com/fantomstarterio/setup-gcloud"
 
 [[repo]]
 url = "https://github.com/fantomstarterio/snapshot-strategies"
+missing = true
+

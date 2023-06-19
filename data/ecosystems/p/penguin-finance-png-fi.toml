@@ -3,11 +3,14 @@ title = "Penguin Finance (png_fi)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pngfi"]
+github_organizations = [
+  "https://github.com/pngfi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/pngfi/cosmos-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/pngfi/ibc-go"
@@ -35,3 +38,4 @@ url = "https://github.com/pngfi/token-list"
 
 [[repo]]
 url = "https://github.com/pngfi/typescript-sdk"
+

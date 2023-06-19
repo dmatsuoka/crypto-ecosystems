@@ -3,7 +3,9 @@ title = "TravelChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TravelChain"]
+github_organizations = [
+  "https://github.com/TravelChain",
+]
 
 # Repositories
 [[repo]]
@@ -26,12 +28,15 @@ url = "https://github.com/TravelChain/mapala-content"
 
 [[repo]]
 url = "https://github.com/TravelChain/mapala-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/TravelChain/protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/TravelChain/protocol-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/TravelChain/scattelet"
@@ -44,3 +49,4 @@ url = "https://github.com/TravelChain/travelchain-core"
 
 [[repo]]
 url = "https://github.com/TravelChain/ui-old"
+

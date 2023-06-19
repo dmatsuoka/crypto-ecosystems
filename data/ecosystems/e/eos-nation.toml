@@ -3,7 +3,9 @@ title = "EOS Nation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EOS-Nation"]
+github_organizations = [
+  "https://github.com/EOS-Nation",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/EOS-Nation/bancor-stats"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/bancor20x"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/bancorx"
@@ -146,9 +149,11 @@ url = "https://github.com/EOS-Nation/eden-check"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/ens"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/ens-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-bios-config"
@@ -173,9 +178,11 @@ url = "https://github.com/EOS-Nation/eos-detective-data"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-detective-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-detective-lang"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-encrypt"
@@ -200,6 +207,7 @@ url = "https://github.com/EOS-Nation/eos-resources"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-wps"
@@ -215,6 +223,7 @@ url = "https://github.com/EOS-Nation/EOScholar-Testnet"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosio-names"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosio-protocol"
@@ -488,3 +497,4 @@ url = "https://github.com/eosnetworkfoundation/eosio.yield-docs"
 
 [[repo]]
 url = "https://github.com/pinax-network/blocktivity-eosio-stats"
+

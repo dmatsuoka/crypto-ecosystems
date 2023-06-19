@@ -3,7 +3,9 @@ title = "Opx Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opxfinance"]
+github_organizations = [
+  "https://github.com/opxfinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/opxfinance/opx-contracts"
 
 [[repo]]
 url = "https://github.com/opxfinance/paraswap-dex-lib"
+

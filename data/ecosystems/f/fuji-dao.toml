@@ -3,7 +3,9 @@ title = "Fuji DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Fujicracy"]
+github_organizations = [
+  "https://github.com/Fujicracy",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Fujicracy/himalaya-migrators"
 
 [[repo]]
 url = "https://github.com/Fujicracy/simulations-v2"
+

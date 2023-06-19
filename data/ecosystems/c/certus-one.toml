@@ -3,7 +3,9 @@ title = "Certus One"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/certusone"]
+github_organizations = [
+  "https://github.com/certusone",
+]
 
 # Repositories
 [[repo]]
@@ -53,6 +55,7 @@ url = "https://github.com/certusone/kb"
 
 [[repo]]
 url = "https://github.com/certusone/metaplex"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/near_exporter"
@@ -65,12 +68,14 @@ url = "https://github.com/certusone/portal-bridge-ui"
 
 [[repo]]
 url = "https://github.com/certusone/proxy-model.py"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/santa"
 
 [[repo]]
 url = "https://github.com/certusone/solana-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/solana_exporter"
@@ -104,12 +109,14 @@ url = "https://github.com/certusone/validator-profiles"
 
 [[repo]]
 url = "https://github.com/certusone/vouch"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/wormhole-entropybitcom"
 
 [[repo]]
 url = "https://github.com/certusone/wormhole-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/yubihsm-go"
@@ -161,3 +168,4 @@ url = "https://github.com/wormhole-foundation/wormhole-token-list"
 
 [[repo]]
 url = "https://github.com/wormhole-foundation/xdapp-book"
+

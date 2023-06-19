@@ -3,7 +3,9 @@ title = "Taraxa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Taraxa-project"]
+github_organizations = [
+  "https://github.com/Taraxa-project",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/Taraxa-project/hype"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/monorepo-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/Taraxa-project/nestjs-websocket"
@@ -107,3 +110,4 @@ url = "https://github.com/Taraxa-project/wagmi-references"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/wallet-auth"
+

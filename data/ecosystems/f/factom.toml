@@ -3,7 +3,9 @@ title = "Factom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FactomProject"]
+github_organizations = [
+  "https://github.com/FactomProject",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/FactomProject/basen"
 
 [[repo]]
 url = "https://github.com/FactomProject/blackfriday"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/bolt"
@@ -140,6 +143,7 @@ url = "https://github.com/FactomProject/factom-js-style-guide"
 
 [[repo]]
 url = "https://github.com/FactomProject/factom-p2p"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/factom-py"
@@ -333,6 +337,7 @@ url = "https://github.com/FactomProject/swapi"
 
 [[repo]]
 url = "https://github.com/FactomProject/sxsw-2019"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/Testing"
@@ -372,6 +377,7 @@ url = "https://github.com/FactomProject/WorkItems"
 
 [[repo]]
 url = "https://github.com/FactomProject/xenial_ansible"
+missing = true
 
 [[repo]]
 url = "https://github.com/FPriv/factom-harmony-connect-csharp-client"
@@ -399,3 +405,4 @@ url = "https://github.com/FPriv/factom-harmony-connect-python-client"
 
 [[repo]]
 url = "https://github.com/FPriv/factom-harmony-connect-python-sdk"
+

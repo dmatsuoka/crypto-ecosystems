@@ -3,7 +3,9 @@ title = "Platinum Engineering"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/platinum-engineering"]
+github_organizations = [
+  "https://github.com/platinum-engineering",
+]
 
 # Repositories
 [[repo]]
@@ -140,3 +142,4 @@ url = "https://github.com/platinum-engineering/x5margin-solana"
 
 [[repo]]
 url = "https://github.com/platinum-engineering/x5margin-substrate"
+

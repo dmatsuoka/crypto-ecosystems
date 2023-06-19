@@ -3,7 +3,9 @@ title = "BlockArt"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethblockart"]
+github_organizations = [
+  "https://github.com/ethblockart",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ethblockart/ethblockart-r3f-template"
 
 [[repo]]
 url = "https://github.com/ethblockart/title-style-pass"
+

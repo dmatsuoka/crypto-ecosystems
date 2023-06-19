@@ -3,7 +3,9 @@ title = "Gene Source Code Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GeneSourceCodeChain"]
+github_organizations = [
+  "https://github.com/GeneSourceCodeChain",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/GeneSourceCodeChain/SourceCrypto"
 
 [[repo]]
 url = "https://github.com/GeneSourceCodeChain/Webwidgets"
+

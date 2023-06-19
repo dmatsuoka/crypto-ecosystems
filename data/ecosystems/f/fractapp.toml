@@ -3,11 +3,14 @@ title = "fractapp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fractapp"]
+github_organizations = [
+  "https://github.com/fractapp",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/fractapp/definition-third"
+missing = true
 
 [[repo]]
 url = "https://github.com/fractapp/fractapp"
@@ -23,3 +26,4 @@ url = "https://github.com/fractapp/scanner"
 
 [[repo]]
 url = "https://github.com/fractapp/staking-bot"
+

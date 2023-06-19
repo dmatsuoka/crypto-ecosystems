@@ -3,7 +3,9 @@ title = "Metacoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MetacoinPlatform"]
+github_organizations = [
+  "https://github.com/MetacoinPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/MetacoinPlatform/metacoin-node"
 
 [[repo]]
 url = "https://github.com/MetacoinPlatform/metawallet-api"
+

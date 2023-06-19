@@ -3,7 +3,9 @@ title = "BORA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boraecosystem"]
+github_organizations = [
+  "https://github.com/boraecosystem",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/boraecosystem/game-pacman"
 
 [[repo]]
 url = "https://github.com/boraecosystem/go-bora"
+

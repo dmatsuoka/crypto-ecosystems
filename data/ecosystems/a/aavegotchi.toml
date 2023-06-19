@@ -3,7 +3,9 @@ title = "Aavegotchi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aavegotchi"]
+github_organizations = [
+  "https://github.com/aavegotchi",
+]
 
 # Repositories
 [[repo]]
@@ -191,3 +193,4 @@ url = "https://github.com/aavegotchi/unicly-utoken-info"
 
 [[repo]]
 url = "https://github.com/aavegotchi/xp-airdrops"
+

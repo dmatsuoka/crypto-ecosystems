@@ -3,7 +3,9 @@ title = "Current"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CurrentMediaNetwork"]
+github_organizations = [
+  "https://github.com/CurrentMediaNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/CurrentMobile/SWFrameButton"
 
 [[repo]]
 url = "https://github.com/CurrentMobile/UIBarButtonItem-Badge"
+

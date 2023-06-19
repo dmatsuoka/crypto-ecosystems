@@ -3,7 +3,9 @@ title = "Dimension Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dimensionofficial"]
+github_organizations = [
+  "https://github.com/dimensionofficial",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/dimensionofficial/Tracing-Industry"
 
 [[repo]]
 url = "https://github.com/dimensionofficial/uniswap-interface"
+

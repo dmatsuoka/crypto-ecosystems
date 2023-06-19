@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Augur"
 
-sub_ecosystems = ["Veil"]
+sub_ecosystems = [
+  "Veil",
+]
 
-github_organizations = ["https://github.com/AugurProject"]
+github_organizations = [
+  "https://github.com/AugurProject",
+]
 
 # Repositories
 [[repo]]
@@ -105,6 +109,7 @@ url = "https://github.com/AugurProject/knex"
 
 [[repo]]
 url = "https://github.com/AugurProject/landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/AugurProject/masterchef-gnosis-safe-rewards-ui"
@@ -168,3 +173,4 @@ url = "https://github.com/AugurProject/whitepaper"
 
 [[repo]]
 url = "https://github.com/yashnaman/augur_foundry"
+

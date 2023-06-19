@@ -3,7 +3,9 @@ title = "PegNet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pegnet"]
+github_organizations = [
+  "https://github.com/pegnet",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/pegnet/pips"
 
 [[repo]]
 url = "https://github.com/pegnet/pylxr"
+

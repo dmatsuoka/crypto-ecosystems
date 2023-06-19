@@ -3,7 +3,9 @@ title = "Boardroom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boardroom-inc"]
+github_organizations = [
+  "https://github.com/boardroom-inc",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/boardroom-inc/uniswap-governance-subgraph"
 
 [[repo]]
 url = "https://github.com/boardroom-inc/voter-Info"
+

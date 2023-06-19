@@ -3,7 +3,9 @@ title = "Insight Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/insight-chain"]
+github_organizations = [
+  "https://github.com/insight-chain",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/insight-chain/inb-wallet-ios"
 
 [[repo]]
 url = "https://github.com/insight-chain/inb-web3i.js"
+

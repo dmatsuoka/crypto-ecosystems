@@ -3,7 +3,9 @@ title = "Verze"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/verze-app"]
+github_organizations = [
+  "https://github.com/verze-app",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/verze-app/nft-json-generator"
 
 [[repo]]
 url = "https://github.com/verze-app/solana-php-sdk"
+

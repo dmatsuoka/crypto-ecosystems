@@ -3,7 +3,9 @@ title = "polkagate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PolkaGate"]
+github_organizations = [
+  "https://github.com/PolkaGate",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/PolkaGate/subquery-westend"
 
 [[repo]]
 url = "https://github.com/PolkaGate/website"
+

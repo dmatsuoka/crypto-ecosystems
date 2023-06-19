@@ -3,7 +3,9 @@ title = "Port Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/port-finance"]
+github_organizations = [
+  "https://github.com/port-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/port-finance/anchor"
 
 [[repo]]
 url = "https://github.com/port-finance/api-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/port-finance/bug-bounty"
@@ -29,6 +32,7 @@ url = "https://github.com/port-finance/lending-market-registry"
 
 [[repo]]
 url = "https://github.com/port-finance/lending-markets-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/port-finance/liquidator"
@@ -53,6 +57,7 @@ url = "https://github.com/port-finance/port-sdk"
 
 [[repo]]
 url = "https://github.com/port-finance/port-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/port-finance/sencha"
@@ -80,3 +85,4 @@ url = "https://github.com/port-finance/variable-rate-lending"
 
 [[repo]]
 url = "https://github.com/port-finance/wallet-adapter"
+

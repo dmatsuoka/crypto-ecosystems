@@ -3,7 +3,9 @@ title = "Gluwa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gluwa"]
+github_organizations = [
+  "https://github.com/gluwa",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/gluwa/subscan-essentials"
 
 [[repo]]
 url = "https://github.com/gluwa/substrate"
+

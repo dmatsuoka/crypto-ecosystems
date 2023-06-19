@@ -3,7 +3,9 @@ title = "Pirate Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PirateNetwork"]
+github_organizations = [
+  "https://github.com/PirateNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/PirateNetwork/zcash_params"
 
 [[repo]]
 url = "https://github.com/PirateNetwork/ZcashLightClientKit"
+

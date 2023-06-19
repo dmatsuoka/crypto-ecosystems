@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "BitTorrent"
 
-sub_ecosystems = ["Bitlend"]
+sub_ecosystems = [
+  "Bitlend",
+]
 
-github_organizations = ["https://github.com/bittorrent"]
+github_organizations = [
+  "https://github.com/bittorrent",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +48,7 @@ url = "https://github.com/bittorrent/bireme-popcorn-js"
 
 [[repo]]
 url = "https://github.com/bittorrent/bittorrent-tracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/bittorrent/bittorrent.org"
@@ -422,6 +427,7 @@ url = "https://github.com/bittorrent/VPAIDFLASHClient"
 
 [[repo]]
 url = "https://github.com/bittorrent/webtorrent"
+missing = true
 
 [[repo]]
 url = "https://github.com/bittorrent/webui"
@@ -446,3 +452,4 @@ url = "https://github.com/bittorrent/zxing"
 
 [[repo]]
 url = "https://github.com/shieldingcash/shielding-core"
+

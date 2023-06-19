@@ -3,7 +3,9 @@ title = "fractional.art"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fractional-company"]
+github_organizations = [
+  "https://github.com/fractional-company",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,14 @@ url = "https://github.com/fractional-company/collections-data"
 
 [[repo]]
 url = "https://github.com/fractional-company/common"
+missing = true
 
 [[repo]]
 url = "https://github.com/fractional-company/contracts"
 
 [[repo]]
 url = "https://github.com/fractional-company/flow"
+missing = true
 
 [[repo]]
 url = "https://github.com/fractional-company/paraset-binders"
@@ -38,3 +42,4 @@ url = "https://github.com/fractional-company/subgrapher"
 
 [[repo]]
 url = "https://github.com/fractional-company/verified-collections"
+

@@ -3,7 +3,9 @@ title = "berry data"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/berrydata"]
+github_organizations = [
+  "https://github.com/berrydata",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/berrydata/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/berrydata/UsingBerry"
+

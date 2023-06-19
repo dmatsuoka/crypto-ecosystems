@@ -3,7 +3,9 @@ title = "Provenance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProjectProvenance"]
+github_organizations = [
+  "https://github.com/ProjectProvenance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/ProjectProvenance/zoid"
 
 [[repo]]
 url = "https://github.com/ProjectProvenance/zos"
+

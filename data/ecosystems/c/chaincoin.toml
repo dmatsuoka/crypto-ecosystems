@@ -3,7 +3,9 @@ title = "ChainCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chaincoin"]
+github_organizations = [
+  "https://github.com/chaincoin",
+]
 
 # Repositories
 [[repo]]
@@ -92,15 +94,19 @@ url = "https://github.com/chaincoin/insight-ui-chaincoin"
 
 [[repo]]
 url = "https://github.com/chaincoin/node-multi-hashing"
+missing = true
 
 [[repo]]
 url = "https://github.com/chaincoin/node-open-mining-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/chaincoin/node-stratum-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/chaincoin/proposal-generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/chaincoin/proposal-generator-api"
@@ -119,3 +125,4 @@ url = "https://github.com/chaincoin/python-c11_hash"
 
 [[repo]]
 url = "https://github.com/chaincoin/sentinel"
+

@@ -3,7 +3,9 @@ title = "Starbase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StarbaseCo"]
+github_organizations = [
+  "https://github.com/StarbaseCo",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/StarbaseCo/UltimateICOCalendar"
 
 [[repo]]
 url = "https://github.com/StarbaseCo/Waves"
+

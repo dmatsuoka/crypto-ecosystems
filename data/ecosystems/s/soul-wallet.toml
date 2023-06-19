@@ -3,7 +3,9 @@ title = "Soul Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/proofofsoulprotocol"]
+github_organizations = [
+  "https://github.com/proofofsoulprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -44,9 +46,12 @@ url = "https://github.com/proofofsoulprotocol/soul-wallet-plugin"
 
 [[repo]]
 url = "https://github.com/proofofsoulprotocol/soul-wallet-www"
+missing = true
 
 [[repo]]
 url = "https://github.com/proofofsoulprotocol/soulwallet-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/proofofsoulprotocol/soulwalletlib"
+

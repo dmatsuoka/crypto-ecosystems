@@ -3,7 +3,9 @@ title = "Kairos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kairosinc"]
+github_organizations = [
+  "https://github.com/kairosinc",
+]
 
 # Repositories
 [[repo]]
@@ -83,9 +85,11 @@ url = "https://github.com/kairosinc/redis-slave"
 
 [[repo]]
 url = "https://github.com/kairosinc/tf-aerospike-ee"
+missing = true
 
 [[repo]]
 url = "https://github.com/kairosinc/timeclock-ios"
 
 [[repo]]
 url = "https://github.com/kairosinc/ui"
+

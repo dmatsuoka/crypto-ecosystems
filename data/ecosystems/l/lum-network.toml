@@ -3,7 +3,9 @@ title = "Lum Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lum-network"]
+github_organizations = [
+  "https://github.com/lum-network",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/lum-network/ledger-app"
 
 [[repo]]
 url = "https://github.com/lum-network/lum-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/lum-network/mainnet"
@@ -68,3 +71,4 @@ url = "https://github.com/lum-network/wallet"
 
 [[repo]]
 url = "https://github.com/lum-network/website"
+

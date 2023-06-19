@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Fusion"
 
-sub_ecosystems = ["Chainge Finance"]
+sub_ecosystems = [
+  "Chainge Finance",
+]
 
-github_organizations = ["https://github.com/FUSIONFoundation"]
+github_organizations = [
+  "https://github.com/FUSIONFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +63,7 @@ url = "https://github.com/FUSIONFoundation/FRC759-1"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/fsn-netstats"
+missing = true
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/fsn-stats"
@@ -77,6 +82,7 @@ url = "https://github.com/FUSIONFoundation/overflow"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/PSNBlockExplorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/PurchaseTicket"
@@ -101,3 +107,4 @@ url = "https://github.com/FUSIONFoundation/web3-fusion-extend"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/web3fsnpy"
+

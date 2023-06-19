@@ -3,8 +3,11 @@ title = "BSC Station"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BSCStationSwap"]
+github_organizations = [
+  "https://github.com/BSCStationSwap",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/BSCStationSwap/contract"
+

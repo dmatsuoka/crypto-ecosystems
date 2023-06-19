@@ -3,7 +3,9 @@ title = "Juno"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CosmosContracts"]
+github_organizations = [
+  "https://github.com/CosmosContracts",
+]
 
 # Repositories
 [[repo]]
@@ -128,6 +130,7 @@ url = "https://github.com/CosmosContracts/supply-info-api"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/teritori-chain-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/CosmosContracts/testnets"
@@ -164,3 +167,4 @@ url = "https://github.com/CosmosContracts/website"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/whisper"
+

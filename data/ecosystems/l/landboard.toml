@@ -3,7 +3,9 @@ title = "Landboard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/landboard-io"]
+github_organizations = [
+  "https://github.com/landboard-io",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/landboard-io/nft-minting-sc"
 
 [[repo]]
 url = "https://github.com/landboard-io/vesting-sc"
+

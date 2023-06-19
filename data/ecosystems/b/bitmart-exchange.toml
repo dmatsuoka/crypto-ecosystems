@@ -3,7 +3,9 @@ title = "BitMart Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitmartexchange"]
+github_organizations = [
+  "https://github.com/bitmartexchange",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/bitmartexchange/abbc-sdk"
 
 [[repo]]
 url = "https://github.com/bitmartexchange/api-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmartexchange/bitmart-go-sdk-api"
@@ -59,6 +62,8 @@ url = "https://github.com/bitmartexchange/omni"
 
 [[repo]]
 url = "https://github.com/bitmartexchange/OSSRH-92033"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmartexchange/zcash"
+

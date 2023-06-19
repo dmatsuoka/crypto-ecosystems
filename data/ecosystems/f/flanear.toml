@@ -3,7 +3,9 @@ title = "Flanear"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flanear"]
+github_organizations = [
+  "https://github.com/flanear",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/flanear/near-react-bridge"
 
 [[repo]]
 url = "https://github.com/flanear/token-images"
+

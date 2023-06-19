@@ -3,7 +3,9 @@ title = "Shardus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Shardus"]
+github_organizations = [
+  "https://github.com/Shardus",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Shardus/tar-fs"
 
 [[repo]]
 url = "https://github.com/Shardus/workerpool"
+

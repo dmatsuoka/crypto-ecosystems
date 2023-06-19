@@ -3,7 +3,9 @@ title = "DappForce"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dappforce"]
+github_organizations = [
+  "https://github.com/dappforce",
+]
 
 # Repositories
 [[repo]]
@@ -116,6 +118,7 @@ url = "https://github.com/dappforce/subsocial-docs"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-flutter"
@@ -131,12 +134,14 @@ url = "https://github.com/dappforce/subsocial-js"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-js-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-offchain"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-offchain-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-parachain"
@@ -185,3 +190,4 @@ url = "https://github.com/dappforce/x-seller-squid"
 
 [[repo]]
 url = "https://github.com/dappforce/xsocial-testnet"
+

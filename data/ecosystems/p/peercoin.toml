@@ -3,11 +3,14 @@ title = "Peercoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/peercoin"]
+github_organizations = [
+  "https://github.com/peercoin",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/peercoin/bip32-dart"
+missing = true
 
 [[repo]]
 url = "https://github.com/peercoin/bitaddress.ppc"
@@ -83,6 +86,7 @@ url = "https://github.com/peercoin/lightning"
 
 [[repo]]
 url = "https://github.com/peercoin/lnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/peercoin/media"
@@ -113,6 +117,7 @@ url = "https://github.com/peercoin/peercoin-js-rpc"
 
 [[repo]]
 url = "https://github.com/peercoin/peercoin-next"
+missing = true
 
 [[repo]]
 url = "https://github.com/peercoin/peercoin-php-rpc"
@@ -161,6 +166,7 @@ url = "https://github.com/peercoin/poolserver"
 
 [[repo]]
 url = "https://github.com/peercoin/ppcd"
+missing = true
 
 [[repo]]
 url = "https://github.com/peercoin/ppcutil"
@@ -173,6 +179,7 @@ url = "https://github.com/peercoin/rfcs"
 
 [[repo]]
 url = "https://github.com/peercoin/rfcs-0028"
+missing = true
 
 [[repo]]
 url = "https://github.com/peercoin/rosetta-peercoin"
@@ -191,3 +198,4 @@ url = "https://github.com/Vesta-wallet/bitcoin_flutter"
 
 [[repo]]
 url = "https://github.com/Vesta-wallet/vesta"
+

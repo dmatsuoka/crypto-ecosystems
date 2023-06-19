@@ -3,7 +3,9 @@ title = "Peronio.AR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/peronio-ar"]
+github_organizations = [
+  "https://github.com/peronio-ar",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/peronio-ar/front"
 
 [[repo]]
 url = "https://github.com/peronio-ar/gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/peronio-ar/hola-peronio"
@@ -65,3 +68,4 @@ url = "https://github.com/peronio-ar/peronio-uikit"
 
 [[repo]]
 url = "https://github.com/peronio-ar/qidao"
+

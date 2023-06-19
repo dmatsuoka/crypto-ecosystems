@@ -3,7 +3,9 @@ title = "Mercury Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MercuryProtocol"]
+github_organizations = [
+  "https://github.com/MercuryProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/MercuryProtocol/web3.swift"
 
 [[repo]]
 url = "https://github.com/MercuryProtocol/web3.swift-Example"
+

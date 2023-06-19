@@ -3,7 +3,9 @@ title = "Sygma"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sygmaprotocol"]
+github_organizations = [
+  "https://github.com/sygmaprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/sygmaprotocol/sygma-substrate-pallets"
 
 [[repo]]
 url = "https://github.com/sygmaprotocol/sygma-ui"
+

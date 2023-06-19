@@ -3,7 +3,9 @@ title = "Diamond Platform Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cdiamondcoin"]
+github_organizations = [
+  "https://github.com/Cdiamondcoin",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Cdiamondcoin/proxy"
 
 [[repo]]
 url = "https://github.com/Cdiamondcoin/setzer"
+

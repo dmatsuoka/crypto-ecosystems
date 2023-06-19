@@ -3,7 +3,9 @@ title = "zenchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zenchainprotocol"]
+github_organizations = [
+  "https://github.com/zenchainprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/zenchainprotocol/zenchain"
 
 [[repo]]
 url = "https://github.com/zenchainprotocol/zenchainprotocol.github.io"
+

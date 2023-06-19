@@ -3,7 +3,9 @@ title = "zeitgeistpm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zeitgeistpm"]
+github_organizations = [
+  "https://github.com/zeitgeistpm",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/zeitgeistpm/Seer-For-China"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/snapshot-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/substrate"
@@ -101,3 +104,4 @@ url = "https://github.com/zeitgeistpm/zeitgeist-token-api"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeistpm.github.io"
+

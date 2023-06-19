@@ -3,7 +3,9 @@ title = "Quantum Resistant Ledger"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/theQRL"]
+github_organizations = [
+  "https://github.com/theQRL",
+]
 
 # Repositories
 [[repo]]
@@ -194,6 +196,7 @@ url = "https://github.com/theQRL/silicon"
 
 [[repo]]
 url = "https://github.com/theQRL/theQRL.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/theQRL/theqrl.org"
@@ -251,3 +254,4 @@ url = "https://github.com/theQRL/zond-contract-example"
 
 [[repo]]
 url = "https://github.com/theQRL/zond-documentation"
+

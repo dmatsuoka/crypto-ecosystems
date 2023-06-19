@@ -3,7 +3,9 @@ title = "Tachyon Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tachyon-protocol"]
+github_organizations = [
+  "https://github.com/tachyon-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/tachyon-protocol/TachyonVpn"
 
 [[repo]]
 url = "https://github.com/tachyon-protocol/udw"
+

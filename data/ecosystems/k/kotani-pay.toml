@@ -3,7 +3,9 @@ title = "Kotani Pay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kotanipay"]
+github_organizations = [
+  "https://github.com/kotanipay",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/kotanipay/aziz-backend"
 
 [[repo]]
 url = "https://github.com/kotanipay/bug-free-octo"
+missing = true
 
 [[repo]]
 url = "https://github.com/kotanipay/docs"
@@ -23,3 +26,4 @@ url = "https://github.com/kotanipay/Kotani-Pay-super-admin-dashboard"
 
 [[repo]]
 url = "https://github.com/kotanipay/Kotani-Pay-WhatsApp-bot"
+

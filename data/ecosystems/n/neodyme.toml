@@ -3,17 +3,21 @@ title = "Neodyme"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neodyme-labs"]
+github_organizations = [
+  "https://github.com/neodyme-labs",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/neodyme-labs/blog.neodyme.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/neodyme-labs/cargo"
 
 [[repo]]
 url = "https://github.com/neodyme-labs/coin.neodyme.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/neodyme-labs/influx_log"
@@ -56,3 +60,4 @@ url = "https://github.com/neodyme-labs/user_agent_parse"
 
 [[repo]]
 url = "https://github.com/neodyme-labs/validator-pcap-analysis"
+

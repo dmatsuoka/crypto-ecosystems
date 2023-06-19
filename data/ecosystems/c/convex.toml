@@ -3,7 +3,9 @@ title = "Convex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Convex-Dev"]
+github_organizations = [
+  "https://github.com/Convex-Dev",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/Convex-Dev/material-ui-swing"
 
 [[repo]]
 url = "https://github.com/Convex-Dev/payment-pointers"
+

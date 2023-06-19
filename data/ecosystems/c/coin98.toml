@@ -3,7 +3,9 @@ title = "Coin98"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coin98"]
+github_organizations = [
+  "https://github.com/coin98",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/coin98/coin98-multisend"
 
 [[repo]]
 url = "https://github.com/coin98/coin98-multisig"
+missing = true
 
 [[repo]]
 url = "https://github.com/coin98/coin98-token-contract"
@@ -146,3 +149,4 @@ url = "https://github.com/coin98/wallet-selector"
 
 [[repo]]
 url = "https://github.com/coin98/walletconnect-registry"
+

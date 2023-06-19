@@ -3,7 +3,9 @@ title = "Magic Eden"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/magiceden-oss"]
+github_organizations = [
+  "https://github.com/magiceden-oss",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/magiceden-oss/msigner"
 
 [[repo]]
 url = "https://github.com/magiceden-oss/open_creator_protocol"
+

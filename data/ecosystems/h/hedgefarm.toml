@@ -3,7 +3,9 @@ title = "HedgeFarm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HedgeFarm"]
+github_organizations = [
+  "https://github.com/HedgeFarm",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/HedgeFarm/jupiter-cpi"
 
 [[repo]]
 url = "https://github.com/HedgeFarm/smart-farmooor-contracts"
+

@@ -3,7 +3,9 @@ title = "Ubeswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ubeswap"]
+github_organizations = [
+  "https://github.com/Ubeswap",
+]
 
 # Repositories
 [[repo]]
@@ -116,3 +118,4 @@ url = "https://github.com/Ubeswap/use-contractkit"
 
 [[repo]]
 url = "https://github.com/Ubeswap/web3-react"
+

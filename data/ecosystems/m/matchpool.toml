@@ -3,7 +3,9 @@ title = "Matchpool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Matchpool"]
+github_organizations = [
+  "https://github.com/Matchpool",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Matchpool/xgup-faucet"
 
 [[repo]]
 url = "https://github.com/secto-io/atomic-swap"
+

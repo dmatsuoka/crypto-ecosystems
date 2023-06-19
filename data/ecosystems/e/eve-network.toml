@@ -3,7 +3,9 @@ title = "Eve Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eve-network"]
+github_organizations = [
+  "https://github.com/eve-network",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/eve-network/liquidity-staking-module"
 
 [[repo]]
 url = "https://github.com/eve-network/wasmd"
+

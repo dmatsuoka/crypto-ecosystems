@@ -3,7 +3,9 @@ title = "BlockPi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockPILabs"]
+github_organizations = [
+  "https://github.com/BlockPILabs",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/BlockPILabs/testnets"
 
 [[repo]]
 url = "https://github.com/BlockPILabs/testrpc"
+

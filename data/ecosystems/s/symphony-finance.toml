@@ -3,7 +3,9 @@ title = "Symphony Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/symphony-finance"]
+github_organizations = [
+  "https://github.com/symphony-finance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,5 @@ url = "https://github.com/symphony-finance/yolo-subgraph"
 
 [[repo]]
 url = "https://github.com/symphony-finance/yolo-ui"
+missing = true
+

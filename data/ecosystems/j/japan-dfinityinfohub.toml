@@ -3,7 +3,9 @@ title = "Japan DfinityInfoHub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Japan-DfinityInfoHub"]
+github_organizations = [
+  "https://github.com/Japan-DfinityInfoHub",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/Japan-DfinityInfoHub/sdk"
 
 [[repo]]
 url = "https://github.com/Japan-DfinityInfoHub/WiKi"
+

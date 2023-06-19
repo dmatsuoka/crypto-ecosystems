@@ -3,7 +3,9 @@ title = "Open Art Source"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Open-Art-Source"]
+github_organizations = [
+  "https://github.com/Open-Art-Source",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Open-Art-Source/oas-server"
 
 [[repo]]
 url = "https://github.com/Open-Art-Source/oas_mobile"
+

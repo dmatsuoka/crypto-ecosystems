@@ -3,7 +3,9 @@ title = "Zero"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zer0-os"]
+github_organizations = [
+  "https://github.com/zer0-os",
+]
 
 # Repositories
 [[repo]]
@@ -158,6 +160,7 @@ url = "https://github.com/zer0-os/zOS-feed"
 
 [[repo]]
 url = "https://github.com/zer0-os/zOS-theme-engine"
+missing = true
 
 [[repo]]
 url = "https://github.com/zer0-os/zOS-zNS"
@@ -179,3 +182,4 @@ url = "https://github.com/zer0-os/zUI"
 
 [[repo]]
 url = "https://github.com/zer0-os/zXP"
+

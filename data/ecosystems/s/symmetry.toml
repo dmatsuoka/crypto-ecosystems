@@ -3,7 +3,9 @@ title = "Symmetry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/symmetryinvestments"]
+github_organizations = [
+  "https://github.com/symmetryinvestments",
+]
 
 # Repositories
 [[repo]]
@@ -299,3 +301,4 @@ url = "https://github.com/symmetryinvestments/xlsxwriter-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/zfs-on-root-installer"
+

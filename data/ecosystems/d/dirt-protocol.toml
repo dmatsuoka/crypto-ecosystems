@@ -3,7 +3,9 @@ title = "Dirt Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dirtprotocol"]
+github_organizations = [
+  "https://github.com/dirtprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/dirtprotocol/dirtoracle"
 
 [[repo]]
 url = "https://github.com/dirtprotocol/proxysigner"
+

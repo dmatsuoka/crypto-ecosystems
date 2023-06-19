@@ -3,7 +3,9 @@ title = "Hakka.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hakkafinance"]
+github_organizations = [
+  "https://github.com/hakkafinance",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,5 @@ url = "https://github.com/hakkafinance/VOTES"
 
 [[repo]]
 url = "https://github.com/hakkafinance/Whitepaper"
+missing = true
+

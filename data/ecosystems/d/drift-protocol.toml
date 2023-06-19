@@ -3,7 +3,9 @@ title = "Drift Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/drift-labs"]
+github_organizations = [
+  "https://github.com/drift-labs",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/drift-labs/protocol-v2"
 
 [[repo]]
 url = "https://github.com/drift-labs/v2-teacher"
+

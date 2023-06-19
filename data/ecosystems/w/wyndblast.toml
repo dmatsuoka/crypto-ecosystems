@@ -3,7 +3,9 @@ title = "WyndBlast"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wyndblast"]
+github_organizations = [
+  "https://github.com/wyndblast",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/wyndblast/chro"
 
 [[repo]]
 url = "https://github.com/wyndblast/joe-tokenlists"
+

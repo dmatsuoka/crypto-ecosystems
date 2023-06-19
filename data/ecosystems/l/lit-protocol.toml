@@ -3,7 +3,9 @@ title = "Lit Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LIT-Protocol"]
+github_organizations = [
+  "https://github.com/LIT-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -17,12 +19,14 @@ url = "https://github.com/LIT-Protocol/awesome"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/bls-bench"
+missing = true
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/bls_dkg"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/blsful"
+missing = true
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/blst"
@@ -377,3 +381,4 @@ url = "https://github.com/LIT-Protocol/webauthn-rs"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/zerossl"
+

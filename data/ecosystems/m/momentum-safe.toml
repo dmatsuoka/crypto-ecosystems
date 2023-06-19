@@ -3,7 +3,9 @@ title = "Momentum Safe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Momentum-Safe"]
+github_organizations = [
+  "https://github.com/Momentum-Safe",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/Momentum-Safe/sui-demo"
 
 [[repo]]
 url = "https://github.com/Momentum-Safe/wallet-adapter-plugin-template"
+

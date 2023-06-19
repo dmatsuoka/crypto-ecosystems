@@ -3,7 +3,9 @@ title = "AtomicHub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/pinknetworkx"]
+github_organizations = [
+  "https://github.com/pinknetworkx",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/pinknetworkx/atomicassets-js"
 
 [[repo]]
 url = "https://github.com/pinknetworkx/atomicmarket-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/pinknetworkx/atomicmarket-contract-tests"
@@ -29,6 +32,7 @@ url = "https://github.com/pinknetworkx/atomicpacks-contract"
 
 [[repo]]
 url = "https://github.com/pinknetworkx/delete-sourcemaps-webpack-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/pinknetworkx/enf-grant-framework"
@@ -53,3 +57,4 @@ url = "https://github.com/pinknetworkx/ual-wombat"
 
 [[repo]]
 url = "https://github.com/pinknetworkx/waxjs"
+

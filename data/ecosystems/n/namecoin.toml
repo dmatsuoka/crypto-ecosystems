@@ -3,7 +3,9 @@ title = "Namecoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/namecoin"]
+github_organizations = [
+  "https://github.com/namecoin",
+]
 
 # Repositories
 [[repo]]
@@ -182,3 +184,4 @@ url = "https://github.com/namecoin/x509-compressed"
 
 [[repo]]
 url = "https://github.com/namecoin/x509-signature-splice"
+

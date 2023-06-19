@@ -3,8 +3,11 @@ title = "Phuture"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Phuturedao"]
+github_organizations = [
+  "https://github.com/Phuturedao",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Phuturedao/phuture-web"
+

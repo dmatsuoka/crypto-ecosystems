@@ -3,7 +3,9 @@ title = "Magic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/magiclabs"]
+github_organizations = [
+  "https://github.com/magiclabs",
+]
 
 # Repositories
 [[repo]]
@@ -323,12 +325,15 @@ url = "https://github.com/magiclabs/magic-unity"
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-unity-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-unity-template-archived"
+missing = true
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-webview"
+missing = true
 
 [[repo]]
 url = "https://github.com/magiclabs/microsoft-oauth-demo"
@@ -401,3 +406,4 @@ url = "https://github.com/magiclabs/web3dart"
 
 [[repo]]
 url = "https://github.com/magiclabs/wp-magic"
+

@@ -3,7 +3,9 @@ title = "Ref Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ref-finance"]
+github_organizations = [
+  "https://github.com/ref-finance",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/ref-finance/ref-sdk"
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-token"
@@ -50,3 +53,4 @@ url = "https://github.com/ref-finance/ref-ui"
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-ve"
+

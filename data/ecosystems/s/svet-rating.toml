@@ -3,7 +3,9 @@ title = "SVET Rating"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SVET-Rating"]
+github_organizations = [
+  "https://github.com/SVET-Rating",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/SVET-Rating/SvetIndex"
 
 [[repo]]
 url = "https://github.com/SVET-Rating/token-vesting-ui"
+

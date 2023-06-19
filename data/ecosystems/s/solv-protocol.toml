@@ -3,7 +3,9 @@ title = "Solv Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solv-finance"]
+github_organizations = [
+  "https://github.com/solv-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/solv-finance/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/solv-finance/EIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/solv-finance/erc-3525"
@@ -50,3 +53,4 @@ url = "https://github.com/solv-finance/solv-v2-market"
 
 [[repo]]
 url = "https://github.com/solv-finance/solv-v2-voucher"
+

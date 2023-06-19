@@ -3,7 +3,9 @@ title = "CryptoCurve"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CryptoCurve"]
+github_organizations = [
+  "https://github.com/CryptoCurve",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/CryptoCurve/ccAdminConsole"
 
 [[repo]]
 url = "https://github.com/CryptoCurve/ccFrontEnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/CryptoCurve/ccToken"
@@ -53,3 +56,4 @@ url = "https://github.com/CryptoCurve/wanvm-socket-server"
 
 [[repo]]
 url = "https://github.com/CryptoCurve/whitelistFrontEnd"
+

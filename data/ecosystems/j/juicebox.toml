@@ -3,7 +3,9 @@ title = "Juicebox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jbx-protocol"]
+github_organizations = [
+  "https://github.com/jbx-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -74,6 +76,7 @@ url = "https://github.com/jbx-protocol/juice-extensions-collection"
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-genesis-nft-data-source"
+missing = true
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-hooks"
@@ -101,6 +104,7 @@ url = "https://github.com/jbx-protocol/juice-nft-market"
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-nft-rewards-tiered-token-resolver"
+missing = true
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-opengsn"
@@ -176,3 +180,4 @@ url = "https://github.com/jbx-protocol/juicy-spider"
 
 [[repo]]
 url = "https://github.com/jbx-protocol/solidity-coverage"
+

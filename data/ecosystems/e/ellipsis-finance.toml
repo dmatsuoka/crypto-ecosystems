@@ -3,7 +3,9 @@ title = "Ellipsis Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ellipsis-finance"]
+github_organizations = [
+  "https://github.com/ellipsis-finance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ellipsis-finance/valas-lending-pool"
 
 [[repo]]
 url = "https://github.com/ellipsis-finance/vecrv-airdrop"
+

@@ -3,7 +3,9 @@ title = "TreasureDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TreasureProject"]
+github_organizations = [
+  "https://github.com/TreasureProject",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/TreasureProject/magicswap-contracts"
 
 [[repo]]
 url = "https://github.com/TreasureProject/magicswapv2"
+missing = true
 
 [[repo]]
 url = "https://github.com/TreasureProject/multisigs"
@@ -47,6 +50,7 @@ url = "https://github.com/TreasureProject/smol-quests"
 
 [[repo]]
 url = "https://github.com/TreasureProject/SmolRacingRedemption"
+missing = true
 
 [[repo]]
 url = "https://github.com/TreasureProject/spellcaster-facets"
@@ -83,3 +87,4 @@ url = "https://github.com/TreasureProject/treasure-subgraphs"
 
 [[repo]]
 url = "https://github.com/TreasureProject/web3-frontend-starter-template"
+

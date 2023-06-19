@@ -3,7 +3,9 @@ title = "SonicSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SonicSwap"]
+github_organizations = [
+  "https://github.com/SonicSwap",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/SonicSwap/venomswap-info"
 
 [[repo]]
 url = "https://github.com/SonicSwap/vfat-tools"
+

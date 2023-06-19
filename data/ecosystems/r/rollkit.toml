@@ -3,7 +3,9 @@ title = "Rollkit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rollkit"]
+github_organizations = [
+  "https://github.com/rollkit",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/rollkit/rollup-docker"
 
 [[repo]]
 url = "https://github.com/rollkit/tendermint"
+

@@ -3,7 +3,9 @@ title = "Lition"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lition-blockchain"]
+github_organizations = [
+  "https://github.com/lition-blockchain",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/lition-blockchain/token"
 
 [[repo]]
 url = "https://github.com/lition-blockchain/uniswap-frontend"
+

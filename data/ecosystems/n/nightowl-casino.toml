@@ -3,7 +3,9 @@ title = "NightOwl Casino"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nightowlcasino"]
+github_organizations = [
+  "https://github.com/nightowlcasino",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/nightowlcasino/rng-svc"
 
 [[repo]]
 url = "https://github.com/nightowlcasino/vdf"
+

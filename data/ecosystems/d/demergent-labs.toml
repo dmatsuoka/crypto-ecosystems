@@ -3,7 +3,9 @@ title = "Demergent Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/demergent-labs"]
+github_organizations = [
+  "https://github.com/demergent-labs",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/demergent-labs/sudograph"
 
 [[repo]]
 url = "https://github.com/demergent-labs/test_kybra"
+

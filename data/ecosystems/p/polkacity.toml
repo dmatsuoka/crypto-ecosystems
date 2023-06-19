@@ -3,7 +3,9 @@ title = "Polkacity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/POLKACITY"]
+github_organizations = [
+  "https://github.com/POLKACITY",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/POLKACITY/TreasureHunt"
 
 [[repo]]
 url = "https://github.com/POLKACITY/Whitepaper"
+

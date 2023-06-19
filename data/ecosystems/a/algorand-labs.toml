@@ -3,8 +3,11 @@ title = "Algorand Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/algorandlabs"]
+github_organizations = [
+  "https://github.com/algorandlabs",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/algorandlabs/smart-asa"
+

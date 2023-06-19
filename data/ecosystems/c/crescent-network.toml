@@ -3,7 +3,9 @@ title = "Crescent Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/crescent-network"]
+github_organizations = [
+  "https://github.com/crescent-network",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/crescent-network/mm-scoring"
 
 [[repo]]
 url = "https://github.com/crescent-network/tendermint"
+

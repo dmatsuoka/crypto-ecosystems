@@ -3,7 +3,9 @@ title = "The Monaco Protocol (Betdex)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MonacoProtocol"]
+github_organizations = [
+  "https://github.com/MonacoProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/MonacoProtocol/sdk"
 
 [[repo]]
 url = "https://github.com/MonacoProtocol/seed-calculator"
+

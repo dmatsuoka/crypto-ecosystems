@@ -3,7 +3,9 @@ title = "LGO Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/lgo-public"]
+github_organizations = [
+  "https://github.com/lgo-public",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/lgo-public/XChange"
 
 [[repo]]
 url = "https://github.com/lgo-public/xchange-stream"
+

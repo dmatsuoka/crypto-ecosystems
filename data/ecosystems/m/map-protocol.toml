@@ -3,7 +3,9 @@ title = "MAP Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mapprotocol"]
+github_organizations = [
+  "https://github.com/mapprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -71,12 +73,14 @@ url = "https://github.com/mapprotocol/MadNet"
 
 [[repo]]
 url = "https://github.com/mapprotocol/map-bridge-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/mapprotocol/map-contracts"
 
 [[repo]]
 url = "https://github.com/mapprotocol/map-contracts-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/mapprotocol/map-netstats"
@@ -89,6 +93,7 @@ url = "https://github.com/mapprotocol/mapo-service-contracts"
 
 [[repo]]
 url = "https://github.com/mapprotocol/marker_tool01"
+missing = true
 
 [[repo]]
 url = "https://github.com/mapprotocol/mcs-upgrade-tool"
@@ -158,3 +163,4 @@ url = "https://github.com/mapprotocol/webwallet"
 
 [[repo]]
 url = "https://github.com/mapprotocol/wiki"
+

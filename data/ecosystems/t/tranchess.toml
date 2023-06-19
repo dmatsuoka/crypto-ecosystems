@@ -3,7 +3,9 @@ title = "Tranchess"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tranchess"]
+github_organizations = [
+  "https://github.com/tranchess",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/tranchess/validator-directory"
 
 [[repo]]
 url = "https://github.com/tranchess/yield-server"
+

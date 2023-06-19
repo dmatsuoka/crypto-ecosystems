@@ -17,3 +17,5 @@ url = "https://github.com/mineplexio/Pool-Script"
 
 [[repo]]
 url = "https://github.com/mineplexio/tron-deployment"
+missing = true
+

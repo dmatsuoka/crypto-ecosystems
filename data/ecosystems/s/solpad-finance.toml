@@ -3,7 +3,9 @@ title = "Solpad Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solpad-finance"]
+github_organizations = [
+  "https://github.com/solpad-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/solpad-finance/token-list"
 
 [[repo]]
 url = "https://github.com/solpad-finance/validators"
+

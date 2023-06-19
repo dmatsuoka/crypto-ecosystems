@@ -3,7 +3,9 @@ title = "Iroiro"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/iroiro"]
+github_organizations = [
+  "https://github.com/iroiro",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/iroiro/merkle-distributor"
 
 [[repo]]
 url = "https://github.com/iroiro/token-with-manifesto"
+

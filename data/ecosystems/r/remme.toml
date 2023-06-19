@@ -3,7 +3,9 @@ title = "Remme"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Remmeauth"]
+github_organizations = [
+  "https://github.com/Remmeauth",
+]
 
 # Repositories
 [[repo]]
@@ -122,3 +124,4 @@ url = "https://github.com/Remmeauth/sawtooth-rfcs"
 
 [[repo]]
 url = "https://github.com/Remmeauth/Vesting"
+

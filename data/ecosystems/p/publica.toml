@@ -3,7 +3,9 @@ title = "Publica"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PublicaIO"]
+github_organizations = [
+  "https://github.com/PublicaIO",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/PublicaIO/rights-token"
 
 [[repo]]
 url = "https://github.com/PublicaIO/testing-environment"
+

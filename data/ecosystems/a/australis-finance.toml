@@ -3,7 +3,9 @@ title = "Australis Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Australis-Finance"]
+github_organizations = [
+  "https://github.com/Australis-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Australis-Finance/.github"
 
 [[repo]]
 url = "https://github.com/Australis-Finance/contracts"
+

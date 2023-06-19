@@ -3,7 +3,9 @@ title = "Third Storage"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ThirdStorage"]
+github_organizations = [
+  "https://github.com/ThirdStorage",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/ThirdStorage/thirdstorage-docs"
 
 [[repo]]
 url = "https://github.com/ThirdStorage/TSIP"
+

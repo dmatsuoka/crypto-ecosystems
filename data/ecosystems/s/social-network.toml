@@ -3,7 +3,9 @@ title = "Social Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/social-network"]
+github_organizations = [
+  "https://github.com/social-network",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/social-network/v0"
 
 [[repo]]
 url = "https://github.com/social-network/v1"
+

@@ -3,7 +3,9 @@ title = "Scifanchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/scifanchain"]
+github_organizations = [
+  "https://github.com/scifanchain",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/scifanchain/web_old"
 
 [[repo]]
 url = "https://github.com/scifanchain/webapp"
+

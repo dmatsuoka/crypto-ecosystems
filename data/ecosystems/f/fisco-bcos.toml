@@ -3,7 +3,9 @@ title = "FISCO-BCOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FISCO-BCOS"]
+github_organizations = [
+  "https://github.com/FISCO-BCOS",
+]
 
 # Repositories
 [[repo]]
@@ -239,6 +241,7 @@ url = "https://github.com/FISCO-BCOS/rust-gears-sdk"
 
 [[repo]]
 url = "https://github.com/FISCO-BCOS/rust-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/FISCO-BCOS/SafeKeeper"
@@ -293,3 +296,4 @@ url = "https://github.com/FISCO-BCOS/Wiki"
 
 [[repo]]
 url = "https://github.com/FISCO-BCOS/zkg-tx1to1"
+

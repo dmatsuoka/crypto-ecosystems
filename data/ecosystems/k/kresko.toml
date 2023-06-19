@@ -3,7 +3,9 @@ title = "Kresko"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kreskohq"]
+github_organizations = [
+  "https://github.com/kreskohq",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/kreskohq/sol-template"
 
 [[repo]]
 url = "https://github.com/kreskohq/synthetics-simulations"
+

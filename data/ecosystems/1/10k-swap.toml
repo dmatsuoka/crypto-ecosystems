@@ -3,7 +3,9 @@ title = "10K Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/10k-swap"]
+github_organizations = [
+  "https://github.com/10k-swap",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/10k-swap/10k_swap-seabed"
 
 [[repo]]
 url = "https://github.com/10k-swap/10k_swap-widgets"
+

@@ -3,7 +3,9 @@ title = "PartySwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PartySwapDEX"]
+github_organizations = [
+  "https://github.com/PartySwapDEX",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/PartySwapDEX/token-assets"
 
 [[repo]]
 url = "https://github.com/PartySwapDEX/token-lists"
+

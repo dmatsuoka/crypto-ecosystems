@@ -3,7 +3,9 @@ title = "LadderCaster"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ladder-caster"]
+github_organizations = [
+  "https://github.com/ladder-caster",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/ladder-caster/ladder-caster-landing"
 
 [[repo]]
 url = "https://github.com/ladder-caster/ladder-caster-program"
+

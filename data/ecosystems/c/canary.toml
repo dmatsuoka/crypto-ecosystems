@@ -3,7 +3,9 @@ title = "Canary"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/canarydex"]
+github_organizations = [
+  "https://github.com/canarydex",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/canarydex/governance"
 
 [[repo]]
 url = "https://github.com/canarydex/sdk"
+

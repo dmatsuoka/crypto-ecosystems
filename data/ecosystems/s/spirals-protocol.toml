@@ -3,7 +3,9 @@ title = "Spirals Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spiralsprotocol"]
+github_organizations = [
+  "https://github.com/spiralsprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/spiralsprotocol/safe-react"
 
 [[repo]]
 url = "https://github.com/spiralsprotocol/spirals-brand"
+

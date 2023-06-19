@@ -3,7 +3,9 @@ title = "Milkshake Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MilkShake-Swap"]
+github_organizations = [
+  "https://github.com/MilkShake-Swap",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/MilkShake-Swap/MilkShakeSwapDocs"
 
 [[repo]]
 url = "https://github.com/MilkShake-Swap/MilkShakeSwapToken"
+

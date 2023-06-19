@@ -3,7 +3,9 @@ title = "Chainbound"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainbound"]
+github_organizations = [
+  "https://github.com/chainbound",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/chainbound/sniper-demo"
 
 [[repo]]
 url = "https://github.com/chainbound/website"
+

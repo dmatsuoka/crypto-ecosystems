@@ -3,7 +3,9 @@ title = "TxPipe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/txpipe"]
+github_organizations = [
+  "https://github.com/txpipe",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/txpipe/wallet-connect-starter-kit"
 
 [[repo]]
 url = "https://github.com/txpipe/wob"
+

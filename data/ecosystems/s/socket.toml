@@ -3,7 +3,9 @@ title = "Socket"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SocketDotTech"]
+github_organizations = [
+  "https://github.com/SocketDotTech",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/SocketDotTech/socket-v2-verifier-contracts"
 
 [[repo]]
 url = "https://github.com/SocketDotTech/socketDL-examples"
+

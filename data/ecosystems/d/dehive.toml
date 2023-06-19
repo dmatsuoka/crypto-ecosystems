@@ -3,7 +3,9 @@ title = "DeHive"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeHive-finance"]
+github_organizations = [
+  "https://github.com/DeHive-finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/DeHive-finance/dehive-audits"
 
 [[repo]]
 url = "https://github.com/DeHive-finance/tokensale-contracts"
+

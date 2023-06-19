@@ -3,7 +3,9 @@ title = "NavCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NAVCoin"]
+github_organizations = [
+  "https://github.com/NAVCoin",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/NAVCoin/white-paper"
 
 [[repo]]
 url = "https://github.com/navcoin/wrapped-navcoin"
+

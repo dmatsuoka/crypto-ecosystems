@@ -3,7 +3,9 @@ title = "Backed.xyz (Papr.wtf)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/with-backed"]
+github_organizations = [
+  "https://github.com/with-backed",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/with-backed/transaction-button"
 
 [[repo]]
 url = "https://github.com/with-backed/uniswap-v3-subgraph"
+

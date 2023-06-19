@@ -3,7 +3,9 @@ title = "Inference A.G."
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InferenceAG"]
+github_organizations = [
+  "https://github.com/InferenceAG",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/InferenceAG/TezosSecurityBaselineChecking"
 
 [[repo]]
 url = "https://github.com/InferenceAG/TezosSmartContractDetails"
+

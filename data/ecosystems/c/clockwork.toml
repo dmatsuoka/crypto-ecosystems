@@ -3,7 +3,9 @@ title = "ClockWork"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clockwork-xyz"]
+github_organizations = [
+  "https://github.com/clockwork-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/clockwork-xyz/examples"
 
 [[repo]]
 url = "https://github.com/clockwork-xyz/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/clockwork-xyz/sdk"
@@ -41,3 +44,4 @@ url = "https://github.com/clockwork-xyz/solana-playground"
 
 [[repo]]
 url = "https://github.com/clockwork-xyz/update-solana"
+

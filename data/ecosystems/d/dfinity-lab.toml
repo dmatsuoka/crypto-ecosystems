@@ -3,7 +3,9 @@ title = "DFINITY Lab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dfinity-lab"]
+github_organizations = [
+  "https://github.com/dfinity-lab",
+]
 
 # Repositories
 [[repo]]
@@ -160,3 +162,4 @@ url = "https://github.com/dfinity-lab/wasmtime"
 
 [[repo]]
 url = "https://github.com/dfinity-lab/webpki"
+

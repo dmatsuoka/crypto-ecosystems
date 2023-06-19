@@ -3,7 +3,9 @@ title = "spinner cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spinner-cash"]
+github_organizations = [
+  "https://github.com/spinner-cash",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/spinner-cash/lib-rs"
 
 [[repo]]
 url = "https://github.com/spinner-cash/spinner"
+

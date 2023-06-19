@@ -3,7 +3,9 @@ title = "Waka Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/waka-waka-swap"]
+github_organizations = [
+  "https://github.com/waka-waka-swap",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/waka-waka-swap/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/waka-waka-swap/waka-contracts"
+

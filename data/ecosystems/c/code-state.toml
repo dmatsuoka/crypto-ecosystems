@@ -3,7 +3,9 @@ title = "Code & State"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Code-and-State"]
+github_organizations = [
+  "https://github.com/Code-and-State",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Code-and-State/simple-website"
 
 [[repo]]
 url = "https://github.com/Code-and-State/wg-education"
+

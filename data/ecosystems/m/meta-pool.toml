@@ -3,7 +3,9 @@ title = "Meta Pool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Meta-Pool"]
+github_organizations = [
+  "https://github.com/Meta-Pool",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Meta-Pool/staking-pool-aurora"
 
 [[repo]]
 url = "https://github.com/Meta-Pool/vote-tracking"
+

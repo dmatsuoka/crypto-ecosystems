@@ -3,11 +3,14 @@ title = "MoonDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Official-MoonDao"]
+github_organizations = [
+  "https://github.com/Official-MoonDao",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Official-MoonDao/astronaut-selection"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/astronaut-selection-v1"
@@ -38,9 +41,11 @@ url = "https://github.com/Official-MoonDao/MoonDAO-app"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/MoonDAO-app-updates"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/moondao-landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/moondaowww"
@@ -56,12 +61,15 @@ url = "https://github.com/Official-MoonDao/Proposal-Review"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/spacecards_server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/spacecards_website"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/vMooney-ERC721-Raffle"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/vMooney-ERC721-Sweepstakes"
+

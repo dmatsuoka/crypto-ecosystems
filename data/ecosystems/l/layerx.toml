@@ -3,7 +3,9 @@ title = "LayerX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LayerXcom"]
+github_organizations = [
+  "https://github.com/LayerXcom",
+]
 
 # Repositories
 [[repo]]
@@ -173,3 +175,4 @@ url = "https://github.com/LayerXcom/zerochain-book"
 
 [[repo]]
 url = "https://github.com/LayerXcom/zerochain-wallet-desktop"
+

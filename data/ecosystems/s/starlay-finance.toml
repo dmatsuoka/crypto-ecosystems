@@ -3,7 +3,9 @@ title = "Starlay Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/starlay-finance"]
+github_organizations = [
+  "https://github.com/starlay-finance",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/starlay-finance/typechain-polkadot"
 
 [[repo]]
 url = "https://github.com/starlay-finance/yield-server"
+

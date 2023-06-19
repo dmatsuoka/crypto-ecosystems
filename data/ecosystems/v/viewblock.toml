@@ -3,7 +3,9 @@ title = "ViewBlock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ViewBlock"]
+github_organizations = [
+  "https://github.com/ViewBlock",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/ViewBlock/zilliqa-js-viewblock"
 
 [[repo]]
 url = "https://github.com/ViewBlock/zilswap-webapp"
+

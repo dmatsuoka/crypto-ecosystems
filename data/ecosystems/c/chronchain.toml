@@ -3,7 +3,9 @@ title = "chronchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chronchain"]
+github_organizations = [
+  "https://github.com/chronchain",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/chronchain/EIPs"
 
 [[repo]]
 url = "https://github.com/chronchain/vc-test-suite"
+

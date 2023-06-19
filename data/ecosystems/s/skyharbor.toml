@@ -3,7 +3,9 @@ title = "SkyHarbor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/skyharbor-market"]
+github_organizations = [
+  "https://github.com/skyharbor-market",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/skyharbor-market/contracts"
 
 [[repo]]
 url = "https://github.com/skyharbor-market/skyharbor-api-boilerplate"
+

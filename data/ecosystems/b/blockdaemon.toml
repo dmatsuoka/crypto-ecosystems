@@ -3,7 +3,9 @@ title = "BlockDaemon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Blockdaemon"]
+github_organizations = [
+  "https://github.com/Blockdaemon",
+]
 
 # Repositories
 [[repo]]
@@ -272,3 +274,4 @@ url = "https://github.com/Blockdaemon/validator-profiles"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/validator-registry"
+

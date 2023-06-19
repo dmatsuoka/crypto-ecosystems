@@ -3,7 +3,9 @@ title = "Dentacoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Dentacoin"]
+github_organizations = [
+  "https://github.com/Dentacoin",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/Dentacoin/website"
 
 [[repo]]
 url = "https://github.com/Dentacoin/whitepaper"
+

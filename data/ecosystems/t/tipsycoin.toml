@@ -3,7 +3,9 @@ title = "TipsyCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TipsyCoin"]
+github_organizations = [
+  "https://github.com/TipsyCoin",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/TipsyCoin/TipsyGin"
 
 [[repo]]
 url = "https://github.com/TipsyCoin/TipsyVerseStaking"
+

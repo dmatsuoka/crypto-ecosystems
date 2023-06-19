@@ -3,7 +3,9 @@ title = "FeeSimple"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FeeSimple"]
+github_organizations = [
+  "https://github.com/FeeSimple",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/FeeSimple/testnet-launcher"
 
 [[repo]]
 url = "https://github.com/FeeSimple/wallet-web-eoswalletpro"
+

@@ -3,7 +3,9 @@ title = "Vcash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openvcash"]
+github_organizations = [
+  "https://github.com/openvcash",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/openvcash/vcash-website"
 
 [[repo]]
 url = "https://github.com/openvcash/wxVcashGUI"
+

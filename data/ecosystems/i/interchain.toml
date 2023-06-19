@@ -3,7 +3,9 @@ title = "Interchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/interchainio"]
+github_organizations = [
+  "https://github.com/interchainio",
+]
 
 # Repositories
 [[repo]]
@@ -35,9 +37,11 @@ url = "https://github.com/interchainio/delegation"
 
 [[repo]]
 url = "https://github.com/interchainio/docs-audit"
+missing = true
 
 [[repo]]
 url = "https://github.com/interchainio/ecosystem"
+missing = true
 
 [[repo]]
 url = "https://github.com/interchainio/forum"
@@ -74,9 +78,11 @@ url = "https://github.com/interchainio/interchain-emblem-renderer"
 
 [[repo]]
 url = "https://github.com/interchainio/interchain_frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/interchainio/interchaintest"
+missing = true
 
 [[repo]]
 url = "https://github.com/interchainio/metachain"
@@ -92,3 +98,4 @@ url = "https://github.com/interchainio/tendermint-testnet"
 
 [[repo]]
 url = "https://github.com/interchainio/ux.interchain.io"
+

@@ -3,7 +3,9 @@ title = "Metronome"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/autonomoussoftware"]
+github_organizations = [
+  "https://github.com/autonomoussoftware",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/autonomoussoftware/web3-patches"
 
 [[repo]]
 url = "https://github.com/autonomoussoftware/websocket-reconnector"
+

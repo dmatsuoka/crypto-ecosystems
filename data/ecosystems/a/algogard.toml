@@ -3,7 +3,9 @@ title = "Algogard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Tapera-Finance"]
+github_organizations = [
+  "https://github.com/Tapera-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Tapera-Finance/gard.money"
 
 [[repo]]
 url = "https://github.com/Tapera-Finance/gardsdk"
+

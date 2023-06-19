@@ -3,7 +3,9 @@ title = "KlimaDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KlimaDAO"]
+github_organizations = [
+  "https://github.com/KlimaDAO",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/KlimaDAO/klima-frontend"
 
 [[repo]]
 url = "https://github.com/KlimaDAO/klima-offsetting"
+missing = true
 
 [[repo]]
 url = "https://github.com/KlimaDAO/klima-protocol"
@@ -53,3 +56,4 @@ url = "https://github.com/KlimaDAO/klimadao-solidity"
 
 [[repo]]
 url = "https://github.com/KlimaDAO/x-contracts"
+

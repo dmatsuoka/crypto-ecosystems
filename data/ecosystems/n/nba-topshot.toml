@@ -3,7 +3,9 @@ title = "NBA TopShot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dapperlabs"]
+github_organizations = [
+  "https://github.com/dapperlabs",
+]
 
 # Repositories
 [[repo]]
@@ -68,15 +70,18 @@ url = "https://github.com/dapperlabs/dapper-wallet-support"
 
 [[repo]]
 url = "https://github.com/dapperlabs/dbt_zendesk"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/developer-guides"
 
 [[repo]]
 url = "https://github.com/dapperlabs/dps-rosetta-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/flow-follower"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/flow-go-fork"
@@ -128,6 +133,7 @@ url = "https://github.com/dapperlabs/Grid"
 
 [[repo]]
 url = "https://github.com/dapperlabs/hackathon2022-did-vc"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/hello-world-react-fcl"
@@ -149,6 +155,7 @@ url = "https://github.com/dapperlabs/kyverno-cli"
 
 [[repo]]
 url = "https://github.com/dapperlabs/kyverno-policies"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/ledger-app-flow"
@@ -188,6 +195,7 @@ url = "https://github.com/dapperlabs/release-drafter"
 
 [[repo]]
 url = "https://github.com/dapperlabs/rosetta-dispatcher"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/skeleton-native-test2"
@@ -206,6 +214,7 @@ url = "https://github.com/dapperlabs/testingdock"
 
 [[repo]]
 url = "https://github.com/dapperlabs/trophy-roomm"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/truffle-hdwallet-provider"
@@ -224,3 +233,4 @@ url = "https://github.com/dapperlabs/webpush-go"
 
 [[repo]]
 url = "https://github.com/onflow/flow-archive"
+

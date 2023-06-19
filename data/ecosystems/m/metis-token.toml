@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Metis Token"
 
-sub_ecosystems = ["Standard Protocol"]
+sub_ecosystems = [
+  "Standard Protocol",
+]
 
-github_organizations = ["https://github.com/MetisProtocol"]
+github_organizations = [
+  "https://github.com/MetisProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -125,3 +129,4 @@ url = "https://github.com/MetisProtocol/zkp_fast_prover_verfier"
 
 [[repo]]
 url = "https://github.com/MetisProtocol/zkp_L3_prover_L1_verifier"
+

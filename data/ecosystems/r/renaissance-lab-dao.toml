@@ -3,7 +3,9 @@ title = "Renaissance Lab DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Renaissance-DAO"]
+github_organizations = [
+  "https://github.com/Renaissance-DAO",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Renaissance-DAO/renaissance-subgraph-v1"
 
 [[repo]]
 url = "https://github.com/Renaissance-DAO/renaissance-token"
+

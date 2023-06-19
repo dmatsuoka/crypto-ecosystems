@@ -3,7 +3,9 @@ title = "Bodhi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bodhiproject"]
+github_organizations = [
+  "https://github.com/bodhiproject",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/bodhiproject/white-papers"
 
 [[repo]]
 url = "https://github.com/bodhiproject/wiki"
+

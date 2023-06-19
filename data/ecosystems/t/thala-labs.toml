@@ -3,7 +3,9 @@ title = "Thala Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ThalaLabs"]
+github_organizations = [
+  "https://github.com/ThalaLabs",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/ThalaLabs/surf"
 
 [[repo]]
 url = "https://github.com/ThalaLabs/thala-common"
+missing = true
 
 [[repo]]
 url = "https://github.com/ThalaLabs/thala-dev"
@@ -50,3 +53,4 @@ url = "https://github.com/ThalaLabs/thala-run"
 
 [[repo]]
 url = "https://github.com/ThalaLabs/wormhole"
+

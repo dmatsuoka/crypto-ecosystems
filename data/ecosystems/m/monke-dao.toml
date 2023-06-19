@@ -3,7 +3,9 @@ title = "Monke DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MonkeDAO"]
+github_organizations = [
+  "https://github.com/MonkeDAO",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/MonkeDAO/solana-dao-vote"
 
 [[repo]]
 url = "https://github.com/MonkeDAO/utilities"
+

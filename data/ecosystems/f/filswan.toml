@@ -3,7 +3,9 @@ title = "FilSwan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/filswan"]
+github_organizations = [
+  "https://github.com/filswan",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/filswan/wnfs-go"
 
 [[repo]]
 url = "https://github.com/filswan/zabbix-docker"
+

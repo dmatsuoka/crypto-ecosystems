@@ -3,7 +3,9 @@ title = "Zigbee"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zigbee-alliance"]
+github_organizations = [
+  "https://github.com/zigbee-alliance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/zigbee-alliance/distributed-compliance-ledger"
 
 [[repo]]
 url = "https://github.com/zigbee-alliance/tendermint"
+

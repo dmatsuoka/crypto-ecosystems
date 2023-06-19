@@ -3,7 +3,9 @@ title = "Bhavish finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bhavish-finance"]
+github_organizations = [
+  "https://github.com/Bhavish-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Bhavish-finance/brand-assets"
 
 [[repo]]
 url = "https://github.com/Bhavish-finance/DefiLlama-Adapters"
+

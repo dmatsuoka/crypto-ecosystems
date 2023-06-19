@@ -3,7 +3,9 @@ title = "Chaotic Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chaotic-finance"]
+github_organizations = [
+  "https://github.com/chaotic-finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/chaotic-finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/chaotic-finance/solarbeam-tokenlist"
+

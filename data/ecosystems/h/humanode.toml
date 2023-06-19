@@ -3,7 +3,9 @@ title = "Humanode"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/humanode-network"]
+github_organizations = [
+  "https://github.com/humanode-network",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/humanode-network/twilight"
 
 [[repo]]
 url = "https://github.com/humanode-network/wasmtime"
+

@@ -3,7 +3,9 @@ title = "AnimeSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AnimeSwap"]
+github_organizations = [
+  "https://github.com/AnimeSwap",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/AnimeSwap/v1-sdk"
 
 [[repo]]
 url = "https://github.com/AnimeSwap/yield-server"
+

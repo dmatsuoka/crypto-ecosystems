@@ -3,7 +3,9 @@ title = "Cypher"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chugach-foundation"]
+github_organizations = [
+  "https://github.com/chugach-foundation",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/chugach-foundation/serum-dex"
 
 [[repo]]
 url = "https://github.com/neworldorder/braveneworld"
+

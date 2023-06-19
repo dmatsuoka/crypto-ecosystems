@@ -3,7 +3,9 @@ title = "Primitive Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/primitivefinance"]
+github_organizations = [
+  "https://github.com/primitivefinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/primitivefinance/arbiter"
 
 [[repo]]
 url = "https://github.com/primitivefinance/arbiter-copy"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/Arbitrum-Transaction-Data-Analysis"
@@ -59,12 +62,15 @@ url = "https://github.com/primitivefinance/hardhat-marmite"
 
 [[repo]]
 url = "https://github.com/primitivefinance/metadata-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/open-research-questions"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/PIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/pool-analytics"
@@ -80,21 +86,26 @@ url = "https://github.com/primitivefinance/primitive-dodoc"
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-frontend-depreciated"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-frontend-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-token-lists"
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/primitivefinance/pso-sol"
@@ -182,3 +193,4 @@ url = "https://github.com/primitivefinance/v1-subgraph"
 
 [[repo]]
 url = "https://github.com/primitivefinance/visualization-rs"
+

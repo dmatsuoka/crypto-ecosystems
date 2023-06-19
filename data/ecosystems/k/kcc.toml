@@ -3,7 +3,9 @@ title = "KCC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kcc-community"]
+github_organizations = [
+  "https://github.com/kcc-community",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/kcc-community/trust-web3-provider"
 
 [[repo]]
 url = "https://github.com/kcc-community/wallet-core"
+

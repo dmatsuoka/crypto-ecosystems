@@ -3,7 +3,9 @@ title = "Beanstalk"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BeanstalkFarms"]
+github_organizations = [
+  "https://github.com/BeanstalkFarms",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/BeanstalkFarms/Verify-Snapshots"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Wells"
+

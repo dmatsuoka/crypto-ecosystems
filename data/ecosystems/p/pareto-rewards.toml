@@ -3,7 +3,9 @@ title = "PARETO Rewards"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ParetoNetwork"]
+github_organizations = [
+  "https://github.com/ParetoNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/ParetoNetwork/ParetoNetworkServer"
 
 [[repo]]
 url = "https://github.com/ParetoNetwork/ParetoRepoRelay"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParetoNetwork/ParetoSentinelAPI"
@@ -47,3 +50,4 @@ url = "https://github.com/ParetoNetwork/website-branded"
 
 [[repo]]
 url = "https://github.com/ParetoNetwork/website-launch"
+

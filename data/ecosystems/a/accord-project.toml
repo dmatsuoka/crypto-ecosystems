@@ -3,7 +3,9 @@ title = "Accord Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/accordproject"]
+github_organizations = [
+  "https://github.com/accordproject",
+]
 
 # Repositories
 [[repo]]
@@ -24,12 +26,14 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/accordproject/cicero-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/accordproject/cicero-docs"
 
 [[repo]]
 url = "https://github.com/accordproject/cicero-editor"
+missing = true
 
 [[repo]]
 url = "https://github.com/accordproject/cicero-perishable-network"
@@ -84,9 +88,11 @@ url = "https://github.com/accordproject/ergo"
 
 [[repo]]
 url = "https://github.com/accordproject/ergo-mode"
+missing = true
 
 [[repo]]
 url = "https://github.com/accordproject/ergo-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/accordproject/ergo-vscode-plugin"
@@ -177,3 +183,4 @@ url = "https://github.com/accordproject/web-components-starter"
 
 [[repo]]
 url = "https://github.com/accordproject/working-groups"
+

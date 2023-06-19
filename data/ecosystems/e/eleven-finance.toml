@@ -3,7 +3,9 @@ title = "Eleven Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Eleven-Finance"]
+github_organizations = [
+  "https://github.com/Eleven-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Eleven-Finance/assets"
 
 [[repo]]
 url = "https://github.com/Eleven-Finance/bigfoot-app"
+

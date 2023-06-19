@@ -3,7 +3,9 @@ title = "White Whale"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/White-Whale-Defi-Platform"]
+github_organizations = [
+  "https://github.com/White-Whale-Defi-Platform",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/White-Whale-Defi-Platform/.github"
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/Analysis-Tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/cosmos-automations"
@@ -77,3 +80,4 @@ url = "https://github.com/White-Whale-Defi-Platform/white-whale-docs"
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/white-whale-frontend"
+

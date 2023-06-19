@@ -3,7 +3,9 @@ title = "BitoPro Exchange Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitoex"]
+github_organizations = [
+  "https://github.com/bitoex",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/bitoex/ccxt"
 
 [[repo]]
 url = "https://github.com/bitoex/cross-exchange-arbitrage"
+

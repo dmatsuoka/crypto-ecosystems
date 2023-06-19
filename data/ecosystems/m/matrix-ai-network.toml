@@ -3,7 +3,9 @@ title = "Matrix AI Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MatrixAINetwork"]
+github_organizations = [
+  "https://github.com/MatrixAINetwork",
+]
 
 # Repositories
 [[repo]]
@@ -119,6 +121,7 @@ url = "https://github.com/MatrixAINetwork/MatrixSmartContractDemo"
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/OFFLINE_WALLET"
+missing = true
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/OSSRH-51158"
@@ -155,3 +158,4 @@ url = "https://github.com/MatrixAINetwork/TxSend-Sign-Demos"
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/WhitePaper"
+

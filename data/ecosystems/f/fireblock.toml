@@ -3,7 +3,9 @@ title = "Fireblock"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fireblock"]
+github_organizations = [
+  "https://github.com/fireblock",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/fireblock/go-fireblock"
 
 [[repo]]
 url = "https://github.com/fireblock/proxy-fireblock"
+

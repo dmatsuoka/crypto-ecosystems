@@ -3,7 +3,9 @@ title = "Nolik"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chainify"]
+github_organizations = [
+  "https://github.com/chainify",
+]
 
 # Repositories
 [[repo]]
@@ -11,9 +13,13 @@ url = "https://github.com/chainify/nolik"
 
 [[repo]]
 url = "https://github.com/chainify/nolik-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainify/pallet-nolik"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainify/substrate-nolik-dev"
+missing = true
+

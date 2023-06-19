@@ -3,7 +3,9 @@ title = "Etherchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gobitfly"]
+github_organizations = [
+  "https://github.com/gobitfly",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/gobitfly/web3.js"
 
 [[repo]]
 url = "https://github.com/gobitfly/zcash"
+

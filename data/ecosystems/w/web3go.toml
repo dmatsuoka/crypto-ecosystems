@@ -3,7 +3,9 @@ title = "Web3Go"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/web3go-xyz"]
+github_organizations = [
+  "https://github.com/web3go-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/web3go-xyz/portal-ui-h5"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/portal-ui-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3go-xyz/RMRK-Indexer"
@@ -98,3 +101,4 @@ url = "https://github.com/web3go-xyz/web3go-xyz-v2-docker-build"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/web3go.xyz"
+

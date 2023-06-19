@@ -3,7 +3,9 @@ title = "DigitalPrice"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DigitalPrice"]
+github_organizations = [
+  "https://github.com/DigitalPrice",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/DigitalPrice/utrum-wallet"
 
 [[repo]]
 url = "https://github.com/DigitalPrice/web-wallet"
+

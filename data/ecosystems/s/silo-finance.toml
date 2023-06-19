@@ -3,7 +3,9 @@ title = "Silo Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/silo-finance"]
+github_organizations = [
+  "https://github.com/silo-finance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/silo-finance/silo-subgraph-hackathon"
 
 [[repo]]
 url = "https://github.com/silo-finance/yield-server"
+

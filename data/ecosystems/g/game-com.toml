@@ -3,7 +3,9 @@ title = "Game.com"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GameLeLe"]
+github_organizations = [
+  "https://github.com/GameLeLe",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/GameLeLe/gwallet-website"
 
 [[repo]]
 url = "https://github.com/GameLeLe/trade-addr-tx-service"
+

@@ -3,7 +3,9 @@ title = "CyberMiles"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CyberMiles"]
+github_organizations = [
+  "https://github.com/CyberMiles",
+]
 
 # Repositories
 [[repo]]
@@ -113,6 +115,7 @@ url = "https://github.com/CyberMiles/solc-js"
 
 [[repo]]
 url = "https://github.com/CyberMiles/solidity"
+missing = true
 
 [[repo]]
 url = "https://github.com/CyberMiles/stakingeconomy"
@@ -176,3 +179,4 @@ url = "https://github.com/second-state/lityvm"
 
 [[repo]]
 url = "https://github.com/second-state/remix"
+

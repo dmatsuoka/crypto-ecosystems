@@ -3,7 +3,9 @@ title = "CryptoAds Marketplace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ixc-software"]
+github_organizations = [
+  "https://github.com/ixc-software",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/ixc-software/coinbase-node"
 
 [[repo]]
 url = "https://github.com/ixc-software/CRAD-DeFi"
+missing = true
 
 [[repo]]
 url = "https://github.com/ixc-software/CryptoAds-Smart-Contract"
@@ -68,3 +71,4 @@ url = "https://github.com/ixc-software/UniversalApplicationsServer"
 
 [[repo]]
 url = "https://github.com/ixc-software/webrtc-browser-client"
+

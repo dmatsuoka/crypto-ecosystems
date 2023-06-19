@@ -3,7 +3,9 @@ title = "Cherry Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CherryNetwork"]
+github_organizations = [
+  "https://github.com/CherryNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,5 @@ url = "https://github.com/CherryNetwork/substrate-ipfs-iris"
 
 [[repo]]
 url = "https://github.com/CherryNetwork/substrate-iris"
+missing = true
+

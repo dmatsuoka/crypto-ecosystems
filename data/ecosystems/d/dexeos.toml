@@ -3,7 +3,9 @@ title = "DEXEOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DEXEOS"]
+github_organizations = [
+  "https://github.com/DEXEOS",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/DEXEOS/dexeos-api-public"
 
 [[repo]]
 url = "https://github.com/DEXEOS/dexeos-embed-trade"
+

@@ -3,7 +3,9 @@ title = "Tidal Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TidalFinance"]
+github_organizations = [
+  "https://github.com/TidalFinance",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/TidalFinance/tidal-retail"
 
 [[repo]]
 url = "https://github.com/TidalFinance/token-canal-project"
+

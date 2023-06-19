@@ -3,7 +3,9 @@ title = "Matrix Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MatrixLabsTech"]
+github_organizations = [
+  "https://github.com/MatrixLabsTech",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/MatrixLabsTech/theirsverse-shuffle"
 
 [[repo]]
 url = "https://github.com/MatrixLabsTech/traceable-dNFT-ledger"
+

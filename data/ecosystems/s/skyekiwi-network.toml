@@ -3,11 +3,14 @@ title = "SkyeKiwi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/skyekiwi"]
+github_organizations = [
+  "https://github.com/skyekiwi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/skyekiwi/apps"
+missing = true
 
 [[repo]]
 url = "https://github.com/skyekiwi/contact-form"
@@ -23,9 +26,11 @@ url = "https://github.com/skyekiwi/documentation"
 
 [[repo]]
 url = "https://github.com/skyekiwi/Grant-Milestone-Delivery"
+missing = true
 
 [[repo]]
 url = "https://github.com/skyekiwi/Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/skyekiwi/kiwi-contract"
@@ -38,6 +43,7 @@ url = "https://github.com/skyekiwi/kiwisign-contract"
 
 [[repo]]
 url = "https://github.com/skyekiwi/kiwisign-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/skyekiwi/kiwisign-thegraph"
@@ -56,6 +62,7 @@ url = "https://github.com/skyekiwi/skyekiwi-protocol"
 
 [[repo]]
 url = "https://github.com/skyekiwi/skyekiwi-protocol-enclave"
+missing = true
 
 [[repo]]
 url = "https://github.com/skyekiwi/skyekiwi-protocol-sandboxes"
@@ -65,3 +72,4 @@ url = "https://github.com/skyekiwi/skyepass-ux"
 
 [[repo]]
 url = "https://github.com/skyekiwi/skyepass-vault"
+

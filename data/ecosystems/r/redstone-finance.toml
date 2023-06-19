@@ -3,11 +3,14 @@ title = "Redstone Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/redstone-finance"]
+github_organizations = [
+  "https://github.com/redstone-finance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/redstone-finance/3em_redstone_benchmarks"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/arlocal"
@@ -53,6 +56,7 @@ url = "https://github.com/redstone-finance/celo-stable-price-marketplace"
 
 [[repo]]
 url = "https://github.com/redstone-finance/coinbase-kyc-showroom"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/coinbase-kyd-showroom"
@@ -125,6 +129,7 @@ url = "https://github.com/redstone-finance/redstone-api-docs"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-api-extended"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-api-extended-examples"
@@ -158,6 +163,7 @@ url = "https://github.com/redstone-finance/redstone-evm-examples"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-fuel-dex"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-fuel-dex-tutorial"
@@ -224,6 +230,7 @@ url = "https://github.com/redstone-finance/redstone-showroom"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-smartcontracts-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-smartcontracts-tsdoc"
@@ -287,6 +294,7 @@ url = "https://github.com/redstone-finance/vartex"
 
 [[repo]]
 url = "https://github.com/redstone-finance/warp-fork"
+missing = true
 
 [[repo]]
 url = "https://github.com/redstone-finance/web-app"
@@ -335,3 +343,4 @@ url = "https://github.com/warp-contracts/warp9-app"
 
 [[repo]]
 url = "https://github.com/warp-contracts/wrc"
+

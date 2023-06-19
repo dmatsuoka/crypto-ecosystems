@@ -3,7 +3,9 @@ title = "Playkey"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Playkey"]
+github_organizations = [
+  "https://github.com/Playkey",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Playkey/pkt_payment"
 
 [[repo]]
 url = "https://github.com/Playkey/playkeyrack"
+

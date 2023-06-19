@@ -3,7 +3,9 @@ title = "S.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/s-finance-org"]
+github_organizations = [
+  "https://github.com/s-finance-org",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/s-finance-org/token-profile"
 
 [[repo]]
 url = "https://github.com/s-finance-org/uu-finance-web"
+

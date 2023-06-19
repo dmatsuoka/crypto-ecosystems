@@ -3,7 +3,9 @@ title = "Polkalokr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Polkalokr"]
+github_organizations = [
+  "https://github.com/Polkalokr",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Polkalokr/assets"
 
 [[repo]]
 url = "https://github.com/Polkalokr/Open-Grants-Program"
+

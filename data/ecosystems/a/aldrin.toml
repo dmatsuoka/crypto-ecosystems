@@ -3,7 +3,9 @@ title = "Aldrin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aldrin-exchange"]
+github_organizations = [
+  "https://github.com/aldrin-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -104,6 +106,7 @@ url = "https://github.com/aldrin-exchange/trading-bot-example"
 
 [[repo]]
 url = "https://github.com/aldrin-exchange/vesting"
+missing = true
 
 [[repo]]
 url = "https://github.com/aldrin-exchange/vesting-ui"
@@ -113,3 +116,4 @@ url = "https://github.com/aldrin-exchange/wallet-chrome-extension"
 
 [[repo]]
 url = "https://github.com/aldrin-exchange/wormhole"
+

@@ -3,7 +3,9 @@ title = "Zeta Markets"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zetamarkets"]
+github_organizations = [
+  "https://github.com/zetamarkets",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/zetamarkets/audits"
 
 [[repo]]
 url = "https://github.com/zetamarkets/DefiLlama-Adapters-Zeta"
+missing = true
 
 [[repo]]
 url = "https://github.com/zetamarkets/dimension-adapters"
+missing = true
 
 [[repo]]
 url = "https://github.com/zetamarkets/ecosystem"
@@ -83,3 +87,4 @@ url = "https://github.com/zetamarkets/zeta-transaction-indexer-v2"
 
 [[repo]]
 url = "https://github.com/zetamarkets/zetamarkets.github.io"
+

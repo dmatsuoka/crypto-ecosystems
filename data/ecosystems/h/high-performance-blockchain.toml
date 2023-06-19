@@ -3,7 +3,9 @@ title = "High Performance Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hpb-project"]
+github_organizations = [
+  "https://github.com/hpb-project",
+]
 
 # Repositories
 [[repo]]
@@ -182,3 +184,4 @@ url = "https://github.com/hpb-project/web3js_for_hpb"
 
 [[repo]]
 url = "https://github.com/hpb-project/wiki"
+

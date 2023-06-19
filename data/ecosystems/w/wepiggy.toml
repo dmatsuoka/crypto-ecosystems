@@ -3,7 +3,9 @@ title = "WePiggy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WePiggy"]
+github_organizations = [
+  "https://github.com/WePiggy",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/WePiggy/wepiggy-contracts-optimism"
 
 [[repo]]
 url = "https://github.com/WePiggy/wepiggy.github.io"
+

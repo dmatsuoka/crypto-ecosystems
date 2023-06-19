@@ -3,8 +3,11 @@ title = "Paycent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PaycentGlobal"]
+github_organizations = [
+  "https://github.com/PaycentGlobal",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/PaycentGlobal/crowdsale"
+

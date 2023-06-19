@@ -3,7 +3,9 @@ title = "Trinity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/trinity-project"]
+github_organizations = [
+  "https://github.com/trinity-project",
+]
 
 # Repositories
 [[repo]]
@@ -74,6 +76,7 @@ url = "https://github.com/trinity-project/trinity-tstore"
 
 [[repo]]
 url = "https://github.com/trinity-project/trinity-walletdemo"
+missing = true
 
 [[repo]]
 url = "https://github.com/trinity-project/trinitywallet-website-eth"
@@ -92,3 +95,4 @@ url = "https://github.com/trinity-project/wallet-website"
 
 [[repo]]
 url = "https://github.com/trinity-project/whitepaper"
+

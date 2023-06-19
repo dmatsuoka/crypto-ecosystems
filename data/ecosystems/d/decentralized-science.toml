@@ -3,7 +3,9 @@ title = "Decentralized Science"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecentralizedScience"]
+github_organizations = [
+  "https://github.com/DecentralizedScience",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/DecentralizedScience/QuartzSimpleLanding"
 
 [[repo]]
 url = "https://github.com/DecentralizedScience/Rewards"
+

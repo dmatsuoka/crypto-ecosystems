@@ -3,7 +3,9 @@ title = "IoT Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IoTChainCode"]
+github_organizations = [
+  "https://github.com/IoTChainCode",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,15 @@ url = "https://github.com/IoTChainCode/hardware_exploration"
 
 [[repo]]
 url = "https://github.com/IoTChainCode/hardware_model"
+missing = true
 
 [[repo]]
 url = "https://github.com/IoTChainCode/hardware_project"
+missing = true
 
 [[repo]]
 url = "https://github.com/IoTChainCode/iotchain_client"
+missing = true
 
 [[repo]]
 url = "https://github.com/IoTChainCode/itc-ts"
@@ -35,3 +40,4 @@ url = "https://github.com/IoTChainCode/jbok"
 
 [[repo]]
 url = "https://github.com/IoTChainCode/tokenAirdrop"
+

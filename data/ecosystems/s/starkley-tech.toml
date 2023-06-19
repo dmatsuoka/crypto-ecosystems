@@ -3,7 +3,9 @@ title = "Starkley Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/starkleytech"]
+github_organizations = [
+  "https://github.com/starkleytech",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/starkleytech/website"
 
 [[repo]]
 url = "https://github.com/starkleytech/xTAL"
+

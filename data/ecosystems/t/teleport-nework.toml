@@ -3,7 +3,9 @@ title = "Teleport Nework"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/teleport-network"]
+github_organizations = [
+  "https://github.com/teleport-network",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/teleport-network/xibc-contracts"
 
 [[repo]]
 url = "https://github.com/teleport-network/xibc-examples"
+

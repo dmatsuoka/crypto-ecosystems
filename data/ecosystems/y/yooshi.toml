@@ -3,7 +3,9 @@ title = "YooShi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Yooshi-io"]
+github_organizations = [
+  "https://github.com/Yooshi-io",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Yooshi-io/nft-docs"
 
 [[repo]]
 url = "https://github.com/Yooshi-io/yooshi-contract"
+

@@ -3,7 +3,9 @@ title = "Proof of Chaos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Proof-Of-Chaos"]
+github_organizations = [
+  "https://github.com/Proof-Of-Chaos",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Proof-Of-Chaos/nft_sendout_script"
 
 [[repo]]
 url = "https://github.com/Proof-Of-Chaos/website"
+

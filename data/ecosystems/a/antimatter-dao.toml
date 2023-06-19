@@ -3,7 +3,9 @@ title = "Antimatter Dao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/antimatter-dao"]
+github_organizations = [
+  "https://github.com/antimatter-dao",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/antimatter-dao/sharkfin"
 
 [[repo]]
 url = "https://github.com/antimatter-dao/v2-subgraph"
+

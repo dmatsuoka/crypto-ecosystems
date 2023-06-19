@@ -3,7 +3,9 @@ title = "Apa NFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/apa-nft"]
+github_organizations = [
+  "https://github.com/apa-nft",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/apa-nft/contracts"
 
 [[repo]]
 url = "https://github.com/apa-nft/subgraphs"
+

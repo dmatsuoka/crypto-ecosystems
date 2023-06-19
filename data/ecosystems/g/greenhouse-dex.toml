@@ -3,7 +3,9 @@ title = "GREENHOUSE DEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/greenhousedex"]
+github_organizations = [
+  "https://github.com/greenhousedex",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/greenhousedex/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/greenhousedex/smart-contracts"
+

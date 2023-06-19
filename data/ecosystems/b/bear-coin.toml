@@ -3,7 +3,9 @@ title = "BEAR Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BEAR-COIN"]
+github_organizations = [
+  "https://github.com/BEAR-COIN",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/BEAR-COIN/branding"
 
 [[repo]]
 url = "https://github.com/BEAR-COIN/masternodes"
+

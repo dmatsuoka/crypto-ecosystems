@@ -3,7 +3,9 @@ title = "CompliFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CompliFi"]
+github_organizations = [
+  "https://github.com/CompliFi",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/CompliFi/vfat-tools"
 
 [[repo]]
 url = "https://github.com/CompliFi/yield-server"
+

@@ -3,7 +3,9 @@ title = "ZeroPool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zeropoolnetwork"]
+github_organizations = [
+  "https://github.com/zeropoolnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -74,6 +76,7 @@ url = "https://github.com/zeropoolnetwork/nep21-playground"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/onepager"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/Open-Grants-Program"
@@ -167,3 +170,4 @@ url = "https://github.com/zeropoolnetwork/zp-pwa"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zp-ui"
+

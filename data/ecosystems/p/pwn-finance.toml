@@ -3,7 +3,9 @@ title = "PWN Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PWNFinance"]
+github_organizations = [
+  "https://github.com/PWNFinance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/PWNFinance/style-config"
 
 [[repo]]
 url = "https://github.com/PWNFinance/TokenBundler"
+

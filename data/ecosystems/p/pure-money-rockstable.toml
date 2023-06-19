@@ -3,7 +3,9 @@ title = "Pure Money (RockStable)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PureMoney"]
+github_organizations = [
+  "https://github.com/PureMoney",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/PureMoney/truffle"
 
 [[repo]]
 url = "https://github.com/PureMoney/ZeroInterestDeFi"
+

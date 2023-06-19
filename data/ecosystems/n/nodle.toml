@@ -26,6 +26,7 @@ url = "https://github.com/NodleCode/nodle-vnv-launch"
 
 [[repo]]
 url = "https://github.com/NodleCode/nodle-vnv-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/NodleCode/pallet-mandate"
@@ -50,3 +51,4 @@ url = "https://github.com/NodleCode/subquery"
 
 [[repo]]
 url = "https://github.com/NodleCode/substrate-client-kotlin"
+

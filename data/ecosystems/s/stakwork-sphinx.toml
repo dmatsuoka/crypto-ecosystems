@@ -3,7 +3,9 @@ title = "Stakwork & Sphinx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakwork"]
+github_organizations = [
+  "https://github.com/stakwork",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/stakwork/sphinx-win-linux-desktop"
 
 [[repo]]
 url = "https://github.com/stakwork/umbrel"
+

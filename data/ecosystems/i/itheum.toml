@@ -3,7 +3,9 @@ title = "Itheum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Itheum"]
+github_organizations = [
+  "https://github.com/Itheum",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/Itheum/identity-subsystem-sdk"
 
 [[repo]]
 url = "https://github.com/Itheum/itheumcore-elrond-data-nft-minter"
+missing = true
 
 [[repo]]
 url = "https://github.com/Itheum/itheumcore-elrond-sc-claims"
@@ -77,6 +80,7 @@ url = "https://github.com/Itheum/itheumcore-elrond-sc-faucet"
 
 [[repo]]
 url = "https://github.com/Itheum/itheumcore-elrond-sft-collection-sale"
+missing = true
 
 [[repo]]
 url = "https://github.com/Itheum/itheumcore-evm"
@@ -116,3 +120,4 @@ url = "https://github.com/Itheum/trustwallet-assets"
 
 [[repo]]
 url = "https://github.com/Itheum/upload-s3-action"
+

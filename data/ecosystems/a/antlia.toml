@@ -3,7 +3,9 @@ title = "Antlia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/antlia-io"]
+github_organizations = [
+  "https://github.com/antlia-io",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/antlia-io/Wallet-IIUI"
 
 [[repo]]
 url = "https://github.com/antlia-io/website"
+missing = true
 
 [[repo]]
 url = "https://github.com/antlia-io/whitepaper"
@@ -104,3 +107,4 @@ url = "https://github.com/antlia-io/zkevm-node"
 
 [[repo]]
 url = "https://github.com/antlia-io/zksync"
+

@@ -3,7 +3,9 @@ title = "Cocos-BCX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cocos-BCX"]
+github_organizations = [
+  "https://github.com/Cocos-BCX",
+]
 
 # Repositories
 [[repo]]
@@ -119,6 +121,7 @@ url = "https://github.com/Cocos-BCX/iOSSDK"
 
 [[repo]]
 url = "https://github.com/Cocos-BCX/iOSWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cocos-BCX/JSSDK"
@@ -170,3 +173,4 @@ url = "https://github.com/Cocos-BCX/web3service-Example"
 
 [[repo]]
 url = "https://github.com/Cocos-BCX/wetank"
+

@@ -3,7 +3,9 @@ title = "Chocolate Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chocolatenetwork"]
+github_organizations = [
+  "https://github.com/chocolatenetwork",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/chocolatenetwork/docs"
 
 [[repo]]
 url = "https://github.com/chocolatenetwork/Grants-Program"
+

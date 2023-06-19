@@ -3,7 +3,9 @@ title = "Safex Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/safex"]
+github_organizations = [
+  "https://github.com/safex",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/safex/miner"
 
 [[repo]]
 url = "https://github.com/safex/node-xmrig"
+missing = true
 
 [[repo]]
 url = "https://github.com/safex/nodejs-wrapper-xmrig"
@@ -113,3 +116,4 @@ url = "https://github.com/safex/wiki"
 
 [[repo]]
 url = "https://github.com/safex/wsfx"
+

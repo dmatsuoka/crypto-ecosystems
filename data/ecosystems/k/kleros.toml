@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Kleros"
 
-sub_ecosystems = ["Yubiai"]
+sub_ecosystems = [
+  "Yubiai",
+]
 
-github_organizations = ["https://github.com/kleros"]
+github_organizations = [
+  "https://github.com/kleros",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +66,7 @@ url = "https://github.com/kleros/claim-manager-injected-ui"
 
 [[repo]]
 url = "https://github.com/kleros/continuous-sale-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/continuous-sale-ui"
@@ -194,6 +199,7 @@ url = "https://github.com/kleros/frontend-experimental"
 
 [[repo]]
 url = "https://github.com/kleros/gitcoin-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/governance-documents"
@@ -392,12 +398,15 @@ url = "https://github.com/kleros/openiico-contract"
 
 [[repo]]
 url = "https://github.com/kleros/platform-experimental"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/pmw-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/pmw-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/pnk-merkle-drop"
@@ -530,3 +539,4 @@ url = "https://github.com/kleros/xdai-kleros-liquid"
 
 [[repo]]
 url = "https://github.com/kleros/xystra"
+

@@ -3,7 +3,9 @@ title = "Hades Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HadesFinance"]
+github_organizations = [
+  "https://github.com/HadesFinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,8 @@ url = "https://github.com/HadesFinance/hades-frontend"
 
 [[repo]]
 url = "https://github.com/HadesFinance/hades-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/HadesFinance/token-profile"
+

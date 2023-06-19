@@ -3,7 +3,9 @@ title = "Cometh"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cometh-game"]
+github_organizations = [
+  "https://github.com/cometh-game",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/cometh-game/devcon-raffle"
 
 [[repo]]
 url = "https://github.com/cometh-game/dind-drone-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/cometh-game/lacoste-reveal"
@@ -50,3 +53,4 @@ url = "https://github.com/cometh-game/uniswap-v2-sdk"
 
 [[repo]]
 url = "https://github.com/cometh-game/weabove"
+

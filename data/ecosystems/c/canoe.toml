@@ -3,7 +3,9 @@ title = "Canoe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Canoe-Finance"]
+github_organizations = [
+  "https://github.com/Canoe-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/Canoe-Finance/Aggregator-Contract"
 
 [[repo]]
 url = "https://github.com/Canoe-Finance/Canoe-Dating"
+missing = true
 
 [[repo]]
 url = "https://github.com/Canoe-Finance/Canoe-SDK"
@@ -35,6 +38,7 @@ url = "https://github.com/Canoe-Finance/MetaDex-Contract"
 
 [[repo]]
 url = "https://github.com/Canoe-Finance/Near-SocialFi"
+missing = true
 
 [[repo]]
 url = "https://github.com/Canoe-Finance/Rangers-DeFi-Plugin-SDK"
@@ -62,3 +66,4 @@ url = "https://github.com/Canoe-Finance/SUI-DEFI-SDK"
 
 [[repo]]
 url = "https://github.com/Canoe-Finance/Wormhole-Node-Service"
+

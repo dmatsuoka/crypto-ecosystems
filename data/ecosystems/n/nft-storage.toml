@@ -3,7 +3,9 @@ title = "NFT Storage"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nftstorage"]
+github_organizations = [
+  "https://github.com/nftstorage",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/nftstorage/warm-cache-lambda"
 
 [[repo]]
 url = "https://github.com/web3-storage/goodbits"
+

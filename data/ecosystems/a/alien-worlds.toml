@@ -3,7 +3,9 @@ title = "Alien Worlds"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Alien-Worlds"]
+github_organizations = [
+  "https://github.com/Alien-Worlds",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/Alien-Worlds/docker-cli-js"
 
 [[repo]]
 url = "https://github.com/Alien-Worlds/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Alien-Worlds/eosdac-api"
@@ -74,3 +77,4 @@ url = "https://github.com/Alien-Worlds/wax-delphi"
 
 [[repo]]
 url = "https://github.com/Alien-Worlds/wiki"
+

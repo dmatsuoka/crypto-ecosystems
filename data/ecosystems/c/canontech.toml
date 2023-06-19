@@ -3,7 +3,9 @@ title = "canontech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/canontech"]
+github_organizations = [
+  "https://github.com/canontech",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/canontech/staking-payouts"
 
 [[repo]]
 url = "https://github.com/canontech/txintegration"
+

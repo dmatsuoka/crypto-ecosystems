@@ -3,7 +3,9 @@ title = "Cowswap Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cowswap"]
+github_organizations = [
+  "https://github.com/cowswap",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/cowswap/cow-dex"
 
 [[repo]]
 url = "https://github.com/cowswap/subgraph"
+

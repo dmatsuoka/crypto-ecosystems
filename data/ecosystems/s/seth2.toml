@@ -3,11 +3,14 @@ title = "sETH2"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakewise"]
+github_organizations = [
+  "https://github.com/stakewise",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/stakewise/bls-eth-wasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/stakewise/bls-horcrux"
@@ -65,3 +68,4 @@ url = "https://github.com/stakewise/vesting-escrow"
 
 [[repo]]
 url = "https://github.com/stakewise/whitelist"
+

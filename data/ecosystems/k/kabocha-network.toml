@@ -3,7 +3,9 @@ title = "Kabocha Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kabocha-Network"]
+github_organizations = [
+  "https://github.com/Kabocha-Network",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/Kabocha-Network/frontier"
 
 [[repo]]
 url = "https://github.com/kabocha-network/kab-distribution"
+missing = true
 
 [[repo]]
 url = "https://github.com/kabocha-network/kab-gifts"
@@ -47,6 +50,7 @@ url = "https://github.com/Kabocha-Network/kabocha-node-old"
 
 [[repo]]
 url = "https://github.com/kabocha-network/pallet-relay-schedule"
+missing = true
 
 [[repo]]
 url = "https://github.com/kabocha-network/pallet-relay-scheduler"
@@ -77,3 +81,4 @@ url = "https://github.com/Kabocha-Network/subsocial-node"
 
 [[repo]]
 url = "https://github.com/Kabocha-Network/substrate"
+

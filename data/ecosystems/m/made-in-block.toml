@@ -3,7 +3,9 @@ title = "Made in Block"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/made-in-block"]
+github_organizations = [
+  "https://github.com/made-in-block",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/made-in-block/testnet_tools"
 
 [[repo]]
 url = "https://github.com/made-in-block/what-if"
+

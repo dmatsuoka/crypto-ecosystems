@@ -3,7 +3,9 @@ title = "Plutonomicon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Plutonomicon"]
+github_organizations = [
+  "https://github.com/Plutonomicon",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Plutonomicon/plutonomicon"
 
 [[repo]]
 url = "https://github.com/Plutonomicon/Shrinker"
+

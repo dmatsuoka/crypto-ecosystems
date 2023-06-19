@@ -3,7 +3,9 @@ title = "ATLANT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AtlantPlatform"]
+github_organizations = [
+  "https://github.com/AtlantPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -14,12 +16,15 @@ url = "https://github.com/AtlantPlatform/atlant-android-rent"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/atlant-dao-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/atlant-dex"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/atlant-dex-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/atlant-go"
@@ -38,6 +43,7 @@ url = "https://github.com/AtlantPlatform/BaseSecurityToken"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/btc-redot-com"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/CalendarView"
@@ -56,6 +62,7 @@ url = "https://github.com/AtlantPlatform/ERC23-tokens"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/eth2-redot-com"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/etherdelta.github.io"
@@ -68,6 +75,7 @@ url = "https://github.com/AtlantPlatform/ethfw"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/front-check-browser-version"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/go-ethereum"
@@ -83,6 +91,7 @@ url = "https://github.com/AtlantPlatform/homebrew-Apps"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/ico-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/KeybaseRegistry"
@@ -92,9 +101,11 @@ url = "https://github.com/AtlantPlatform/Leaflet"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/pre-sale-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/rbt-solidity"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/security-token"
@@ -104,6 +115,7 @@ url = "https://github.com/AtlantPlatform/solidity-bytes-utils"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/terraform-provider-cicd"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/Tokens"
@@ -116,6 +128,7 @@ url = "https://github.com/AtlantPlatform/vue-virtual-scroll-list"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/vuejs-datepicker"
+missing = true
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/vuex-router-sync"
@@ -125,3 +138,4 @@ url = "https://github.com/AtlantPlatform/web3.js"
 
 [[repo]]
 url = "https://github.com/AtlantPlatform/zeppelin-solidity"
+

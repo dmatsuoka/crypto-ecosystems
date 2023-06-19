@@ -3,7 +3,9 @@ title = "Plant vs Undead Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plantvsundead"]
+github_organizations = [
+  "https://github.com/plantvsundead",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/plantvsundead/PVU-SEED-NFT"
 
 [[repo]]
 url = "https://github.com/plantvsundead/PVU-token-smartcontract"
+

@@ -3,7 +3,9 @@ title = "PotCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/potcoin"]
+github_organizations = [
+  "https://github.com/potcoin",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/potcoin/potsight"
 
 [[repo]]
 url = "https://github.com/potcoin/potsight-api"
+

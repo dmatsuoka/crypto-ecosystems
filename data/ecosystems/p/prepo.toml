@@ -3,7 +3,9 @@ title = "prePO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/prepo-io"]
+github_organizations = [
+  "https://github.com/prepo-io",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/prepo-io/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/prepo-io/uniswap-v3-subgraph-goerli"
+

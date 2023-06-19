@@ -3,7 +3,9 @@ title = "1Ramp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hapramp"]
+github_organizations = [
+  "https://github.com/hapramp",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/hapramp/steemconnect4j"
 
 [[repo]]
 url = "https://github.com/hapramp/SteemConnectSampleApp"
+

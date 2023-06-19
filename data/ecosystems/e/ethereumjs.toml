@@ -3,7 +3,9 @@ title = "EthereumJS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethereumjs"]
+github_organizations = [
+  "https://github.com/ethereumjs",
+]
 
 # Repositories
 [[repo]]
@@ -149,3 +151,4 @@ url = "https://github.com/ethereumjs/sharding"
 
 [[repo]]
 url = "https://github.com/ethereumjs/ultralight"
+

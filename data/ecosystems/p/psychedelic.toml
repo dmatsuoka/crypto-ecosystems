@@ -3,7 +3,9 @@ title = "Psychedelic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Psychedelic"]
+github_organizations = [
+  "https://github.com/Psychedelic",
+]
 
 # Repositories
 [[repo]]
@@ -200,3 +202,4 @@ url = "https://github.com/Psychedelic/testground"
 
 [[repo]]
 url = "https://github.com/Psychedelic/wicp"
+

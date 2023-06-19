@@ -3,7 +3,9 @@ title = "Metagame"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metagame-xyz"]
+github_organizations = [
+  "https://github.com/metagame-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/metagame-xyz/token-garden-nft"
 
 [[repo]]
 url = "https://github.com/metagame-xyz/token-garden-service"
+

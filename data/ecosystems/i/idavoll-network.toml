@@ -3,7 +3,9 @@ title = "Idavoll Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/idavollnetwork"]
+github_organizations = [
+  "https://github.com/idavollnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/idavollnetwork/alpen"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/Alpen-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/idavollnetwork/contracts"
@@ -44,3 +47,4 @@ url = "https://github.com/idavollnetwork/wasmi"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/whitepaper"
+

@@ -3,7 +3,9 @@ title = "Diora Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Diora-Network"]
+github_organizations = [
+  "https://github.com/Diora-Network",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/Diora-Network/Web-Wallet"
 
 [[repo]]
 url = "https://github.com/Diora-Network/xcm-simulator"
+

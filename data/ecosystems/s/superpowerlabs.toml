@@ -3,7 +3,9 @@ title = "superpowerlabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/superpowerlabs"]
+github_organizations = [
+  "https://github.com/superpowerlabs",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/superpowerlabs/bc-genesis"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bc-genesis-raffle-reveal"
+missing = true
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bcsample"
@@ -77,3 +80,4 @@ url = "https://github.com/superpowerlabs/wormhole-tunnel"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/zetachain"
+

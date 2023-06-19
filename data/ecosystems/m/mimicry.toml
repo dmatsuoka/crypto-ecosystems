@@ -3,7 +3,9 @@ title = "Mimicry "
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mimicry-Protocol"]
+github_organizations = [
+  "https://github.com/Mimicry-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Mimicry-Protocol/Tellor-dataSpecs"
 
 [[repo]]
 url = "https://github.com/Mimicry-Protocol/whitepaper"
+

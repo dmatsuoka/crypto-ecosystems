@@ -3,7 +3,9 @@ title = "Arch Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arch-protocol"]
+github_organizations = [
+  "https://github.com/arch-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/arch-protocol/chambers"
 
 [[repo]]
 url = "https://github.com/arch-protocol/chambers-peripherals"
+

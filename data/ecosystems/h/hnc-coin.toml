@@ -3,8 +3,11 @@ title = "HNC Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hnc-coin"]
+github_organizations = [
+  "https://github.com/hnc-coin",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/hnc-coin/hnc-coin"
+

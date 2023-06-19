@@ -3,7 +3,9 @@ title = "Equalizer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Equalizer-Finance"]
+github_organizations = [
+  "https://github.com/Equalizer-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/Equalizer-Finance/equalizer-smart-contracts-v1"
 
 [[repo]]
 url = "https://github.com/Equalizer-Finance/equalizer-vaults"
+

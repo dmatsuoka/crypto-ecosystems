@@ -3,11 +3,14 @@ title = "Plenty Defi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Plenty-DeFi"]
+github_organizations = [
+  "https://github.com/Plenty-DeFi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Plenty-DeFi/ethereum-signer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Plenty-DeFi/plenty-analytics-indexer"
@@ -50,3 +53,4 @@ url = "https://github.com/Plenty-network/plenty-interface"
 
 [[repo]]
 url = "https://github.com/Plenty-network/plenty-smart-contracts"
+

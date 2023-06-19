@@ -3,7 +3,9 @@ title = "Datawallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DataWallet"]
+github_organizations = [
+  "https://github.com/DataWallet",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/DataWallet/token-vesting-ui"
 
 [[repo]]
 url = "https://github.com/DataWallet/wasm-flate"
+

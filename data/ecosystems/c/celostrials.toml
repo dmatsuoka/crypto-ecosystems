@@ -3,7 +3,9 @@ title = "Celostrials"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Celostrials"]
+github_organizations = [
+  "https://github.com/Celostrials",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Celostrials/celostrials-dapp"
 
 [[repo]]
 url = "https://github.com/Celostrials/nft-list"
+

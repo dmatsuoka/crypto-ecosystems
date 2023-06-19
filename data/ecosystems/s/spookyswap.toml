@@ -3,7 +3,9 @@ title = "Spookyswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpookySwap"]
+github_organizations = [
+  "https://github.com/SpookySwap",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/SpookySwap/spooky-nft-contracts"
 
 [[repo]]
 url = "https://github.com/SpookySwap/spooky-nft-royalties"
+missing = true
 
 [[repo]]
 url = "https://github.com/SpookySwap/spooky-subgraph"
@@ -53,3 +56,4 @@ url = "https://github.com/SpookySwap/spookyswap-sdk"
 
 [[repo]]
 url = "https://github.com/SpookySwap/spookyswap-xboo"
+

@@ -1,9 +1,16 @@
 # Ecosystem Level Information
 title = "Lens Protocol"
 
-sub_ecosystems = ["Lenster", "Lenstube", "Newt (WeAreNewt)", "Phi"]
+sub_ecosystems = [
+  "Lenster",
+  "Lenstube",
+  "Newt (WeAreNewt)",
+  "Phi",
+]
 
-github_organizations = ["https://github.com/lens-protocol"]
+github_organizations = [
+  "https://github.com/lens-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +27,7 @@ url = "https://github.com/Giftea/metaPixel"
 
 [[repo]]
 url = "https://github.com/Im-Kunal-13/lenster_clone"
+missing = true
 
 [[repo]]
 url = "https://github.com/InfluLenser/dapp"
@@ -110,6 +118,7 @@ url = "https://github.com/Talent-DAO/JoDW-Demo"
 
 [[repo]]
 url = "https://github.com/wired-xyz/dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-lens-bridge"
@@ -119,3 +128,4 @@ url = "https://github.com/worldcoin/world-id-lens-dapp"
 
 [[repo]]
 url = "https://github.com/zkpay-team/dapp"
+

@@ -3,7 +3,9 @@ title = "Sorare"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sorare"]
+github_organizations = [
+  "https://github.com/sorare",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/sorare/graphql-anycable"
 
 [[repo]]
 url = "https://github.com/sorare/graphql-code-generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/sorare/graphql-tools"
@@ -107,3 +110,4 @@ url = "https://github.com/sorare/vonage-ruby-sdk"
 
 [[repo]]
 url = "https://github.com/sorare/xml-sitemap"
+

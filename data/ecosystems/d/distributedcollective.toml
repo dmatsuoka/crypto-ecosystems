@@ -3,7 +3,9 @@ title = "DistributedCollective"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DistributedCollective"]
+github_organizations = [
+  "https://github.com/DistributedCollective",
+]
 
 # Repositories
 [[repo]]
@@ -242,3 +244,4 @@ url = "https://github.com/DistributedCollective/Zero-subgraph"
 
 [[repo]]
 url = "https://github.com/DistributedCollective/Zero_liquidator"
+

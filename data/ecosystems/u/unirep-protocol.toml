@@ -3,7 +3,9 @@ title = "UniRep Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Unirep"]
+github_organizations = [
+  "https://github.com/Unirep",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/Unirep/window"
 
 [[repo]]
 url = "https://github.com/Unirep/zketh"
+

@@ -3,7 +3,9 @@ title = "PowerPool"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/powerpool-finance"]
+github_organizations = [
+  "https://github.com/powerpool-finance",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/powerpool-finance/token-profile"
 
 [[repo]]
 url = "https://github.com/powerpool-finance/xcvp-subgraph"
+

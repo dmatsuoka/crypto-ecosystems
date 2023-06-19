@@ -3,7 +3,9 @@ title = "WOWswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/wowswap-io"]
+github_organizations = [
+  "https://github.com/wowswap-io",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/wowswap-io/wormhole-token-list"
 
 [[repo]]
 url = "https://github.com/wowswap-io/wowmax-public-contracts"
+

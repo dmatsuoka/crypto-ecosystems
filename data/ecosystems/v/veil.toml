@@ -3,7 +3,9 @@ title = "Veil"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/veilco"]
+github_organizations = [
+  "https://github.com/veilco",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/veilco/veil-market-creation"
 
 [[repo]]
 url = "https://github.com/veilco/veil-sample-tradebot"
+

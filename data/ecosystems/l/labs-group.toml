@@ -3,7 +3,9 @@ title = "LABS Group"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LABSGroupIO"]
+github_organizations = [
+  "https://github.com/LABSGroupIO",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/LABSGroupIO/uiux_st_platform"
 
 [[repo]]
 url = "https://github.com/LABSGroupIO/Whitepaper"
+

@@ -3,11 +3,14 @@ title = "Basis Cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Basis-Cash"]
+github_organizations = [
+  "https://github.com/Basis-Cash",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Basis-Cash/basis-vault-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Basis-Cash/basiscash-frontend"
@@ -17,3 +20,4 @@ url = "https://github.com/Basis-Cash/basiscash-protocol"
 
 [[repo]]
 url = "https://github.com/Basis-Cash/DeFi-Pulse-Adapters"
+

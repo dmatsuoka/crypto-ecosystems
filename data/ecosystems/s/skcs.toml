@@ -3,7 +3,9 @@ title = "sKCS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakingkcs"]
+github_organizations = [
+  "https://github.com/stakingkcs",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/stakingkcs/skcs-frontend-interface"
 
 [[repo]]
 url = "https://github.com/stakingkcs/sKCSVote"
+

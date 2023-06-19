@@ -3,7 +3,9 @@ title = "Linkdrop"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LinkdropHQ"]
+github_organizations = [
+  "https://github.com/LinkdropHQ",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/LinkdropHQ/linkdrop-unlock"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/linkdrop-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/Linkdrop-Webapp"
@@ -83,3 +86,4 @@ url = "https://github.com/LinkdropHQ/volca-linkdrop-core"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/volca-monorepo"
+

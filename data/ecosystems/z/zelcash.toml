@@ -3,7 +3,9 @@ title = "ZelCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zelcash"]
+github_organizations = [
+  "https://github.com/zelcash",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/zelcash/zeltrezjs"
 
 [[repo]]
 url = "https://github.com/zelcash/zelwiki"
+

@@ -3,7 +3,9 @@ title = "ULCDocuments"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchain-elite"]
+github_organizations = [
+  "https://github.com/blockchain-elite",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/blockchain-elite/ULCDocumentsCore"
 
 [[repo]]
 url = "https://github.com/blockchain-elite/ULCDocumentsWebApp"
+

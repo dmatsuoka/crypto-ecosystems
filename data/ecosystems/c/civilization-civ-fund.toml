@@ -3,7 +3,9 @@ title = "Civilization (Civ Fund)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CivilizationCIV"]
+github_organizations = [
+  "https://github.com/CivilizationCIV",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/CivilizationCIV/v3-periphery"
 
 [[repo]]
 url = "https://github.com/CivilizationCIV/v3-sdk"
+

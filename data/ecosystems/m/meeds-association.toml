@@ -3,7 +3,9 @@ title = "Meeds Association"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Meeds-io"]
+github_organizations = [
+  "https://github.com/Meeds-io",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/Meeds-io/ws"
 
 [[repo]]
 url = "https://github.com/Meeds-io/zapier-integration"
+

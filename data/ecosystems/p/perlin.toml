@@ -3,7 +3,9 @@ title = "Perlin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/perlin-network"]
+github_organizations = [
+  "https://github.com/perlin-network",
+]
 
 # Repositories
 [[repo]]
@@ -104,3 +106,4 @@ url = "https://github.com/perlin-network/wavelet-operator"
 
 [[repo]]
 url = "https://github.com/perlin-network/wavelet-stack"
+

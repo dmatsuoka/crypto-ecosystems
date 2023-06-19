@@ -3,7 +3,9 @@ title = "Alchemix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/alchemix-finance"]
+github_organizations = [
+  "https://github.com/alchemix-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/alchemix-finance/deployments"
 
 [[repo]]
 url = "https://github.com/alchemix-finance/jam"
+missing = true
 
 [[repo]]
 url = "https://github.com/alchemix-finance/migrate2balancer"
@@ -41,3 +44,4 @@ url = "https://github.com/alchemix-finance/v2-contracts"
 
 [[repo]]
 url = "https://github.com/alchemix-finance/v2-foundry"
+

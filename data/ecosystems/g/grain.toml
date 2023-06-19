@@ -3,8 +3,11 @@ title = "Grain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/grainio"]
+github_organizations = [
+  "https://github.com/grainio",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/grain-lang/grain"
+

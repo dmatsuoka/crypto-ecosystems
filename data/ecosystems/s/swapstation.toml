@@ -3,7 +3,9 @@ title = "SwapStation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SwapStation"]
+github_organizations = [
+  "https://github.com/SwapStation",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/SwapStation/public"
 
 [[repo]]
 url = "https://github.com/SwapStation/swapstation-contracts"
+

@@ -3,7 +3,9 @@ title = "Novo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/novocurrency"]
+github_organizations = [
+  "https://github.com/novocurrency",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/florinxfl/florin-seeder"
 
 [[repo]]
 url = "https://github.com/florinxfl/slips"
+

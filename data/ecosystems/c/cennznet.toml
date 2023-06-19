@@ -3,7 +3,9 @@ title = "CENNZnet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cennznet"]
+github_organizations = [
+  "https://github.com/cennznet",
+]
 
 # Repositories
 [[repo]]
@@ -164,6 +166,7 @@ url = "https://github.com/cennznet/extension"
 
 [[repo]]
 url = "https://github.com/cennznet/faucet-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/cennznet/frontier"
@@ -269,3 +272,4 @@ url = "https://github.com/cennznet/wiki"
 
 [[repo]]
 url = "https://github.com/cennznet/xpay-runtime-tutorial"
+

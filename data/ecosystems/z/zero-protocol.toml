@@ -3,7 +3,9 @@ title = "Zero Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zerodao-finance"]
+github_organizations = [
+  "https://github.com/zerodao-finance",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/zerodao-finance/bip340-solidity"
 
 [[repo]]
 url = "https://github.com/zerodao-finance/command-center"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/frost-taproot"
@@ -35,15 +38,18 @@ url = "https://github.com/zerodao-finance/zero-bridge"
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-governance"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-keeper"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-landing"
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-matrix-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-protocol"
@@ -53,6 +59,7 @@ url = "https://github.com/zerodao-finance/zero-swap"
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zero-varenx"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zeroBridge"
@@ -62,6 +69,8 @@ url = "https://github.com/zerodao-finance/zerodao"
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zerodao-ledger"
+missing = true
 
 [[repo]]
 url = "https://github.com/zerodao-finance/zeroSWAP"
+

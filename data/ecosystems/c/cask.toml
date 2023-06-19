@@ -3,7 +3,9 @@ title = "Cask"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CaskProtocol"]
+github_organizations = [
+  "https://github.com/CaskProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/CaskProtocol/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/CaskProtocol/token-claim"
+

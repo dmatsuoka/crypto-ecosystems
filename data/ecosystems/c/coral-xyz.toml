@@ -3,7 +3,9 @@ title = "coral xyz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coral-xyz"]
+github_organizations = [
+  "https://github.com/coral-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/coral-xyz/xnft-quickstart"
 
 [[repo]]
 url = "https://github.com/coral-xyz/xnft-wishlist"
+

@@ -3,7 +3,9 @@ title = "CityDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/citydaoproject"]
+github_organizations = [
+  "https://github.com/citydaoproject",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/citydaoproject/transparency-dashboard"
 
 [[repo]]
 url = "https://github.com/citydaoproject/vesting-contract"
+

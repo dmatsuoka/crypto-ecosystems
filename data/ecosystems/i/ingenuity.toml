@@ -3,7 +3,9 @@ title = "Ingenuity"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ingenuity-build"]
+github_organizations = [
+  "https://github.com/ingenuity-build",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/ingenuity-build/audits"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/bdjuno"
+missing = true
 
 [[repo]]
 url = "https://github.com/ingenuity-build/chain-registry"
@@ -32,6 +35,7 @@ url = "https://github.com/ingenuity-build/evince"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/faucet"
+missing = true
 
 [[repo]]
 url = "https://github.com/ingenuity-build/ibc-go"
@@ -98,6 +102,8 @@ url = "https://github.com/ingenuity-build/testnets"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/tm-db"
+missing = true
 
 [[repo]]
 url = "https://github.com/ingenuity-build/web-wallet-ts-react"
+

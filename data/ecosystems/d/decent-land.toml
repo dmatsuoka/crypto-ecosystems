@@ -3,7 +3,9 @@ title = "decent.land"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/decentldotland"]
+github_organizations = [
+  "https://github.com/decentldotland",
+]
 
 # Repositories
 [[repo]]
@@ -155,3 +157,4 @@ url = "https://github.com/decentldotland/weave-agg-cache"
 
 [[repo]]
 url = "https://github.com/decentldotland/weave-aggregator"
+

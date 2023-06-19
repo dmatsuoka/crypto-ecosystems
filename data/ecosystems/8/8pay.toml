@@ -3,7 +3,9 @@ title = "8Pay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/8pay"]
+github_organizations = [
+  "https://github.com/8pay",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/8pay/tokens"
 
 [[repo]]
 url = "https://github.com/8pay/vesting-contracts"
+

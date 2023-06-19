@@ -3,7 +3,9 @@ title = "Abachi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/abachi-io"]
+github_organizations = [
+  "https://github.com/abachi-io",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/abachi-io/publicAssets"
 
 [[repo]]
 url = "https://github.com/abachi-io/Rast-backend-service"
+

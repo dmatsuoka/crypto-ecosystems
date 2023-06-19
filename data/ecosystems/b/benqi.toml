@@ -3,7 +3,9 @@ title = "BENQI"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Benqi-fi"]
+github_organizations = [
+  "https://github.com/Benqi-fi",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Benqi-fi/token-terminal-smart-contract-registry"
 
 [[repo]]
 url = "https://github.com/Benqi-fi/trustwallet-assets"
+

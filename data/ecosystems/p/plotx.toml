@@ -3,7 +3,9 @@ title = "PlotX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plotx"]
+github_organizations = [
+  "https://github.com/plotx",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/plotx/staking-L2"
 
 [[repo]]
 url = "https://github.com/plotx/token-Polygon"
+

@@ -3,7 +3,9 @@ title = "BitClave"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitclave"]
+github_organizations = [
+  "https://github.com/bitclave",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/bitclave/simple-wallet-contract"
 
 [[repo]]
 url = "https://github.com/bitclave/TokenWrapper"
+

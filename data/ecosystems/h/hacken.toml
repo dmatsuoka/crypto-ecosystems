@@ -3,7 +3,9 @@ title = "Hacken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hknio"]
+github_organizations = [
+  "https://github.com/hknio",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/hknio/Awesome-EOS-Security"
 
 [[repo]]
 url = "https://github.com/hknio/beta-por"
+missing = true
 
 [[repo]]
 url = "https://github.com/hknio/blockchain-common-attack-techniques"
@@ -26,6 +29,7 @@ url = "https://github.com/hknio/Chainlink-Oracle"
 
 [[repo]]
 url = "https://github.com/hknio/clusterfuzz"
+missing = true
 
 [[repo]]
 url = "https://github.com/hknio/Compare_Tool"
@@ -53,6 +57,7 @@ url = "https://github.com/hknio/HAI-token"
 
 [[repo]]
 url = "https://github.com/hknio/ico"
+missing = true
 
 [[repo]]
 url = "https://github.com/hknio/Minima-5535be2ae463"
@@ -62,6 +67,7 @@ url = "https://github.com/hknio/near-sample"
 
 [[repo]]
 url = "https://github.com/hknio/plcu"
+missing = true
 
 [[repo]]
 url = "https://github.com/hknio/rca"
@@ -80,6 +86,8 @@ url = "https://github.com/hknio/serializers_fuzz_tests"
 
 [[repo]]
 url = "https://github.com/hknio/token-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/hknio/zkmerkle-proof-of-solvency-debt-bug"
+

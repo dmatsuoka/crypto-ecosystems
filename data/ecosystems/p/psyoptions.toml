@@ -3,7 +3,9 @@ title = "PsyOptions"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mithraiclabs"]
+github_organizations = [
+  "https://github.com/mithraiclabs",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,7 @@ url = "https://github.com/mithraiclabs/openbook-psy"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/options-calculator"
+missing = true
 
 [[repo]]
 url = "https://github.com/mithraiclabs/poseidon"
@@ -50,6 +53,7 @@ url = "https://github.com/mithraiclabs/program_associated_account_poc"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/psy-euros"
+missing = true
 
 [[repo]]
 url = "https://github.com/mithraiclabs/psy-fi"
@@ -116,3 +120,4 @@ url = "https://github.com/mithraiclabs/voter-stake-registry"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/yield-server"
+

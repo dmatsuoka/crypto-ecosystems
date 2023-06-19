@@ -3,7 +3,9 @@ title = "Oxhead Alpha"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oxheadalpha"]
+github_organizations = [
+  "https://github.com/oxheadalpha",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://gitlab.com/tezos-kiln/kiln"
 
 [[repo]]
 url = "https://gitlab.com/tezos-kiln/pyrometer"
+

@@ -3,11 +3,14 @@ title = "StackOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StacksOS"]
+github_organizations = [
+  "https://github.com/StacksOS",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/StacksOS/app"
+missing = true
 
 [[repo]]
 url = "https://github.com/StacksOS/dao"
@@ -32,3 +35,4 @@ url = "https://github.com/StacksOS/templates"
 
 [[repo]]
 url = "https://github.com/StacksOS/utils"
+

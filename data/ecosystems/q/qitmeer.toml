@@ -3,7 +3,9 @@ title = "Qitmeer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Qitmeer"]
+github_organizations = [
+  "https://github.com/Qitmeer",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/Qitmeer/go-opencl"
 
 [[repo]]
 url = "https://github.com/Qitmeer/HLC-Token-Contract-ERC20-"
+missing = true
 
 [[repo]]
 url = "https://github.com/Qitmeer/inclusive-poc"
@@ -119,3 +122,4 @@ url = "https://github.com/Qitmeer/spectre-poc"
 
 [[repo]]
 url = "https://github.com/Qitmeer/whitepaper"
+

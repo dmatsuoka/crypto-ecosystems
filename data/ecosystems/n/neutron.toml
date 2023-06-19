@@ -3,7 +3,9 @@ title = "Neutron"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neutron-org"]
+github_organizations = [
+  "https://github.com/neutron-org",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/neutron-org/cw-plus_balances-snapshots"
 
 [[repo]]
 url = "https://github.com/neutron-org/cw-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/neutron-org/hermes"
@@ -113,3 +116,4 @@ url = "https://github.com/neutron-org/wasmd"
 
 [[repo]]
 url = "https://github.com/neutroncoin/neutron"
+

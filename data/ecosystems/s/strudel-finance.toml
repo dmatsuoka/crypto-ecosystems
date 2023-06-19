@@ -3,7 +3,9 @@ title = "Strudel Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/strudel-finance"]
+github_organizations = [
+  "https://github.com/strudel-finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/strudel-finance/DutchSwap"
 
 [[repo]]
 url = "https://github.com/strudel-finance/landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/strudel-finance/mint"
@@ -41,3 +44,4 @@ url = "https://github.com/strudel-finance/relays"
 
 [[repo]]
 url = "https://github.com/strudel-finance/snapshot-spaces"
+

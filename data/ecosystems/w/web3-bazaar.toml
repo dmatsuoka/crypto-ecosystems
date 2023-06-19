@@ -3,7 +3,9 @@ title = "Web3 Bazaar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Web3bazaar"]
+github_organizations = [
+  "https://github.com/Web3bazaar",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/Web3bazaar/verified-projects-application"
 
 [[repo]]
 url = "https://github.com/Web3bazaar/web3bazaar.github.io"
+

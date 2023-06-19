@@ -3,7 +3,9 @@ title = "RAMP"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RAMP-DEFI"]
+github_organizations = [
+  "https://github.com/RAMP-DEFI",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/RAMP-DEFI/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/RAMP-DEFI/RAMP-Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/RAMP-DEFI/ramp-protocol-docs"
@@ -53,3 +56,4 @@ url = "https://github.com/RAMP-DEFI/Track_Functions"
 
 [[repo]]
 url = "https://github.com/RAMP-DEFI/uniswap-v2-sdk"
+

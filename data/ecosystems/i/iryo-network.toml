@@ -3,7 +3,9 @@ title = "Iryo Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/iryonetwork"]
+github_organizations = [
+  "https://github.com/iryonetwork",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/iryonetwork/wwm"
 
 [[repo]]
 url = "https://github.com/iryonetwork/yup"
+

@@ -3,7 +3,9 @@ title = "Docushield"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Docushield"]
+github_organizations = [
+  "https://github.com/Docushield",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Docushield/pact"
 
 [[repo]]
 url = "https://github.com/Docushield/pact-airdrop-contracts"
+

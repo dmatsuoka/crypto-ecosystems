@@ -3,7 +3,9 @@ title = "Band Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bandprotocol"]
+github_organizations = [
+  "https://github.com/bandprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/bandprotocol/band"
 
 [[repo]]
 url = "https://github.com/bandprotocol/band-consumer"
+missing = true
 
 [[repo]]
 url = "https://github.com/bandprotocol/band-crypto"
@@ -29,6 +32,7 @@ url = "https://github.com/bandprotocol/band-integration-binance-smart-chain"
 
 [[repo]]
 url = "https://github.com/bandprotocol/band-integrations"
+missing = true
 
 [[repo]]
 url = "https://github.com/bandprotocol/band-resources"
@@ -44,6 +48,7 @@ url = "https://github.com/bandprotocol/band-std-reference-contracts-solidity"
 
 [[repo]]
 url = "https://github.com/bandprotocol/band-terra-oracle"
+missing = true
 
 [[repo]]
 url = "https://github.com/bandprotocol/band.js"
@@ -125,6 +130,7 @@ url = "https://github.com/bandprotocol/developer-portal"
 
 [[repo]]
 url = "https://github.com/bandprotocol/devnet-launch"
+missing = true
 
 [[repo]]
 url = "https://github.com/bandprotocol/exported-guanyu-genesis"
@@ -182,6 +188,7 @@ url = "https://github.com/bandprotocol/migration-test"
 
 [[repo]]
 url = "https://github.com/bandprotocol/monitoring-config"
+missing = true
 
 [[repo]]
 url = "https://github.com/bandprotocol/near-poc"
@@ -266,3 +273,4 @@ url = "https://github.com/bandprotocol/whitepaper-legacy"
 
 [[repo]]
 url = "https://github.com/bandprotocol/yfinance"
+

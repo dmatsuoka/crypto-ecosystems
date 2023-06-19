@@ -3,7 +3,9 @@ title = "FENIX Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atomizexyz"]
+github_organizations = [
+  "https://github.com/atomizexyz",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/atomizexyz/og-fenixfyi"
 
 [[repo]]
 url = "https://github.com/atomizexyz/xenfyi"
+

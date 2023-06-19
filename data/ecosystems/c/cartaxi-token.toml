@@ -3,7 +3,9 @@ title = "CarTaxi Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CarTaxiico"]
+github_organizations = [
+  "https://github.com/CarTaxiico",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/CarTaxiico/ico"
 
 [[repo]]
 url = "https://github.com/CarTaxiico/PresaleToken"
+

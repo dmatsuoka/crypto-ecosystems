@@ -3,7 +3,9 @@ title = "DefiDollar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/defidollar"]
+github_organizations = [
+  "https://github.com/defidollar",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/defidollar/onboard-nuxt"
 
 [[repo]]
 url = "https://github.com/defidollar/opeth"
+missing = true
 
 [[repo]]
 url = "https://github.com/defidollar/snapshot-spaces"
@@ -74,3 +77,4 @@ url = "https://github.com/defidollar/vfat-tools"
 
 [[repo]]
 url = "https://github.com/defidollar/zaps"
+

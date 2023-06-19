@@ -3,7 +3,9 @@ title = "Verto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/useverto"]
+github_organizations = [
+  "https://github.com/useverto",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/useverto/js"
 
 [[repo]]
 url = "https://github.com/useverto/kpis"
+missing = true
 
 [[repo]]
 url = "https://github.com/useverto/lib"
@@ -98,3 +101,4 @@ url = "https://github.com/useverto/uwu"
 
 [[repo]]
 url = "https://github.com/useverto/vartex"
+

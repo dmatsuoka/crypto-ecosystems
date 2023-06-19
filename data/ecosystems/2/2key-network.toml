@@ -3,7 +3,9 @@ title = "2key.network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/2key"]
+github_organizations = [
+  "https://github.com/2key",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/2key/solidity-docgen"
 
 [[repo]]
 url = "https://github.com/2key/tokensfarm-subgraphs"
+

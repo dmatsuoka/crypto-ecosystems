@@ -3,7 +3,9 @@ title = "CoolBitX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CoolBitX-Technology"]
+github_organizations = [
+  "https://github.com/CoolBitX-Technology",
+]
 
 # Repositories
 [[repo]]
@@ -62,9 +64,11 @@ url = "https://github.com/CoolBitX-Technology/cp-bitcoind"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-cash-out-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-contract-event-listener"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-tsconfig-test"
@@ -206,3 +210,4 @@ url = "https://github.com/CoolBitX-Technology/web-examples"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/zencashjs"
+

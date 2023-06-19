@@ -3,7 +3,9 @@ title = "Shipchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShipChain"]
+github_organizations = [
+  "https://github.com/ShipChain",
+]
 
 # Repositories
 [[repo]]
@@ -71,6 +73,7 @@ url = "https://github.com/ShipChain/resolve-none"
 
 [[repo]]
 url = "https://github.com/ShipChain/shipchain-html"
+missing = true
 
 [[repo]]
 url = "https://github.com/ShipChain/SHIPToken"
@@ -80,6 +83,7 @@ url = "https://github.com/ShipChain/smart-contracts"
 
 [[repo]]
 url = "https://github.com/ShipChain/ssh2-sftp-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/ShipChain/transmission"
@@ -89,3 +93,4 @@ url = "https://github.com/ShipChain/vue-block-explorer"
 
 [[repo]]
 url = "https://github.com/ShipChain/watchtower"
+

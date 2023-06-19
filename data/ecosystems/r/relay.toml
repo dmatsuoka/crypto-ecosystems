@@ -3,7 +3,9 @@ title = "Relay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/relaycc"]
+github_organizations = [
+  "https://github.com/relaycc",
+]
 
 # Repositories
 [[repo]]
@@ -17,18 +19,22 @@ url = "https://github.com/relaycc/connect"
 
 [[repo]]
 url = "https://github.com/relaycc/ens-support-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/handbook"
 
 [[repo]]
 url = "https://github.com/relaycc/home"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/next-iframe-poc-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/receiver"
@@ -38,6 +44,7 @@ url = "https://github.com/relaycc/receiver-example-cra"
 
 [[repo]]
 url = "https://github.com/relaycc/receiver-example-sybil"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/receiver-example-vite"
@@ -47,9 +54,11 @@ url = "https://github.com/relaycc/relay"
 
 [[repo]]
 url = "https://github.com/relaycc/relay-legacy"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/scaffold-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/relaycc/xmtp"
@@ -65,3 +74,4 @@ url = "https://github.com/relaycc/xmtp-hooks"
 
 [[repo]]
 url = "https://github.com/relaycc/xmtp-js"
+

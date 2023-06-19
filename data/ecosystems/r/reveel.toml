@@ -3,7 +3,9 @@ title = "Reveel"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/r3vl"]
+github_organizations = [
+  "https://github.com/r3vl",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/r3vl/sdk"
 
 [[repo]]
 url = "https://github.com/r3vl/sdk-starter"
+

@@ -3,7 +3,9 @@ title = "Universe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/universe-project"]
+github_organizations = [
+  "https://github.com/universe-project",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/universe-project/universe"
 
 [[repo]]
 url = "https://github.com/universe-project/universe-online-wallet"
+

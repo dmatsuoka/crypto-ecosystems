@@ -3,7 +3,9 @@ title = "Mobius"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mobius-network"]
+github_organizations = [
+  "https://github.com/mobius-network",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/mobius-network/ios_specs"
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-chat-tipbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-client-dotnet"
@@ -77,3 +80,4 @@ url = "https://github.com/mobius-network/slate"
 
 [[repo]]
 url = "https://github.com/mobius-network/wallet"
+

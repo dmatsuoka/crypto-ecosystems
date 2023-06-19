@@ -3,7 +3,9 @@ title = "Revoke.cash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RevokeCash"]
+github_organizations = [
+  "https://github.com/RevokeCash",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/RevokeCash/chains"
 
 [[repo]]
 url = "https://github.com/RevokeCash/revoke.cash"
+

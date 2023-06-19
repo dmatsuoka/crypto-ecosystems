@@ -3,7 +3,9 @@ title = "PolkaEx"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PolkaEX"]
+github_organizations = [
+  "https://github.com/PolkaEX",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/PolkaEX/polkaex-sdk"
 
 [[repo]]
 url = "https://github.com/PolkaEX/token-lists"
+

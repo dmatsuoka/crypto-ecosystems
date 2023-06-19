@@ -8,9 +8,11 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/FLATLAY/droplinked-events-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/FLATLAY/droplinked_casper"
 
 [[repo]]
 url = "https://github.com/FLATLAY/nft-fractionalizer"
+

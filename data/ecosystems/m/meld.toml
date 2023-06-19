@@ -3,7 +3,9 @@ title = "Meld"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MELD-labs"]
+github_organizations = [
+  "https://github.com/MELD-labs",
+]
 
 # Repositories
 [[repo]]
@@ -107,6 +109,8 @@ url = "https://github.com/MELD-labs/stack"
 
 [[repo]]
 url = "https://github.com/MELD-labs/tribute-dao-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/MELD-labs/truffle.nix"
+

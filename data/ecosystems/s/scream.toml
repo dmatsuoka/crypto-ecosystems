@@ -3,7 +3,9 @@ title = "Scream"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Scream-Finance"]
+github_organizations = [
+  "https://github.com/Scream-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Scream-Finance/scream-subgraph"
 
 [[repo]]
 url = "https://github.com/Scream-Finance/veSCREAM-Rewards-Manager"
+

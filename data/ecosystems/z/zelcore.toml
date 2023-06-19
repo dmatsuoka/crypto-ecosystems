@@ -3,7 +3,9 @@ title = "Zelcore"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ZelCore-io"]
+github_organizations = [
+  "https://github.com/ZelCore-io",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/ZelCore-io/zeltrez.io"
 
 [[repo]]
 url = "https://github.com/ZelCore-io/znodeapi"
+

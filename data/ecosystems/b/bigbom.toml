@@ -3,7 +3,9 @@ title = "Bigbom"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bigbomio"]
+github_organizations = [
+  "https://github.com/bigbomio",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/bigbomio/tcr-demo"
 
 [[repo]]
 url = "https://github.com/bigbomio/token-profile"
+

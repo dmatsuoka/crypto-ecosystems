@@ -3,7 +3,9 @@ title = "Tranche"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tranche-jibrel"]
+github_organizations = [
+  "https://github.com/tranche-jibrel",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/tranche-jibrel/new-staking"
 
 [[repo]]
 url = "https://github.com/tranche-jibrel/Project-Tracking"
+missing = true
 
 [[repo]]
 url = "https://github.com/tranche-jibrel/snapshot-spaces"
@@ -44,6 +47,7 @@ url = "https://github.com/tranche-jibrel/staking-protocol-2"
 
 [[repo]]
 url = "https://github.com/tranche-jibrel/tracking"
+missing = true
 
 [[repo]]
 url = "https://github.com/tranche-jibrel/tranche-aave-protocol"
@@ -74,3 +78,4 @@ url = "https://github.com/tranche-jibrel/tranche-subgraph"
 
 [[repo]]
 url = "https://github.com/tranche-jibrel/tranche-yearn-protocol"
+

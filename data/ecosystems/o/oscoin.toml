@@ -3,7 +3,9 @@ title = "oscoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oscoin"]
+github_organizations = [
+  "https://github.com/oscoin",
+]
 
 # Repositories
 [[repo]]
@@ -80,6 +82,7 @@ url = "https://github.com/oscoin/reductive"
 
 [[repo]]
 url = "https://github.com/oscoin/substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/oscoin/utils"
@@ -98,6 +101,7 @@ url = "https://github.com/oscoin/whitepaper-cn"
 
 [[repo]]
 url = "https://github.com/oscoin/zockervols"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/infra"
@@ -107,3 +111,4 @@ url = "https://github.com/radicle-dev/radicle-registry"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-upstream"
+

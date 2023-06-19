@@ -3,7 +3,9 @@ title = "Nethereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nethereum"]
+github_organizations = [
+  "https://github.com/Nethereum",
+]
 
 # Repositories
 [[repo]]
@@ -254,3 +256,4 @@ url = "https://github.com/Nethereum/Wonka.Editor"
 
 [[repo]]
 url = "https://github.com/Nethereum/Xam.Plugin.Webview"
+

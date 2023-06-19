@@ -3,7 +3,9 @@ title = "Debita Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Debita-Protocol"]
+github_organizations = [
+  "https://github.com/Debita-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Debita-Protocol/core"
 
 [[repo]]
 url = "https://github.com/Debita-Protocol/debita-solidity-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Debita-Protocol/docs"
@@ -26,3 +29,4 @@ url = "https://github.com/Debita-Protocol/interface"
 
 [[repo]]
 url = "https://github.com/Debita-Protocol/ppTranche"
+

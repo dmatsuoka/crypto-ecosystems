@@ -3,7 +3,9 @@ title = "DeFiHelper"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/defi-helper"]
+github_organizations = [
+  "https://github.com/defi-helper",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/defi-helper/signer"
 
 [[repo]]
 url = "https://github.com/defi-helper/uniswap-smart-order-router"
+

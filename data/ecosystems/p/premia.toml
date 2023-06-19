@@ -3,7 +3,9 @@ title = "Premia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PremiaFinance"]
+github_organizations = [
+  "https://github.com/PremiaFinance",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,11 @@ url = "https://github.com/PremiaFinance/pentacle-data"
 
 [[repo]]
 url = "https://github.com/PremiaFinance/Public-Assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Premian-Labs/premia-contracts"
 
 [[repo]]
 url = "https://github.com/Premian-Labs/premia-utils"
+

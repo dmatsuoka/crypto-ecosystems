@@ -3,7 +3,9 @@ title = "Lattice"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/latticexyz"]
+github_organizations = [
+  "https://github.com/latticexyz",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/latticexyz/v2sandbox"
 
 [[repo]]
 url = "https://github.com/latticexyz/WasmNoise"
+

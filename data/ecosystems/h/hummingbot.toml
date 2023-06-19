@@ -3,7 +3,9 @@ title = "Hummingbot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hummingbot"]
+github_organizations = [
+  "https://github.com/hummingbot",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/hummingbot/awesome-hummingbot"
 
 [[repo]]
 url = "https://github.com/hummingbot/botcamp"
+missing = true
 
 [[repo]]
 url = "https://github.com/hummingbot/brokers"
@@ -56,9 +59,11 @@ url = "https://github.com/hummingbot/hummingbot-site"
 
 [[repo]]
 url = "https://github.com/hummingbot/hummingbot-site-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/hummingbot/pm"
 
 [[repo]]
 url = "https://github.com/hummingbot/streamlit-apps"
+

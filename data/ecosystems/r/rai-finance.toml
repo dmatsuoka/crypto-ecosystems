@@ -3,7 +3,9 @@ title = "RAI Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RaiFinance"]
+github_organizations = [
+  "https://github.com/RaiFinance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/RaiFinance/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/RaiFinance/uniswap-v2-sdk"
+

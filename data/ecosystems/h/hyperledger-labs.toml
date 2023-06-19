@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "Hyperledger Labs"
 
-sub_ecosystems = ["Alastria"]
+sub_ecosystems = [
+  "Alastria",
+]
 
-github_organizations = ["https://github.com/hyperledger-labs"]
+github_organizations = [
+  "https://github.com/hyperledger-labs",
+]
 
 # Repositories
 [[repo]]
@@ -386,3 +390,4 @@ url = "https://github.com/hyperledger/homebrew-solang"
 
 [[repo]]
 url = "https://github.com/hyperledger/solang"
+

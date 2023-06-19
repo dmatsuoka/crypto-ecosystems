@@ -3,7 +3,9 @@ title = "Wagyu (Stake House)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stake-house"]
+github_organizations = [
+  "https://github.com/stake-house",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/stake-house/wagyu-installer"
 
 [[repo]]
 url = "https://github.com/stake-house/wagyu-key-gen"
+

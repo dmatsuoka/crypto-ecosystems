@@ -3,7 +3,9 @@ title = "POWAA protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/powaa-protocol"]
+github_organizations = [
+  "https://github.com/powaa-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/powaa-protocol/powaa-contract"
 
 [[repo]]
 url = "https://github.com/powaa-protocol/powaa-contract-config"
+

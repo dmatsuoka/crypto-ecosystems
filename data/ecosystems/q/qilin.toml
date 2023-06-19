@@ -3,7 +3,9 @@ title = "Qilin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/qilin"]
+github_organizations = [
+  "https://github.com/qilin",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/qilin/store"
 
 [[repo]]
 url = "https://github.com/qilin/store-ui"
+

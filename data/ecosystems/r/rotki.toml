@@ -3,7 +3,9 @@ title = "Rotki"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rotki"]
+github_organizations = [
+  "https://github.com/rotki",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/rotki/ui-library"
 
 [[repo]]
 url = "https://github.com/rotki/zerorpc-node-rotkehlchen"
+

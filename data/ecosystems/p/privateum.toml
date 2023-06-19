@@ -3,7 +3,9 @@ title = "Privateum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Privateum"]
+github_organizations = [
+  "https://github.com/Privateum",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Privateum/PVMdata"
 
 [[repo]]
 url = "https://github.com/Privateum/tokens"
+

@@ -3,7 +3,9 @@ title = "NIFTEX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metalithio"]
+github_organizations = [
+  "https://github.com/metalithio",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/metalithio/token-vesting-ui"
 
 [[repo]]
 url = "https://github.com/metalithio/uniswap-frontend"
+

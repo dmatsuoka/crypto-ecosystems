@@ -3,7 +3,9 @@ title = "NidhiDao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NidhiDAO"]
+github_organizations = [
+  "https://github.com/NidhiDAO",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/NidhiDAO/NidhiDAO-contracts"
 
 [[repo]]
 url = "https://github.com/NidhiDAO/NidhiDAO-frontend"
+

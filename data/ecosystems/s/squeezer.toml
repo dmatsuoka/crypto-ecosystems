@@ -3,7 +3,9 @@ title = "Squeezer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SqueezerIO"]
+github_organizations = [
+  "https://github.com/SqueezerIO",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/SqueezerIO/squeezer-token-smartcontract"
 
 [[repo]]
 url = "https://github.com/SqueezerIO/stellar-2way-payment-dapp"
+

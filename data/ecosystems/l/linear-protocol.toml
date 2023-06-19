@@ -3,7 +3,9 @@ title = "LiNEAR Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/linear-protocol"]
+github_organizations = [
+  "https://github.com/linear-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/linear-protocol/stakewars-iii"
 
 [[repo]]
 url = "https://github.com/linear-protocol/wallet-selector"
+

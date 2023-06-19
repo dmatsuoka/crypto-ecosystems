@@ -3,11 +3,14 @@ title = "Application Research Group"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/application-research"]
+github_organizations = [
+  "https://github.com/application-research",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/application-research/APs"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/auth-svc"
@@ -209,6 +212,7 @@ url = "https://github.com/application-research/filclient-unstable"
 
 [[repo]]
 url = "https://github.com/application-research/file.app"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/filecoin-data-tools-web"
@@ -230,6 +234,7 @@ url = "https://github.com/application-research/FIPs"
 
 [[repo]]
 url = "https://github.com/application-research/fvm"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/fvm-studio"
@@ -338,6 +343,7 @@ url = "https://github.com/application-research/wallet"
 
 [[repo]]
 url = "https://github.com/application-research/web4"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/whypfs-core"
@@ -362,3 +368,4 @@ url = "https://github.com/cwaring/origin-playground"
 
 [[repo]]
 url = "https://github.com/cwaring/origin-plugin-starter"
+

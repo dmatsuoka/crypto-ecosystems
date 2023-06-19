@@ -3,7 +3,9 @@ title = "Metaverse ETP"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mvs-org"]
+github_organizations = [
+  "https://github.com/mvs-org",
+]
 
 # Repositories
 [[repo]]
@@ -57,6 +59,7 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/mvs-org/metaverse-dna"
+missing = true
 
 [[repo]]
 url = "https://github.com/mvs-org/metaverse-lightwallet-core"
@@ -234,3 +237,4 @@ url = "https://github.com/mvs-org/webwalletapp"
 
 [[repo]]
 url = "https://github.com/mvs-org/whitepaper"
+

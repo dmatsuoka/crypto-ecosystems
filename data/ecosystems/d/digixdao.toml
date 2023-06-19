@@ -3,7 +3,9 @@ title = "DigixDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DigixGlobal"]
+github_organizations = [
+  "https://github.com/DigixGlobal",
+]
 
 # Repositories
 [[repo]]
@@ -336,3 +338,4 @@ url = "https://github.com/DigixGlobal/whitelist-faucet"
 
 [[repo]]
 url = "https://github.com/DigixGlobal/ws-rs"
+

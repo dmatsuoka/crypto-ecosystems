@@ -3,8 +3,11 @@ title = "WEB3SCAN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/web3scan"]
+github_organizations = [
+  "https://github.com/web3scan",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/web3scan/ether-explorer"
+

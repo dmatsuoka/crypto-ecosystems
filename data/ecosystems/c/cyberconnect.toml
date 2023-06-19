@@ -3,7 +3,9 @@ title = "Cyberconnect"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cyberconnecthq"]
+github_organizations = [
+  "https://github.com/cyberconnecthq",
+]
 
 # Repositories
 [[repo]]
@@ -113,6 +115,7 @@ url = "https://github.com/cyberconnecthq/js-ceramic"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/js-cyberconnect"
+missing = true
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/lfg"
@@ -158,3 +161,4 @@ url = "https://github.com/cyberconnecthq/terraform-aws-ceramic"
 
 [[repo]]
 url = "https://github.com/UnicornIdeas/CyberConnect-explorer"
+

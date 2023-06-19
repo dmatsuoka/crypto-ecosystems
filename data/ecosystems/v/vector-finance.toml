@@ -3,8 +3,11 @@ title = "Vector Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VectorFinance"]
+github_organizations = [
+  "https://github.com/VectorFinance",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/VectorFinance/audit-lb"
+

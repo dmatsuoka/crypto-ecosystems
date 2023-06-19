@@ -3,7 +3,9 @@ title = "TreasureLand"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dego-labs"]
+github_organizations = [
+  "https://github.com/dego-labs",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/dego-labs/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/dego-labs/treasureland-backend"
+

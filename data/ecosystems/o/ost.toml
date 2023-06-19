@@ -3,7 +3,9 @@ title = "OST"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OpenSTFoundation"]
+github_organizations = [
+  "https://github.com/OpenSTFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -41,12 +43,14 @@ url = "https://github.com/OpenST/storage"
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/CryptoEthereumSwift"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/dOST"
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/EthereumKit"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/Mosaic"
@@ -77,6 +81,7 @@ url = "https://github.com/OpenSTFoundation/openst-platform"
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/openst-platform-apis"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenSTFoundation/SimpleTokenSale"
@@ -122,3 +127,4 @@ url = "https://github.com/ostdotcom/ost-sdk-ruby"
 
 [[repo]]
 url = "https://github.com/ostdotcom/ost-view"
+

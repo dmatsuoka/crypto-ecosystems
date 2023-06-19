@@ -3,7 +3,9 @@ title = "RoboVault"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RoboVault"]
+github_organizations = [
+  "https://github.com/RoboVault",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/RoboVault/yield-server"
 
 [[repo]]
 url = "https://github.com/RoboVault/YieldRedirect"
+

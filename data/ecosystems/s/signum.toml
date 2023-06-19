@@ -3,7 +3,9 @@ title = "Signum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/signum-network"]
+github_organizations = [
+  "https://github.com/signum-network",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/signum-network/signum-pool"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-pwa-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/signum-network/signum-smartj"
@@ -77,3 +80,4 @@ url = "https://github.com/signum-network/signumjs"
 
 [[repo]]
 url = "https://github.com/signum-network/SIPs"
+

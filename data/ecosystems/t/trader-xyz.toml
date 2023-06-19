@@ -3,7 +3,9 @@ title = "trader.xyz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/trader-xyz"]
+github_organizations = [
+  "https://github.com/trader-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/trader-xyz/status.trader.xyz"
 
 [[repo]]
 url = "https://github.com/trader-xyz/trader-orderbook"
+

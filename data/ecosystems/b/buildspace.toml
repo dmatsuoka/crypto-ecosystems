@@ -3,7 +3,9 @@ title = "buildspace"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/buildspace"]
+github_organizations = [
+  "https://github.com/buildspace",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +154,4 @@ url = "https://github.com/buildspace/twitter-media"
 
 [[repo]]
 url = "https://github.com/buildspace/waveportal-starter-project"
+

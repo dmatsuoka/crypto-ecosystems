@@ -3,7 +3,9 @@ title = "Orao Ltd."
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/orao-network"]
+github_organizations = [
+  "https://github.com/orao-network",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/orao-network/fuel-vrf"
 
 [[repo]]
 url = "https://github.com/orao-network/solana-vrf"
+

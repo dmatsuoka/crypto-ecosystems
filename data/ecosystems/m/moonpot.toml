@@ -3,7 +3,9 @@ title = "Moonpot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonpotdev"]
+github_organizations = [
+  "https://github.com/moonpotdev",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/moonpotdev/moonpot-app"
 
 [[repo]]
 url = "https://github.com/moonpotdev/moonpot-audits"
+

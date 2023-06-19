@@ -3,7 +3,9 @@ title = "Novi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/novifinancial"]
+github_organizations = [
+  "https://github.com/novifinancial",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/novifinancial/voprf"
 
 [[repo]]
 url = "https://github.com/novifinancial/x25519-dalek-fiat"
+

@@ -3,7 +3,9 @@ title = "OpenLeverage"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OpenLeverageDev"]
+github_organizations = [
+  "https://github.com/OpenLeverageDev",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/OpenLeverageDev/openleverage-subgraph"
 
 [[repo]]
 url = "https://github.com/OpenLeverageDev/OSSRH-85882"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenLeverageDev/overcollateralized-borrowing-contracts"
@@ -38,3 +41,4 @@ url = "https://github.com/OpenLeverageDev/poolinfo-api-javascript"
 
 [[repo]]
 url = "https://github.com/OpenLeverageDev/studio"
+

@@ -3,7 +3,9 @@ title = "Invacio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Invacio"]
+github_organizations = [
+  "https://github.com/Invacio",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,5 @@ url = "https://github.com/dumpingground12222/Relevancy-OAuth"
 
 [[repo]]
 url = "https://github.com/Invacio/token"
+missing = true
+

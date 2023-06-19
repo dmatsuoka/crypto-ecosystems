@@ -3,7 +3,9 @@ title = "BTCPayServer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/btcpayserver"]
+github_organizations = [
+  "https://github.com/btcpayserver",
+]
 
 # Repositories
 [[repo]]
@@ -83,6 +85,7 @@ url = "https://github.com/btcpayserver/btcpayserverslackbot"
 
 [[repo]]
 url = "https://github.com/btcpayserver/BTCPayThemes"
+missing = true
 
 [[repo]]
 url = "https://github.com/btcpayserver/btcTransmuter"
@@ -92,6 +95,7 @@ url = "https://github.com/btcpayserver/commerce_btcpay"
 
 [[repo]]
 url = "https://github.com/btcpayserver/d-btcpayserver"
+missing = true
 
 [[repo]]
 url = "https://github.com/btcpayserver/db-doc-generator"
@@ -194,3 +198,4 @@ url = "https://github.com/btcpayserver/woocommerce-plugin"
 
 [[repo]]
 url = "https://github.com/btcpayserver/zapier"
+

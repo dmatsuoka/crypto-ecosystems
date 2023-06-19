@@ -3,7 +3,9 @@ title = "Helpi Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/helpicelo"]
+github_organizations = [
+  "https://github.com/helpicelo",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/helpicelo/helpi-celo-interface"
 
 [[repo]]
 url = "https://github.com/helpicelo/Helpi-DeFi-Multichain"
+missing = true
 
 [[repo]]
 url = "https://github.com/helpicelo/helpi-landing"
@@ -74,3 +77,4 @@ url = "https://github.com/helpicelo/vault-dapp"
 
 [[repo]]
 url = "https://github.com/helpicelo/web3-react"
+

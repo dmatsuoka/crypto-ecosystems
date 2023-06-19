@@ -3,7 +3,9 @@ title = "Pylons"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pylons-tech"]
+github_organizations = [
+  "https://github.com/Pylons-tech",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/Pylons-tech/validators-contest"
 
 [[repo]]
 url = "https://github.com/Pylons-tech/vue"
+

@@ -3,8 +3,11 @@ title = "OctoGamex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OctoGamex"]
+github_organizations = [
+  "https://github.com/OctoGamex",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/OctoGamex/octogamex-contracts"
+

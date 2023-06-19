@@ -3,7 +3,9 @@ title = "Celestial"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CeltGame"]
+github_organizations = [
+  "https://github.com/CeltGame",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/CeltGame/celt-protocol"
 
 [[repo]]
 url = "https://github.com/CeltGame/Whitepaper"
+

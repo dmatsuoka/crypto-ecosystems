@@ -3,7 +3,9 @@ title = "AptStats"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AptStats"]
+github_organizations = [
+  "https://github.com/AptStats",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/AptStats/Spika-Wallet-Extension"
 
 [[repo]]
 url = "https://github.com/AptStats/TokenPocket-Wallet-Extension"
+

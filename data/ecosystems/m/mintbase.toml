@@ -3,7 +3,9 @@ title = "Mintbase"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mintbase"]
+github_organizations = [
+  "https://github.com/Mintbase",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/Mintbase/mb-contracts"
 
 [[repo]]
 url = "https://github.com/Mintbase/mb-frontend-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mintbase/mb-sdk"
@@ -68,6 +71,7 @@ url = "https://github.com/Mintbase/mintbase-js"
 
 [[repo]]
 url = "https://github.com/Mintbase/mintbase-near-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mintbase/mintbase-ui"
@@ -104,6 +108,7 @@ url = "https://github.com/Mintbase/rip"
 
 [[repo]]
 url = "https://github.com/Mintbase/rust-interview-task"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mintbase/starter"
@@ -116,3 +121,4 @@ url = "https://github.com/Mintbase/vercel-examples"
 
 [[repo]]
 url = "https://github.com/Mintbase/viewer"
+

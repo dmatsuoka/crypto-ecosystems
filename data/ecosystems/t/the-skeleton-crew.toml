@@ -3,7 +3,9 @@ title = "The Skeleton Crew"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/theskeletoncrew"]
+github_organizations = [
+  "https://github.com/theskeletoncrew",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/theskeletoncrew/treat-toolbox-docs"
 
 [[repo]]
 url = "https://github.com/theskeletoncrew/website"
+

@@ -3,7 +3,9 @@ title = "Truflation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/truflation"]
+github_organizations = [
+  "https://github.com/truflation",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/truflation/sample-frontend"
 
 [[repo]]
 url = "https://github.com/truflation/truflation"
+

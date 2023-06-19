@@ -3,7 +3,9 @@ title = "Usechain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/usechain"]
+github_organizations = [
+  "https://github.com/usechain",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/usechain/web3.js"
 
 [[repo]]
 url = "https://github.com/usechain/webfront"
+

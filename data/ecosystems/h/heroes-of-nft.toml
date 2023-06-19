@@ -3,7 +3,9 @@ title = "Heroes of NFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/heroesofnft"]
+github_organizations = [
+  "https://github.com/heroesofnft",
+]
 
 # Repositories
 [[repo]]
@@ -26,9 +28,11 @@ url = "https://github.com/heroesofnft/hero-docs"
 
 [[repo]]
 url = "https://github.com/heroesofnft/marketplace-subql"
+missing = true
 
 [[repo]]
 url = "https://github.com/heroesofnft/new-marketplace"
+missing = true
 
 [[repo]]
 url = "https://github.com/heroesofnft/nft"
@@ -50,6 +54,8 @@ url = "https://github.com/heroesofnft/subqls"
 
 [[repo]]
 url = "https://github.com/heroesofnft/vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/heroesofnft/yield-farm"
+

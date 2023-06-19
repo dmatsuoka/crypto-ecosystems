@@ -3,7 +3,9 @@ title = "Garbles Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/garbles-labs"]
+github_organizations = [
+  "https://github.com/garbles-labs",
+]
 
 # Repositories
 [[repo]]
@@ -17,9 +19,11 @@ url = "https://github.com/garbles-labs/garbles-labs.github.io"
 
 [[repo]]
 url = "https://github.com/garbles-labs/GarblesMinigames"
+missing = true
 
 [[repo]]
 url = "https://github.com/garbles-labs/magicblock"
+missing = true
 
 [[repo]]
 url = "https://github.com/garbles-labs/NativeWebSocket"
@@ -44,3 +48,4 @@ url = "https://github.com/garbles-labs/websocket-sharp"
 
 [[repo]]
 url = "https://github.com/garbles-labs/whitepaper"
+

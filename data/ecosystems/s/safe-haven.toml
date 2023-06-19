@@ -3,7 +3,9 @@ title = "Safe Haven"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Safehaven-io"]
+github_organizations = [
+  "https://github.com/Safehaven-io",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/Safehaven-io/Inheriti"
 
 [[repo]]
 url = "https://github.com/Safehaven-io/Inheriti-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Safehaven-io/inspector-app"
@@ -107,3 +110,4 @@ url = "https://github.com/Safehaven-io/token-registry"
 
 [[repo]]
 url = "https://github.com/Safehaven-io/tokens-info"
+

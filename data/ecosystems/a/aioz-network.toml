@@ -3,7 +3,9 @@ title = "AIOZ Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AIOZNetwork"]
+github_organizations = [
+  "https://github.com/AIOZNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/AIOZNetwork/mainnet"
 
 [[repo]]
 url = "https://github.com/AIOZNetwork/testnets"
+

@@ -3,7 +3,9 @@ title = "BitGuild PLAT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitGuildPlatform"]
+github_organizations = [
+  "https://github.com/BitGuildPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/BitGuildPlatform/SampleIntegration"
 
 [[repo]]
 url = "https://github.com/BitGuildPlatform/tronsr-template"
+

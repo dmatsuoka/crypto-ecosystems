@@ -3,8 +3,11 @@ title = "Qvolta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/qvolta"]
+github_organizations = [
+  "https://github.com/qvolta",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/qvolta/qvolta-contract"
+

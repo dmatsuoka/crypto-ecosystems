@@ -3,7 +3,9 @@ title = "ACY Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ACY-Labs"]
+github_organizations = [
+  "https://github.com/ACY-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/ACY-Labs/Layer2Hackathon"
 
 [[repo]]
 url = "https://github.com/ACY-Labs/uniswap-v3-subgraph"
+

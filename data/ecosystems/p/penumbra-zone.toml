@@ -3,7 +3,9 @@ title = "Penumbra Zone"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/penumbra-zone"]
+github_organizations = [
+  "https://github.com/penumbra-zone",
+]
 
 # Repositories
 [[repo]]
@@ -89,6 +91,7 @@ url = "https://github.com/penumbra-zone/sponge"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/tct"
+missing = true
 
 [[repo]]
 url = "https://github.com/penumbra-zone/tendermint"
@@ -104,3 +107,4 @@ url = "https://github.com/penumbra-zone/tower-actor"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/wallet"
+

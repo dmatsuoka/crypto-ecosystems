@@ -3,7 +3,9 @@ title = "Hive Dollar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openhive-network"]
+github_organizations = [
+  "https://github.com/openhive-network",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/openhive-network/tests_api"
 
 [[repo]]
 url = "https://github.com/openhive-network/wallet"
+

@@ -3,7 +3,9 @@ title = "Filda"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fildaio"]
+github_organizations = [
+  "https://github.com/fildaio",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/fildaio/MultiSig-Chrome-Extension"
 
 [[repo]]
 url = "https://github.com/fildaio/Quicksilver"
+missing = true
 
 [[repo]]
 url = "https://github.com/fildaio/ReferralReward"
@@ -77,3 +80,4 @@ url = "https://github.com/fildaio/Subgraph"
 
 [[repo]]
 url = "https://github.com/fildaio/sushiswap"
+

@@ -3,7 +3,9 @@ title = "TezEdge"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tezedge"]
+github_organizations = [
+  "https://github.com/tezedge",
+]
 
 # Repositories
 [[repo]]
@@ -215,3 +217,4 @@ url = "https://github.com/tezedge/wrk2"
 
 [[repo]]
 url = "https://github.com/tezedge/zstd"
+

@@ -3,7 +3,9 @@ title = "Value Network Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/valuenetworklive2021"]
+github_organizations = [
+  "https://github.com/valuenetworklive2021",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/valuenetworklive2021/vn-wallet-ios"
 
 [[repo]]
 url = "https://github.com/valuenetworklive2021/Yield-Farming"
+

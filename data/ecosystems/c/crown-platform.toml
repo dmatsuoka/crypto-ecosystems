@@ -3,7 +3,9 @@ title = "Crown Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Crowndev"]
+github_organizations = [
+  "https://github.com/Crowndev",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/Crowndev/Twitter-Tip"
 
 [[repo]]
 url = "https://github.com/Crowndev/yiimp"
+

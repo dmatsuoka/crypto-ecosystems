@@ -3,7 +3,9 @@ title = "Swarm City"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/swarmcity"]
+github_organizations = [
+  "https://github.com/swarmcity",
+]
 
 # Repositories
 [[repo]]
@@ -191,6 +193,7 @@ url = "https://github.com/swarmcity/socket-test"
 
 [[repo]]
 url = "https://github.com/swarmcity/swarm-city-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/swarmcity/SwarmCityAPI"
@@ -263,3 +266,4 @@ url = "https://github.com/swarmcity/www-landing"
 
 [[repo]]
 url = "https://github.com/swarmcity/www-progress"
+

@@ -3,7 +3,9 @@ title = "StakeDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/StakeDAO"]
+github_organizations = [
+  "https://github.com/StakeDAO",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/StakeDAO/yearn-security"
 
 [[repo]]
 url = "https://github.com/StakeDAO/yieldfarming"
+

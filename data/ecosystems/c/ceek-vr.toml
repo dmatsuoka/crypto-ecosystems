@@ -3,8 +3,11 @@ title = "CEEK VR"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CEEKVR"]
+github_organizations = [
+  "https://github.com/CEEKVR",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/CEEKVR/Blockchain-Congress"
+

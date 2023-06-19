@@ -3,8 +3,11 @@ title = "GameChain System"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockchaingame"]
+github_organizations = [
+  "https://github.com/blockchaingame",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/blockchaingame/gc"
+

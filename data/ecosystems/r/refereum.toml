@@ -3,8 +3,11 @@ title = "Refereum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Refereum"]
+github_organizations = [
+  "https://github.com/Refereum",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Refereum/News-API-csharp"
+

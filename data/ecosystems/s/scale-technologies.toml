@@ -3,7 +3,9 @@ title = "Scale Technologies"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/atscaletech"]
+github_organizations = [
+  "https://github.com/atscaletech",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/atscaletech/libra-js"
 
 [[repo]]
 url = "https://github.com/atscaletech/polkadot-hackathon-na"
+

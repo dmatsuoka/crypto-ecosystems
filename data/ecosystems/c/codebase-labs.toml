@@ -3,7 +3,9 @@ title = "codebase labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/codebase-labs"]
+github_organizations = [
+  "https://github.com/codebase-labs",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/codebase-labs/icfs"
 
 [[repo]]
 url = "https://github.com/codebase-labs/ring"
+

@@ -3,7 +3,9 @@ title = "Noah Coin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/noah-blockchain"]
+github_organizations = [
+  "https://github.com/noah-blockchain",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/noah-blockchain/tank"
 
 [[repo]]
 url = "https://github.com/noah-blockchain/web-explorer"
+

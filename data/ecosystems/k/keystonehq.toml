@@ -3,7 +3,9 @@ title = "KeystoneHQ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KeystoneHQ"]
+github_organizations = [
+  "https://github.com/KeystoneHQ",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/KeystoneHQ/Airgapped-Wallet-Community"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/algebra"
+missing = true
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/aptos-core"
@@ -80,6 +83,7 @@ url = "https://github.com/KeystoneHQ/ethhub"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/fastcrypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/Grants-Program"
@@ -263,3 +267,4 @@ url = "https://github.com/KeystoneHQ/which-rs"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/WolfBase"
+

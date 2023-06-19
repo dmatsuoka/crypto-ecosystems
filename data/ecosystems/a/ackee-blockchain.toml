@@ -3,7 +3,9 @@ title = "Ackee Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ackee-Blockchain"]
+github_organizations = [
+  "https://github.com/Ackee-Blockchain",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/Ackee-Blockchain/WSoS-lesson-5-anchor"
 
 [[repo]]
 url = "https://github.com/Ackee-Blockchain/zk-zero-zk-hero"
+

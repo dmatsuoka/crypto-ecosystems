@@ -3,7 +3,9 @@ title = "Raiden Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/raiden-network"]
+github_organizations = [
+  "https://github.com/raiden-network",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/raiden-network/microraiden"
 
 [[repo]]
 url = "https://github.com/raiden-network/paywall"
+missing = true
 
 [[repo]]
 url = "https://github.com/raiden-network/paywall-legacy"
@@ -116,3 +119,4 @@ url = "https://github.com/raiden-network/webui"
 
 [[repo]]
 url = "https://github.com/raiden-network/workshop"
+

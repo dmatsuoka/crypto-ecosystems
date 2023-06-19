@@ -3,7 +3,9 @@ title = "Clovers"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/clovers-network"]
+github_organizations = [
+  "https://github.com/clovers-network",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/clovers-network/clovers-reversi"
 
 [[repo]]
 url = "https://github.com/clovers-network/clovers-stl"
+

@@ -3,7 +3,9 @@ title = "SPNDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SPNDAO"]
+github_organizations = [
+  "https://github.com/SPNDAO",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/spndao/core"
 
 [[repo]]
 url = "https://github.com/SPNDAO/frontend"
+

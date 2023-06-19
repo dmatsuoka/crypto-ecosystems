@@ -3,7 +3,9 @@ title = "Vee Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/VeeFinance"]
+github_organizations = [
+  "https://github.com/VeeFinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/VeeFinance/vee-periphery"
 
 [[repo]]
 url = "https://github.com/VeeFinance/veefinance-protocol"
+

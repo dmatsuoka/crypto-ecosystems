@@ -3,7 +3,9 @@ title = "Graveyard Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TheGraveyardFinance"]
+github_organizations = [
+  "https://github.com/TheGraveyardFinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/TheGraveyardFinance/graveyard-project"
 
 [[repo]]
 url = "https://github.com/TheGraveyardFinance/hardhat"
+

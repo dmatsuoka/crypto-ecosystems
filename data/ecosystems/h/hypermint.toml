@@ -3,7 +3,9 @@ title = "HyperMint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/moonpay-hypermint"]
+github_organizations = [
+  "https://github.com/moonpay-hypermint",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/moonpay-hypermint/client-sdk"
 
 [[repo]]
 url = "https://github.com/moonpay-hypermint/storefront"
+

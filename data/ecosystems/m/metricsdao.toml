@@ -3,7 +3,9 @@ title = "MetricsDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MetricsDAO"]
+github_organizations = [
+  "https://github.com/MetricsDAO",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/MetricsDAO/web3_data_dictionary"
 
 [[repo]]
 url = "https://github.com/MetricsDAO/xyz"
+

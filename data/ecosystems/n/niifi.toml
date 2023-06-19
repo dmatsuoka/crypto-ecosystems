@@ -3,7 +3,9 @@ title = "niifi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NiiFi"]
+github_organizations = [
+  "https://github.com/NiiFi",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/NiiFi/awesome-nodejs"
 
 [[repo]]
 url = "https://github.com/NiiFi/dulcet-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/NiiFi/godzilla2-sdk"
@@ -26,3 +29,5 @@ url = "https://github.com/NiiFi/tokenIcons"
 
 [[repo]]
 url = "https://github.com/NiiFi/uinterface"
+missing = true
+

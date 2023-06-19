@@ -3,7 +3,9 @@ title = "Agora"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AgoraBlockchain"]
+github_organizations = [
+  "https://github.com/AgoraBlockchain",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/AgoraBlockchain/kyber"
 
 [[repo]]
 url = "https://github.com/AgoraBlockchain/sl2018"
+

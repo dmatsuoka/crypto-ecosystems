@@ -3,7 +3,9 @@ title = "IRITA Consortium Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bianjieai"]
+github_organizations = [
+  "https://github.com/bianjieai",
+]
 
 # Repositories
 [[repo]]
@@ -89,9 +91,11 @@ url = "https://github.com/bianjieai/ics721-demo"
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-explorer-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-ibc-explorer"
@@ -208,3 +212,4 @@ url = "https://github.com/bianjieai/wasmd"
 
 [[repo]]
 url = "https://github.com/bianjieai/www.bianjie.ai"
+

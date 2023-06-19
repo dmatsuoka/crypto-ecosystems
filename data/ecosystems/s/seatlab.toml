@@ -3,7 +3,9 @@ title = "Seatlab"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Seatlab-dev"]
+github_organizations = [
+  "https://github.com/Seatlab-dev",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/Seatlab-dev/SEAT-ft-contract"
 
 [[repo]]
 url = "https://github.com/Seatlab-dev/Smart-Contracts-Common-Library"
+

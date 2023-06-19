@@ -3,7 +3,9 @@ title = "Bounce Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bouncefinance"]
+github_organizations = [
+  "https://github.com/bouncefinance",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,5 @@ url = "https://github.com/bouncefinance/nft-standard-phase-two"
 
 [[repo]]
 url = "https://github.com/bouncefinance/nftview"
+missing = true
+

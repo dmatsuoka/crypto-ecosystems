@@ -3,7 +3,9 @@ title = "Zharta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Zharta"]
+github_organizations = [
+  "https://github.com/Zharta",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Zharta/spock-adapters"
 
 [[repo]]
 url = "https://github.com/Zharta/zapper-studio"
+

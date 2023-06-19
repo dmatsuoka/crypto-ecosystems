@@ -3,7 +3,9 @@ title = "Letitplay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LetItPlay"]
+github_organizations = [
+  "https://github.com/LetItPlay",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/LetItPlay/ThinYoutubeDLWrapper"
 
 [[repo]]
 url = "https://github.com/LetItPlay/tolstoy"
+

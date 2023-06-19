@@ -3,7 +3,9 @@ title = "GXChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gxchain"]
+github_organizations = [
+  "https://github.com/gxchain",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/gxchain/blockcity-mp-ide"
 
 [[repo]]
 url = "https://github.com/gxchain/blockcity-webapp-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/gxchain/blog"
@@ -90,6 +93,7 @@ url = "https://github.com/gxchain/gxb-fc"
 
 [[repo]]
 url = "https://github.com/gxchain/gxb-release"
+missing = true
 
 [[repo]]
 url = "https://github.com/gxchain/gxbjs"
@@ -198,6 +202,7 @@ url = "https://github.com/gxchain/OSSRH-59740"
 
 [[repo]]
 url = "https://github.com/gxchain/reward-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/gxchain/TCPNetwork"
@@ -237,3 +242,4 @@ url = "https://github.com/REI-Network/rei-faucet"
 
 [[repo]]
 url = "https://github.com/REI-Network/rei-scan"
+

@@ -3,7 +3,9 @@ title = "DecentralBank"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecentralBankDAO"]
+github_organizations = [
+  "https://github.com/DecentralBankDAO",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/DecentralBankDAO/db-swap"
 
 [[repo]]
 url = "https://github.com/DecentralBankDAO/usn"
+

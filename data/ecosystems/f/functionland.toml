@@ -3,7 +3,9 @@ title = "Functionland"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/functionland"]
+github_organizations = [
+  "https://github.com/functionland",
+]
 
 # Repositories
 [[repo]]
@@ -12,9 +14,11 @@ tags = ["DEcision Documents"]
 
 [[repo]]
 url = "https://github.com/functionland/beast"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/BLOX"
@@ -28,6 +32,7 @@ url = "https://github.com/functionland/box-design-blender"
 
 [[repo]]
 url = "https://github.com/functionland/box-pcb"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/cancan-archived"
@@ -120,6 +125,7 @@ tags = ["Gallery", "dApp"]
 
 [[repo]]
 url = "https://github.com/functionland/fx.land"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/go-fula"
@@ -154,6 +160,7 @@ tags = ["Mobile", "Protocol"]
 
 [[repo]]
 url = "https://github.com/functionland/react-native-fulamobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/react-native-qrcode-svg"
@@ -229,3 +236,4 @@ url = "https://github.com/functionland/wnfs-swift-package"
 [[repo]]
 url = "https://github.com/functionland/wnfs-utils"
 tags = ["IPLD", "WNFS"]
+

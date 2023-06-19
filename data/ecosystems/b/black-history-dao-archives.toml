@@ -3,7 +3,9 @@ title = "Black History DAO Archives"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlackHistoryDAO"]
+github_organizations = [
+  "https://github.com/BlackHistoryDAO",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/BlackHistoryDAO/Web3athon"
 
 [[repo]]
 url = "https://github.com/BlackHistoryDAO/website"
+

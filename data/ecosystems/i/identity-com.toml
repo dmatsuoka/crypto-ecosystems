@@ -3,7 +3,9 @@ title = "identity.com"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/identity-com"]
+github_organizations = [
+  "https://github.com/identity-com",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/identity-com/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/identity-com/web3admin"
+

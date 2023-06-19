@@ -3,7 +3,9 @@ title = "Multichain (Anyswap)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/anyswap"]
+github_organizations = [
+  "https://github.com/anyswap",
+]
 
 # Repositories
 [[repo]]
@@ -161,3 +163,4 @@ url = "https://github.com/anyswap/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/anyswap/veMULTI"
+

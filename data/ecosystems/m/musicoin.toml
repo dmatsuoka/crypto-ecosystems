@@ -3,7 +3,9 @@ title = "Musicoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Musicoin"]
+github_organizations = [
+  "https://github.com/Musicoin",
+]
 
 # Repositories
 [[repo]]
@@ -89,3 +91,4 @@ url = "https://github.com/Musicoin/web3.js"
 
 [[repo]]
 url = "https://github.com/Musicoin/website"
+

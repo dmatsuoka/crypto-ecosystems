@@ -3,7 +3,9 @@ title = "NonceLabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NonceLabs"]
+github_organizations = [
+  "https://github.com/NonceLabs",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/NonceLabs/unzip.fi"
 
 [[repo]]
 url = "https://github.com/NonceLabs/wallet-selector"
+

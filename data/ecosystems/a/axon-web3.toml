@@ -3,7 +3,9 @@ title = "Axon Web3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/axonweb3"]
+github_organizations = [
+  "https://github.com/axonweb3",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,5 @@ url = "https://github.com/axonweb3/spark-ui"
 
 [[repo]]
 url = "https://github.com/axonweb3/website"
+missing = true
+

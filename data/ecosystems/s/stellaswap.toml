@@ -3,7 +3,9 @@ title = "StellaSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stellaswap"]
+github_organizations = [
+  "https://github.com/stellaswap",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/stellaswap/v2-core"
 
 [[repo]]
 url = "https://github.com/stellaswap/yield-server"
+

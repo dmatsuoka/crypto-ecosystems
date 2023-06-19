@@ -3,7 +3,9 @@ title = "Opennode"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opennodedev"]
+github_organizations = [
+  "https://github.com/opennodedev",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/opennodedev/opennode-php"
 
 [[repo]]
 url = "https://github.com/opennodedev/prestashop"
+

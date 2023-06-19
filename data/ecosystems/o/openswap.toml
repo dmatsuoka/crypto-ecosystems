@@ -3,7 +3,9 @@ title = "Openswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openswapdex"]
+github_organizations = [
+  "https://github.com/openswapdex",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/openswapdex/troll-nft-sdk"
 
 [[repo]]
 url = "https://github.com/TheOpenXproject/openswap-sdk"
+

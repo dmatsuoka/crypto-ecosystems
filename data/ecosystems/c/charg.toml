@@ -3,7 +3,9 @@ title = "Charg"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ChargCoinLLC"]
+github_organizations = [
+  "https://github.com/ChargCoinLLC",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ChargCoinLLC/READ-THIS-FIRST"
 
 [[repo]]
 url = "https://github.com/ChargCoinLLC/Smart-Contract"
+

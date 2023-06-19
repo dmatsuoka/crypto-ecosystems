@@ -3,7 +3,9 @@ title = "Lonero Team"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Lonero-Team"]
+github_organizations = [
+  "https://github.com/Lonero-Team",
+]
 
 # Repositories
 [[repo]]
@@ -173,3 +175,4 @@ url = "https://github.com/Lonero-Team/Utility-Use-Case"
 
 [[repo]]
 url = "https://github.com/Lonero-Team/Yaamp-Configuration"
+

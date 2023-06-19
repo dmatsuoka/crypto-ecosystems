@@ -3,7 +3,9 @@ title = "Catalyst Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/catalyst-network"]
+github_organizations = [
+  "https://github.com/catalyst-network",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/catalyst-network/whitepaper"
 
 [[repo]]
 url = "https://github.com/catalyst-network/xunit"
+

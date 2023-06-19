@@ -3,7 +3,9 @@ title = "Zeta"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zetafinance"]
+github_organizations = [
+  "https://github.com/zetafinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/zetafinance/zeta-docs"
 
 [[repo]]
 url = "https://github.com/zetafinance/zeta-subgraph"
+

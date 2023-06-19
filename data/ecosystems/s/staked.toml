@@ -3,7 +3,9 @@ title = "Staked"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Stakedllc"]
+github_organizations = [
+  "https://github.com/Stakedllc",
+]
 
 # Repositories
 [[repo]]
@@ -179,3 +181,4 @@ url = "https://github.com/Stakedllc/validator-profiles-1"
 
 [[repo]]
 url = "https://github.com/Stakedllc/YIPs"
+

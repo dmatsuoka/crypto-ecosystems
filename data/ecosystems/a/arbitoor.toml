@@ -3,7 +3,9 @@ title = "arbitoor"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arbitoor"]
+github_organizations = [
+  "https://github.com/arbitoor",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/arbitoor/arbitoor-core"
 
 [[repo]]
 url = "https://github.com/arbitoor/arbitoor-ui"
+

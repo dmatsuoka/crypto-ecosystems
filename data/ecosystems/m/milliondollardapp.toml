@@ -3,7 +3,9 @@ title = "MillionDollarDAPP"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MillionDollarDapp"]
+github_organizations = [
+  "https://github.com/MillionDollarDapp",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/MillionDollarDapp/ipfs-proxy"
 
 [[repo]]
 url = "https://github.com/MillionDollarDapp/mdapp-vue"
+

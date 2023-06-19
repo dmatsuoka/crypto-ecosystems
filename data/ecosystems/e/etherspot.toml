@@ -3,7 +3,9 @@ title = "Etherspot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/etherspot"]
+github_organizations = [
+  "https://github.com/etherspot",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/etherspot/eip1271-website"
 
 [[repo]]
 url = "https://github.com/etherspot/erc-4337-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/etherspot/ethereum-optimism.github.io"
@@ -65,3 +68,4 @@ url = "https://github.com/etherspot/skandha"
 
 [[repo]]
 url = "https://github.com/etherspot/transaction-kit"
+

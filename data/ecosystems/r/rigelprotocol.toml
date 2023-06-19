@@ -3,7 +3,9 @@ title = "RigelProtocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rigelprotocol"]
+github_organizations = [
+  "https://github.com/rigelprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/rigelprotocol/SmartswapDappV2"
 
 [[repo]]
 url = "https://github.com/rigelprotocol/smartswapv1"
+

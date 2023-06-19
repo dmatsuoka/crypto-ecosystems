@@ -3,7 +3,9 @@ title = "SparksPay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sparkspay"]
+github_organizations = [
+  "https://github.com/sparkspay",
+]
 
 # Repositories
 [[repo]]
@@ -128,3 +130,4 @@ url = "https://github.com/sparkspay/sparksrank"
 
 [[repo]]
 url = "https://github.com/sparkspay/TipBot"
+

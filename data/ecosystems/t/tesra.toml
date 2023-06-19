@@ -3,7 +3,9 @@ title = "Tesra"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TesraSupernet"]
+github_organizations = [
+  "https://github.com/TesraSupernet",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/TesraSupernet/tesrasdk-ts"
 
 [[repo]]
 url = "https://github.com/TesraSupernet/wagon"
+

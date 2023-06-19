@@ -3,7 +3,9 @@ title = "Liquality"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/liquality"]
+github_organizations = [
+  "https://github.com/liquality",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/liquality/wav-game-contracts"
 
 [[repo]]
 url = "https://github.com/liquality/wav-game-data"
+

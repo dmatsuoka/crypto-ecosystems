@@ -3,7 +3,9 @@ title = "TMT Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TMT-Tron"]
+github_organizations = [
+  "https://github.com/TMT-Tron",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/TMT-Tron/TMT"
 
 [[repo]]
 url = "https://github.com/TMT-Tron/WTMT"
+

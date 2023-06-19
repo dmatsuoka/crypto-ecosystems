@@ -3,7 +3,9 @@ title = "Infinity Economics"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InfinityEconomicsPlatform"]
+github_organizations = [
+  "https://github.com/InfinityEconomicsPlatform",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/InfinityEconomicsPlatform/wallet-build"
 
 [[repo]]
 url = "https://github.com/InfinityEconomicsPlatform/wallet-source"
+

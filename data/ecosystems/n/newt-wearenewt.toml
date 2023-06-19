@@ -3,7 +3,9 @@ title = "Newt (WeAreNewt)"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WeAreNewt"]
+github_organizations = [
+  "https://github.com/WeAreNewt",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/WeAreNewt/TradingCards"
 
 [[repo]]
 url = "https://github.com/WeAreNewt/ZkTicketing"
+

@@ -3,7 +3,9 @@ title = "Snowbank"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SnowbankDAO"]
+github_organizations = [
+  "https://github.com/SnowbankDAO",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/SnowbankDAO/snowswap-sdk"
 
 [[repo]]
 url = "https://github.com/SnowbankDAO/snowswap-token-lists"
+

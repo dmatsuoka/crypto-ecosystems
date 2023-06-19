@@ -3,7 +3,9 @@ title = "LlamaPay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LlamaPay"]
+github_organizations = [
+  "https://github.com/LlamaPay",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/LlamaPay/llamapay"
 
 [[repo]]
 url = "https://github.com/LlamaPay/llamapay-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/LlamaPay/llamapay-bot-subgraph"
@@ -29,6 +32,7 @@ url = "https://github.com/LlamaPay/llamapay-v2"
 
 [[repo]]
 url = "https://github.com/LlamaPay/llamapay-v2-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/LlamaPay/llamapay-vesting-reasons"
@@ -47,6 +51,7 @@ url = "https://github.com/LlamaPay/oracle"
 
 [[repo]]
 url = "https://github.com/LlamaPay/scheduled-transfers"
+missing = true
 
 [[repo]]
 url = "https://github.com/LlamaPay/token-escrow"
@@ -59,3 +64,4 @@ url = "https://github.com/LlamaPay/withdrawal-bot-contract"
 
 [[repo]]
 url = "https://github.com/LlamaPay/yearn-vesting-escrow"
+

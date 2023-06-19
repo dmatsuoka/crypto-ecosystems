@@ -3,7 +3,9 @@ title = "Cannon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/usecannon"]
+github_organizations = [
+  "https://github.com/usecannon",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/usecannon/uniswap-v3-periphery"
 
 [[repo]]
 url = "https://github.com/usecannon/wyvern-ethereum"
+

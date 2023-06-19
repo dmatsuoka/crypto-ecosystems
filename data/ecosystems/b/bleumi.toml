@@ -3,7 +3,9 @@ title = "Bleumi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bleumi"]
+github_organizations = [
+  "https://github.com/bleumi",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/bleumi/payment-sdk-php"
 
 [[repo]]
 url = "https://github.com/bleumi/solidity-payment-processor"
+

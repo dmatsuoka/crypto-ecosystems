@@ -3,7 +3,9 @@ title = "Safle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/getsafle"]
+github_organizations = [
+  "https://github.com/getsafle",
+]
 
 # Repositories
 [[repo]]
@@ -74,6 +76,7 @@ url = "https://github.com/getsafle/safle-identity-wallet"
 
 [[repo]]
 url = "https://github.com/getsafle/safle-keyless"
+missing = true
 
 [[repo]]
 url = "https://github.com/getsafle/safle-keyless-core"
@@ -158,3 +161,4 @@ url = "https://github.com/getsafle/vault-tezos-controller"
 
 [[repo]]
 url = "https://github.com/getsafle/vault-velas-controller"
+

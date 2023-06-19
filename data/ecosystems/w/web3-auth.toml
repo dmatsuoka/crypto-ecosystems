@@ -3,7 +3,9 @@ title = "Web3 Auth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Web3Auth"]
+github_organizations = [
+  "https://github.com/Web3Auth",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/Web3Auth/biconomy-web3auth-example"
 
 [[repo]]
 url = "https://github.com/Web3Auth/discourse-importer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Web3Auth/discourse-web3auth-theme"
@@ -56,6 +59,7 @@ url = "https://github.com/Web3Auth/single-factor-auth-android"
 
 [[repo]]
 url = "https://github.com/Web3Auth/single-factor-auth-java"
+missing = true
 
 [[repo]]
 url = "https://github.com/Web3Auth/single-factor-auth-swift"
@@ -137,3 +141,4 @@ url = "https://github.com/Web3Auth/web3auth-wagmi-connector"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-web"
+

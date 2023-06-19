@@ -3,7 +3,9 @@ title = "Blockfrost"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockfrost"]
+github_organizations = [
+  "https://github.com/blockfrost",
+]
 
 # Repositories
 [[repo]]
@@ -107,3 +109,4 @@ url = "https://github.com/blockfrost/ogmios"
 
 [[repo]]
 url = "https://github.com/blockfrost/openapi"
+

@@ -3,7 +3,9 @@ title = "Unitrade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UniTradeApp"]
+github_organizations = [
+  "https://github.com/UniTradeApp",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/UniTradeApp/unitrade-v2-service"
 
 [[repo]]
 url = "https://github.com/UniTradeApp/unitrade-v3-service"
+

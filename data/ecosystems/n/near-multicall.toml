@@ -3,7 +3,9 @@ title = "NEAR Multicall"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/near-multicall"]
+github_organizations = [
+  "https://github.com/near-multicall",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/near-multicall/nearcon22"
 
 [[repo]]
 url = "https://github.com/near-multicall/ui"
+

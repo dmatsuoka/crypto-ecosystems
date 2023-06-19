@@ -3,7 +3,9 @@ title = "verida"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/verida"]
+github_organizations = [
+  "https://github.com/verida",
+]
 
 # Repositories
 [[repo]]
@@ -131,3 +133,4 @@ url = "https://github.com/verida/vue-starter-kit"
 
 [[repo]]
 url = "https://github.com/verida/wallet-utils"
+

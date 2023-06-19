@@ -3,7 +3,9 @@ title = "Ammer Tech"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ammer-Tech"]
+github_organizations = [
+  "https://github.com/Ammer-Tech",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/Ammer-Tech/ammerwallet-extension"
 
 [[repo]]
 url = "https://github.com/Ammer-Tech/asset-library"
+missing = true
 
 [[repo]]
 url = "https://github.com/Ammer-Tech/casper-golang-sdk"
@@ -23,3 +26,4 @@ url = "https://github.com/Ammer-Tech/litecoinj"
 
 [[repo]]
 url = "https://github.com/Ammer-Tech/ton4j"
+

@@ -3,7 +3,9 @@ title = "Yieldscan"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yieldscan"]
+github_organizations = [
+  "https://github.com/yieldscan",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/yieldscan/ys-interfaces"
 
 [[repo]]
 url = "https://github.com/yieldscan/ys-models"
+

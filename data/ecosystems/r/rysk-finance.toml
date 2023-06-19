@@ -3,7 +3,9 @@ title = "Rysk Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rysk-finance"]
+github_organizations = [
+  "https://github.com/rysk-finance",
+]
 
 # Repositories
 [[repo]]
@@ -41,6 +43,8 @@ url = "https://github.com/rysk-finance/rysk-subgraph-arbitrum"
 
 [[repo]]
 url = "https://github.com/rysk-finance/tokyo-hack"
+missing = true
 
 [[repo]]
 url = "https://github.com/rysk-finance/volatility-trading"
+

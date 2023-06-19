@@ -3,8 +3,11 @@ title = "Polkastream"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polkastream"]
+github_organizations = [
+  "https://github.com/polkastream",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/polkastream/pstr"
+

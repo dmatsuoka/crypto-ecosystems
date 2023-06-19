@@ -3,7 +3,9 @@ title = "Rabet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rabetofficial"]
+github_organizations = [
+  "https://github.com/rabetofficial",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/rabetofficial/rabet-mobile"
 
 [[repo]]
 url = "https://github.com/rabetofficial/xdr-parser"
+

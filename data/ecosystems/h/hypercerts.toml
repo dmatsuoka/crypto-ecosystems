@@ -3,7 +3,9 @@ title = "Hypercerts"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hypercerts-org"]
+github_organizations = [
+  "https://github.com/hypercerts-org",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/hypercerts-org/hypercerts"
 
 [[repo]]
 url = "https://github.com/Network-Goods/hypercerts"
+

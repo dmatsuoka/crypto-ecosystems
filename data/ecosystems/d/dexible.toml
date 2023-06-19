@@ -3,7 +3,9 @@ title = "Dexible"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BUIDLHub"]
+github_organizations = [
+  "https://github.com/BUIDLHub",
+]
 
 # Repositories
 [[repo]]
@@ -113,3 +115,4 @@ url = "https://github.com/BUIDLHub/terraform-aws-s3-301-redirect"
 
 [[repo]]
 url = "https://github.com/BUIDLHub/walletconnect-example-dapp"
+

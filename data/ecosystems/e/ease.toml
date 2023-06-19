@@ -3,7 +3,9 @@ title = "Ease"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EaseDeFi"]
+github_organizations = [
+  "https://github.com/EaseDeFi",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/EaseDeFi/yield-server"
 
 [[repo]]
 url = "https://github.com/EaseDeFi/yinsure-finance"
+

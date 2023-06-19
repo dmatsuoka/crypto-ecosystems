@@ -3,7 +3,9 @@ title = "InterCrone"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InterCroneworldOrg"]
+github_organizations = [
+  "https://github.com/InterCroneworldOrg",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/InterCroneworldOrg/v2-periphery"
 
 [[repo]]
 url = "https://github.com/InterCroneworldOrg/v2-sdk"
+

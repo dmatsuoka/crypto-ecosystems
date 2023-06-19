@@ -3,7 +3,9 @@ title = "LikeCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/likecoin"]
+github_organizations = [
+  "https://github.com/likecoin",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/likecoin/awesome-g0v-projects"
 
 [[repo]]
 url = "https://github.com/likecoin/big_dipper"
+missing = true
 
 [[repo]]
 url = "https://github.com/likecoin/blockies"
@@ -89,6 +92,7 @@ url = "https://github.com/likecoin/explorer"
 
 [[repo]]
 url = "https://github.com/likecoin/forbole-x"
+missing = true
 
 [[repo]]
 url = "https://github.com/likecoin/gaia"
@@ -146,6 +150,7 @@ url = "https://github.com/likecoin/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/likecoin/keplr-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/likecoin/like-co"
@@ -158,6 +163,7 @@ url = "https://github.com/likecoin/likecoin"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-api-next"
+missing = true
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-api-public"
@@ -311,6 +317,7 @@ url = "https://github.com/likecoin/osmosis"
 
 [[repo]]
 url = "https://github.com/likecoin/osmosis-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/likecoin/pdf.js"
@@ -389,3 +396,4 @@ url = "https://github.com/likecoin/vue-simple-svg"
 
 [[repo]]
 url = "https://github.com/likecoin/vue-stack-grid"
+

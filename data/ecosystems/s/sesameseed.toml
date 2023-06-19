@@ -3,17 +3,22 @@ title = "Sesameseed"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sesame-seed"]
+github_organizations = [
+  "https://github.com/sesame-seed",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/sesame-seed/poppy-link"
+missing = true
 
 [[repo]]
 url = "https://github.com/sesame-seed/Unifi-contracts-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/sesame-seed/Unifi-Docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/unifiprotocol/DefiYieldCrawler"
@@ -41,3 +46,4 @@ url = "https://github.com/unifiprotocol/unifi-sdk"
 
 [[repo]]
 url = "https://github.com/unifiprotocol/validator-logos"
+

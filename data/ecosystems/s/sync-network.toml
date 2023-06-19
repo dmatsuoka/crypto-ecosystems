@@ -3,7 +3,9 @@ title = "Sync Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/C-O-F-E"]
+github_organizations = [
+  "https://github.com/C-O-F-E",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/C-O-F-E/SYNC-WEBSITE"
 
 [[repo]]
 url = "https://github.com/C-O-F-E/VaultX-OnePager"
+

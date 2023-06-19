@@ -3,7 +3,9 @@ title = "Bella Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bella-DeFinTech"]
+github_organizations = [
+  "https://github.com/Bella-DeFinTech",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Bella-DeFinTech/uniswap-v3-bot"
 
 [[repo]]
 url = "https://github.com/Bella-DeFinTech/uniswap-v3-simulator"
+

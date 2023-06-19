@@ -3,7 +3,9 @@ title = "Woonkly Power"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Woonkly"]
+github_organizations = [
+  "https://github.com/Woonkly",
+]
 
 # Repositories
 [[repo]]
@@ -206,3 +208,4 @@ url = "https://github.com/Woonkly/Wrapped_Tokens"
 
 [[repo]]
 url = "https://github.com/Woonkly/wtDAI"
+

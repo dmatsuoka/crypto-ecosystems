@@ -3,7 +3,9 @@ title = "IX Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IX-Swap"]
+github_organizations = [
+  "https://github.com/IX-Swap",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/IX-Swap/v2-sdk"
 
 [[repo]]
 url = "https://github.com/IX-Swap/v2-subgraph"
+

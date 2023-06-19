@@ -3,7 +3,9 @@ title = "Telcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/telcoin"]
+github_organizations = [
+  "https://github.com/telcoin",
+]
 
 # Repositories
 [[repo]]
@@ -65,9 +67,11 @@ url = "https://github.com/telcoin/substrate"
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-laboratories"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-staking"
@@ -83,3 +87,4 @@ url = "https://github.com/telcoin/token-profile"
 
 [[repo]]
 url = "https://github.com/telcoin/wyre"
+

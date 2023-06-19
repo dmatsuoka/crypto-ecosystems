@@ -3,7 +3,9 @@ title = "NAOS Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NAOS-Finance"]
+github_organizations = [
+  "https://github.com/NAOS-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/NAOS-Finance/vfat-tools"
 
 [[repo]]
 url = "https://github.com/NAOS-Finance/yield-server"
+

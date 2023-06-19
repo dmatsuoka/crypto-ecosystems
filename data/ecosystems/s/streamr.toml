@@ -3,7 +3,9 @@ title = "Streamr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/streamr-dev"]
+github_organizations = [
+  "https://github.com/streamr-dev",
+]
 
 # Repositories
 [[repo]]
@@ -314,6 +316,7 @@ url = "https://github.com/streamr-dev/streamr-test-utils"
 
 [[repo]]
 url = "https://github.com/streamr-dev/streamr-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/streamr-dev/StreamrFS"
@@ -365,3 +368,4 @@ url = "https://github.com/streamr-dev/zeppelin-solidity"
 
 [[repo]]
 url = "https://github.com/streamr-dev/zxcvbn"
+

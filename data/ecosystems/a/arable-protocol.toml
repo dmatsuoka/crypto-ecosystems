@@ -3,7 +3,9 @@ title = "Arable Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArableProtocol"]
+github_organizations = [
+  "https://github.com/ArableProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,5 @@ url = "https://github.com/ArableProtocol/slips"
 
 [[repo]]
 url = "https://github.com/ArableProtocol/synthetix"
+missing = true
+

@@ -3,7 +3,9 @@ title = "CycleOps"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CycleOperators"]
+github_organizations = [
+  "https://github.com/CycleOperators",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/CycleOperators/BalanceCheckerVerification"
 
 [[repo]]
 url = "https://github.com/CycleOperators/motoko-hash-map"
+

@@ -3,7 +3,9 @@ title = "Artiqox"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/artiqox"]
+github_organizations = [
+  "https://github.com/artiqox",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/artiqox/RFBNetwork"
 
 [[repo]]
 url = "https://github.com/artiqox/ride-examples"
+

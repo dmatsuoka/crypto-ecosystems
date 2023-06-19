@@ -3,7 +3,9 @@ title = "ZigZag Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ZigZagExchange"]
+github_organizations = [
+  "https://github.com/ZigZagExchange",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,14 @@ url = "https://github.com/ZigZagExchange/hummingbot"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/InvisibL3"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/landing-site"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/lightning-dex"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/mammoth_UI"
@@ -59,3 +63,4 @@ url = "https://github.com/ZigZagExchange/zigzag_swap"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/zznft"
+

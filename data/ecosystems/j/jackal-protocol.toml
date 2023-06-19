@@ -3,7 +3,9 @@ title = "Jackal Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/JackalLabs"]
+github_organizations = [
+  "https://github.com/JackalLabs",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/JackalLabs/retriever-ui"
 
 [[repo]]
 url = "https://github.com/JackalLabs/secret-toolkit-fork"
+missing = true
 
 [[repo]]
 url = "https://github.com/JackalLabs/shepard-gateway"
@@ -122,3 +125,4 @@ url = "https://github.com/JackalLabs/wasmd"
 
 [[repo]]
 url = "https://github.com/JackalLabs/woof"
+

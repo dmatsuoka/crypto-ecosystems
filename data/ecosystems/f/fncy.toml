@@ -3,7 +3,9 @@ title = "FNCY"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/itamgames"]
+github_organizations = [
+  "https://github.com/itamgames",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/itamgames/serverless-plugin-typescript"
 
 [[repo]]
 url = "https://github.com/itamgames/snapshot-spaces"
+

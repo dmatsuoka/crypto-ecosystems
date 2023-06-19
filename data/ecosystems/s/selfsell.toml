@@ -3,7 +3,9 @@ title = "SelfSell"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SelfSellTeam"]
+github_organizations = [
+  "https://github.com/SelfSellTeam",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/SelfSellTeam/test"
 
 [[repo]]
 url = "https://github.com/SelfSellTeam/Wallet"
+

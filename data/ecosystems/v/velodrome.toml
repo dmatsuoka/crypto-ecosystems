@@ -3,7 +3,9 @@ title = "Velodrome"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/velodrome-finance"]
+github_organizations = [
+  "https://github.com/velodrome-finance",
+]
 
 # Repositories
 [[repo]]
@@ -29,12 +31,14 @@ url = "https://github.com/velodrome-finance/docs"
 
 [[repo]]
 url = "https://github.com/velodrome-finance/dune-spellbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/velodrome-finance/info"
 
 [[repo]]
 url = "https://github.com/velodrome-finance/multicall.py"
+missing = true
 
 [[repo]]
 url = "https://github.com/velodrome-finance/optimism-node"
@@ -44,9 +48,11 @@ url = "https://github.com/velodrome-finance/oracle"
 
 [[repo]]
 url = "https://github.com/velodrome-finance/rainbowkit-with-safe"
+missing = true
 
 [[repo]]
 url = "https://github.com/velodrome-finance/subgraph"
 
 [[repo]]
 url = "https://github.com/velodrome-finance/sugar"
+

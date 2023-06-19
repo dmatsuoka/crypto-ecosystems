@@ -3,7 +3,9 @@ title = "Gitshock Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gitshock-labs"]
+github_organizations = [
+  "https://github.com/gitshock-labs",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/gitshock-labs/axelar-network-dashboard"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/blockchain-studio"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/BNB-Chain-Smart-Contract"
@@ -137,6 +140,7 @@ url = "https://github.com/gitshock-labs/gitshock-yui-ibc"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gitshockevm-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gitshoo-scan"
@@ -146,6 +150,7 @@ url = "https://github.com/gitshock-labs/go-ethereum"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/go-jvft"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/go-tfx-evm"
@@ -251,12 +256,14 @@ url = "https://github.com/gitshock-labs/testnet-deposit-automation"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-evm-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-list"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-validator-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/token-metadata"
@@ -269,3 +276,4 @@ url = "https://github.com/gitshock-labs/web3.js"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/whitelist"
+

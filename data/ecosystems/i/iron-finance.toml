@@ -3,7 +3,9 @@ title = "Iron Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IronFinance"]
+github_organizations = [
+  "https://github.com/IronFinance",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/IronFinance/tid-lottery-contracts"
 
 [[repo]]
 url = "https://github.com/IronFinance/tid-lottery-ui"
+

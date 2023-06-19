@@ -3,7 +3,9 @@ title = "Laminar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/laminar-protocol"]
+github_organizations = [
+  "https://github.com/laminar-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/laminar-protocol/SubstrateDAO"
 
 [[repo]]
 url = "https://github.com/laminar-protocol/Web3-collaboration"
+

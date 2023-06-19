@@ -3,7 +3,9 @@ title = "Sencha"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SenchaHQ"]
+github_organizations = [
+  "https://github.com/SenchaHQ",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/SenchaHQ/solana"
 
 [[repo]]
 url = "https://github.com/SenchaHQ/solana-program-registry"
+

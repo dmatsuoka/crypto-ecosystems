@@ -3,7 +3,9 @@ title = "SovrynBTC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DistributedCollective"]
+github_organizations = [
+  "https://github.com/DistributedCollective",
+]
 
 # Repositories
 [[repo]]
@@ -245,3 +247,4 @@ url = "https://github.com/DistributedCollective/Zero_liquidator"
 
 [[repo]]
 url = "https://github.com/swamp-thing-sovryn/sov-zero"
+

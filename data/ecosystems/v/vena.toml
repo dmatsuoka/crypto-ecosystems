@@ -3,7 +3,9 @@ title = "VENA"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/venanetwork"]
+github_organizations = [
+  "https://github.com/venanetwork",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/venanetwork/quadrant"
 
 [[repo]]
 url = "https://github.com/venanetwork/tron-smart-contract-security-best-practices"
+

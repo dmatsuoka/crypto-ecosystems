@@ -3,7 +3,9 @@ title = "WeaveDB"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/weavedb"]
+github_organizations = [
+  "https://github.com/weavedb",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/weavedb/weavedb"
 
 [[repo]]
 url = "https://github.com/weavedb/webmax.js"
+

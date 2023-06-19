@@ -3,7 +3,9 @@ title = "DeFireX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeFireX"]
+github_organizations = [
+  "https://github.com/DeFireX",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/DeFireX/venus-proposal"
 
 [[repo]]
 url = "https://github.com/DeFireX/venus-protocol"
+

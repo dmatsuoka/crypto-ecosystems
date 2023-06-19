@@ -3,7 +3,9 @@ title = "Farcaster"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/farcasterxyz"]
+github_organizations = [
+  "https://github.com/farcasterxyz",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/YashKarthik/friendcaster"
 
 [[repo]]
 url = "https://github.com/zachterrell57/farcaster-auth"
+

@@ -3,7 +3,9 @@ title = "Decentralized News Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dnnmedia"]
+github_organizations = [
+  "https://github.com/dnnmedia",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/dnnmedia/slate"
 
 [[repo]]
 url = "https://github.com/dnnmedia/testrpc"
+

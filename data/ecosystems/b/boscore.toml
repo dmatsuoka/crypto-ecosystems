@@ -3,7 +3,9 @@ title = "BOSCore"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boscore"]
+github_organizations = [
+  "https://github.com/boscore",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/boscore/referendum-ui"
 
 [[repo]]
 url = "https://github.com/boscore/wiki"
+

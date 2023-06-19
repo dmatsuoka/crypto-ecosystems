@@ -3,7 +3,9 @@ title = "Ejara"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EjaraApp"]
+github_organizations = [
+  "https://github.com/EjaraApp",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/EjaraApp/trustdart"
 
 [[repo]]
 url = "https://github.com/EjaraApp/wallet-backup-smart-contract"
+

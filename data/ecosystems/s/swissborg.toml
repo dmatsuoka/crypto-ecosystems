@@ -3,7 +3,9 @@ title = "SwissBorg"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SwissBorg"]
+github_organizations = [
+  "https://github.com/SwissBorg",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/SwissBorg/Business"
 
 [[repo]]
 url = "https://github.com/SwissBorg/c-share"
+missing = true
 
 [[repo]]
 url = "https://github.com/SwissBorg/contract-metadata"
@@ -50,6 +53,7 @@ url = "https://github.com/SwissBorg/sbci-token"
 
 [[repo]]
 url = "https://github.com/SwissBorg/swissborg.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/SwissBorg/tapir"
@@ -59,3 +63,4 @@ url = "https://github.com/SwissBorg/voting-token"
 
 [[repo]]
 url = "https://github.com/SwissBorg/web-challenge"
+

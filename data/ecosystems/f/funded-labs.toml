@@ -3,7 +3,9 @@ title = "Funded Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/funded-labs"]
+github_organizations = [
+  "https://github.com/funded-labs",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/funded-labs/crowdfund-nft"
 
 [[repo]]
 url = "https://github.com/funded-labs/escrow_manager"
+

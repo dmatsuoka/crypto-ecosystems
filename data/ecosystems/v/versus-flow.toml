@@ -3,7 +3,9 @@ title = "Versus@Flow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/versus-flow"]
+github_organizations = [
+  "https://github.com/versus-flow",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/versus-flow/versus-contracts"
 
 [[repo]]
 url = "https://github.com/versus-flow/versusapp"
+

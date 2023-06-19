@@ -3,7 +3,9 @@ title = "Rage Trade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RageTrade"]
+github_organizations = [
+  "https://github.com/RageTrade",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/RageTrade/utilities"
 
 [[repo]]
 url = "https://github.com/RageTrade/v3-subgraph"
+

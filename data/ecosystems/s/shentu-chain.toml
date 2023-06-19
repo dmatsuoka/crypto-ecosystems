@@ -3,7 +3,9 @@ title = "Shentu Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShentuChain"]
+github_organizations = [
+  "https://github.com/ShentuChain",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/shentufoundation/shentu"
 
 [[repo]]
 url = "https://github.com/shentufoundation/testnet"
+

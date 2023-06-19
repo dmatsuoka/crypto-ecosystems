@@ -3,7 +3,9 @@ title = "Project Wyvern"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProjectWyvern"]
+github_organizations = [
+  "https://github.com/ProjectWyvern",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/ProjectWyvern/wyvern-solo-pool"
 
 [[repo]]
 url = "https://github.com/ProjectWyvern/wyvern-voting"
+

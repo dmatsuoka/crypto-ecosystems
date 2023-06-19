@@ -3,7 +3,9 @@ title = "CryptoBlades"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CryptoBlades"]
+github_organizations = [
+  "https://github.com/CryptoBlades",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/CryptoBlades/cb-multifarm-bot"
 
 [[repo]]
 url = "https://github.com/CryptoBlades/cb-tracker-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/CryptoBlades/cbdiscordbot"
@@ -68,3 +71,4 @@ url = "https://github.com/CryptoBlades/uptime"
 
 [[repo]]
 url = "https://github.com/CryptoBlades/village-builder"
+

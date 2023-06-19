@@ -3,7 +3,9 @@ title = "vfat.tools"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vfat-tools"]
+github_organizations = [
+  "https://github.com/vfat-tools",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/vfat-tools/solmate"
 
 [[repo]]
 url = "https://github.com/vfat-tools/vfat-tools"
+

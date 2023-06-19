@@ -3,7 +3,9 @@ title = "GoDatingFi.com"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GoDatingFi"]
+github_organizations = [
+  "https://github.com/GoDatingFi",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/GoDatingFi/tree_genealogy"
 
 [[repo]]
 url = "https://github.com/GoDatingFi/wallet_sdk_metamask"
+

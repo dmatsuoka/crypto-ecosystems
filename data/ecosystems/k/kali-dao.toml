@@ -3,7 +3,9 @@ title = "Kali Dao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kalidao"]
+github_organizations = [
+  "https://github.com/kalidao",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/kalidao/wrappr-subgraph"
 
 [[repo]]
 url = "https://github.com/kalidao/wrappr-ui"
+

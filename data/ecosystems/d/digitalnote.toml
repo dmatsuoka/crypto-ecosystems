@@ -3,7 +3,9 @@ title = "DigitalNote"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DigitalNoteXDN"]
+github_organizations = [
+  "https://github.com/DigitalNoteXDN",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/DigitalNoteXDN/OLD-digitalnote"
 
 [[repo]]
 url = "https://github.com/DigitalNoteXDN/xdn-installer"
+

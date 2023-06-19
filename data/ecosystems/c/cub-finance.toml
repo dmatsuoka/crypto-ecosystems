@@ -3,7 +3,9 @@ title = "Cub Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CubFinance"]
+github_organizations = [
+  "https://github.com/CubFinance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/CubFinance/polycub-contracts"
 
 [[repo]]
 url = "https://github.com/CubFinance/polycub-uikit"
+

@@ -3,7 +3,9 @@ title = "ZPER"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zperteam"]
+github_organizations = [
+  "https://github.com/zperteam",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/zperteam/TokennSalenTools"
 
 [[repo]]
 url = "https://github.com/zperteam/zperlight"
+

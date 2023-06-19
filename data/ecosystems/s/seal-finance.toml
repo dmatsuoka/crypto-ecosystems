@@ -3,7 +3,9 @@ title = "Seal Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sealchain-project"]
+github_organizations = [
+  "https://github.com/sealchain-project",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/sealchain-project/sealchain"
 
 [[repo]]
 url = "https://github.com/sealchain-project/wallet"
+

@@ -3,7 +3,9 @@ title = "Robot"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MetaFactoryAI"]
+github_organizations = [
+  "https://github.com/MetaFactoryAI",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/MetaFactoryAI/wearable-nft-claims"
 
 [[repo]]
 url = "https://github.com/MetaFactoryAI/wearables-nfts"
+

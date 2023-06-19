@@ -3,7 +3,9 @@ title = "Magi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/magi-project"]
+github_organizations = [
+  "https://github.com/magi-project",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/magi-project/obsolete-magi-minerd"
 
 [[repo]]
 url = "https://github.com/magi-project/wolf-m7m-cpuminer-V2"
+

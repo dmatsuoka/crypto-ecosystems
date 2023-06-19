@@ -3,7 +3,9 @@ title = "Roxe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RoxeNet"]
+github_organizations = [
+  "https://github.com/RoxeNet",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/RoxeNet/RoxeChain"
 
 [[repo]]
 url = "https://github.com/RoxeNet/RoxeInfo"
+

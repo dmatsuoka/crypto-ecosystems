@@ -3,7 +3,9 @@ title = "Democracy Earth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DemocracyEarth"]
+github_organizations = [
+  "https://github.com/DemocracyEarth",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/DemocracyEarth/vzla-propone-cambio"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/wallet"
+

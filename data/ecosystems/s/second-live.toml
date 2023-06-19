@@ -3,7 +3,9 @@ title = "Second Live"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SecondLive"]
+github_organizations = [
+  "https://github.com/SecondLive",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/SecondLive/logo"
 
 [[repo]]
 url = "https://github.com/SecondLive/SecondLiveMakerSDK"
+

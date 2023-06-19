@@ -3,7 +3,9 @@ title = "ICEvent"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ICEvent"]
+github_organizations = [
+  "https://github.com/ICEvent",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,8 @@ url = "https://github.com/ICEvent/Treasury"
 
 [[repo]]
 url = "https://github.com/ICEvent/UserDepot"
+missing = true
 
 [[repo]]
 url = "https://github.com/ICEvent/Widgets"
+

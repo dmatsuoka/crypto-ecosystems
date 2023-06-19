@@ -3,7 +3,9 @@ title = "0xCapsules"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/0xcapsules"]
+github_organizations = [
+  "https://github.com/0xcapsules",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/0xcapsules/sui"
 
 [[repo]]
 url = "https://github.com/0xcapsules/sui-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/capsule-craft/aptos-staking"
@@ -38,3 +41,4 @@ url = "https://github.com/capsule-craft/phantom-deeplink-utils"
 
 [[repo]]
 url = "https://github.com/capsule-craft/sui-playground"
+

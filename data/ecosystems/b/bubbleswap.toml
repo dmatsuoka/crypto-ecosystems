@@ -3,7 +3,9 @@ title = "BubbleSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bubbleswapio"]
+github_organizations = [
+  "https://github.com/bubbleswapio",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/bubbleswapio/amm-v1"
 
 [[repo]]
 url = "https://github.com/bubbleswapio/DefiLlama-Adapters"
+

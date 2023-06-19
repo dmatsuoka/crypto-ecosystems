@@ -3,7 +3,9 @@ title = "Yudus Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/yudus-labs"]
+github_organizations = [
+  "https://github.com/yudus-labs",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/yudus-labs/polka-index"
 
 [[repo]]
 url = "https://github.com/yudus-labs/polka-index-backend"
+

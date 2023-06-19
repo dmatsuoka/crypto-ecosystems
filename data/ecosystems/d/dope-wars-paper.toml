@@ -3,7 +3,9 @@ title = "Dope Wars Paper"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dopedao"]
+github_organizations = [
+  "https://github.com/dopedao",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/dopedao/subgraph"
 
 [[repo]]
 url = "https://github.com/dopedao/turf-builder"
+

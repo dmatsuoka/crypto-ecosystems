@@ -3,7 +3,9 @@ title = "Flowser"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/onflowser"]
+github_organizations = [
+  "https://github.com/onflowser",
+]
 
 # Repositories
 [[repo]]
@@ -20,9 +22,11 @@ url = "https://github.com/onflowser/flowser"
 
 [[repo]]
 url = "https://github.com/onflowser/flowtea"
+missing = true
 
 [[repo]]
 url = "https://github.com/onflowser/linklock"
 
 [[repo]]
 url = "https://github.com/onflowser/website"
+

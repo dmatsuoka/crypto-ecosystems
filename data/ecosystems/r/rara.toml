@@ -3,7 +3,9 @@ title = "Rara"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rara-social"]
+github_organizations = [
+  "https://github.com/rara-social",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/rara-social/rara-sourcecred"
 
 [[repo]]
 url = "https://github.com/rara-social/rara-tech-challenge"
+

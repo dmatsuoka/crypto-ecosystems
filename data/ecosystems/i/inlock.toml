@@ -3,7 +3,9 @@ title = "INLOCK"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IncomeLocker"]
+github_organizations = [
+  "https://github.com/IncomeLocker",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/IncomeLocker/ilktoken-contract"
 
 [[repo]]
 url = "https://github.com/IncomeLocker/InlockApiGW"
+

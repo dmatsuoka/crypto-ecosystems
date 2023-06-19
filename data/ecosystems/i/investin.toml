@@ -3,7 +3,9 @@ title = "Investin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Investin-pro"]
+github_organizations = [
+  "https://github.com/Investin-pro",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/Investin-pro/token-vesting"
 
 [[repo]]
 url = "https://github.com/Investin-pro/ui-components"
+

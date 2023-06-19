@@ -3,7 +3,9 @@ title = "IndexZoo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/IndexZoo"]
+github_organizations = [
+  "https://github.com/IndexZoo",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/IndexZoo/Zoo-Leverage-Token-Bear-Bull"
 
 [[repo]]
 url = "https://github.com/IndexZoo/Zoo-Multichain-Composite-Index"
+

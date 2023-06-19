@@ -3,7 +3,9 @@ title = "AutoShark.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/autoshark-finance"]
+github_organizations = [
+  "https://github.com/autoshark-finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/autoshark-finance/pancake-uikit"
 
 [[repo]]
 url = "https://github.com/autoshark-finance/sdk"
+

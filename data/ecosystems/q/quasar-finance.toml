@@ -3,7 +3,9 @@ title = "quasar finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/quasar-finance"]
+github_organizations = [
+  "https://github.com/quasar-finance",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/quasar-finance/wasmd"
 
 [[repo]]
 url = "https://github.com/quasar-finance/web3-load-balancer-configuration"
+

@@ -3,7 +3,9 @@ title = "Beefy.Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/beefyfinance"]
+github_organizations = [
+  "https://github.com/beefyfinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/beefyfinance/beefy-app"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-app-heco"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-audits"
@@ -32,6 +35,7 @@ url = "https://github.com/beefyfinance/beefy-broadcast-api"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-christmas"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-contracts"
@@ -41,6 +45,7 @@ url = "https://github.com/beefyfinance/beefy-cowllector"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-cred"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-dashboard"
@@ -83,6 +88,7 @@ url = "https://github.com/beefyfinance/beefy-starter-pack"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-tac"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-v2"
@@ -122,9 +128,12 @@ url = "https://github.com/beefyfinance/staking"
 
 [[repo]]
 url = "https://github.com/beefyfinance/template-instance"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/traphouse-mirror"
+missing = true
 
 [[repo]]
 url = "https://github.com/beefyfinance/whitehat-snapshot"
+

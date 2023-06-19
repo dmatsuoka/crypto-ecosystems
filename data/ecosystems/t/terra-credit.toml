@@ -3,7 +3,9 @@ title = "Terra Credit"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/The-Terra-Foundation"]
+github_organizations = [
+  "https://github.com/The-Terra-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Credit-Smartchain/credit-source"
 
 [[repo]]
 url = "https://github.com/Credit-Smartchain/CreditPass"
+

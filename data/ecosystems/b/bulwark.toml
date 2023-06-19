@@ -3,7 +3,9 @@ title = "Bulwark"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bulwark-crypto"]
+github_organizations = [
+  "https://github.com/bulwark-crypto",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/bulwark-crypto/Press-Pack"
 
 [[repo]]
 url = "https://github.com/bulwark-crypto/shn"
+

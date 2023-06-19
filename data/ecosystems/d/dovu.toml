@@ -3,7 +3,9 @@ title = "DOVU"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dovuofficial"]
+github_organizations = [
+  "https://github.com/dovuofficial",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/dovuofficial/uniswap-interface"
 
 [[repo]]
 url = "https://github.com/TokenMarketNet/smart-contracts"
+

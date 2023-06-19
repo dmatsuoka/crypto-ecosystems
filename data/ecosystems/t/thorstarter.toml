@@ -3,7 +3,9 @@ title = "Thorstarter"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Thorstarter"]
+github_organizations = [
+  "https://github.com/Thorstarter",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Thorstarter/thorstarter-terra"
 
 [[repo]]
 url = "https://github.com/Thorstarter/thorstarter-tiers-api"
+

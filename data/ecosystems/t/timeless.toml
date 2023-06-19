@@ -3,7 +3,9 @@ title = "Timeless"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/timeless-fi"]
+github_organizations = [
+  "https://github.com/timeless-fi",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/timeless-fi/gauge-foundry"
 
 [[repo]]
 url = "https://github.com/timeless-fi/lbp"
+missing = true
 
 [[repo]]
 url = "https://github.com/timeless-fi/lbp-deployment"
@@ -62,3 +65,4 @@ url = "https://github.com/timeless-fi/xPYT"
 
 [[repo]]
 url = "https://github.com/timeless-fi/yield-daddy"
+

@@ -3,7 +3,9 @@ title = "Angle Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AngleProtocol"]
+github_organizations = [
+  "https://github.com/AngleProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/AngleProtocol/carbon-footprint"
 
 [[repo]]
 url = "https://github.com/AngleProtocol/fei-protocol-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/AngleProtocol/holder-dick-contest"
@@ -110,3 +113,4 @@ url = "https://github.com/AngleProtocol/weekly_holder_subgraph"
 
 [[repo]]
 url = "https://github.com/AngleProtocol/welcome-phrases"
+

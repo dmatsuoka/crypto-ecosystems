@@ -3,7 +3,9 @@ title = "BendDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BendDAO"]
+github_organizations = [
+  "https://github.com/BendDAO",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/BendDAO/bend-nft-wrappers"
 
 [[repo]]
 url = "https://github.com/BendDAO/bend-open-meeting"
+missing = true
 
 [[repo]]
 url = "https://github.com/BendDAO/bend-protocol-subgraph"
@@ -80,3 +83,4 @@ url = "https://github.com/BendDAO/token-profile"
 
 [[repo]]
 url = "https://github.com/BendDAO/yield-server"
+

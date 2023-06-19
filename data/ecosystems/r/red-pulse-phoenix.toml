@@ -3,11 +3,15 @@ title = "Red Pulse Phoenix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RedPulse"]
+github_organizations = [
+  "https://github.com/RedPulse",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/RedPulse/neo-gui-rpx"
+missing = true
 
 [[repo]]
 url = "https://github.com/RedPulse/phx-smart-contract"
+

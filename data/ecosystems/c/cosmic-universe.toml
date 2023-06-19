@@ -3,7 +3,9 @@ title = "Cosmic Universe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thecosmicuniverse"]
+github_organizations = [
+  "https://github.com/thecosmicuniverse",
+]
 
 # Repositories
 [[repo]]
@@ -17,9 +19,11 @@ url = "https://github.com/thecosmicuniverse/contracts"
 
 [[repo]]
 url = "https://github.com/thecosmicuniverse/CU_Characters"
+missing = true
 
 [[repo]]
 url = "https://github.com/thecosmicuniverse/Reliquary"
 
 [[repo]]
 url = "https://github.com/thecosmicuniverse/subgraphs"
+

@@ -3,7 +3,9 @@ title = "Eva"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EvaCoop"]
+github_organizations = [
+  "https://github.com/EvaCoop",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/EvaCoop/ScrollMagic-1"
 
 [[repo]]
 url = "https://github.com/EvaCoop/training"
+

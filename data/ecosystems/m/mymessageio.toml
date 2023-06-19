@@ -3,7 +3,9 @@ title = "myMessageIO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/myMessageio"]
+github_organizations = [
+  "https://github.com/myMessageio",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/myMessageio/staking"
 
 [[repo]]
 url = "https://github.com/myMessageio/tokentracker"
+

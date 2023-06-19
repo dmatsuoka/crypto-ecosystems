@@ -3,7 +3,9 @@ title = "ProximaX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/proximax-storage-foundry"]
+github_organizations = [
+  "https://github.com/proximax-storage-foundry",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/proximax-foundry/xpx-dirloader"
 
 [[repo]]
 url = "https://github.com/proximax-foundry/xpx-java-sdk-cli"
+

@@ -3,7 +3,9 @@ title = "Cool Cats"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coolcatsnft"]
+github_organizations = [
+  "https://github.com/coolcatsnft",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/coolcatsnft/seadrop"
 
 [[repo]]
 url = "https://github.com/coolcatsnft/web3-widget"
+

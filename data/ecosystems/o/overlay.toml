@@ -3,7 +3,9 @@ title = "Overlay"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/overlay-market"]
+github_organizations = [
+  "https://github.com/overlay-market",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/overlay-market/planckcat-interface"
 
 [[repo]]
 url = "https://github.com/overlay-market/planckcat-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/overlay-market/planckcats"
@@ -143,3 +146,4 @@ url = "https://github.com/overlay-market/v3-staker"
 
 [[repo]]
 url = "https://github.com/overlay-market/yearn-workflows"
+

@@ -3,7 +3,9 @@ title = "CodeChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CodeChain-io"]
+github_organizations = [
+  "https://github.com/CodeChain-io",
+]
 
 # Repositories
 [[repo]]
@@ -197,3 +199,4 @@ url = "https://github.com/CodeChain-io/trie-standardmap"
 
 [[repo]]
 url = "https://github.com/CodeChain-io/vrf-rs"
+

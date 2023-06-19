@@ -3,7 +3,9 @@ title = "Kaspa"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kaspanet"]
+github_organizations = [
+  "https://github.com/kaspanet",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/kaspanet/docs"
 
 [[repo]]
 url = "https://github.com/kaspanet/documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/kaspanet/faucet"
@@ -68,3 +71,4 @@ url = "https://github.com/kaspanet/secp256k1"
 
 [[repo]]
 url = "https://github.com/kaspanet/whitepaper"
+

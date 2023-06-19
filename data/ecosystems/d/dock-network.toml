@@ -3,7 +3,9 @@ title = "Dock network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/docknetwork"]
+github_organizations = [
+  "https://github.com/docknetwork",
+]
 
 # Repositories
 [[repo]]
@@ -65,6 +67,7 @@ url = "https://github.com/docknetwork/dock-api-js"
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-did-driver"
@@ -257,3 +260,4 @@ url = "https://github.com/docknetwork/website"
 
 [[repo]]
 url = "https://github.com/docknetwork/wiki"
+

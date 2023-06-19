@@ -3,7 +3,9 @@ title = "Avado"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AvadoDServer"]
+github_organizations = [
+  "https://github.com/AvadoDServer",
+]
 
 # Repositories
 [[repo]]
@@ -200,6 +202,7 @@ url = "https://github.com/AvadoDServer/ip.ava.do"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/rotki.dnp.dappnode.eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/AvadoDServer/tornado-relayer"
@@ -209,3 +212,4 @@ url = "https://github.com/AvadoDServer/webapp-demo"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/workflow-test"
+

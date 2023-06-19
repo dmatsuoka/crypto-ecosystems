@@ -3,7 +3,9 @@ title = "Streaming Fast"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/streamingfast"]
+github_organizations = [
+  "https://github.com/streamingfast",
+]
 
 # Repositories
 [[repo]]
@@ -296,6 +298,7 @@ url = "https://github.com/streamingfast/playground-firehose-eosio-go"
 
 [[repo]]
 url = "https://github.com/streamingfast/pq"
+missing = true
 
 [[repo]]
 url = "https://github.com/streamingfast/proto"
@@ -530,3 +533,4 @@ url = "https://github.com/streamingfast/wasmer-go"
 
 [[repo]]
 url = "https://github.com/streamingfast/wasmtime-go"
+

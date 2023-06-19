@@ -3,7 +3,9 @@ title = "ChaosDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ChaosDAO-org"]
+github_organizations = [
+  "https://github.com/ChaosDAO-org",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/ChaosDAO-org/soras-totally-legitimate-invoices"
 
 [[repo]]
 url = "https://github.com/ChaosDAO-org/subscrape"
+

@@ -3,7 +3,9 @@ title = "MacaronSwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/macaronswap"]
+github_organizations = [
+  "https://github.com/macaronswap",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/macaronswap/web3dart"
 
 [[repo]]
 url = "https://github.com/macaronswap/whitepaper"
+

@@ -3,8 +3,12 @@ title = "SpaceTrade"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SpaceTradeApp"]
+github_organizations = [
+  "https://github.com/SpaceTradeApp",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/SpaceTradeApp/space-trade-contracts"
+missing = true
+

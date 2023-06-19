@@ -3,8 +3,11 @@ title = "Hurricane Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Hurricane-Protocol"]
+github_organizations = [
+  "https://github.com/Hurricane-Protocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Hurricane-Protocol/landing-page"
+

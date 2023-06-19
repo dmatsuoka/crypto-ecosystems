@@ -3,7 +3,9 @@ title = "Tempus Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tempus-finance"]
+github_organizations = [
+  "https://github.com/tempus-finance",
+]
 
 # Repositories
 [[repo]]
@@ -41,9 +43,11 @@ url = "https://github.com/tempus-finance/tempus-sers-app"
 
 [[repo]]
 url = "https://github.com/tempus-finance/tempus-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/tempus-finance/tempus-utils"
 
 [[repo]]
 url = "https://github.com/tempus-finance/tempus-website"
+

@@ -3,7 +3,9 @@ title = "Sovereign Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Sovereign-Labs"]
+github_organizations = [
+  "https://github.com/Sovereign-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/Sovereign-Labs/sovereign"
 
 [[repo]]
 url = "https://github.com/Sovereign-Labs/sovereign-sdk"
+

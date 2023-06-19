@@ -3,7 +3,9 @@ title = "Geo Web"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Geo-Web-Project"]
+github_organizations = [
+  "https://github.com/Geo-Web-Project",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/Geo-Web-Project/wasm-augmented-worlds"
 
 [[repo]]
 url = "https://github.com/Geo-Web-Project/webxr-experiments"
+

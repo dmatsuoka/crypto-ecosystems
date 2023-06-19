@@ -3,7 +3,9 @@ title = "TxMQ, Inc"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TxMQ"]
+github_organizations = [
+  "https://github.com/TxMQ",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/TxMQ/Exo2-Zoo-Demo"
 
 [[repo]]
 url = "https://github.com/TxMQ/ibm-mq-helm-chart"
+

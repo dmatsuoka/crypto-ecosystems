@@ -3,7 +3,9 @@ title = "Amaterasu Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Amaterasu-Finance"]
+github_organizations = [
+  "https://github.com/Amaterasu-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/Amaterasu-Finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/Amaterasu-Finance/docs.amaterasu.finance"
+

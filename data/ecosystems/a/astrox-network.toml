@@ -3,7 +3,9 @@ title = "AstroX Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AstroxNetwork"]
+github_organizations = [
+  "https://github.com/AstroxNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/AstroxNetwork/awesome-metamask-snaps"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ax"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/buy_me_coffee"
@@ -47,6 +50,7 @@ url = "https://github.com/AstroxNetwork/CBP"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/cdk-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/dapp-examples"
@@ -65,6 +69,7 @@ url = "https://github.com/AstroxNetwork/flutter-nfc-manager"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/flutter_archive"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/flutter_inappwebview"
@@ -83,27 +88,32 @@ url = "https://github.com/AstroxNetwork/HumanID"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ic_env"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/icp-js"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ICPunks"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ICSnap"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/internet-identity"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/jovial_svg"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/kraken"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/local-ledger-wasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/me_ext"
@@ -119,6 +129,7 @@ url = "https://github.com/AstroxNetwork/open_file"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ord_card"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ord_snap"
@@ -128,9 +139,11 @@ url = "https://github.com/AstroxNetwork/Proof-of-Personhood"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/quill"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/rosetta-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/SwiftCBOR"
@@ -152,3 +165,4 @@ url = "https://github.com/AstroxNetwork/webf"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/wg-identity-authentication"
+

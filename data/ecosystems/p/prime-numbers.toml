@@ -3,7 +3,9 @@ title = "Prime Numbers"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/PrimeNumbersNFT"]
+github_organizations = [
+  "https://github.com/PrimeNumbersNFT",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/PrimeNumbersNFT/WL"
 
 [[repo]]
 url = "https://github.com/PrimeNumbersNFT/XDCPay"
+

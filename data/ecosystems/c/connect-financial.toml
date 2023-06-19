@@ -3,11 +3,16 @@ title = "Connect Financial"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Connect-Financial"]
+github_organizations = [
+  "https://github.com/Connect-Financial",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Connect-Financial/snapshot"
+missing = true
 
 [[repo]]
 url = "https://github.com/Connect-Financial/snapshot.js"
+missing = true
+

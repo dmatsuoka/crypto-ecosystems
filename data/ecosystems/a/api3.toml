@@ -3,7 +3,9 @@ title = "API3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/api3dao"]
+github_organizations = [
+  "https://github.com/api3dao",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,11 @@ url = "https://github.com/api3dao/airnode"
 
 [[repo]]
 url = "https://github.com/api3dao/airnode-admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/airnode-client-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/airnode-protocol-v1"
@@ -32,6 +36,7 @@ url = "https://github.com/api3dao/airseeker"
 
 [[repo]]
 url = "https://github.com/api3dao/api3-aggregator"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/api3-circulating-supply"
@@ -59,12 +64,15 @@ url = "https://github.com/api3dao/api3-sovryn-hackathon-starter"
 
 [[repo]]
 url = "https://github.com/api3dao/api3-token-faucet"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/api3-token-lock"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/api3-token-lock-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/api3-tracker"
@@ -74,6 +82,7 @@ url = "https://github.com/api3dao/api3-v2"
 
 [[repo]]
 url = "https://github.com/api3dao/api3-web-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/api3-whitepaper"
@@ -119,6 +128,7 @@ url = "https://github.com/api3dao/ois-explorer"
 
 [[repo]]
 url = "https://github.com/api3dao/omen-prototype"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/operations"
@@ -143,6 +153,7 @@ url = "https://github.com/api3dao/reporting"
 
 [[repo]]
 url = "https://github.com/api3dao/rrp-events-collector"
+missing = true
 
 [[repo]]
 url = "https://github.com/api3dao/rsk-hackathon-starter"
@@ -161,3 +172,4 @@ url = "https://github.com/api3dao/vitepress-docs"
 
 [[repo]]
 url = "https://github.com/api3dao/wallet-watcher"
+

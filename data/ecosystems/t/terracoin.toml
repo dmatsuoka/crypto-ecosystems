@@ -3,7 +3,9 @@ title = "Terracoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/terracoin"]
+github_organizations = [
+  "https://github.com/terracoin",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/terracoin/website"
 
 [[repo]]
 url = "https://github.com/terracoin/windowsentinel"
+

@@ -3,7 +3,9 @@ title = "Privacy and Scaling Explorations"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/privacy-scaling-explorations"]
+github_organizations = [
+  "https://github.com/privacy-scaling-explorations",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/privacy-scaling-explorations/crypt-keeper-extension"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/crypt-keeper-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/e2e-zk-ecdsa"
@@ -149,6 +152,7 @@ url = "https://github.com/privacy-scaling-explorations/zk-groups"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/zk-keeper"
+missing = true
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/zk-keeper-archive"
@@ -191,3 +195,4 @@ url = "https://github.com/privacy-scaling-explorations/zkwasm-ideas"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/zuzalu-feedback"
+

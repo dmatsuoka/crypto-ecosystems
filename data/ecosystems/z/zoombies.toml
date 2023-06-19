@@ -3,11 +3,14 @@ title = "Zoombies"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cardinal-Entertainment"]
+github_organizations = [
+  "https://github.com/Cardinal-Entertainment",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Cardinal-Entertainment/Cryptoz.cards-Dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cardinal-Entertainment/dogepups.club"
@@ -26,3 +29,4 @@ url = "https://github.com/Cardinal-Entertainment/zoombies-subquery"
 
 [[repo]]
 url = "https://github.com/Cardinal-Entertainment/zoommarket-subquery"
+

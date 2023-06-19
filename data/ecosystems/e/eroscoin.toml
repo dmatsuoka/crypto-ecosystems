@@ -3,7 +3,9 @@ title = "Eroscoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/eroscoin"]
+github_organizations = [
+  "https://github.com/eroscoin",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/eroscoin/eroscoin-token"
 
 [[repo]]
 url = "https://github.com/eroscoin/eroscoin-web-ui"
+

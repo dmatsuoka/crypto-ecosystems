@@ -3,7 +3,9 @@ title = "Metadium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/METADIUM"]
+github_organizations = [
+  "https://github.com/METADIUM",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/METADIUM/web3ja"
 
 [[repo]]
 url = "https://github.com/METADIUM/Web3Swift-iOS"
+

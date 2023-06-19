@@ -3,7 +3,9 @@ title = "Bitski"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BitskiCo"]
+github_organizations = [
+  "https://github.com/BitskiCo",
+]
 
 # Repositories
 [[repo]]
@@ -17,9 +19,11 @@ url = "https://github.com/BitskiCo/actix-extras"
 
 [[repo]]
 url = "https://github.com/BitskiCo/actix-web-opentelemetry"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/apollographql-router"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/apple-apns"
@@ -32,6 +36,7 @@ url = "https://github.com/BitskiCo/authzed-rs"
 
 [[repo]]
 url = "https://github.com/BitskiCo/bitski-common-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/bitski-internal-sdk"
@@ -137,12 +142,14 @@ url = "https://github.com/BitskiCo/jwk-rs"
 
 [[repo]]
 url = "https://github.com/BitskiCo/libsonnet-libs-k8s"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/oathkeeper"
 
 [[repo]]
 url = "https://github.com/BitskiCo/opentelemetry-rust"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/polygon-etl"
@@ -155,6 +162,7 @@ url = "https://github.com/BitskiCo/quickstart"
 
 [[repo]]
 url = "https://github.com/BitskiCo/quicktype"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/rust-pkcs11"
@@ -179,6 +187,7 @@ url = "https://github.com/BitskiCo/serde_urlencoded"
 
 [[repo]]
 url = "https://github.com/BitskiCo/sift-science-rust"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitskiCo/siwe-oidc"
@@ -215,3 +224,4 @@ url = "https://github.com/BitskiCo/web3modal"
 
 [[repo]]
 url = "https://github.com/BitskiCo/xorf"
+

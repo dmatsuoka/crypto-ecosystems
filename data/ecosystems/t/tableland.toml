@@ -3,7 +3,9 @@ title = "Tableland"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tablelandnetwork"]
+github_organizations = [
+  "https://github.com/tablelandnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/tablelandnetwork/js-tableland-cli"
 
 [[repo]]
 url = "https://github.com/tablelandnetwork/js-tableland-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/tablelandnetwork/js-template"
@@ -149,3 +152,4 @@ url = "https://github.com/tablelandnetwork/vue-ts-tableland-template"
 
 [[repo]]
 url = "https://github.com/tablelandnetwork/wasm-sqlparser"
+

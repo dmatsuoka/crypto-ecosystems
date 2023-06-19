@@ -3,7 +3,9 @@ title = "Shutter Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/shutter-network"]
+github_organizations = [
+  "https://github.com/shutter-network",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/shutter-network/shutter-website"
 
 [[repo]]
 url = "https://github.com/shutter-network/txtypes"
+

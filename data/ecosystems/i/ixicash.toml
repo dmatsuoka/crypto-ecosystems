@@ -3,7 +3,9 @@ title = "IxiCash"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProjectIxian"]
+github_organizations = [
+  "https://github.com/ProjectIxian",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/ProjectIxian/Spixi-website"
 
 [[repo]]
 url = "https://github.com/ProjectIxian/Wrapped-IxiCash"
+

@@ -3,7 +3,9 @@ title = "Spockchain Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spockchain"]
+github_organizations = [
+  "https://github.com/spockchain",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/spockchain/spock"
 
 [[repo]]
 url = "https://github.com/spockchain/SpockWallet"
+

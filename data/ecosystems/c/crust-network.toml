@@ -3,7 +3,9 @@ title = "Crust Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/crustio"]
+github_organizations = [
+  "https://github.com/crustio",
+]
 
 # Repositories
 [[repo]]
@@ -146,6 +148,7 @@ url = "https://github.com/crustio/ethereum-org-website"
 
 [[repo]]
 url = "https://github.com/crustio/fastdfs-client-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/crustio/files-landing-page"
@@ -203,6 +206,7 @@ url = "https://github.com/crustio/incubator-teaclave-website"
 
 [[repo]]
 url = "https://github.com/crustio/ipfs"
+missing = true
 
 [[repo]]
 url = "https://github.com/crustio/ipfs-crust-action"
@@ -239,6 +243,7 @@ url = "https://github.com/crustio/js-ceramic"
 
 [[repo]]
 url = "https://github.com/crustio/karst"
+missing = true
 
 [[repo]]
 url = "https://github.com/crustio/matic-docs"
@@ -299,3 +304,4 @@ url = "https://github.com/crustio/xcmp-evm-sc"
 
 [[repo]]
 url = "https://github.com/crustio/xstorage"
+

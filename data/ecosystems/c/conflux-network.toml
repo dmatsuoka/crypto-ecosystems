@@ -1,7 +1,9 @@
 # Ecosystem Level Information
 title = "Conflux Network"
 
-sub_ecosystems = ["Trust Domains"]
+sub_ecosystems = [
+  "Trust Domains",
+]
 
 github_organizations = [
   "https://github.com/conflux-chain",
@@ -74,6 +76,7 @@ url = "https://github.com/Conflux-Chain/conflux-monitor"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-nft-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-parity-deps"
@@ -212,6 +215,7 @@ url = "https://github.com/Conflux-Chain/react-ui"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/rigel"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/rocksdb"
@@ -341,3 +345,4 @@ url = "https://github.com/Proposal-Stampers/stampers-server"
 
 [[repo]]
 url = "https://github.com/Proposal-Stampers/stampers.js"
+

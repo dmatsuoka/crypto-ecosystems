@@ -8,3 +8,4 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/stackswap/stackswap_contract_v1"
+

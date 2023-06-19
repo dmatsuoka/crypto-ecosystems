@@ -3,7 +3,9 @@ title = "AlgoWorldNFT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlgoWorldNFT"]
+github_organizations = [
+  "https://github.com/AlgoWorldNFT",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/AlgoWorldNFT/sandbox"
 
 [[repo]]
 url = "https://github.com/AlgoWorldNFT/tinyman-py-sdk"
+

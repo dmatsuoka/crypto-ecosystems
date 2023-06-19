@@ -3,7 +3,9 @@ title = "FindTruman"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/findtruman-official"]
+github_organizations = [
+  "https://github.com/findtruman-official",
+]
 
 # Repositories
 [[repo]]
@@ -20,18 +22,23 @@ url = "https://github.com/findtruman-official/storygameplay-web"
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-contract-klaytn"
+missing = true
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-contract-solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-contract-tezos"
+missing = true
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-server"
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-server-tezos"
+missing = true
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-web"
+

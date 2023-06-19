@@ -3,7 +3,9 @@ title = "Alby"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/getAlby"]
+github_organizations = [
+  "https://github.com/getAlby",
+]
 
 # Repositories
 [[repo]]
@@ -188,3 +190,4 @@ url = "https://github.com/getAlby/ZapPlanner"
 
 [[repo]]
 url = "https://github.com/getAlby/ZapSplitter"
+

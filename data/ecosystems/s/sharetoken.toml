@@ -3,7 +3,9 @@ title = "ShareToken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ShareRing"]
+github_organizations = [
+  "https://github.com/ShareRing",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/ShareRing/verifier-app-poc"
 
 [[repo]]
 url = "https://github.com/ShareRing/vql-javascript-library"
+

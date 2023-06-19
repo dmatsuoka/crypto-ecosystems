@@ -3,7 +3,9 @@ title = "Delphy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DelphyProject"]
+github_organizations = [
+  "https://github.com/DelphyProject",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/DelphyProject/react-native-swRefresh"
 
 [[repo]]
 url = "https://github.com/DelphyProject/TokenMonitor"
+

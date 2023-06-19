@@ -3,7 +3,9 @@ title = "Gantree"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gantree-io"]
+github_organizations = [
+  "https://github.com/gantree-io",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/gantree-io/python-ipify"
 
 [[repo]]
 url = "https://github.com/gantree-io/substrate-telemetry"
+

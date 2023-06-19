@@ -3,7 +3,9 @@ title = "MONSTROPOLY"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Monstropoly"]
+github_organizations = [
+  "https://github.com/Monstropoly",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Monstropoly/monstropoly-contracts"
 
 [[repo]]
 url = "https://github.com/Monstropoly/monstropoly-subgraph"
+

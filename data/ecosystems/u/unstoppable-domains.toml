@@ -3,7 +3,9 @@ title = "Unstoppable Domains"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/unstoppabledomains"]
+github_organizations = [
+  "https://github.com/unstoppabledomains",
+]
 
 # Repositories
 [[repo]]
@@ -71,6 +73,7 @@ url = "https://github.com/unstoppabledomains/ipfs-companion"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/kaya"
+missing = true
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/live-docs"
@@ -212,3 +215,4 @@ url = "https://github.com/unstoppabledomains/zns"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/zns-escrow"
+

@@ -3,7 +3,9 @@ title = "Building Cities Beyond Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bcbchain"]
+github_organizations = [
+  "https://github.com/bcbchain",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/bcbchain/toolbox"
 
 [[repo]]
 url = "https://github.com/bcbchain/xwallet"
+

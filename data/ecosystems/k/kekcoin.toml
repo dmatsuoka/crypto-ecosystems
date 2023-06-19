@@ -3,7 +3,9 @@ title = "KekCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kekcoin-Core"]
+github_organizations = [
+  "https://github.com/Kekcoin-Core",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/Kekcoin-Core/Kekcoin-Graphics"
 
 [[repo]]
 url = "https://github.com/Kekcoin-Core/kekcoin-lore"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kekcoin-Core/kekcoin-segwit"
@@ -29,3 +32,4 @@ url = "https://github.com/Kekcoin-Core/memechain-api"
 
 [[repo]]
 url = "https://github.com/Kekcoin-Core/memechain-gui"
+

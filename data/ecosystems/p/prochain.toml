@@ -3,7 +3,9 @@ title = "ProChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProChain"]
+github_organizations = [
+  "https://github.com/ProChain",
+]
 
 # Repositories
 [[repo]]
@@ -110,6 +112,7 @@ url = "https://github.com/ProChain/tools"
 
 [[repo]]
 url = "https://github.com/ProChain/tron_wallet_android"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProChain/wallet-cli"
@@ -119,3 +122,4 @@ url = "https://github.com/ProChain/wallet-v1"
 
 [[repo]]
 url = "https://github.com/ProChain/WhitePaper"
+

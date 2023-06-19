@@ -3,7 +3,9 @@ title = "Dolomite Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dolomite-exchange"]
+github_organizations = [
+  "https://github.com/dolomite-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -80,3 +82,4 @@ url = "https://github.com/dolomite-exchange/web3-provider-engine"
 
 [[repo]]
 url = "https://github.com/dolomite-exchange/zapper-fi-studio"
+

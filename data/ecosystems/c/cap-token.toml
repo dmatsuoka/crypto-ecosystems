@@ -8,6 +8,7 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/capofficial/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/capofficial/keeper"
@@ -17,3 +18,4 @@ url = "https://github.com/capofficial/protocol"
 
 [[repo]]
 url = "https://github.com/capofficial/ui"
+

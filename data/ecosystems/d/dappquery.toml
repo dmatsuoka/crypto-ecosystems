@@ -3,7 +3,9 @@ title = "Dappquery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dappquery"]
+github_organizations = [
+  "https://github.com/dappquery",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/dappquery/TheGraph-Analytics"
 
 [[repo]]
 url = "https://github.com/dappquery/website"
+

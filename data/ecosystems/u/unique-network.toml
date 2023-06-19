@@ -3,7 +3,9 @@ title = "Unique Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UniqueNetwork"]
+github_organizations = [
+  "https://github.com/UniqueNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/UniqueNetwork/chainql"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/chains"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/client-tests-template"
@@ -71,6 +74,7 @@ url = "https://github.com/UniqueNetwork/live_nft"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/marketplace-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/marketplace-docker"
@@ -176,6 +180,7 @@ url = "https://github.com/UniqueNetwork/unique-image-uploader-api"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-backend"
@@ -197,6 +202,7 @@ url = "https://github.com/UniqueNetwork/unique-marketplace-escrow-kusama"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-inkcontract"
@@ -206,6 +212,7 @@ url = "https://github.com/UniqueNetwork/unique-marketplace-old"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-migrations-seeds"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-new-wallet"
@@ -227,6 +234,7 @@ url = "https://github.com/UniqueNetwork/unique-scan-backend"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-sdk-cs"
@@ -311,3 +319,4 @@ url = "https://github.com/usetech-llc/sr25519"
 
 [[repo]]
 url = "https://github.com/usetech-llc/ui-core"
+

@@ -3,7 +3,9 @@ title = "RelayChain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RelayChain"]
+github_organizations = [
+  "https://github.com/RelayChain",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/RelayChain/docs"
 
 [[repo]]
 url = "https://github.com/RelayChain/relay-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/RelayChain/relay-app"
@@ -35,3 +38,4 @@ url = "https://github.com/RelayChain/transfer-sample"
 
 [[repo]]
 url = "https://github.com/RelayChain/transfer-service"
+

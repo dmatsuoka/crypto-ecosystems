@@ -3,7 +3,9 @@ title = "Measurable Data Token"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/measurabledatatoken"]
+github_organizations = [
+  "https://github.com/measurabledatatoken",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/measurabledatatoken/mailtime-issue"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mefi-chainlink-adapter"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mefi-client"
@@ -32,6 +35,7 @@ url = "https://github.com/measurabledatatoken/mymdt"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mymdt-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/nuxt-i18n"
@@ -41,6 +45,7 @@ url = "https://github.com/measurabledatatoken/react-reveal"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/rewardme-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/sql-migrate"
@@ -59,3 +64,4 @@ url = "https://github.com/measurabledatatoken/vue-qrcode-reader"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/Whitepaper"
+

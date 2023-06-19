@@ -3,8 +3,11 @@ title = "Flair DeFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flair-defi"]
+github_organizations = [
+  "https://github.com/flair-defi",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/flair-defi/flair-dex-contracts"
+

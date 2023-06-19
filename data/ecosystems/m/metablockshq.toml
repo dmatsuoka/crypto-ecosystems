@@ -3,7 +3,9 @@ title = "metablockshq"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/metablockshq"]
+github_organizations = [
+  "https://github.com/metablockshq",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/metablockshq/metablocks.world"
 
 [[repo]]
 url = "https://github.com/metablockshq/pl"
+missing = true
 
 [[repo]]
 url = "https://github.com/metablockshq/spl-token-chapters"
@@ -35,6 +38,7 @@ url = "https://github.com/metablockshq/tara.metablocks.world"
 
 [[repo]]
 url = "https://github.com/metablockshq/tracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/metablockshq/tutorial-burn-tokens"
@@ -47,3 +51,4 @@ url = "https://github.com/metablockshq/universe-index.metablocks.world"
 
 [[repo]]
 url = "https://github.com/metablockshq/universes.metablocks.world"
+

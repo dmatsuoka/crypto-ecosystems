@@ -3,7 +3,9 @@ title = "Rocklabs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rocklabs-io"]
+github_organizations = [
+  "https://github.com/rocklabs-io",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/rocklabs-io/governance"
 
 [[repo]]
 url = "https://github.com/rocklabs-io/hatcher-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/rocklabs-io/ic-cron"
@@ -95,3 +98,4 @@ url = "https://github.com/rocklabs-io/w3b"
 
 [[repo]]
 url = "https://github.com/rocklabs-io/wrapped_cycles"
+

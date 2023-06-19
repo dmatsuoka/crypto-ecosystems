@@ -3,7 +3,9 @@ title = "StakeHound"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakehound"]
+github_organizations = [
+  "https://github.com/stakehound",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/stakehound/liquidity-dao"
 
 [[repo]]
 url = "https://github.com/stakehound/stakehound-core"
+

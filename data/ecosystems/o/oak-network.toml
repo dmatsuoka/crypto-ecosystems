@@ -3,7 +3,9 @@ title = "Oak Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OAK-Foundation"]
+github_organizations = [
+  "https://github.com/OAK-Foundation",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/OAK-Foundation/auction-toolkit"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/chainbridge-substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/common"
@@ -140,6 +143,7 @@ url = "https://github.com/OAK-Foundation/ui"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/unreleased-changelog-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/W3F-Grants-Fork"
@@ -152,3 +156,4 @@ url = "https://github.com/OAK-Foundation/xcm-demo-app"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/zombienet"
+

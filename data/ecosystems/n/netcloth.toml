@@ -3,7 +3,9 @@ title = "netcloth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/netcloth"]
+github_organizations = [
+  "https://github.com/netcloth",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/netcloth/testnet"
 
 [[repo]]
 url = "https://github.com/netcloth/whitepaper"
+

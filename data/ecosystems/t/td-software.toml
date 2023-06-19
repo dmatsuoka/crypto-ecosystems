@@ -3,7 +3,9 @@ title = "td software"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TDSoftware"]
+github_organizations = [
+  "https://github.com/TDSoftware",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/TDSoftware/substrate-ipfs-example-ui"
 
 [[repo]]
 url = "https://github.com/TDSoftware/substrate-ipfs-ui"
+

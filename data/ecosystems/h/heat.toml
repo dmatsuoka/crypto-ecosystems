@@ -3,7 +3,9 @@ title = "HEAT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Heat-Ledger-Ltd"]
+github_organizations = [
+  "https://github.com/Heat-Ledger-Ltd",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/heatcrypto/heatledger"
 
 [[repo]]
 url = "https://github.com/heatcrypto/heatwallet"
+

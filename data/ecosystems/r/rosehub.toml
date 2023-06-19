@@ -3,7 +3,9 @@ title = "Rosehub"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rosepad-tech"]
+github_organizations = [
+  "https://github.com/rosepad-tech",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/rosepad-tech/serverboost-form"
 
 [[repo]]
 url = "https://github.com/rosepad-tech/whitelist-form"
+

@@ -3,7 +3,9 @@ title = "confio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/confio"]
+github_organizations = [
+  "https://github.com/confio",
+]
 
 # Repositories
 [[repo]]
@@ -98,6 +100,7 @@ url = "https://github.com/confio/mask"
 
 [[repo]]
 url = "https://github.com/confio/matadores-backlog-collection"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/nym"
@@ -185,3 +188,4 @@ url = "https://github.com/CosmWasm/tinygo"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/bindings"
+

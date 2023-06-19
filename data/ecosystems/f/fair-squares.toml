@@ -3,7 +3,9 @@ title = "Fair Squares"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Fair-Squares"]
+github_organizations = [
+  "https://github.com/Fair-Squares",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,8 @@ url = "https://github.com/Fair-Squares/litentry-pallets"
 
 [[repo]]
 url = "https://github.com/Fair-Squares/Optimized_Fair-squares"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fair-Squares/website"
+

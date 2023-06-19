@@ -3,7 +3,9 @@ title = "Avian Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AvianNetwork"]
+github_organizations = [
+  "https://github.com/AvianNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/AvianNetwork/wallet.avn"
 
 [[repo]]
 url = "https://github.com/AvianNetwork/WAVN"
+missing = true
 
 [[repo]]
 url = "https://github.com/AvianNetwork/Wrapped-Avian"
@@ -104,3 +107,4 @@ url = "https://github.com/AvianNetwork/x16r_hash"
 
 [[repo]]
 url = "https://github.com/AvianNetwork/x16rt_hash"
+

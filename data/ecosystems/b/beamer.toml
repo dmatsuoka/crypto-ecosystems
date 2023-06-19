@@ -3,7 +3,9 @@ title = "Beamer"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/beamer-bridge"]
+github_organizations = [
+  "https://github.com/beamer-bridge",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/beamer-bridge/sphinxcontrib-soliditydomain"
 
 [[repo]]
 url = "https://github.com/beamer-bridge/www.beamerbridge.com"
+

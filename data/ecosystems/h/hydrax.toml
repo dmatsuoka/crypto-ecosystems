@@ -3,7 +3,9 @@ title = "HydraX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HydraXTrader"]
+github_organizations = [
+  "https://github.com/HydraXTrader",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/HydraXTrader/quickfix"
 
 [[repo]]
 url = "https://github.com/HydraXTrader/quickfixj"
+

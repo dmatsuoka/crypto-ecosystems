@@ -3,7 +3,9 @@ title = "Dandelion Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dandelionlabs-io"]
+github_organizations = [
+  "https://github.com/dandelionlabs-io",
+]
 
 # Repositories
 [[repo]]
@@ -14,9 +16,13 @@ url = "https://github.com/dandelionlabs-io/oxychain-app-be"
 
 [[repo]]
 url = "https://github.com/dandelionlabs-io/token-vesting-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/dandelionlabs-io/token-vesting-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dandelionlabs-io/token-vesting-interface"
+missing = true
+

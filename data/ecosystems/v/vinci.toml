@@ -3,7 +3,9 @@ title = "Vinci"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vinci-project"]
+github_organizations = [
+  "https://github.com/vinci-project",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/vinci-project/vinciShard"
 
 [[repo]]
 url = "https://github.com/vinci-project/vncCrypto"
+

@@ -3,7 +3,9 @@ title = "BrahmaOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BrahmaOS"]
+github_organizations = [
+  "https://github.com/BrahmaOS",
+]
 
 # Repositories
 [[repo]]
@@ -77,3 +79,4 @@ url = "https://github.com/BrahmaOS/BrahmaWallet"
 
 [[repo]]
 url = "https://github.com/BrahmaOS/smart-contract"
+

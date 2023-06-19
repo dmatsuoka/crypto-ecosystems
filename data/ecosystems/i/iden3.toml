@@ -3,7 +3,9 @@ title = "iden3"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/iden3"]
+github_organizations = [
+  "https://github.com/iden3",
+]
 
 # Repositories
 [[repo]]
@@ -266,3 +268,4 @@ url = "https://github.com/iden3/wasmsnark"
 
 [[repo]]
 url = "https://github.com/iden3/wbigint"
+

@@ -3,7 +3,9 @@ title = "nOS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nos"]
+github_organizations = [
+  "https://github.com/nos",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/nos/electron-scroller"
 
 [[repo]]
 url = "https://github.com/nos/explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/nos/explorer-deprecated"
@@ -104,3 +107,4 @@ url = "https://github.com/nos/webpack-merge"
 
 [[repo]]
 url = "https://github.com/nos/website"
+

@@ -3,7 +3,9 @@ title = "Oiler"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OilerNetwork"]
+github_organizations = [
+  "https://github.com/OilerNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,8 @@ url = "https://github.com/OilerNetwork/fossil-starknet-101"
 
 [[repo]]
 url = "https://github.com/OilerNetwork/starknet-l1-storage-proof"
+missing = true
 
 [[repo]]
 url = "https://github.com/OilerNetwork/token_track"
+

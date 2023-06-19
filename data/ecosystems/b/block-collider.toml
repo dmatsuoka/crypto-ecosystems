@@ -3,7 +3,9 @@ title = "Block Collider"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/blockcollider"]
+github_organizations = [
+  "https://github.com/blockcollider",
+]
 
 # Repositories
 [[repo]]
@@ -41,9 +43,11 @@ url = "https://github.com/blockcollider/mmm_bot"
 
 [[repo]]
 url = "https://github.com/blockcollider/one-click-miner"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockcollider/overline-proto"
 
 [[repo]]
 url = "https://github.com/blockcollider/parity-bitcoin"
+

@@ -3,7 +3,9 @@ title = "MyNearWallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mynearwallet"]
+github_organizations = [
+  "https://github.com/mynearwallet",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/mynearwallet/near-java-api"
 
 [[repo]]
 url = "https://github.com/mynearwallet/near-wallet"
+

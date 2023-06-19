@@ -3,7 +3,9 @@ title = "Hydro Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HydroProtocol"]
+github_organizations = [
+  "https://github.com/HydroProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/HydroProtocol/swap-contract"
 
 [[repo]]
 url = "https://github.com/HydroProtocol/swap-sdk"
+

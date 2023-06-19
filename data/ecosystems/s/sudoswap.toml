@@ -3,7 +3,9 @@ title = "Sudoswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sudoswap"]
+github_organizations = [
+  "https://github.com/sudoswap",
+]
 
 # Repositories
 [[repo]]
@@ -20,12 +22,14 @@ url = "https://github.com/sudoswap/audits"
 
 [[repo]]
 url = "https://github.com/sudoswap/go-gallery"
+missing = true
 
 [[repo]]
 url = "https://github.com/sudoswap/lssvm"
 
 [[repo]]
 url = "https://github.com/sudoswap/lssvm-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/sudoswap/marketplace-benchmarks"
@@ -44,3 +48,4 @@ url = "https://github.com/sudoswap/upptime"
 
 [[repo]]
 url = "https://github.com/sudoswap/v2-audits"
+

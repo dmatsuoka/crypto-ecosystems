@@ -3,7 +3,9 @@ title = "Nightly Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nightly-labs"]
+github_organizations = [
+  "https://github.com/nightly-labs",
+]
 
 # Repositories
 [[repo]]
@@ -47,6 +49,7 @@ url = "https://github.com/nightly-labs/ref-ui"
 
 [[repo]]
 url = "https://github.com/nightly-labs/rpc-status"
+missing = true
 
 [[repo]]
 url = "https://github.com/nightly-labs/solana-adapter"
@@ -68,3 +71,4 @@ url = "https://github.com/nightly-labs/wallet-kit"
 
 [[repo]]
 url = "https://github.com/nightly-labs/wallet-selector"
+

@@ -3,7 +3,9 @@ title = "DeepCloud AI"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DeepCloud-AI"]
+github_organizations = [
+  "https://github.com/DeepCloud-AI",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/DeepCloud-AI/contracts"
 
 [[repo]]
 url = "https://github.com/DeepCloud-AI/hurondocs"
+

@@ -3,7 +3,9 @@ title = "Talisman"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/TalismanSociety"]
+github_organizations = [
+  "https://github.com/TalismanSociety",
+]
 
 # Repositories
 [[repo]]
@@ -50,6 +52,7 @@ url = "https://github.com/TalismanSociety/extension-alpha-version-check"
 
 [[repo]]
 url = "https://github.com/TalismanSociety/firesquid-tx-history"
+missing = true
 
 [[repo]]
 url = "https://github.com/TalismanSociety/ledger-substrate-recover"
@@ -122,3 +125,4 @@ url = "https://github.com/TalismanSociety/workspace"
 
 [[repo]]
 url = "https://github.com/TalismanSociety/xcm-monorepo"
+

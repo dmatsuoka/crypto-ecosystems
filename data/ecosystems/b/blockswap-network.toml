@@ -3,11 +3,16 @@ title = "Blockswap Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DAObaker"]
+github_organizations = [
+  "https://github.com/DAObaker",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/DAObaker/baker-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/DAObaker/staking-economy"
+missing = true
+

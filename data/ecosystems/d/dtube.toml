@@ -3,7 +3,9 @@ title = "DTube"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dtube"]
+github_organizations = [
+  "https://github.com/dtube",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/powerpoint45/dtube-mobile-unofficial"
 
 [[repo]]
 url = "https://github.com/skzap/embedtube"
+

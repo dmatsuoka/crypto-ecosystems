@@ -3,8 +3,11 @@ title = "Polkainsure Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Polka-Insure"]
+github_organizations = [
+  "https://github.com/Polka-Insure",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Polka-Insure/contracts"
+

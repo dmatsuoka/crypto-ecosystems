@@ -3,7 +3,9 @@ title = "Nexus Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nexus-Protocol"]
+github_organizations = [
+  "https://github.com/Nexus-Protocol",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/Nexus-Protocol/nex-prism-convex"
 
 [[repo]]
 url = "https://github.com/Nexus-Protocol/nexprism-lockdrop"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nexus-Protocol/pol-contracts"
@@ -50,3 +53,4 @@ url = "https://github.com/Nexus-Protocol/terra"
 
 [[repo]]
 url = "https://github.com/Nexus-Protocol/terraswap"
+

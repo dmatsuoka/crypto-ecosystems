@@ -3,20 +3,25 @@ title = "Proton"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ProtonProtocol"]
+github_organizations = [
+  "https://github.com/ProtonProtocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ProtonProtocol/anchor-link"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/archive"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/ascdk"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/chain-info"
@@ -29,15 +34,18 @@ url = "https://github.com/ProtonProtocol/crypto-browserify"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/dart-esr"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/dex-ccxt"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/eosdart"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/eosio-mnemonic"
@@ -51,6 +59,7 @@ url = "https://github.com/ProtonProtocol/hyperion-api"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/install-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/keosd-signature-provider"
@@ -61,6 +70,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/nestjs-zod"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/nft-demo"
@@ -85,12 +95,14 @@ url = "https://github.com/ProtonProtocol/proton-bots"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-browser-transport"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-cli"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-connect"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-cron"
@@ -106,15 +118,19 @@ url = "https://github.com/ProtonProtocol/proton-light-api"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-link"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-link-session-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-loan"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-loan-airdrop"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-loan-liquidation-bot"
@@ -145,9 +161,11 @@ url = "https://github.com/ProtonProtocol/proton-oracle"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-provider-axios"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-react-native-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-resources"
@@ -160,18 +178,22 @@ url = "https://github.com/ProtonProtocol/proton-sign"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-signing-request"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-signing-request-java"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-test-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-test-app-html"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-test-app-vue"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-testnet.start"
@@ -187,6 +209,7 @@ url = "https://github.com/ProtonProtocol/proton-vip-demo"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-vue"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/proton-web-sdk"
@@ -202,6 +225,7 @@ url = "https://github.com/ProtonProtocol/proton.token"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/protonjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/ProtonKotlin"
@@ -214,15 +238,19 @@ url = "https://github.com/ProtonProtocol/ProtonVoting"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/react-native-inappbrowser"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/swap"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/swap-fee"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/swap-js-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/swift-eosio"
@@ -235,12 +263,14 @@ url = "https://github.com/ProtonProtocol/taskly-demo-react-native"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/ual-webauth"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/verify-signatures"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/vert"
@@ -253,3 +283,4 @@ url = "https://github.com/ProtonProtocol/vuepress-plugin-graphviz"
 
 [[repo]]
 url = "https://github.com/ProtonProtocol/WebOperations"
+

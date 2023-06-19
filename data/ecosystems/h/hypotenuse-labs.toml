@@ -3,7 +3,9 @@ title = "Hypotenuse Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hyplabs"]
+github_organizations = [
+  "https://github.com/hyplabs",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/hyplabs/What-is-Gas"
 
 [[repo]]
 url = "https://github.com/hyplabs/zilliqa-social-pay-v1-mirror"
+

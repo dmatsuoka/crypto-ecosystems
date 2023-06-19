@@ -3,7 +3,10 @@ title = "Polymarket"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Polymarket", "https://github.com/TokenUnion"]
+github_organizations = [
+  "https://github.com/Polymarket",
+  "https://github.com/TokenUnion",
+]
 
 # Repositories
 [[repo]]
@@ -152,3 +155,4 @@ url = "https://github.com/Polymarket/web3-react-multichain"
 
 [[repo]]
 url = "https://github.com/Polymarket/withdrawal-checker"
+

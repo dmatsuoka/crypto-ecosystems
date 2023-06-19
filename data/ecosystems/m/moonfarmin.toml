@@ -8,9 +8,11 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/moonfarmin/moonfarm-contracts-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonfarmin/moonfarm-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonfarmin/moonpad-website"
@@ -20,3 +22,4 @@ url = "https://github.com/moonfarmin/swap-frontend-v2"
 
 [[repo]]
 url = "https://github.com/moonfarmin/tokenlist"
+

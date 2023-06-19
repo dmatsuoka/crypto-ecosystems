@@ -3,7 +3,9 @@ title = "finalbiome"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/finalbiome"]
+github_organizations = [
+  "https://github.com/finalbiome",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/finalbiome/finalbiome-landing"
 
 [[repo]]
 url = "https://github.com/finalbiome/finalbiome-landing-archive"
+missing = true
 
 [[repo]]
 url = "https://github.com/finalbiome/finalbiome-node"
@@ -38,3 +41,4 @@ url = "https://github.com/finalbiome/finalbiome-unity"
 
 [[repo]]
 url = "https://github.com/finalbiome/finalbiome-unity-playground"
+

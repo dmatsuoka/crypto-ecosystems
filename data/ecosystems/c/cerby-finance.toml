@@ -3,7 +3,9 @@ title = "Cerby Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CerbyFinance"]
+github_organizations = [
+  "https://github.com/CerbyFinance",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/CerbyFinance/ts-node-load-balancer"
 
 [[repo]]
 url = "https://github.com/CerbyFinance/ts-telegram-trade-feeds"
+

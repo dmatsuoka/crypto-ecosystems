@@ -3,7 +3,9 @@ title = "Kogarashi Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KogarashiNetwork"]
+github_organizations = [
+  "https://github.com/KogarashiNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -38,6 +40,7 @@ url = "https://github.com/KogarashiNetwork/Kogarashi"
 
 [[repo]]
 url = "https://github.com/KogarashiNetwork/KogarashiNetwork.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/KogarashiNetwork/node"
@@ -47,3 +50,4 @@ url = "https://github.com/KogarashiNetwork/pairing"
 
 [[repo]]
 url = "https://github.com/KogarashiNetwork/rngs"
+

@@ -3,7 +3,9 @@ title = "United Bitcoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/UnitedBitcoin"]
+github_organizations = [
+  "https://github.com/UnitedBitcoin",
+]
 
 # Repositories
 [[repo]]
@@ -53,3 +55,4 @@ url = "https://github.com/UnitedBitcoin/uvm_assembler"
 
 [[repo]]
 url = "https://github.com/UnitedBitcoin/uvm_package_gpc"
+

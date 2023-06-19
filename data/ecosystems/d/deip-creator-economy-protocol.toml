@@ -3,7 +3,9 @@ title = "DEIP - Creator Economy Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DEIPworld"]
+github_organizations = [
+  "https://github.com/DEIPworld",
+]
 
 # Repositories
 [[repo]]
@@ -32,6 +34,7 @@ url = "https://github.com/DEIPworld/casimir-backend-swagger"
 
 [[repo]]
 url = "https://github.com/DEIPworld/creator-economy-manifesto"
+missing = true
 
 [[repo]]
 url = "https://github.com/DEIPworld/DAS"
@@ -62,6 +65,7 @@ url = "https://github.com/DEIPworld/deip-state-integrator"
 
 [[repo]]
 url = "https://github.com/DEIPworld/deip-substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/DEIPworld/deip-testnet"
@@ -98,3 +102,4 @@ url = "https://github.com/DEIPworld/temp-repo"
 
 [[repo]]
 url = "https://github.com/DEIPworld/texture-editor"
+

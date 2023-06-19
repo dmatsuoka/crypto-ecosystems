@@ -3,7 +3,9 @@ title = "XDAG"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/XDagger"]
+github_organizations = [
+  "https://github.com/XDagger",
+]
 
 # Repositories
 [[repo]]
@@ -98,3 +100,4 @@ url = "https://github.com/XDagger/XIPs"
 
 [[repo]]
 url = "https://github.com/XDagger/xmrig2xdag"
+

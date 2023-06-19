@@ -3,7 +3,9 @@ title = "JET8"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/jet8"]
+github_organizations = [
+  "https://github.com/jet8",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/jet8/reward-contracts"
 
 [[repo]]
 url = "https://github.com/jet8/wallet-contracts"
+

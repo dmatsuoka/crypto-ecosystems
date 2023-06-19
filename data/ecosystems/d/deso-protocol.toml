@@ -3,7 +3,9 @@ title = "Deso Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/deso-protocol"]
+github_organizations = [
+  "https://github.com/deso-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/deso-protocol/run"
 
 [[repo]]
 url = "https://github.com/deso-protocol/state-consumer"
+

@@ -3,7 +3,9 @@ title = "CruizeFinance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/CruizeFinance"]
+github_organizations = [
+  "https://github.com/CruizeFinance",
+]
 
 # Repositories
 [[repo]]
@@ -44,6 +46,7 @@ url = "https://github.com/CruizeFinance/trident"
 
 [[repo]]
 url = "https://github.com/CruizeFinance/trident_v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/CruizeFinance/watch_dog"
@@ -56,3 +59,4 @@ url = "https://github.com/CruizeFinance/watch_dog_v0"
 
 [[repo]]
 url = "https://github.com/CruizeFinance/watch_dog_v1"
+

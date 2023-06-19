@@ -3,7 +3,9 @@ title = "Aion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/aionnetwork"]
+github_organizations = [
+  "https://github.com/aionnetwork",
+]
 
 # Repositories
 [[repo]]
@@ -36,6 +38,7 @@ url = "https://github.com/aionnetwork/aion_gui"
 
 [[repo]]
 url = "https://github.com/aionnetwork/aion_interchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/aionnetwork/aion_ledger"
@@ -105,6 +108,7 @@ url = "https://github.com/aionnetwork/docs-examples"
 
 [[repo]]
 url = "https://github.com/aionnetwork/docs-site"
+missing = true
 
 [[repo]]
 url = "https://github.com/aionnetwork/explorer_API"
@@ -156,9 +160,11 @@ url = "https://github.com/aionnetwork/unity-interleave"
 
 [[repo]]
 url = "https://github.com/aionnetwork/UPK-Interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/aionnetwork/vm_api"
 
 [[repo]]
 url = "https://github.com/aionnetwork/zokrates-avm"
+

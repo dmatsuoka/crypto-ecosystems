@@ -3,7 +3,9 @@ title = "KittieFIGHT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/kittiefight"]
+github_organizations = [
+  "https://github.com/kittiefight",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/kittiefight/contracts"
 
 [[repo]]
 url = "https://github.com/kittiefight/decentraland-dapps"
+missing = true
 
 [[repo]]
 url = "https://github.com/kittiefight/drizzle"
@@ -59,3 +62,4 @@ url = "https://github.com/kittiefight/web3x"
 
 [[repo]]
 url = "https://github.com/kittiefight/yieldFarming"
+

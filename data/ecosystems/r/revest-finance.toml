@@ -3,7 +3,9 @@ title = "Revest Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Revest-Finance"]
+github_organizations = [
+  "https://github.com/Revest-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/Revest-Finance/RevestUniswapDemo"
 
 [[repo]]
 url = "https://github.com/Revest-Finance/VelodromeProxy"
+

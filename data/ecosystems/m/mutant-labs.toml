@@ -3,7 +3,9 @@ title = "Mutant Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Mutant-Labs"]
+github_organizations = [
+  "https://github.com/Mutant-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/Mutant-Labs/bridge-assets"
 
 [[repo]]
 url = "https://github.com/Mutant-Labs/tokens"
+

@@ -3,7 +3,9 @@ title = "Cantina Royale"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/cantinaroyale"]
+github_organizations = [
+  "https://github.com/cantinaroyale",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/cantinaroyale/cantina-royale-website-template"
 
 [[repo]]
 url = "https://github.com/cantinaroyale/investors-landing-page"
+

@@ -3,7 +3,9 @@ title = "Valist"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/valist-io"]
+github_organizations = [
+  "https://github.com/valist-io",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/valist-io/example-projects"
 
 [[repo]]
 url = "https://github.com/valist-io/example-releases"
+missing = true
 
 [[repo]]
 url = "https://github.com/valist-io/fastly-compute"
@@ -119,6 +122,7 @@ url = "https://github.com/valist-io/valist-js"
 
 [[repo]]
 url = "https://github.com/valist-io/valist-meta"
+missing = true
 
 [[repo]]
 url = "https://github.com/valist-io/valist-near"
@@ -143,3 +147,4 @@ url = "https://github.com/valist-io/web3-game-assets-tut"
 
 [[repo]]
 url = "https://github.com/valist-io/web3.unity"
+

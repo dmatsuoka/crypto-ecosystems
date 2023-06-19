@@ -3,7 +3,9 @@ title = "Odyssey"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OdysseyMomentum"]
+github_organizations = [
+  "https://github.com/OdysseyMomentum",
+]
 
 # Repositories
 [[repo]]
@@ -140,3 +142,4 @@ url = "https://github.com/OdysseyMomentum/topl-frontend"
 
 [[repo]]
 url = "https://github.com/OdysseyMomentum/vidchain-odyssey-app"
+

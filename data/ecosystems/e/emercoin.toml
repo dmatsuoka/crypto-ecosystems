@@ -3,7 +3,9 @@ title = "Emercoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/emercoin"]
+github_organizations = [
+  "https://github.com/emercoin",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/emercoin/rtfm"
 
 [[repo]]
 url = "https://github.com/emercoin/SN-Publisher"
+

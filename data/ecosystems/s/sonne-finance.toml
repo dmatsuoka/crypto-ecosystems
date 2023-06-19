@@ -3,7 +3,9 @@ title = "Sonne Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sonne-finance"]
+github_organizations = [
+  "https://github.com/sonne-finance",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/sonne-finance/staking-protocol"
 
 [[repo]]
 url = "https://github.com/sonne-finance/yield-server"
+

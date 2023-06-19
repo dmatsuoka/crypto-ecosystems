@@ -3,7 +3,9 @@ title = "1beam"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/1beam"]
+github_organizations = [
+  "https://github.com/1beam",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/1beam/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/1beam/solarbeam-interface"
+

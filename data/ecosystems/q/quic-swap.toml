@@ -3,7 +3,9 @@ title = "Quic Swap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/QuicSwap"]
+github_organizations = [
+  "https://github.com/QuicSwap",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/QuicSwap/sputnik-dao-2-mockup"
 
 [[repo]]
 url = "https://github.com/QuicSwap/sputnik-dao-2-ui-mainnet"
+

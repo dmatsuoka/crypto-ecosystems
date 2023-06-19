@@ -3,7 +3,9 @@ title = "Open Monetary System"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omsfinance"]
+github_organizations = [
+  "https://github.com/omsfinance",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/omsfinance/oms"
 
 [[repo]]
 url = "https://github.com/omsfinance/oms-cascade"
+

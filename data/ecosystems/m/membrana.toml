@@ -3,7 +3,9 @@ title = "Membrana"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/membrana-io"]
+github_organizations = [
+  "https://github.com/membrana-io",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/mbn-platform/UI"
 
 [[repo]]
 url = "https://github.com/mbn-platform/Whitepaper"
+

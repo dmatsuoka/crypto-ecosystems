@@ -3,7 +3,9 @@ title = "Green Goo Dao"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/green-goo-dao"]
+github_organizations = [
+  "https://github.com/green-goo-dao",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/green-goo-dao/flow-utils"
 
 [[repo]]
 url = "https://github.com/green-goo-dao/returnable-metadata-views"
+

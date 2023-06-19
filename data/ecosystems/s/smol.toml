@@ -3,7 +3,9 @@ title = "Smol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/smolfinance"]
+github_organizations = [
+  "https://github.com/smolfinance",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,5 @@ url = "https://github.com/smolfinance/smol-contracts"
 
 [[repo]]
 url = "https://github.com/smolfinance/smol-frontend"
+missing = true
+

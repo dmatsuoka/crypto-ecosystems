@@ -3,7 +3,9 @@ title = "InvestDigital"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/investdigital"]
+github_organizations = [
+  "https://github.com/investdigital",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/investdigital/wallet-server"
 
 [[repo]]
 url = "https://github.com/investdigital/zipline"
+

@@ -3,7 +3,9 @@ title = "Synthetify"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Synthetify"]
+github_organizations = [
+  "https://github.com/Synthetify",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/Synthetify/synthetify-webapp"
 
 [[repo]]
 url = "https://github.com/Synthetify/token-list"
+

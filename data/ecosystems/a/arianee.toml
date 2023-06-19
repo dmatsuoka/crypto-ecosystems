@@ -3,7 +3,9 @@ title = "Arianee"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Arianee"]
+github_organizations = [
+  "https://github.com/Arianee",
+]
 
 # Repositories
 [[repo]]
@@ -182,3 +184,4 @@ url = "https://github.com/Arianee/uat"
 
 [[repo]]
 url = "https://github.com/Arianee/web3.js"
+

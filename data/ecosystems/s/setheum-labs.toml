@@ -3,7 +3,9 @@ title = "Setheum Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Setheum-Labs"]
+github_organizations = [
+  "https://github.com/Setheum-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -698,9 +700,11 @@ url = "https://github.com/Setheum-Labs/stp258-currencies"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/stp258-standard"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/stp258-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/subchain-node-template"
@@ -881,3 +885,4 @@ url = "https://github.com/Setheum-Labs/zexe"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/zombienet"
+

@@ -3,7 +3,9 @@ title = "SafeMoon Inu"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Safemoon-Inu-Token"]
+github_organizations = [
+  "https://github.com/Safemoon-Inu-Token",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Safemoon-Inu-Token/uniswap-alerting-poc"
 
 [[repo]]
 url = "https://github.com/Safemoon-Inu-Token/web"
+

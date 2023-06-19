@@ -3,7 +3,9 @@ title = "Fennel Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fennelLabs"]
+github_organizations = [
+  "https://github.com/fennelLabs",
+]
 
 # Repositories
 [[repo]]
@@ -101,3 +103,4 @@ url = "https://github.com/fennelLabs/whiteflag-java"
 
 [[repo]]
 url = "https://github.com/fennelLabs/whiteflag-rust"
+

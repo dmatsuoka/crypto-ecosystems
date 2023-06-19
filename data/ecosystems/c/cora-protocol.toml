@@ -3,8 +3,11 @@ title = "Cora Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Cora-Protocol"]
+github_organizations = [
+  "https://github.com/Cora-Protocol",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Cora-Protocol/docs"
+

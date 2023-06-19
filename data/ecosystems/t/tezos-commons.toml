@@ -3,7 +3,9 @@ title = "Tezos Commons"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tezos-commons"]
+github_organizations = [
+  "https://github.com/tezos-commons",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/tezos-commons/tezos-ipfs"
 
 [[repo]]
 url = "https://github.com/tezos-commons/veri"
+

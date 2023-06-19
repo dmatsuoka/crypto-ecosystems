@@ -3,7 +3,9 @@ title = "Zap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zapproject"]
+github_organizations = [
+  "https://github.com/zapproject",
+]
 
 # Repositories
 [[repo]]
@@ -66,6 +68,7 @@ url = "https://github.com/zapproject/hardhat-bsc"
 
 [[repo]]
 url = "https://github.com/zapproject/hardhat-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/hardhat-nft"
@@ -156,9 +159,11 @@ url = "https://github.com/zapproject/websocket-oracle-template"
 
 [[repo]]
 url = "https://github.com/zapproject/zap-admin-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/zap-admin-web-eos"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/zap-curve-chart"
@@ -232,3 +237,4 @@ url = "https://github.com/zapproject/zpp"
 
 [[repo]]
 url = "https://github.com/zapproject/zust"
+

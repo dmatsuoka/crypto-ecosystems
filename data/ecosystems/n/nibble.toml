@@ -3,7 +3,9 @@ title = "Nibble"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Nibble-Network"]
+github_organizations = [
+  "https://github.com/Nibble-Network",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/Nibble-Network/pool"
 
 [[repo]]
 url = "https://github.com/Nibble-Network/xmr-stak"
+

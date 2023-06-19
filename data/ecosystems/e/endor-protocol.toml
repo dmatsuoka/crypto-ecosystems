@@ -3,8 +3,11 @@ title = "Endor Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EndorCoin"]
+github_organizations = [
+  "https://github.com/EndorCoin",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/EndorCoin/cluster-extractor-basic"
+

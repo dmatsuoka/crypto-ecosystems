@@ -3,7 +3,9 @@ title = "Tutellus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tutellus-io"]
+github_organizations = [
+  "https://github.com/tutellus-io",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/tutellus-io/voting-service"
 
 [[repo]]
 url = "https://github.com/tutellus-io/www.tutellus.io"
+

@@ -3,7 +3,9 @@ title = "Encrypt"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/enkryptcom"]
+github_organizations = [
+  "https://github.com/enkryptcom",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/enkryptcom/references"
 
 [[repo]]
 url = "https://github.com/enkryptcom/strapi-data"
+

@@ -3,7 +3,9 @@ title = "Ti-Value"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/tivalueproject"]
+github_organizations = [
+  "https://github.com/tivalueproject",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/tivalueproject/TVspos_webwallet"
 
 [[repo]]
 url = "https://github.com/tivalueproject/TVStorageManager"
+

@@ -3,7 +3,9 @@ title = "Navara Wallet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NavaraNetwork"]
+github_organizations = [
+  "https://github.com/NavaraNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,5 @@ url = "https://github.com/NavaraNetwork/tailscale"
 
 [[repo]]
 url = "https://github.com/NavaraWallet/NavaraWallet"
+missing = true
+

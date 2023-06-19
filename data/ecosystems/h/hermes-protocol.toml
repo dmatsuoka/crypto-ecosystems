@@ -3,7 +3,9 @@ title = "Hermes Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HermesProtocol-io"]
+github_organizations = [
+  "https://github.com/HermesProtocol-io",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/HermesProtocol-io/hermes-protocol"
 
 [[repo]]
 url = "https://github.com/HermesProtocol-io/near-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/HermesProtocol-io/terra-assets"
@@ -29,3 +32,4 @@ url = "https://github.com/HermesProtocol-io/testnets"
 
 [[repo]]
 url = "https://github.com/HermesProtocol-io/validator-profiles"
+

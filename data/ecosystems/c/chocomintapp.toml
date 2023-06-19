@@ -3,7 +3,9 @@ title = "chocomintapp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/chocomintapp"]
+github_organizations = [
+  "https://github.com/chocomintapp",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/chocomintapp/chocofactory"
 
 [[repo]]
 url = "https://github.com/chocomintapp/chocomint"
+missing = true
 
 [[repo]]
 url = "https://github.com/chocomintapp/chocomint-docs"
@@ -26,3 +29,4 @@ url = "https://github.com/chocomintapp/chocoserver-metadata-aggregator"
 
 [[repo]]
 url = "https://github.com/chocomintapp/chocoshop"
+

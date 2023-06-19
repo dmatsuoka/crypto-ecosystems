@@ -3,7 +3,9 @@ title = "FleetSDK"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fleet-sdk"]
+github_organizations = [
+  "https://github.com/fleet-sdk",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/fleet-sdk/docs"
 
 [[repo]]
 url = "https://github.com/fleet-sdk/fleet"
+

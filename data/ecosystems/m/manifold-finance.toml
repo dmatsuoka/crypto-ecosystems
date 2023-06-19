@@ -3,7 +3,9 @@ title = "Manifold Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/manifoldfinance"]
+github_organizations = [
+  "https://github.com/manifoldfinance",
+]
 
 # Repositories
 [[repo]]
@@ -182,6 +184,7 @@ url = "https://github.com/manifoldfinance/counter-org"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/crawler-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldfinance/cunieform"
@@ -1250,3 +1253,4 @@ url = "https://github.com/manifoldfinance/zen-foundry"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/zetasql-formatter"
+

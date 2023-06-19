@@ -3,7 +3,9 @@ title = "Dialect Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dialectlabs"]
+github_organizations = [
+  "https://github.com/dialectlabs",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/dialectlabs/dart-web3"
 
 [[repo]]
 url = "https://github.com/dialectlabs/data-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/dialect"
@@ -56,6 +59,7 @@ url = "https://github.com/dialectlabs/jet-monitoring-service"
 
 [[repo]]
 url = "https://github.com/dialectlabs/jet-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/jupiter-monitoring-service"
@@ -122,6 +126,8 @@ url = "https://github.com/dialectlabs/spec"
 
 [[repo]]
 url = "https://github.com/dialectlabs/tribeca-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/tribeca-monitoring-service"
+

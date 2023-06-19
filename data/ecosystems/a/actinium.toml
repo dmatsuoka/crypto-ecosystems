@@ -3,7 +3,9 @@ title = "Actinium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Actinium-project"]
+github_organizations = [
+  "https://github.com/Actinium-project",
+]
 
 # Repositories
 [[repo]]
@@ -251,3 +253,4 @@ url = "https://github.com/Actinium-project/websocket"
 
 [[repo]]
 url = "https://github.com/Actinium-project/winsvc"
+

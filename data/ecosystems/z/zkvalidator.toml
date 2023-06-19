@@ -3,7 +3,9 @@ title = "ZKValidator"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zkvalidator"]
+github_organizations = [
+  "https://github.com/zkvalidator",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/zkvalidator/mina-vrf-rs"
 
 [[repo]]
 url = "https://github.com/zkvalidator/namada-testnets"
+

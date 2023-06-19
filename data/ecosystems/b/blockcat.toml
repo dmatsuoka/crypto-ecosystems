@@ -3,7 +3,9 @@ title = "BlockCAT"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockCatIO"]
+github_organizations = [
+  "https://github.com/BlockCatIO",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/BlockCatIO/solidity-flattener"
 
 [[repo]]
 url = "https://github.com/BlockCatIO/token-sale"
+

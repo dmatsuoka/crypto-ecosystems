@@ -3,7 +3,9 @@ title = "EverMarkets"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/evermarkets"]
+github_organizations = [
+  "https://github.com/evermarkets",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/evermarkets/terraform-provider-grafana"
 
 [[repo]]
 url = "https://github.com/evermarkets/widdershins"
+

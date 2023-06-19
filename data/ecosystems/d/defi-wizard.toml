@@ -3,7 +3,9 @@ title = "DeFi Wizard"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DefiWizard"]
+github_organizations = [
+  "https://github.com/DefiWizard",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/DefiWizard/assets"
 
 [[repo]]
 url = "https://github.com/DefiWizard/brand-assets"
+

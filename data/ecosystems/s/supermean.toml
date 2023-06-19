@@ -3,7 +3,9 @@ title = "Supermean"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/supermean-org"]
+github_organizations = [
+  "https://github.com/supermean-org",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/supermean-org/mean-safe-sdk"
 
 [[repo]]
 url = "https://github.com/supermean-org/npm-publisher"
+

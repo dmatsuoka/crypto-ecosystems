@@ -3,7 +3,9 @@ title = "Amon"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/amontech"]
+github_organizations = [
+  "https://github.com/amontech",
+]
 
 # Repositories
 [[repo]]
@@ -14,6 +16,7 @@ url = "https://github.com/amontech/amon-lib"
 
 [[repo]]
 url = "https://github.com/amontech/amon-node-js-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/amontech/bchaddrjs"
@@ -32,6 +35,7 @@ url = "https://github.com/amontech/coinkey"
 
 [[repo]]
 url = "https://github.com/amontech/eos-hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/amontech/exchangeratesapi"
@@ -47,6 +51,7 @@ url = "https://github.com/amontech/MultiSigWallet"
 
 [[repo]]
 url = "https://github.com/amontech/ngx-slick"
+missing = true
 
 [[repo]]
 url = "https://github.com/amontech/sequelize"
@@ -65,3 +70,4 @@ url = "https://github.com/amontech/uniswap-frontend"
 
 [[repo]]
 url = "https://github.com/amontech/zeppelin-solidity"
+

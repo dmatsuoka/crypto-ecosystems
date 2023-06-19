@@ -3,7 +3,9 @@ title = "Ergo Raffle"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ErgoRaffle"]
+github_organizations = [
+  "https://github.com/ErgoRaffle",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ErgoRaffle/raffle-frontend-v1"
 
 [[repo]]
 url = "https://github.com/zkastn/ergo-raffle-bot"
+

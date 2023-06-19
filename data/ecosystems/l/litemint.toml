@@ -3,7 +3,9 @@ title = "Litemint"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/litemint"]
+github_organizations = [
+  "https://github.com/litemint",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/litemint/litemint-pfp-contract"
 
 [[repo]]
 url = "https://github.com/litemint/litemint-web"
+

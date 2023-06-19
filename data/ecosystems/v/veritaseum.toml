@@ -3,7 +3,9 @@ title = "Veritaseum"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/veritaseum"]
+github_organizations = [
+  "https://github.com/veritaseum",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/veritaseum/truffle-contract"
 
 [[repo]]
 url = "https://github.com/veritaseum/Veritaseum"
+

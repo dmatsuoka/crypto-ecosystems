@@ -3,8 +3,11 @@ title = "Plexus Money"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/plexus-money"]
+github_organizations = [
+  "https://github.com/plexus-money",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/plexus-money/contracts"
+

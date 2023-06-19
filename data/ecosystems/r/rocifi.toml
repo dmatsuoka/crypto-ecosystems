@@ -3,7 +3,9 @@ title = "RociFi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/RociFi"]
+github_organizations = [
+  "https://github.com/RociFi",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/RociFi/Roci-Smart-Contracts-v1"
 
 [[repo]]
 url = "https://github.com/RociFi/Roci-Smart-Contracts-v2"
+

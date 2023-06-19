@@ -3,7 +3,9 @@ title = "Carbos"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/carbos-workshop"]
+github_organizations = [
+  "https://github.com/carbos-workshop",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/carbos-workshop/uport-connect"
 
 [[repo]]
 url = "https://github.com/carbos-workshop/website"
+

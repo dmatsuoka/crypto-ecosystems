@@ -3,7 +3,9 @@ title = "Defrost Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DefrostFinance"]
+github_organizations = [
+  "https://github.com/DefrostFinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,9 +19,12 @@ url = "https://github.com/DefrostFinance/defrost-defiLlama-sc"
 
 [[repo]]
 url = "https://github.com/DefrostFinance/defrost-finance-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/DefrostFinance/defrost-finance-farm"
+missing = true
 
 [[repo]]
 url = "https://github.com/DefrostFinance/Logo"
+

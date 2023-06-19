@@ -3,7 +3,9 @@ title = "MonaCoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/monacoinproject"]
+github_organizations = [
+  "https://github.com/monacoinproject",
+]
 
 # Repositories
 [[repo]]
@@ -68,3 +70,4 @@ url = "https://github.com/monacoinproject/transactionsample"
 
 [[repo]]
 url = "https://github.com/monacoinproject/web"
+

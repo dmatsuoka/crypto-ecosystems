@@ -3,7 +3,9 @@ title = "Augmented Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/augmented-finance"]
+github_organizations = [
+  "https://github.com/augmented-finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/augmented-finance/joe-tokenlists"
 
 [[repo]]
 url = "https://github.com/augmented-finance/liquidator"
+

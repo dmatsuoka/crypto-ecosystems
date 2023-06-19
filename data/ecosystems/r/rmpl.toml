@@ -3,7 +3,9 @@ title = "RMPL"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rmpldefiteam"]
+github_organizations = [
+  "https://github.com/rmpldefiteam",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/rmpldefiteam/assets"
 
 [[repo]]
 url = "https://github.com/rmpldefiteam/rmpl"
+

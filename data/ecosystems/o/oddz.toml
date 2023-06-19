@@ -3,7 +3,9 @@ title = "Oddz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oddz-finance"]
+github_organizations = [
+  "https://github.com/oddz-finance",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/oddz-finance/oddz-options-v1"
 
 [[repo]]
 url = "https://github.com/oddz-finance/studio"
+

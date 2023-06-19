@@ -3,7 +3,9 @@ title = "Balance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/balance-io"]
+github_organizations = [
+  "https://github.com/balance-io",
+]
 
 # Repositories
 [[repo]]
@@ -176,3 +178,4 @@ url = "https://github.com/balance-io/Zephyr"
 
 [[repo]]
 url = "https://github.com/balance-io/Zip"
+

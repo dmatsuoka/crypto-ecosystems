@@ -3,7 +3,9 @@ title = "One2Cloud"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/One2Cloud"]
+github_organizations = [
+  "https://github.com/One2Cloud",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,5 @@ url = "https://github.com/One2Cloud/code-interview"
 
 [[repo]]
 url = "https://github.com/One2Cloud/dedrive-path-based-access-gateway"
+missing = true
+

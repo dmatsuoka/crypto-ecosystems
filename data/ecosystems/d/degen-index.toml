@@ -3,7 +3,9 @@ title = "DEGEN Index"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/indexed-finance"]
+github_organizations = [
+  "https://github.com/indexed-finance",
+]
 
 # Repositories
 [[repo]]
@@ -110,3 +112,4 @@ url = "https://github.com/indexed-finance/uniswap-indexed-minter"
 
 [[repo]]
 url = "https://github.com/indexed-finance/uniswap-v2-oracle"
+

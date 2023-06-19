@@ -3,7 +3,9 @@ title = "Blind Boxes"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlindBoxesNFT"]
+github_organizations = [
+  "https://github.com/BlindBoxesNFT",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/BlindBoxesNFT/blindboxes-bsc-token"
 
 [[repo]]
 url = "https://github.com/BlindBoxesNFT/blindboxes-contracts"
+

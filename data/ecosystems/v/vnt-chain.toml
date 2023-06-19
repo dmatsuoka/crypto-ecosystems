@@ -3,7 +3,9 @@ title = "VNT Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/vntchain"]
+github_organizations = [
+  "https://github.com/vntchain",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/vntchain/elect"
 
 [[repo]]
 url = "https://github.com/vntchain/GGNNSmartVulDetector"
+missing = true
 
 [[repo]]
 url = "https://github.com/vntchain/GNNSCVulDetector"
@@ -83,3 +86,4 @@ url = "https://github.com/vntchain/vnt_contract-master"
 
 [[repo]]
 url = "https://github.com/vntchain/wallet-extension"
+

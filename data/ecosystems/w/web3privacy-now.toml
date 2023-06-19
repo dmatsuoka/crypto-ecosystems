@@ -3,7 +3,9 @@ title = "Web3privacy Now"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/web3privacy"]
+github_organizations = [
+  "https://github.com/web3privacy",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/web3privacy/web3privacy-info"
 
 [[repo]]
 url = "https://github.com/web3privacy/website"
+

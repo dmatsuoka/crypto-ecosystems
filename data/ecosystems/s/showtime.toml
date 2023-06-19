@@ -3,7 +3,9 @@ title = "Showtime"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/showtime-xyz"]
+github_organizations = [
+  "https://github.com/showtime-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/showtime-xyz/showtime-tab-view"
 
 [[repo]]
 url = "https://github.com/showtime-xyz/SS2ERC721"
+

@@ -3,7 +3,9 @@ title = "Entropyfi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/entropyfi"]
+github_organizations = [
+  "https://github.com/entropyfi",
+]
 
 # Repositories
 [[repo]]
@@ -47,3 +49,4 @@ url = "https://github.com/entropyfi/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/entropyfi/uniswap-interface"
+

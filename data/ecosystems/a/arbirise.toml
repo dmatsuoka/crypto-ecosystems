@@ -3,8 +3,11 @@ title = "arbirise"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ArbiRise"]
+github_organizations = [
+  "https://github.com/ArbiRise",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ArbiRise/contracts.arbirise.finance"
+

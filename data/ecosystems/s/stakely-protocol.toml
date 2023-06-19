@@ -3,7 +3,9 @@ title = "Stakely Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/stakely-protocol"]
+github_organizations = [
+  "https://github.com/stakely-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/stakely-protocol/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/stakely-protocol/stakely-core"
+

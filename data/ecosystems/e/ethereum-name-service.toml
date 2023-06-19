@@ -3,11 +3,14 @@ title = "Ethereum Name Service"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ensdomains"]
+github_organizations = [
+  "https://github.com/ensdomains",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/ahadoodle/bent-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/anasshad/polygon-ens-domain-service"
@@ -155,6 +158,7 @@ url = "https://github.com/ensdomains/ens-cfw"
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-contenthash"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-contracts"
@@ -203,6 +207,7 @@ url = "https://github.com/ensdomains/ensjs"
 
 [[repo]]
 url = "https://github.com/ensdomains/ensjs-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/ensjs-v3"
@@ -308,6 +313,7 @@ url = "https://github.com/ensdomains/pm"
 
 [[repo]]
 url = "https://github.com/ensdomains/proxy-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/punycode"
@@ -533,3 +539,4 @@ url = "https://github.com/yektas/ens"
 
 [[repo]]
 url = "https://github.com/zkitter/ui"
+

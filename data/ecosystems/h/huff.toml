@@ -3,7 +3,9 @@ title = "Huff"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/huff-language"]
+github_organizations = [
+  "https://github.com/huff-language",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/mouseless-eth/rusty-sando"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/huffmate"
+

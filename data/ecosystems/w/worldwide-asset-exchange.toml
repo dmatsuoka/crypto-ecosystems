@@ -3,7 +3,9 @@ title = "Worldwide Asset eXchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/worldwide-asset-exchange"]
+github_organizations = [
+  "https://github.com/worldwide-asset-exchange",
+]
 
 # Repositories
 [[repo]]
@@ -137,3 +139,4 @@ url = "https://github.com/worldwide-asset-exchange/waxunit"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/whitepaper"
+

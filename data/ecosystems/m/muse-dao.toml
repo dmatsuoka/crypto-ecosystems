@@ -3,7 +3,9 @@ title = "MUSE DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/verynifty"]
+github_organizations = [
+  "https://github.com/verynifty",
+]
 
 # Repositories
 [[repo]]
@@ -95,6 +97,7 @@ url = "https://github.com/verynifty/musedao-contribution"
 
 [[repo]]
 url = "https://github.com/verynifty/nft-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/verynifty/nft-data-backend"
@@ -161,3 +164,4 @@ url = "https://github.com/verynifty/wraplp"
 
 [[repo]]
 url = "https://github.com/verynifty/yearn-issues"
+

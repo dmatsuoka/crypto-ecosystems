@@ -3,7 +3,9 @@ title = "BakeryToken"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BakeryProject"]
+github_organizations = [
+  "https://github.com/BakeryProject",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/BakeryProject/bakery-swap-lib"
 
 [[repo]]
 url = "https://github.com/BakeryProject/bakery-swap-periphery"
+

@@ -3,7 +3,9 @@ title = "Affinidi"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/affinityproject"]
+github_organizations = [
+  "https://github.com/affinityproject",
+]
 
 # Repositories
 [[repo]]
@@ -83,9 +85,11 @@ url = "https://github.com/affinityproject/spring-boot-test"
 
 [[repo]]
 url = "https://github.com/affinityproject/trustana-odoo-15.0"
+missing = true
 
 [[repo]]
 url = "https://github.com/affinityproject/ykarma"
 
 [[repo]]
 url = "https://github.com/affinityproject/ZK-SBT"
+

@@ -3,7 +3,9 @@ title = "Opium Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OpiumProtocol"]
+github_organizations = [
+  "https://github.com/OpiumProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -98,6 +100,7 @@ url = "https://github.com/OpiumProtocol/opium-finance"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-oneinch-liquidity-mining"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-pools-v2"
@@ -107,6 +110,7 @@ url = "https://github.com/OpiumProtocol/opium-protocol-v2"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-staking-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-token"
@@ -149,3 +153,4 @@ url = "https://github.com/OpiumProtocol/Unipool"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/web3modal"
+

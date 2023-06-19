@@ -3,7 +3,9 @@ title = "Galxe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NFTGalaxy"]
+github_organizations = [
+  "https://github.com/NFTGalaxy",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/NFTGalaxy/vuex"
 
 [[repo]]
 url = "https://github.com/NFTGalaxy/workshops"
+

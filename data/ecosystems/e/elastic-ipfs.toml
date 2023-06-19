@@ -3,7 +3,9 @@ title = "Elastic IPFS"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/elastic-ipfs"]
+github_organizations = [
+  "https://github.com/elastic-ipfs",
+]
 
 # Repositories
 [[repo]]
@@ -29,9 +31,11 @@ url = "https://github.com/elastic-ipfs/event-delivery-lambda"
 
 [[repo]]
 url = "https://github.com/elastic-ipfs/fluentd-containers"
+missing = true
 
 [[repo]]
 url = "https://github.com/elastic-ipfs/fluentd-containers-deployment"
+missing = true
 
 [[repo]]
 url = "https://github.com/elastic-ipfs/indexer-lambda"
@@ -53,3 +57,4 @@ url = "https://github.com/elastic-ipfs/shared-workflows"
 
 [[repo]]
 url = "https://github.com/elastic-ipfs/side-indexer-lambda"
+

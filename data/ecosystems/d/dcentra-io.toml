@@ -3,7 +3,9 @@ title = "dCentra-io"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dCentra-io"]
+github_organizations = [
+  "https://github.com/dCentra-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/dCentra-io/cdk-as"
 
 [[repo]]
 url = "https://github.com/dCentra-io/fabric-chaincode-node"
+

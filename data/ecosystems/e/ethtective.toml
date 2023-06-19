@@ -3,7 +3,9 @@ title = "Ethtective"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ethtective"]
+github_organizations = [
+  "https://github.com/ethtective",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ethtective/force-graph-old"
 
 [[repo]]
 url = "https://github.com/ethtective/gaswatch"
+

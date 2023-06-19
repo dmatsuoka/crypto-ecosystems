@@ -3,7 +3,9 @@ title = "Covenants"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/EthereansOS"]
+github_organizations = [
+  "https://github.com/EthereansOS",
+]
 
 # Repositories
 [[repo]]
@@ -95,3 +97,4 @@ url = "https://github.com/EthereansOS/WIMD-Core"
 
 [[repo]]
 url = "https://github.com/EthereansOS/WIMD-Interface"
+

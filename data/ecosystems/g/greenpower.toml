@@ -3,7 +3,9 @@ title = "GreenPower"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/green-powerchain-ltd"]
+github_organizations = [
+  "https://github.com/green-powerchain-ltd",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/green-powerchain-ltd/greenpower-fc"
 
 [[repo]]
 url = "https://github.com/green-powerchain-ltd/greenpower-websocketpp"
+

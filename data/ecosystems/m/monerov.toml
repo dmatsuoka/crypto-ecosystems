@@ -3,7 +3,9 @@ title = "MoneroV"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/monerov"]
+github_organizations = [
+  "https://github.com/monerov",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/monerov/node-cryptonote-util-monerov"
 
 [[repo]]
 url = "https://github.com/monerov/unbound"
+

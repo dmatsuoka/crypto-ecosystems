@@ -3,7 +3,9 @@ title = "Alaya Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AlayaNetwork"]
+github_organizations = [
+  "https://github.com/AlayaNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -179,3 +181,4 @@ url = "https://github.com/AlayaNetwork/solidity"
 
 [[repo]]
 url = "https://github.com/AlayaNetwork/web3x"
+

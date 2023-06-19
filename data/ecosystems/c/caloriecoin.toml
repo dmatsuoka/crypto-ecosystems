@@ -3,7 +3,9 @@ title = "Caloriecoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/caloriecoin"]
+github_organizations = [
+  "https://github.com/caloriecoin",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/caloriecoin/react-modal"
 
 [[repo]]
 url = "https://github.com/caloriecoin/TeamEdu"
+

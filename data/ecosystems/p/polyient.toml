@@ -3,7 +3,9 @@ title = "polyient"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polyient"]
+github_organizations = [
+  "https://github.com/polyient",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/polyient/postgres-operator-examples"
 
 [[repo]]
 url = "https://github.com/polyient/snapshot-spaces"
+

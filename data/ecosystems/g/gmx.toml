@@ -3,7 +3,9 @@ title = "GMX"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gmx-io"]
+github_organizations = [
+  "https://github.com/gmx-io",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/gmx-io/gmx-subgraph"
 
 [[repo]]
 url = "https://github.com/gmx-io/gmx-synthetics"
+

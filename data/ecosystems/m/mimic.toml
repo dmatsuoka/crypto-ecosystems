@@ -3,7 +3,9 @@ title = "Mimic"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/mimic-fi"]
+github_organizations = [
+  "https://github.com/mimic-fi",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/mimic-fi/v2-smart-vaults"
 
 [[repo]]
 url = "https://github.com/mimic-fi/v2-subgraph"
+

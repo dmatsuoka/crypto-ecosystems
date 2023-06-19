@@ -3,7 +3,9 @@ title = "Arcadia Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arcadia-finance"]
+github_organizations = [
+  "https://github.com/arcadia-finance",
+]
 
 # Repositories
 [[repo]]
@@ -16,3 +18,4 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/arcadia-finance/trading-game"
+

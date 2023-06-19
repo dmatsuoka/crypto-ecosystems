@@ -3,7 +3,9 @@ title = "Tripio"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/thetripio"]
+github_organizations = [
+  "https://github.com/thetripio",
+]
 
 # Repositories
 [[repo]]
@@ -50,3 +52,4 @@ url = "https://github.com/thetripio/wallet-js"
 
 [[repo]]
 url = "https://github.com/thetripio/wallet-mobile-web"
+

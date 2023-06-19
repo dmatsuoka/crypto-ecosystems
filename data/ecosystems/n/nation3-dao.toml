@@ -3,7 +3,9 @@ title = "Nation3 DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/nation3"]
+github_organizations = [
+  "https://github.com/nation3",
+]
 
 # Repositories
 [[repo]]
@@ -29,6 +31,7 @@ url = "https://github.com/nation3/citizen-directory"
 
 [[repo]]
 url = "https://github.com/nation3/coordinape"
+missing = true
 
 [[repo]]
 url = "https://github.com/nation3/court-app"
@@ -125,3 +128,4 @@ url = "https://github.com/nation3/website"
 
 [[repo]]
 url = "https://github.com/nation3/wiki"
+

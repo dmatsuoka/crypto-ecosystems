@@ -3,7 +3,9 @@ title = "Witnet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/witnet"]
+github_organizations = [
+  "https://github.com/witnet",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/witnet/witty-jsonrpc"
 
 [[repo]]
 url = "https://github.com/witnet/xmpp-rs"
+

@@ -3,8 +3,11 @@ title = "OnboardDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Onboarders"]
+github_organizations = [
+  "https://github.com/Onboarders",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Onboarders/WelcomePaper"
+

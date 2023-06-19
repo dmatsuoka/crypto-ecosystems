@@ -3,7 +3,9 @@ title = "Halo Platform"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/haloplatform"]
+github_organizations = [
+  "https://github.com/haloplatform",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/haloplatform/web3.js"
 
 [[repo]]
 url = "https://github.com/haloplatform/web3js-typings"
+

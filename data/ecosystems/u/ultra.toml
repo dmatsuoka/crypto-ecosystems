@@ -3,7 +3,9 @@ title = "Ultra"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ultraio"]
+github_organizations = [
+  "https://github.com/ultraio",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/ultraio/staking-smart-contract"
 
 [[repo]]
 url = "https://github.com/ultraio/trigger-workflow-and-wait"
+

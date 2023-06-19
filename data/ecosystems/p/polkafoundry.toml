@@ -3,7 +3,9 @@ title = "PolkaFoundry"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/polkafoundry"]
+github_organizations = [
+  "https://github.com/polkafoundry",
+]
 
 # Repositories
 [[repo]]
@@ -254,3 +256,4 @@ url = "https://github.com/polkafoundry/wiki"
 
 [[repo]]
 url = "https://github.com/polkafoundry/zksync"
+

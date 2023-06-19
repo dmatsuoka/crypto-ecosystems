@@ -3,7 +3,9 @@ title = "Marscoin"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/marscoin"]
+github_organizations = [
+  "https://github.com/marscoin",
+]
 
 # Repositories
 [[repo]]
@@ -119,3 +121,4 @@ url = "https://github.com/marscoin/vanitygen"
 
 [[repo]]
 url = "https://github.com/marscoin/vertlet"
+

@@ -3,7 +3,9 @@ title = "AwesomePurpleHackers"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Awesome-Purple-Hackers"]
+github_organizations = [
+  "https://github.com/Awesome-Purple-Hackers",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/Awesome-Purple-Hackers/sc-game-rs"
 
 [[repo]]
 url = "https://github.com/Awesome-Purple-Hackers/genezio-backend"
+

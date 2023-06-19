@@ -3,7 +3,9 @@ title = "Bulla Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bulla-network"]
+github_organizations = [
+  "https://github.com/bulla-network",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/bulla-network/safe-apps-list"
 
 [[repo]]
 url = "https://github.com/bulla-network/solmate"
+

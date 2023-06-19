@@ -3,7 +3,9 @@ title = "MilkySwap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/milkyswap"]
+github_organizations = [
+  "https://github.com/milkyswap",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/milkyswap/milkyswap"
 
 [[repo]]
 url = "https://github.com/milkyswap/milkyswap-subgraph"
+

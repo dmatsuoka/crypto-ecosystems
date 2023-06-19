@@ -3,7 +3,9 @@ title = "Coingate"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/coingate"]
+github_organizations = [
+  "https://github.com/coingate",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/coingate/blesta-plugin"
 
 [[repo]]
 url = "https://github.com/coingate/check-api-php"
+missing = true
 
 [[repo]]
 url = "https://github.com/coingate/coingate-node"
@@ -107,3 +110,4 @@ url = "https://github.com/coingate/yoroi-frontend"
 
 [[repo]]
 url = "https://github.com/coingate/zencart-plugin"
+

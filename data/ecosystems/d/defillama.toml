@@ -3,7 +3,9 @@ title = "DefiLlama"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DefiLlama"]
+github_organizations = [
+  "https://github.com/DefiLlama",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/DefiLlama/chainlist"
 
 [[repo]]
 url = "https://github.com/DefiLlama/coins-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/DefiLlama/DefiLlama-Adapters"
@@ -116,3 +119,4 @@ url = "https://github.com/DefiLlama/yield-ml"
 
 [[repo]]
 url = "https://github.com/DefiLlama/yield-server"
+

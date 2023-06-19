@@ -3,7 +3,9 @@ title = "Koto"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/KotoDevelopers"]
+github_organizations = [
+  "https://github.com/KotoDevelopers",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/KotoDevelopers/slips"
 
 [[repo]]
 url = "https://github.com/KotoDevelopers/web"
+

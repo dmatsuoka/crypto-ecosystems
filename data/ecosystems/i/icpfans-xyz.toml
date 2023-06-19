@@ -3,7 +3,9 @@ title = "ICPFans XYZ"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/icpfans-xyz"]
+github_organizations = [
+  "https://github.com/icpfans-xyz",
+]
 
 # Repositories
 [[repo]]
@@ -71,3 +73,4 @@ url = "https://github.com/icpfans-xyz/ICSP"
 
 [[repo]]
 url = "https://github.com/icpfans-xyz/website"
+

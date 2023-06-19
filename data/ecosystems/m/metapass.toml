@@ -3,7 +3,9 @@ title = "Metapass"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Metapass"]
+github_organizations = [
+  "https://github.com/Metapass",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Metapass/octane"
 
 [[repo]]
 url = "https://github.com/Metapass/solana-relayer"
+

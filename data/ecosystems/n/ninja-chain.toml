@@ -3,7 +3,9 @@ title = "Ninja Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Ninja-Chain"]
+github_organizations = [
+  "https://github.com/Ninja-Chain",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Ninja-Chain/token-multi-sender"
 
 [[repo]]
 url = "https://github.com/Ninja-Chain/TokenMultiSender"
+

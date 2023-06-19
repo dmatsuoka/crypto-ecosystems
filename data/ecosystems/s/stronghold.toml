@@ -3,7 +3,9 @@ title = "Stronghold"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/strongholdxchg"]
+github_organizations = [
+  "https://github.com/strongholdxchg",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,5 @@ url = "https://github.com/strongholdpay/xlm-aggregator"
 
 [[repo]]
 url = "https://github.com/strongholdxchg/digital-asset-disclosure"
+missing = true
+

@@ -3,7 +3,9 @@ title = "Hero Node"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hero-node"]
+github_organizations = [
+  "https://github.com/hero-node",
+]
 
 # Repositories
 [[repo]]
@@ -62,3 +64,4 @@ url = "https://github.com/hero-node/token-profile"
 
 [[repo]]
 url = "https://github.com/hero-node/Zeus"
+

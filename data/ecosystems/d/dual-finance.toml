@@ -3,7 +3,9 @@ title = "Dual Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Dual-Finance"]
+github_organizations = [
+  "https://github.com/Dual-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/Dual-Finance/DefiLlama-Adapters-Dual"
 
 [[repo]]
 url = "https://github.com/Dual-Finance/defillama-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Dual-Finance/docs"
@@ -56,3 +59,4 @@ url = "https://github.com/Dual-Finance/staking-options-sdk"
 
 [[repo]]
 url = "https://github.com/Dual-Finance/status"
+

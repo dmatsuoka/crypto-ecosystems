@@ -3,7 +3,9 @@ title = "Ultra Sound Music"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ultra-sound-music"]
+github_organizations = [
+  "https://github.com/ultra-sound-music",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/ultra-sound-music/usm-static-site"
 
 [[repo]]
 url = "https://github.com/ultra-sound-music/usm-ts"
+

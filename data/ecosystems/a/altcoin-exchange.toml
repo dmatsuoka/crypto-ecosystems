@@ -3,7 +3,9 @@ title = "Altcoin Exchange"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/AltCoinExchange"]
+github_organizations = [
+  "https://github.com/AltCoinExchange",
+]
 
 # Repositories
 [[repo]]
@@ -65,3 +67,4 @@ url = "https://github.com/AltCoinExchange/varint"
 
 [[repo]]
 url = "https://github.com/AltCoinExchange/web3.js"
+

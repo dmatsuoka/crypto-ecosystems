@@ -3,7 +3,9 @@ title = "Commonwealth"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/hicommonwealth"]
+github_organizations = [
+  "https://github.com/hicommonwealth",
+]
 
 # Repositories
 [[repo]]
@@ -254,3 +256,4 @@ url = "https://github.com/webb-tools/anon"
 
 [[repo]]
 url = "https://github.com/webb-tools/substrate-eth-light-client"
+

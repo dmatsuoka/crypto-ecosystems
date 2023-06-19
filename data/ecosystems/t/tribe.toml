@@ -3,7 +3,9 @@ title = "Tribe"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/fei-protocol"]
+github_organizations = [
+  "https://github.com/fei-protocol",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/fei-protocol/tribe-turbo"
 
 [[repo]]
 url = "https://github.com/fei-protocol/xTRIBE"
+

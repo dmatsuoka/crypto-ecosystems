@@ -3,7 +3,9 @@ title = "rDai"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/rtoken-project"]
+github_organizations = [
+  "https://github.com/rtoken-project",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/rtoken-project/rtoken-monorepo"
 
 [[repo]]
 url = "https://github.com/rtoken-project/rTokenV2_Documentation"
+

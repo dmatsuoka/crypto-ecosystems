@@ -3,7 +3,9 @@ title = "SolStar"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solstar-tech"]
+github_organizations = [
+  "https://github.com/solstar-tech",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/solstar-tech/star-assets"
 
 [[repo]]
 url = "https://github.com/solstar-tech/token-list"
+

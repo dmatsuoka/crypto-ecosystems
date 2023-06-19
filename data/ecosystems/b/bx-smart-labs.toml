@@ -3,7 +3,9 @@ title = "BX Smart Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bloinx"]
+github_organizations = [
+  "https://github.com/Bloinx",
+]
 
 # Repositories
 [[repo]]
@@ -41,3 +43,4 @@ url = "https://github.com/Bloinx/RoundCheck"
 
 [[repo]]
 url = "https://github.com/Bloinx/TheBXBrand"
+

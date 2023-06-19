@@ -1,9 +1,13 @@
 # Ecosystem Level Information
 title = "LayerZero"
 
-sub_ecosystems = ["OmniX"]
+sub_ecosystems = [
+  "OmniX",
+]
 
-github_organizations = ["https://github.com/LayerZero-Labs"]
+github_organizations = [
+  "https://github.com/LayerZero-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -71,6 +75,7 @@ url = "https://github.com/LayerZero-Labs/safe-react"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/safe-transaction-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/sdk"
@@ -92,6 +97,7 @@ url = "https://github.com/LayerZero-Labs/ua-utils"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/walletconnect-monorepo"
+missing = true
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/walletconnect-utils"
@@ -101,3 +107,4 @@ url = "https://github.com/LayerZero-Labs/wrapped-asset-bridge"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/x-trader-joe-bridge-example"
+

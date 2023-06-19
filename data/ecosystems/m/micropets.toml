@@ -3,8 +3,11 @@ title = "Micropets"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MicroPetsbsc"]
+github_organizations = [
+  "https://github.com/MicroPetsbsc",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/MicroPetsbsc/PETS-token"
+

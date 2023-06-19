@@ -3,7 +3,9 @@ title = "opensquare-network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opensquare-network"]
+github_organizations = [
+  "https://github.com/opensquare-network",
+]
 
 # Repositories
 [[repo]]
@@ -158,3 +160,4 @@ url = "https://github.com/opensquare-network/subsquare-landing"
 
 [[repo]]
 url = "https://github.com/opensquare-network/ui"
+

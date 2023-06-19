@@ -3,7 +3,9 @@ title = "CRED"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ihaveCred"]
+github_organizations = [
+  "https://github.com/ihaveCred",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ihaveCred/uniswaptokenlist"
 
 [[repo]]
 url = "https://github.com/ihaveCred/zeroXIntegration"
+

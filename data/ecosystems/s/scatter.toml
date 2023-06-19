@@ -3,7 +3,9 @@ title = "Scatter"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/GetScatter"]
+github_organizations = [
+  "https://github.com/GetScatter",
+]
 
 # Repositories
 [[repo]]
@@ -71,6 +73,7 @@ url = "https://github.com/GetScatter/ScatterApps"
 
 [[repo]]
 url = "https://github.com/GetScatter/ScatterCore"
+missing = true
 
 [[repo]]
 url = "https://github.com/GetScatter/ScatterDesktop"
@@ -119,3 +122,4 @@ url = "https://github.com/GetScatter/watcheosio"
 
 [[repo]]
 url = "https://github.com/GetScatter/websocket-sharp"
+

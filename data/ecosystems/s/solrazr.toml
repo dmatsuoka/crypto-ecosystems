@@ -3,7 +3,9 @@ title = "SolRazr"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solrazr-app"]
+github_organizations = [
+  "https://github.com/solrazr-app",
+]
 
 # Repositories
 [[repo]]
@@ -20,3 +22,4 @@ url = "https://github.com/solrazr-app/token-list"
 
 [[repo]]
 url = "https://github.com/solrazr-app/token-whitelist"
+

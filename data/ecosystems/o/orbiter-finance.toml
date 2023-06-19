@@ -3,7 +3,9 @@ title = "Orbiter Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Orbiter-Finance"]
+github_organizations = [
+  "https://github.com/Orbiter-Finance",
+]
 
 # Repositories
 [[repo]]
@@ -68,6 +70,7 @@ url = "https://github.com/Orbiter-Finance/sn_cross_contract"
 
 [[repo]]
 url = "https://github.com/Orbiter-Finance/xvm"
+missing = true
 
 [[repo]]
 url = "https://github.com/Orbiter-Finance/zkp-demo"
@@ -86,3 +89,4 @@ url = "https://github.com/Orbiter-Finance/zkprover-dapp"
 
 [[repo]]
 url = "https://github.com/Orbiter-Finance/zkspv-circuits"
+

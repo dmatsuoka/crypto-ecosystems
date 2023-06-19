@@ -3,7 +3,9 @@ title = "OpenLaw"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/openlawteam"]
+github_organizations = [
+  "https://github.com/openlawteam",
+]
 
 # Repositories
 [[repo]]
@@ -188,3 +190,4 @@ url = "https://github.com/openlawteam/tribute-ui"
 
 [[repo]]
 url = "https://github.com/openlawteam/whitney-mccoy-openlaw"
+

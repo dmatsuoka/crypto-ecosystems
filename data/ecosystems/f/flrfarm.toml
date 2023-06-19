@@ -3,7 +3,9 @@ title = "FLRFarm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/flrfinance"]
+github_organizations = [
+  "https://github.com/flrfinance",
+]
 
 # Repositories
 [[repo]]
@@ -44,3 +46,4 @@ url = "https://github.com/flrfinance/smart-contracts"
 
 [[repo]]
 url = "https://github.com/flrfinance/strapi-plugin-fuzzy-search"
+

@@ -3,7 +3,9 @@ title = "Verify"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/verifyas"]
+github_organizations = [
+  "https://github.com/verifyas",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/verifyas/contract"
 
 [[repo]]
 url = "https://github.com/verifyas/demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/verifyas/demo-old"
@@ -41,3 +44,4 @@ url = "https://github.com/verifyas/tokensale-contract"
 
 [[repo]]
 url = "https://github.com/verifyas/woocommerce"
+

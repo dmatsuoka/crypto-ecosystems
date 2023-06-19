@@ -12,7 +12,9 @@ sub_ecosystems = [
   "Sorare",
 ]
 
-github_organizations = ["https://github.com/starkware-libs"]
+github_organizations = [
+  "https://github.com/starkware-libs",
+]
 
 # Repositories
 [[repo]]
@@ -146,3 +148,4 @@ url = "https://github.com/starkware-libs/starkware-crypto-utils"
 
 [[repo]]
 url = "https://github.com/starkware-libs/veedo"
+

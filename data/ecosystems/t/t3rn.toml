@@ -3,7 +3,9 @@ title = "t3rn"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/t3rn"]
+github_organizations = [
+  "https://github.com/t3rn",
+]
 
 # Repositories
 [[repo]]
@@ -11,6 +13,7 @@ url = "https://github.com/t3rn/.github"
 
 [[repo]]
 url = "https://github.com/t3rn/3vm"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/archives"
@@ -77,6 +80,7 @@ url = "https://github.com/t3rn/PSPs"
 
 [[repo]]
 url = "https://github.com/t3rn/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/semantic-version"
@@ -107,9 +111,11 @@ url = "https://github.com/t3rn/t3rn-ci-playground"
 
 [[repo]]
 url = "https://github.com/t3rn/t3rn-squid"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/xbi"
 
 [[repo]]
 url = "https://github.com/t3rn/xcm-simulator"
+

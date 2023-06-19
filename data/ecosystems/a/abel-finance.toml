@@ -3,7 +3,9 @@ title = "Abel Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/abelfinance"]
+github_organizations = [
+  "https://github.com/abelfinance",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/abelfinance/aptos-core"
 
 [[repo]]
 url = "https://github.com/abelfinance/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/abelfinance/DefiLlama-Adapters"
@@ -32,9 +35,11 @@ url = "https://github.com/abelfinance/faucet"
 
 [[repo]]
 url = "https://github.com/abelfinance/front-end"
+missing = true
 
 [[repo]]
 url = "https://github.com/abelfinance/liquidswap-lp"
 
 [[repo]]
 url = "https://github.com/abelfinance/move"
+

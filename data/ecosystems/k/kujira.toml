@@ -3,7 +3,9 @@ title = "Kujira"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Team-Kujira"]
+github_organizations = [
+  "https://github.com/Team-Kujira",
+]
 
 # Repositories
 [[repo]]
@@ -62,6 +64,7 @@ url = "https://github.com/Team-Kujira/kujira.ui"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/liquidator"
+missing = true
 
 [[repo]]
 url = "https://github.com/Team-Kujira/localmoney"
@@ -92,3 +95,4 @@ url = "https://github.com/Team-Kujira/wasmd"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/woocommerce-gateway-usk"
+

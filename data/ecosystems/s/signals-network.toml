@@ -3,8 +3,11 @@ title = "Signals Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/signalsnetwork"]
+github_organizations = [
+  "https://github.com/signalsnetwork",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/signalsnetwork/token-sale-contract"
+

@@ -3,7 +3,9 @@ title = "Marginswap"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/marginswap"]
+github_organizations = [
+  "https://github.com/marginswap",
+]
 
 # Repositories
 [[repo]]
@@ -38,3 +40,4 @@ url = "https://github.com/marginswap/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/marginswap/token-list"
+

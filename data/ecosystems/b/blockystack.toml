@@ -3,7 +3,9 @@ title = "BlockyStack"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlockyStack"]
+github_organizations = [
+  "https://github.com/BlockyStack",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/BlockyStack/unity"
 
 [[repo]]
 url = "https://github.com/BlockyStack/website"
+

@@ -3,8 +3,11 @@ title = "Bullionix"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Bullionix"]
+github_organizations = [
+  "https://github.com/Bullionix",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Bullionix/Bullionix_phase1"
+

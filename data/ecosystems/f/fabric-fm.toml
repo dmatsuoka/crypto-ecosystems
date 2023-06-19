@@ -3,7 +3,9 @@ title = "Fabric.fm"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FabricLabs"]
+github_organizations = [
+  "https://github.com/FabricLabs",
+]
 
 # Repositories
 [[repo]]
@@ -290,3 +292,4 @@ url = "https://github.com/FabricLabs/workerd"
 
 [[repo]]
 url = "https://github.com/FabricLabs/workspace"
+

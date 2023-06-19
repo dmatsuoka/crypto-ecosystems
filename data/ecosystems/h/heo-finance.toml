@@ -3,7 +3,9 @@ title = "HEO.finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HEO-Platform"]
+github_organizations = [
+  "https://github.com/HEO-Platform",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/HEO-Platform/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/HEO-Platform/web3modal"
+

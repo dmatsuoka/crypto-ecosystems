@@ -3,7 +3,9 @@ title = "WeiDex"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/weichain"]
+github_organizations = [
+  "https://github.com/weichain",
+]
 
 # Repositories
 [[repo]]
@@ -23,18 +25,23 @@ url = "https://github.com/liquality/near-htlc-contracts"
 
 [[repo]]
 url = "https://github.com/weichain/Artion-Client"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-Server"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-trackers"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/atomicagent"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/brand"
@@ -44,6 +51,7 @@ url = "https://github.com/weichain/cal-generator"
 
 [[repo]]
 url = "https://github.com/weichain/chainabstractionlayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/chainbridge-ui"
@@ -56,9 +64,11 @@ url = "https://github.com/weichain/credefi-contracts"
 
 [[repo]]
 url = "https://github.com/weichain/cryptoassets"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/ethereum-scraper"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/expedition"
@@ -107,6 +117,7 @@ url = "https://github.com/weichain/smart-order-router-maisubnet"
 
 [[repo]]
 url = "https://github.com/weichain/solidity_playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/uniswap-interface"
@@ -131,6 +142,7 @@ url = "https://github.com/weichain/v2-subgraph-maisubnet"
 
 [[repo]]
 url = "https://github.com/weichain/wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/web-core"
@@ -173,3 +185,4 @@ url = "https://github.com/weidex-team/weidex-trezor-signer-ethers"
 
 [[repo]]
 url = "https://github.com/weidex-team/weidex-validator-eth"
+

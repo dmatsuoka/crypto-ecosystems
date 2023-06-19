@@ -3,7 +3,9 @@ title = "Bolt Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/boltlabs-inc"]
+github_organizations = [
+  "https://github.com/boltlabs-inc",
+]
 
 # Repositories
 [[repo]]
@@ -23,6 +25,7 @@ url = "https://github.com/boltlabs-inc/dialectic"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/dialectic-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/emp-ag2pc"
@@ -56,6 +59,7 @@ url = "https://github.com/boltlabs-inc/libbolt-go"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/libra"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/librustzcash"
@@ -134,3 +138,4 @@ url = "https://github.com/boltlabs-inc/zkchan-tx"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/zkchannels-spec"
+

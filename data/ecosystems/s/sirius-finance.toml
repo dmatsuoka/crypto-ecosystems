@@ -3,7 +3,9 @@ title = "Sirius Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SiriusFinance"]
+github_organizations = [
+  "https://github.com/SiriusFinance",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/SiriusFinance/subsquid"
 
 [[repo]]
 url = "https://github.com/SiriusFinance/token-profile"
+

@@ -3,7 +3,9 @@ title = "ENS Nifty"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ENS-Nifty"]
+github_organizations = [
+  "https://github.com/ENS-Nifty",
+]
 
 # Repositories
 [[repo]]
@@ -14,3 +16,4 @@ url = "https://github.com/ENS-Nifty/ens-nifty-contracts"
 
 [[repo]]
 url = "https://github.com/ENS-Nifty/ens-nifty-frontend"
+

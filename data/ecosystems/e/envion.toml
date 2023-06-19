@@ -3,8 +3,11 @@ title = "Envion"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/envion"]
+github_organizations = [
+  "https://github.com/envion",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/envion/Smart-Contracts"
+

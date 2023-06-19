@@ -3,7 +3,9 @@ title = "Spruce"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/spruceid"]
+github_organizations = [
+  "https://github.com/spruceid",
+]
 
 # Repositories
 [[repo]]
@@ -59,6 +61,7 @@ url = "https://github.com/spruceid/degen-viewer"
 
 [[repo]]
 url = "https://github.com/spruceid/demo-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/spruceid/did-did"
@@ -350,6 +353,7 @@ url = "https://github.com/spruceid/uuid"
 
 [[repo]]
 url = "https://github.com/spruceid/vc-api-test-suite-implementations"
+missing = true
 
 [[repo]]
 url = "https://github.com/spruceid/vc-extension-registry"
@@ -383,3 +387,4 @@ url = "https://github.com/spruceid/w3id.org"
 
 [[repo]]
 url = "https://github.com/spruceid/wagmi"
+

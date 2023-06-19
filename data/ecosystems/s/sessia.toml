@@ -3,8 +3,11 @@ title = "Sessia"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/sessia-llc"]
+github_organizations = [
+  "https://github.com/sessia-llc",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/sessia-llc/ieo"
+

@@ -3,7 +3,9 @@ title = "Etherparty"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/etherparty"]
+github_organizations = [
+  "https://github.com/etherparty",
+]
 
 # Repositories
 [[repo]]
@@ -86,3 +88,4 @@ url = "https://github.com/etherparty/Tokens"
 
 [[repo]]
 url = "https://github.com/etherparty/wiki"
+

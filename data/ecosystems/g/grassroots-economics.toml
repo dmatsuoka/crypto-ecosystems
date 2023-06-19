@@ -3,7 +3,9 @@ title = "Grassroots Economics"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/grassrootseconomics"]
+github_organizations = [
+  "https://github.com/grassrootseconomics",
+]
 
 # Repositories
 [[repo]]
@@ -194,3 +196,4 @@ url = "https://github.com/grassrootseconomics/wala"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/web3dart"
+

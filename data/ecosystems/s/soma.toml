@@ -3,7 +3,9 @@ title = "Soma"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Soma-co"]
+github_organizations = [
+  "https://github.com/Soma-co",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/Soma-co/soma-community-token"
 
 [[repo]]
 url = "https://github.com/Soma-co/soma-snapshots"
+

@@ -3,7 +3,9 @@ title = "Omni"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OmniLayer"]
+github_organizations = [
+  "https://github.com/OmniLayer",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/OmniLayer/slips"
 
 [[repo]]
 url = "https://github.com/OmniLayer/spec"
+

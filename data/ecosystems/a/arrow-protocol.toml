@@ -3,7 +3,9 @@ title = "Arrow Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/arrowprotocol"]
+github_organizations = [
+  "https://github.com/arrowprotocol",
+]
 
 # Repositories
 [[repo]]
@@ -26,3 +28,4 @@ url = "https://github.com/arrowprotocol/solana-program-registry"
 
 [[repo]]
 url = "https://github.com/arrowprotocol/vipers"
+

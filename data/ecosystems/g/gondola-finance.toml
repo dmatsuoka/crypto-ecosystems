@@ -3,7 +3,9 @@ title = "Gondola Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/gondola-finance"]
+github_organizations = [
+  "https://github.com/gondola-finance",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,8 @@ url = "https://github.com/gondola-finance/frontend"
 
 [[repo]]
 url = "https://github.com/gondola-finance/frontend-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/gondola-finance/merkle-distributor"
+

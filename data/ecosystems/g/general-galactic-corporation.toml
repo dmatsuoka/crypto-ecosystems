@@ -3,7 +3,9 @@ title = "General Galactic Corporation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/generalgalactic"]
+github_organizations = [
+  "https://github.com/generalgalactic",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,4 @@ url = "https://github.com/generalgalactic/Macaw"
 
 [[repo]]
 url = "https://github.com/generalgalactic/skyteller-ens-registry"
+

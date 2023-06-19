@@ -3,7 +3,9 @@ title = "OmiseGo"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/omise"]
+github_organizations = [
+  "https://github.com/omise",
+]
 
 # Repositories
 [[repo]]
@@ -35,6 +37,7 @@ url = "https://github.com/omgnetwork/elixir-omg"
 
 [[repo]]
 url = "https://github.com/omise/active_merchant"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/banks-logo"
@@ -56,6 +59,7 @@ url = "https://github.com/omise/challenges"
 
 [[repo]]
 url = "https://github.com/omise/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/examples"
@@ -125,27 +129,33 @@ url = "https://github.com/omise/omise-woocommerce"
 
 [[repo]]
 url = "https://github.com/omise/omise.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/omise.js-example"
 
 [[repo]]
 url = "https://github.com/omise/opsworks_sidekiq"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/ossec-cookbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/persistkit"
 
 [[repo]]
 url = "https://github.com/omise/postman-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/spree-omise"
 
 [[repo]]
 url = "https://github.com/omise/spree_demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/validator.js"
+

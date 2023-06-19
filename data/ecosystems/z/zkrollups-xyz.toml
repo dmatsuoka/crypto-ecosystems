@@ -3,8 +3,11 @@ title = "zkRollups.xyz"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/zkrollups"]
+github_organizations = [
+  "https://github.com/zkrollups",
+]
 
 # Repositories
 [[repo]]
 url = "https://github.com/zkrollups/zkr-app-directory"
+

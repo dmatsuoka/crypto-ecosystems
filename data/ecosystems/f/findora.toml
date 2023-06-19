@@ -3,7 +3,9 @@ title = "Findora"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/FindoraNetwork"]
+github_organizations = [
+  "https://github.com/FindoraNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -122,6 +124,7 @@ url = "https://github.com/FindoraNetwork/ethereum-blocks"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/evm-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/evm-utils"
@@ -218,6 +221,7 @@ url = "https://github.com/FindoraNetwork/frc20-demo"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/frontier"
+missing = true
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/gca"
@@ -338,6 +342,7 @@ url = "https://github.com/FindoraNetwork/proof-toolbox"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/publickey-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/r1cs-std"
@@ -428,6 +433,7 @@ url = "https://github.com/FindoraNetwork/test-snapshot.js"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/vsdb"
+missing = true
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/wasm-js-bindings"
@@ -449,6 +455,7 @@ url = "https://github.com/FindoraNetwork/zei"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/zkcard-mini-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/zkcard-precom-contracts"
@@ -464,3 +471,4 @@ url = "https://github.com/FindoraNetwork/zkdid-js"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/ZoKrates"
+

@@ -3,7 +3,9 @@ title = "Nuo Lend"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/NuoNetwork"]
+github_organizations = [
+  "https://github.com/NuoNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -56,3 +58,4 @@ url = "https://github.com/NuoNetwork/truffle-contract"
 
 [[repo]]
 url = "https://github.com/NuoNetwork/truffle-hdwallet-provider"
+

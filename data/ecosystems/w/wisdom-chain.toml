@@ -3,7 +3,9 @@ title = "Wisdom Chain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/WisedomChainGroup"]
+github_organizations = [
+  "https://github.com/WisedomChainGroup",
+]
 
 # Repositories
 [[repo]]
@@ -26,6 +28,7 @@ url = "https://github.com/WisedomChainGroup/CSharp-SDK"
 
 [[repo]]
 url = "https://github.com/WisedomChainGroup/doc"
+missing = true
 
 [[repo]]
 url = "https://github.com/WisedomChainGroup/docs"
@@ -113,3 +116,4 @@ url = "https://github.com/WisedomChainGroup/wisdom-operations"
 
 [[repo]]
 url = "https://github.com/WisedomChainGroup/Wise_Wallet_Py"
+

@@ -3,7 +3,9 @@ title = "Dedis"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/dedis"]
+github_organizations = [
+  "https://github.com/dedis",
+]
 
 # Repositories
 [[repo]]
@@ -536,3 +538,4 @@ url = "https://github.com/dedis/transmart-core"
 
 [[repo]]
 url = "https://github.com/dedis/tufsim"
+

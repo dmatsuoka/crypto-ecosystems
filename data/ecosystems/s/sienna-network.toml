@@ -3,7 +3,9 @@ title = "Sienna Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/SiennaNetwork"]
+github_organizations = [
+  "https://github.com/SiennaNetwork",
+]
 
 # Repositories
 [[repo]]
@@ -59,3 +61,4 @@ url = "https://github.com/SiennaNetwork/vest"
 
 [[repo]]
 url = "https://github.com/SiennaNetwork/website"
+

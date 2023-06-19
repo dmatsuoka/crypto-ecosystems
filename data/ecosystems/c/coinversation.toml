@@ -3,7 +3,9 @@ title = "Coinversation"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Coinversation"]
+github_organizations = [
+  "https://github.com/Coinversation",
+]
 
 # Repositories
 [[repo]]
@@ -17,6 +19,7 @@ url = "https://github.com/Coinversation/coinpro_erc20"
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation-compound"
+missing = true
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation-wasms"
@@ -26,6 +29,7 @@ url = "https://github.com/Coinversation/coinversation-website-en"
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation_dapp_ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation_server"
@@ -149,3 +153,4 @@ url = "https://github.com/Coinversation/substrate"
 
 [[repo]]
 url = "https://github.com/Coinversation/white-paper"
+

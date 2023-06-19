@@ -3,7 +3,9 @@ title = "Butterfly Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ButterflyProtocol"]
+github_organizations = [
+  "https://github.com/ButterflyProtocol",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/ButterflyProtocol/utils"
 
 [[repo]]
 url = "https://github.com/ButterflyProtocol/whitepaper"
+

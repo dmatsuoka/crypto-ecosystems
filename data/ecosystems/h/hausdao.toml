@@ -3,7 +3,9 @@ title = "HausDAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/HausDAO"]
+github_organizations = [
+  "https://github.com/HausDAO",
+]
 
 # Repositories
 [[repo]]
@@ -164,6 +166,7 @@ url = "https://github.com/HausDAO/Molochv2.1"
 
 [[repo]]
 url = "https://github.com/HausDAO/molochv3-cra-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/HausDAO/molochv3-vite-starter-DEPRECATED"
@@ -203,6 +206,7 @@ url = "https://github.com/HausDAO/temp-Moloch2.2"
 
 [[repo]]
 url = "https://github.com/HausDAO/TheSource"
+missing = true
 
 [[repo]]
 url = "https://github.com/HausDAO/TransmutationSummoner"
@@ -224,3 +228,4 @@ url = "https://github.com/HausDAO/wrap-n-zap"
 
 [[repo]]
 url = "https://github.com/HausDAO/ZapMinionSummoner"
+

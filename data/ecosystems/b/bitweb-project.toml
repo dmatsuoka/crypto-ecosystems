@@ -3,7 +3,9 @@ title = "Bitweb Project"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bitweb-project"]
+github_organizations = [
+  "https://github.com/bitweb-project",
+]
 
 # Repositories
 [[repo]]
@@ -86,6 +88,7 @@ url = "https://github.com/bitweb-project/cosignerpool"
 
 [[repo]]
 url = "https://github.com/bitweb-project/cpuminer-opt-rplant"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitweb-project/crc32c-subtree"
@@ -221,3 +224,4 @@ url = "https://github.com/bitweb-project/yiimp"
 
 [[repo]]
 url = "https://github.com/bitweb-project/yiimp_install_script"
+

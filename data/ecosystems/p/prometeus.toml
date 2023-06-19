@@ -3,7 +3,9 @@ title = "Prometeus"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/prometeus-labs"]
+github_organizations = [
+  "https://github.com/prometeus-labs",
+]
 
 # Repositories
 [[repo]]
@@ -17,3 +19,4 @@ url = "https://github.com/prometeus-labs/prometeus-network"
 
 [[repo]]
 url = "https://github.com/prometeus-labs/vault-contract"
+

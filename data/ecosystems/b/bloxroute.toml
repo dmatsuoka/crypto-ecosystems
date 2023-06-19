@@ -3,7 +3,9 @@ title = "bloXroute"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/bloXroute-Labs"]
+github_organizations = [
+  "https://github.com/bloXroute-Labs",
+]
 
 # Repositories
 [[repo]]
@@ -20,6 +22,7 @@ url = "https://github.com/bloXroute-Labs/bitcoin-unlimited-internal-gateway"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bloxroute-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bor"
@@ -86,6 +89,7 @@ url = "https://github.com/bloXroute-Labs/quorum-maker"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/solana-go"
@@ -116,3 +120,4 @@ url = "https://github.com/bloXroute-Labs/uvloop"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/west-wind-drift"
+

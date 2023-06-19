@@ -3,7 +3,9 @@ title = "DAD"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DAD-Chain"]
+github_organizations = [
+  "https://github.com/DAD-Chain",
+]
 
 # Repositories
 [[repo]]
@@ -35,3 +37,4 @@ url = "https://github.com/DAD-Chain/dsp-web-console"
 
 [[repo]]
 url = "https://github.com/DAD-Chain/SSP"
+

@@ -3,7 +3,9 @@ title = "SolPayments"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/solpayments"]
+github_organizations = [
+  "https://github.com/solpayments",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/solpayments/vue-storefront"
 
 [[repo]]
 url = "https://github.com/solpayments/wallet-adapter"
+

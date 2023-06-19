@@ -3,7 +3,9 @@ title = "Ignition"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ignitioncoin"]
+github_organizations = [
+  "https://github.com/ignitioncoin",
+]
 
 # Repositories
 [[repo]]
@@ -23,3 +25,5 @@ url = "https://github.com/ignitioncoin/paper"
 
 [[repo]]
 url = "https://github.com/ignitioncoin/Scripts"
+missing = true
+

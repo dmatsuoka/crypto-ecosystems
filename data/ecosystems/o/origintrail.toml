@@ -3,7 +3,9 @@ title = "OriginTrail"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/OriginTrail"]
+github_organizations = [
+  "https://github.com/OriginTrail",
+]
 
 # Repositories
 [[repo]]
@@ -179,3 +181,4 @@ url = "https://github.com/OriginTrail/v6-bounty-program-terms-and-conditions"
 
 [[repo]]
 url = "https://github.com/OriginTrail/vue-pdf"
+

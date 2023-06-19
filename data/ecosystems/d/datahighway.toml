@@ -3,7 +3,9 @@ title = "DataHighway"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DataHighway-DHX"]
+github_organizations = [
+  "https://github.com/DataHighway-DHX",
+]
 
 # Repositories
 [[repo]]
@@ -56,6 +58,7 @@ url = "https://github.com/DataHighway-DHX/open-runtime-module-library"
 
 [[repo]]
 url = "https://github.com/DataHighway-DHX/phala-blockchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/DataHighway-DHX/polkadot"
@@ -65,6 +68,7 @@ url = "https://github.com/DataHighway-DHX/polkadot-launch"
 
 [[repo]]
 url = "https://github.com/DataHighway-DHX/rmrk-substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/DataHighway-DHX/substrate"
@@ -86,3 +90,4 @@ url = "https://github.com/DataHighway-DHX/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/DataHighway-DHX/website"
+

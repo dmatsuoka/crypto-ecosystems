@@ -3,7 +3,9 @@ title = "Potion Insurance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/potion-labs"]
+github_organizations = [
+  "https://github.com/potion-labs",
+]
 
 # Repositories
 [[repo]]
@@ -29,3 +31,4 @@ url = "https://github.com/ntropika-labs/vue-chart-bounty"
 
 [[repo]]
 url = "https://github.com/ntropika-labs/web3-onboard"
+

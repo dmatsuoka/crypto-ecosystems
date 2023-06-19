@@ -3,7 +3,9 @@ title = "Calaxy"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/the-creators-galaxy"]
+github_organizations = [
+  "https://github.com/the-creators-galaxy",
+]
 
 # Repositories
 [[repo]]
@@ -32,3 +34,4 @@ url = "https://github.com/the-creators-galaxy/hts-distribution-tool"
 
 [[repo]]
 url = "https://github.com/the-creators-galaxy/key-rotation-website"
+

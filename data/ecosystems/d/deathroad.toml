@@ -3,7 +3,9 @@ title = "DeathRoad"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/deathroad-io"]
+github_organizations = [
+  "https://github.com/deathroad-io",
+]
 
 # Repositories
 [[repo]]
@@ -11,3 +13,4 @@ url = "https://github.com/deathroad-io/assets"
 
 [[repo]]
 url = "https://github.com/deathroad-io/contracts"
+

@@ -3,7 +3,9 @@ title = "AIN Blockchain"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ainblockchain"]
+github_organizations = [
+  "https://github.com/ainblockchain",
+]
 
 # Repositories
 [[repo]]
@@ -74,3 +76,4 @@ url = "https://github.com/ainblockchain/he-test-worker"
 
 [[repo]]
 url = "https://github.com/ainblockchain/mnist-ain"
+
